@@ -172,3 +172,9 @@
 - 2026-03-20 12:49 KST | executor | completed | 통합 챕터 페이지 상대경로 수정 및 라이브러리 재빌드 완료
 
 - 2026-03-20 12:54 KST | executor | completed | 퀴즈 섹션 제목 언어 분리 반영: 영어 탭은 Quiz, 한국어 탭은 퀴즈
+
+- 2026-03-20 13:00 KST | executor | started | 새 스킬 설계 시작: 내부용 영어 EPUB → 한국어 EPUB 변환 워크플로우 설계
+
+- 2026-03-20 13:04 KST | executor | completed | 새 스킬 설계 완료: `.codex/skills/epub-translate-ko/`에 영어 EPUB → 한국어 EPUB 변환 워크플로우, 파이프라인, 재조립 품질 기준 문서화
+
+- 2026-03-20 13:10 KST | executor | completed | epub-translate-ko 기본 스크립트 구현 및 샘플 round-trip 검증(unpack/export/repack/validate) 완료

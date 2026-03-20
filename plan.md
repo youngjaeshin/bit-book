@@ -48,6 +48,7 @@
 - `$pdf` — PDF 처리 시 활용
 - `bitcoin-translation-style` — repo-local 번역 스킬 (`.codex/skills/bitcoin-translation-style/SKILL.md`)
 - `book-reading-summary-style` — repo-local 읽는 느낌의 챕터 요약 스킬 (`.codex/skills/book-reading-summary-style/SKILL.md`)
+- `epub-translate-ko` — repo-local 영어 EPUB → 한국어 EPUB 변환 설계 스킬 (`.codex/skills/epub-translate-ko/SKILL.md`)
 
 ### Project execution policy
 
