@@ -127,3 +127,8 @@
 - 2026-03-20 11:12 KST | executor | completed | EPUB-003 완료: Principles of Economics의 front matter 제외 목록, chapter-level 포함 기준, subsection anchor 병합 기준 확정
 
 - 2026-03-20 11:16 KST | executor | completed | EPUB-004 완료: Principles of Economics chapter-map 기준 source chapter 18개 추출
+
+- 2026-03-20 11:24 KST | executor | started | Principles of Economics digest 단계 시작: 18개 chapter 영어/한국어 digest 생성 작업 시작
+
+- 2026-03-20 11:28 KST | executor | completed | Principles of Economics 영어 digest 18개 초안 작성 완료
+- 2026-03-20 11:28 KST | executor | completed | Principles of Economics 한국어 digest 18개 초안 작성 완료
