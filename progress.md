@@ -152,3 +152,7 @@
 
 - 2026-03-20 12:04 KST | executor | completed | 통합 라이브러리 Vercel 배포 완료: https://bit-book-library.vercel.app
 - 2026-03-20 12:04 KST | executor | completed | Principles of Economics 검토 링크는 통합 라이브러리 안의 책 페이지로 이동하도록 대체
+
+- 2026-03-20 12:12 KST | executor | started | 통합 사이트 홈 디자인 개편 시작
+
+- 2026-03-20 12:16 KST | executor | completed | 통합 사이트 홈 디자인 개편 반영 및 라이브러리 재빌드 완료
