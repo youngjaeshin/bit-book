@@ -1,0 +1,20 @@
+{
+  "chapter_id": "09-keynesians-and-modern-monetary-theory-mmt",
+  "question_en": "What does the chapter suggest about policy and economic theory?",
+  "choices_en": [
+    "Policy follows underlying theory",
+    "Policy has nothing to do with theory",
+    "Theory matters only in recessions",
+    "Only voters determine theory"
+  ],
+  "question_ko": "이 장은 정책과 경제 이론의 관계를 어떻게 보나?",
+  "choices_ko": [
+    "정책은 밑바탕의 이론을 따른다",
+    "정책은 이론과 무관하다",
+    "이론은 불황기에만 중요하다",
+    "유권자만이 이론을 결정한다"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter argues that different theories generate different policy regimes and outcomes.",
+  "explanation_ko": "이 장은 서로 다른 이론이 서로 다른 정책 체제와 결과를 만든다고 본다."
+}

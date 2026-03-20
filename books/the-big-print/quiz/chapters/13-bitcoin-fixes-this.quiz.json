@@ -1,0 +1,20 @@
+{
+  "chapter_id": "13-bitcoin-fixes-this",
+  "question_en": "How is Bitcoin mainly described in this chapter?",
+  "choices_en": [
+    "As state-free money and a monetary breakthrough",
+    "As a temporary meme asset",
+    "As a replacement for electricity",
+    "As a central-bank instrument"
+  ],
+  "question_ko": "이 장에서 비트코인은 주로 어떻게 묘사되는가?",
+  "choices_ko": [
+    "국가 바깥의 화폐이자 통화적 돌파구",
+    "일시적 밈 자산",
+    "전기를 대체하는 기술",
+    "중앙은행 도구"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Bitcoin is presented as a state-free monetary network that directly answers fiat defects.",
+  "explanation_ko": "비트코인은 법정화폐의 결함에 답하는 국가 바깥의 통화 네트워크로 제시된다."
+}

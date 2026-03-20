@@ -1,0 +1,20 @@
+{
+  "chapter_id": "19-investment-implications-traditional-assets",
+  "question_en": "What distinction becomes crucial when evaluating traditional assets?",
+  "choices_en": [
+    "Nominal returns versus real purchasing power",
+    "Morning trades versus afternoon trades",
+    "Domestic assets versus foreign language assets",
+    "Weekday prices versus weekend prices"
+  ],
+  "question_ko": "전통 자산을 평가할 때 결정적으로 중요해지는 구분은 무엇인가?",
+  "choices_ko": [
+    "명목 수익과 실질 구매력",
+    "오전 거래와 오후 거래",
+    "국내 자산과 외국어 자산",
+    "평일 가격과 주말 가격"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter stresses that fiat disorder can inflate nominal gains while real purchasing power erodes.",
+  "explanation_ko": "이 장은 법정화폐 혼란 아래에서는 명목 수익이 커 보여도 실질 구매력은 악화될 수 있다고 본다."
+}

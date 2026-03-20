@@ -1,0 +1,20 @@
+{
+  "chapter_id": "18-greshams-law-inflation-hyperinflation",
+  "question_en": "What does Gresham’s Law describe here?",
+  "choices_en": [
+    "Bad money being spent while good money is hoarded",
+    "Gold replacing all prices immediately",
+    "Governments refusing to print money",
+    "Banks eliminating confidence risk"
+  ],
+  "question_ko": "이 장에서 그레셤의 법칙은 무엇을 설명하는가?",
+  "choices_ko": [
+    "나쁜 돈은 쓰고 좋은 돈은 쌓아두는 현상",
+    "금이 즉시 모든 가격을 대체하는 것",
+    "정부가 돈 찍기를 거부하는 것",
+    "은행이 신뢰 리스크를 제거하는 것"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter uses Gresham’s Law to show how people behave when monetary confidence starts to fracture.",
+  "explanation_ko": "이 장은 그레셤의 법칙으로 통화 신뢰가 흔들릴 때 사람들이 어떻게 행동하는지 설명한다."
+}

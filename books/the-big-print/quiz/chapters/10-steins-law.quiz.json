@@ -1,0 +1,20 @@
+{
+  "chapter_id": "10-steins-law",
+  "question_en": "What does Stein’s Law mean in this context?",
+  "choices_en": [
+    "What cannot continue forever will stop",
+    "Every debt problem solves itself",
+    "Inflation always lowers debt pain",
+    "Growth permanently outruns leverage"
+  ],
+  "question_ko": "이 맥락에서 스타인의 법칙은 무엇을 뜻하는가?",
+  "choices_ko": [
+    "영원히 지속될 수 없는 것은 결국 멈춘다",
+    "모든 부채 문제는 스스로 해결된다",
+    "인플레이션은 언제나 부채 부담을 줄인다",
+    "성장은 항상 레버리지를 앞선다"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter uses Stein’s Law to stress the inevitability of an end to unsustainable debt growth.",
+  "explanation_ko": "이 장은 지속 불가능한 부채 경로가 결국 끝날 수밖에 없다는 필연성을 강조한다."
+}

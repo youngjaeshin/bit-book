@@ -1,0 +1,20 @@
+{
+  "chapter_id": "20-investment-implications-bitcoin",
+  "question_en": "Why is Bitcoin described as an asymmetric investment opportunity?",
+  "choices_en": [
+    "Because its upside is tied to monetary repricing",
+    "Because it has no downside at all",
+    "Because governments guarantee its price",
+    "Because it avoids all volatility"
+  ],
+  "question_ko": "비트코인이 비대칭적 투자 기회로 불리는 이유는 무엇인가?",
+  "choices_ko": [
+    "상승 여지가 통화적 재가격 책정과 연결되기 때문",
+    "하락 가능성이 전혀 없기 때문",
+    "정부가 가격을 보장하기 때문",
+    "변동성이 전혀 없기 때문"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter links Bitcoin’s upside to a possible revaluation of money itself, not just ordinary adoption growth.",
+  "explanation_ko": "이 장은 비트코인의 상승 여지를 단순 채택 증가가 아니라 화폐 자체의 재가격 책정과 연결한다."
+}

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{CHAPTER_TITLE}} · {{BOOK_TITLE}}</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← Back to index</a>
+      </nav>
+      <header class="hero compact">
+        <p class="eyebrow">{{BOOK_TITLE}}</p>
+        <h1>{{CHAPTER_TITLE}}</h1>
+      </header>
+      <div class="lang-toggle">
+        <button class="lang-btn active" data-lang="en">English</button>
+        <button class="lang-btn" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid">
+        <article class="card lang-panel active" data-lang="en">
+          {{EN_HTML}}
+        </article>
+        <article class="card lang-panel" data-lang="ko">
+          {{KO_HTML}}
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        {{QUIZ_HTML}}
+      </section>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

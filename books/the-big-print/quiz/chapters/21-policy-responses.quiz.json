@@ -1,0 +1,20 @@
+{
+  "chapter_id": "21-policy-responses",
+  "question_en": "What policy fork does the chapter present?",
+  "choices_en": [
+    "Restoring limits versus deepening fiat management",
+    "Ending all trade versus ending all industry",
+    "Replacing money with barter versus replacing markets with commands",
+    "Lowering population versus lowering productivity"
+  ],
+  "question_ko": "이 장이 제시하는 정책적 갈림길은 무엇인가?",
+  "choices_ko": [
+    "한계 복원과 더 깊은 법정화폐 관리 사이의 선택",
+    "모든 무역 종식과 모든 산업 종식 사이의 선택",
+    "화폐를 물물교환으로 대체할지 명령으로 시장을 대체할지의 선택",
+    "인구 감소와 생산성 감소 사이의 선택"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter contrasts institutional restraint with continued interventionist fiat management.",
+  "explanation_ko": "이 장은 제도적 절제 복원과 개입주의적 법정화폐 관리 지속을 대비한다."
+}

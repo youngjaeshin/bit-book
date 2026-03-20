@@ -1,0 +1,20 @@
+{
+  "chapter_id": "24-conclusion",
+  "question_en": "How is inflation characterized in the conclusion?",
+  "choices_en": [
+    "As a form of theft with personal and social consequences",
+    "As a harmless technical detail",
+    "As an inevitable sign of progress",
+    "As a purely foreign-policy issue"
+  ],
+  "question_ko": "결론에서 인플레이션은 어떻게 규정되는가?",
+  "choices_ko": [
+    "개인적·사회적 결과를 낳는 절도의 한 형태",
+    "무해한 기술적 세부사항",
+    "진보의 불가피한 징표",
+    "순전히 외교 정책 문제"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The conclusion frames inflation as monetary theft that damages ordinary life and social trust.",
+  "explanation_ko": "결론은 인플레이션을 일상과 사회적 신뢰를 훼손하는 화폐적 절도로 본다."
+}

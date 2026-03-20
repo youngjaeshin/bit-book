@@ -1,0 +1,20 @@
+{
+  "chapter_id": "08-the-federal-reserve",
+  "question_en": "What unique power of the Fed is emphasized here?",
+  "choices_en": [
+    "Creating money out of thin air",
+    "Abolishing all taxes",
+    "Setting world trade quotas",
+    "Owning all private banks"
+  ],
+  "question_ko": "이 장에서 강조되는 연준의 독보적 권한은 무엇인가?",
+  "choices_ko": [
+    "무에서 화폐를 창조하는 것",
+    "모든 세금을 폐지하는 것",
+    "세계 무역 쿼터를 정하는 것",
+    "모든 민간 은행을 소유하는 것"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter centers the Fed’s power to create money as the key institutional force in the current system.",
+  "explanation_ko": "이 장은 화폐 창조 권한을 현재 체제의 핵심 제도 권력으로 본다."
+}

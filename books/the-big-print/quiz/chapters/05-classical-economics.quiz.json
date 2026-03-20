@@ -1,0 +1,20 @@
+{
+  "chapter_id": "05-classical-economics",
+  "question_en": "According to this chapter, real prosperity grows mainly through what?",
+  "choices_en": [
+    "Saving and capital formation",
+    "Constant stimulus spending",
+    "Permanent negative rates",
+    "Removing prices from markets"
+  ],
+  "question_ko": "이 장에 따르면 실질적 번영은 주로 무엇을 통해 성장하는가?",
+  "choices_ko": [
+    "저축과 자본 형성",
+    "끊임없는 경기 부양 지출",
+    "영구적 마이너스 금리",
+    "가격 신호의 제거"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Classical economics is presented as a framework in which saving and capital formation drive growth.",
+  "explanation_ko": "이 장은 고전파 경제학에서 저축과 자본 형성이 성장의 기반이라고 본다."
+}

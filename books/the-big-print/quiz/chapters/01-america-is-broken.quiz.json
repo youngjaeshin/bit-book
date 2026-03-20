@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-america-is-broken",
+  "question_en": "What does the chapter identify as a structural force that pushes wealth upward?",
+  "choices_en": [
+    "Inflation built into the financial system",
+    "Population decline",
+    "Gold scarcity",
+    "Balanced federal budgets"
+  ],
+  "question_ko": "이 장은 무엇을 부를 위로 끌어올리는 구조적 힘으로 제시하는가?",
+  "choices_ko": [
+    "금융 시스템에 내장된 인플레이션",
+    "인구 감소",
+    "금 부족",
+    "균형 재정"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter argues that inflation is built into the American financial system and redistributes wealth upward.",
+  "explanation_ko": "이 장은 인플레이션이 미국 금융 시스템에 내장되어 있으며 부를 위로 재분배한다고 본다."
+}

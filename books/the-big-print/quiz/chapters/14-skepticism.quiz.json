@@ -1,0 +1,20 @@
+{
+  "chapter_id": "14-skepticism",
+  "question_en": "According to this chapter, what causes much skepticism toward Bitcoin?",
+  "choices_en": [
+    "Confusing Bitcoin with the wider crypto world",
+    "Too much historical familiarity",
+    "An absence of media coverage",
+    "Its status as a central-bank product"
+  ],
+  "question_ko": "이 장에 따르면 비트코인 회의론의 큰 원인 중 하나는 무엇인가?",
+  "choices_ko": [
+    "비트코인을 더 넓은 크립토 세계와 혼동하는 것",
+    "역사적 친숙성이 너무 큰 것",
+    "미디어 보도가 전혀 없는 것",
+    "중앙은행 상품이라는 점"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter says skepticism often comes from category confusion rather than from Bitcoin itself.",
+  "explanation_ko": "이 장은 회의론의 상당수가 비트코인 자체보다 범주 혼동에서 나온다고 본다."
+}

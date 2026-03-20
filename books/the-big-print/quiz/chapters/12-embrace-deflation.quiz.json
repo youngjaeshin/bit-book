@@ -1,0 +1,20 @@
+{
+  "chapter_id": "12-embrace-deflation",
+  "question_en": "What claim about deflation is central to this chapter?",
+  "choices_en": [
+    "Deflation can be healthy under productivity growth",
+    "Deflation is always destructive",
+    "Deflation only benefits governments",
+    "Deflation eliminates all debt instantly"
+  ],
+  "question_ko": "이 장의 중심 주장은 디플레이션에 대해 무엇인가?",
+  "choices_ko": [
+    "생산성 상승 아래에서는 디플레이션이 건강할 수 있다",
+    "디플레이션은 언제나 파괴적이다",
+    "디플레이션은 정부에만 이익이 된다",
+    "디플레이션은 즉시 모든 부채를 없앤다"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter defends productivity-driven deflation as a sign of abundance rather than disease.",
+  "explanation_ko": "이 장은 생산성에 기반한 디플레이션을 병이 아니라 풍요의 신호로 옹호한다."
+}

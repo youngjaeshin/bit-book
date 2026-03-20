@@ -1,0 +1,20 @@
+{
+  "chapter_id": "22-call-to-action",
+  "question_en": "What is the first level of preparation emphasized in this chapter?",
+  "choices_en": [
+    "Personal preparation and understanding",
+    "Immediate global treaty reform",
+    "Eliminating all market volatility",
+    "Waiting for central banks to act"
+  ],
+  "question_ko": "이 장이 먼저 강조하는 준비의 수준은 무엇인가?",
+  "choices_ko": [
+    "개인적 준비와 이해",
+    "즉각적인 글로벌 조약 개혁",
+    "모든 시장 변동성 제거",
+    "중앙은행의 대응을 기다리는 것"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter says preparation starts personally: protect yourself, understand the system, and then help others.",
+  "explanation_ko": "이 장은 준비가 개인 차원에서 시작된다고 본다. 먼저 자신을 지키고 체제를 이해한 뒤 다른 사람을 도와야 한다."
+}

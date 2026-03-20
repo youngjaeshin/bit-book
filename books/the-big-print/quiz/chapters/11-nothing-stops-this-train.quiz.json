@@ -1,0 +1,20 @@
+{
+  "chapter_id": "11-nothing-stops-this-train",
+  "question_en": "What image does the chapter use for America’s fiscal path?",
+  "choices_en": [
+    "A train that can no longer be stopped normally",
+    "A ship returning safely to harbor",
+    "A market correcting itself calmly",
+    "A balanced bridge with no stress"
+  ],
+  "question_ko": "이 장은 미국의 재정 경로를 어떤 이미지로 묘사하는가?",
+  "choices_ko": [
+    "정상적으로는 멈출 수 없는 열차",
+    "안전하게 항구로 돌아오는 배",
+    "차분히 스스로 조정되는 시장",
+    "아무 스트레스가 없는 균형 잡힌 다리"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The train metaphor is used to describe fiscal and monetary momentum that is now hard to reverse.",
+  "explanation_ko": "열차 비유는 되돌리기 어려운 재정·통화 관성을 설명하기 위해 쓰인다."
+}

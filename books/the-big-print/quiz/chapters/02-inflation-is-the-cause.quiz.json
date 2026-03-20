@@ -1,0 +1,20 @@
+{
+  "chapter_id": "02-inflation-is-the-cause",
+  "question_en": "How is inflation primarily defined in this chapter?",
+  "choices_en": [
+    "As the result of money-supply expansion",
+    "As a random change in consumer mood",
+    "As technological progress",
+    "As the elimination of debt"
+  ],
+  "question_ko": "이 장에서 인플레이션은 주로 어떻게 정의되는가?",
+  "choices_ko": [
+    "통화 공급 확대의 결과",
+    "소비자 심리의 무작위 변화",
+    "기술 진보",
+    "부채의 제거"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter defines inflation as a monetary phenomenon driven by expansion of the money supply.",
+  "explanation_ko": "이 장은 인플레이션을 통화 공급 확대가 낳는 통화 현상으로 정의한다."
+}

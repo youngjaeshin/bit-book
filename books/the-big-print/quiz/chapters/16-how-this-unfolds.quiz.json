@@ -1,0 +1,20 @@
+{
+  "chapter_id": "16-how-this-unfolds",
+  "question_en": "What is volatility treated as in this chapter?",
+  "choices_en": [
+    "A normal part of transition",
+    "Proof that the thesis has failed",
+    "Evidence that debt is harmless",
+    "A sign that fiat is stable"
+  ],
+  "question_ko": "이 장에서 변동성은 무엇으로 다뤄지는가?",
+  "choices_ko": [
+    "전환 과정의 정상적 일부",
+    "논지가 실패했다는 증거",
+    "부채가 무해하다는 증거",
+    "법정화폐가 안정적이라는 신호"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter says volatility belongs to real-time transition rather than serving as a refutation of the thesis.",
+  "explanation_ko": "이 장은 변동성을 논지의 반증이 아니라 실제 전환의 일부로 본다."
+}

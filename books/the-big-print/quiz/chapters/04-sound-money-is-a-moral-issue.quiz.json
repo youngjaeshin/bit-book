@@ -1,0 +1,20 @@
+{
+  "chapter_id": "04-sound-money-is-a-moral-issue",
+  "question_en": "Why is sound money treated as a moral issue?",
+  "choices_en": [
+    "Because fair exchange depends on honest measures",
+    "Because it increases entertainment spending",
+    "Because it removes all taxes",
+    "Because it guarantees equal outcomes"
+  ],
+  "question_ko": "건전 화폐가 도덕적 문제로 다뤄지는 이유는 무엇인가?",
+  "choices_ko": [
+    "공정한 교환이 정직한 척도에 달려 있기 때문",
+    "오락 소비를 늘리기 때문",
+    "모든 세금을 없애기 때문",
+    "결과의 완전한 평등을 보장하기 때문"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter links sound money to honest measurement and justice in exchange.",
+  "explanation_ko": "이 장은 건전 화폐를 정직한 측정과 공정한 교환의 정의에 연결한다."
+}
