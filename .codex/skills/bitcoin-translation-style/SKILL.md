@@ -73,4 +73,4 @@ description: Use when translating English book chapters or summaries into Korean
 번역 전 또는 번역 중 필요 시 아래를 읽는다.
 
 - `references/glossary-ko.md` — 오스트리안 경제학 / 비트코이너 권장 번역 용어집
-- `../book-reading-summary-style/SKILL.md` — 읽는 느낌의 요약 리듬 가이드
+- `../book-reading-summary-style/SKILL.md` — 요약 리듬 가이드

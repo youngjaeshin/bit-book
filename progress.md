@@ -109,3 +109,7 @@
 
 - 2026-03-20 10:36 KST | executor | completed | bit_book 독립 저장소 GitHub 생성 및 push 완료: https://github.com/youngjaeshin/bit-book
 - 2026-03-20 10:36 KST | executor | completed | Vercel 배포 URL 확보: https://site-ochre-omega.vercel.app
+
+- 2026-03-20 10:40 KST | executor | started | 한국어 heading 정리: `요약`을 전체에서 `요약`으로 통일
+
+- 2026-03-20 10:44 KST | executor | completed | 한국어 heading 통일 완료: `읽는 느낌의 요약` → `요약`, HTML 재빌드 반영
