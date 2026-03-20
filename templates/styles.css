@@ -70,16 +70,37 @@ h1, h2, h3 { line-height: 1.25; }
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
 }
 .book-card {
   margin: 0;
 }
+.view-toggle {
+  display: inline-flex;
+  gap: 6px;
+  padding: 4px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255,255,255,.65);
+}
+.view-btn {
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-weight: 700;
+}
+.view-btn.active {
+  background: var(--accent);
+  color: #fff;
+}
 .book-link {
   display: block;
   height: 100%;
-  padding: 20px;
+  padding: 16px;
   border: 1px solid var(--line);
   border-radius: 18px;
   text-decoration: none;
@@ -97,12 +118,12 @@ h1, h2, h3 { line-height: 1.25; }
   justify-content: space-between;
   align-items: center;
   gap: 12px;
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 .badge {
   display: inline-flex;
   align-items: center;
-  padding: 6px 10px;
+  padding: 5px 9px;
   border-radius: 999px;
   background: var(--accent-soft);
   color: var(--accent);
@@ -114,22 +135,26 @@ h1, h2, h3 { line-height: 1.25; }
   font-size: .9rem;
 }
 .book-link h2 {
-  margin: 0 0 10px;
+  margin: 0 0 8px;
+}
+.book-title {
+  font-size: 1.18rem;
 }
 .book-copy {
   color: var(--muted);
-  margin: 0 0 14px;
+  margin: 0 0 10px;
+  font-size: .95rem;
 }
 .book-meta-row {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
 .meta-pill {
   display: inline-flex;
   align-items: center;
-  padding: 6px 10px;
+  padding: 5px 9px;
   border-radius: 999px;
   border: 1px solid var(--line);
   color: var(--muted);
@@ -138,6 +163,27 @@ h1, h2, h3 { line-height: 1.25; }
 .book-cta {
   font-weight: 700;
   color: var(--accent);
+  font-size: .95rem;
+}
+.book-grid.list-mode {
+  grid-template-columns: 1fr;
+}
+.book-grid.list-mode .book-link {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 10px 20px;
+  align-items: center;
+}
+.book-grid.list-mode .book-card-top,
+.book-grid.list-mode .book-copy,
+.book-grid.list-mode .book-meta-row {
+  grid-column: 1 / 2;
+}
+.book-grid.list-mode .book-cta {
+  grid-column: 2 / 3;
+  grid-row: 1 / span 3;
+  align-self: center;
+  white-space: nowrap;
 }
 .chapter-list {
   padding-left: 1.2rem;
@@ -221,6 +267,7 @@ h1, h2, h3 { line-height: 1.25; }
   }
   .lang-btn, .quiz-option { background: #11182f; }
   .book-link { background: linear-gradient(180deg, rgba(18,26,49,.95), rgba(20,28,54,.85)); }
+  .view-toggle { background: rgba(17,24,47,.9); }
   .quiz-option.correct { background: rgba(21,128,61,.15); }
   .quiz-option.wrong { background: rgba(185,28,28,.15); }
 }
@@ -228,5 +275,12 @@ h1, h2, h3 { line-height: 1.25; }
   .section-head {
     align-items: start;
     flex-direction: column;
+  }
+  .book-grid.list-mode .book-link {
+    grid-template-columns: 1fr;
+  }
+  .book-grid.list-mode .book-cta {
+    grid-column: 1 / 2;
+    grid-row: auto;
   }
 }

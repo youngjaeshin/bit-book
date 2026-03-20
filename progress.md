@@ -160,3 +160,7 @@
 - 2026-03-20 12:20 KST | executor | completed | 통합 사이트 홈 디자인 개편 커밋/푸시 및 production 재배포 시작
 
 - 2026-03-20 12:24 KST | executor | completed | 홈 단순화 반영: hero 설명/통계/가이드 섹션 제거, 바로 라이브러리 목록이 보이도록 재빌드
+
+- 2026-03-20 12:34 KST | executor | started | 홈 밀도 조정 및 카드/목록 보기 전환 기능 추가 작업 시작
+
+- 2026-03-20 12:38 KST | executor | completed | 카드 축소 및 카드형/목록형 전환 기능 반영, 통합 사이트 재빌드 완료

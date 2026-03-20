@@ -131,7 +131,7 @@ def render_home(books: list[dict]) -> str:
       <span class="badge">{html.escape(badge)}</span>
       <span class="book-author">{html.escape(book['author'])}</span>
     </div>
-    <h2>{html.escape(book['title'])}</h2>
+    <h2 class="book-title">{html.escape(book['title'])}</h2>
     <p class="book-copy">{html.escape(book['subtitle'])}</p>
     <div class="book-meta-row">
       <span class="meta-pill">{book['chapter_count']} chapters</span>
@@ -160,12 +160,32 @@ def render_home(books: list[dict]) -> str:
       <section class="card" id="library-grid">
         <div class="section-head">
           <h2>Available books</h2>
+          <div class="view-toggle" role="group" aria-label="Library layout">
+            <button class="view-btn active" data-view="card">Cards</button>
+            <button class="view-btn" data-view="list">List</button>
+          </div>
         </div>
-        <ul class="book-grid">
+        <ul class="book-grid" id="library-books">
           {"".join(cards)}
         </ul>
       </section>
     </main>
+    <script>
+      const list = document.getElementById("library-books");
+      const viewButtons = document.querySelectorAll(".view-btn");
+      const applyView = (view) => {{
+        list.classList.toggle("list-mode", view === "list");
+        viewButtons.forEach((btn) => btn.classList.toggle("active", btn.dataset.view === view));
+        window.localStorage.setItem("bit-book-library-view", view);
+      }};
+      const savedView = window.localStorage.getItem("bit-book-library-view");
+      if (savedView === "list" || savedView === "card") {{
+        applyView(savedView);
+      }}
+      viewButtons.forEach((btn) => {{
+        btn.addEventListener("click", () => applyView(btn.dataset.view));
+      }});
+    </script>
   </body>
 </html>"""
 
