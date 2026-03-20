@@ -1,0 +1,657 @@
+[
+  {
+    "toc_index": 1,
+    "title": "Front Matter",
+    "src": "POE-Title.xhtml"
+  },
+  {
+    "toc_index": 2,
+    "title": "Copyright",
+    "src": "POE-Copyright.xhtml"
+  },
+  {
+    "toc_index": 3,
+    "title": "Dedication",
+    "src": "POE-Dedication.xhtml"
+  },
+  {
+    "toc_index": 4,
+    "title": "Table of Contents",
+    "src": "POE-TOC.xhtml"
+  },
+  {
+    "toc_index": 5,
+    "title": "About the Author",
+    "src": "POE-Author.xhtml"
+  },
+  {
+    "toc_index": 6,
+    "title": "Introduction",
+    "src": "POE-Intro.xhtml"
+  },
+  {
+    "toc_index": 7,
+    "title": "PART I. FUNDAMENTALS",
+    "src": "POE-PART-ONE.xhtml"
+  },
+  {
+    "toc_index": 8,
+    "title": "Chapter 1: Human Action",
+    "src": "POE-C01.xhtml"
+  },
+  {
+    "toc_index": 9,
+    "title": "Action, Purpose, and Reason",
+    "src": "POE-C01.xhtml#_idParaDest-12"
+  },
+  {
+    "toc_index": 10,
+    "title": "Economic Analysis",
+    "src": "POE-C01.xhtml#_idParaDest-13"
+  },
+  {
+    "toc_index": 11,
+    "title": "Quantitative Analysis",
+    "src": "POE-C01.xhtml#_idParaDest-14"
+  },
+  {
+    "toc_index": 12,
+    "title": "A Contrast of Approaches",
+    "src": "POE-C01.xhtml#_idParaDest-15"
+  },
+  {
+    "toc_index": 13,
+    "title": "Chapter 2: Value",
+    "src": "POE-C02.xhtml"
+  },
+  {
+    "toc_index": 14,
+    "title": "Utility and Value",
+    "src": "POE-C02.xhtml#_idParaDest-18"
+  },
+  {
+    "toc_index": 15,
+    "title": "Valuation: Ordinal and Cardinal",
+    "src": "POE-C02.xhtml#_idParaDest-25"
+  },
+  {
+    "toc_index": 16,
+    "title": "Value and Price",
+    "src": "POE-C02.xhtml#_idParaDest-26"
+  },
+  {
+    "toc_index": 17,
+    "title": "Free Exchange",
+    "src": "POE-C02.xhtml#_idParaDest-27"
+  },
+  {
+    "toc_index": 18,
+    "title": "Determinants of Value",
+    "src": "POE-C02.xhtml#_idParaDest-28"
+  },
+  {
+    "toc_index": 19,
+    "title": "Marginalism",
+    "src": "POE-C02.xhtml#_idParaDest-29"
+  },
+  {
+    "toc_index": 20,
+    "title": "Marginal Utility",
+    "src": "POE-C02.xhtml#_idParaDest-30"
+  },
+  {
+    "toc_index": 21,
+    "title": "Law of Diminishing Marginal Utility",
+    "src": "POE-C02.xhtml#_idParaDest-31"
+  },
+  {
+    "toc_index": 22,
+    "title": "Valuation by the Least Valuable Use",
+    "src": "POE-C02.xhtml#_idParaDest-32"
+  },
+  {
+    "toc_index": 23,
+    "title": "Water-Diamond Paradox",
+    "src": "POE-C02.xhtml#_idParaDest-33"
+  },
+  {
+    "toc_index": 24,
+    "title": "Chapter 3: Time",
+    "src": "POE-C03.xhtml"
+  },
+  {
+    "toc_index": 25,
+    "title": "The Ultimate Resource",
+    "src": "POE-C03.xhtml#_idParaDest-36"
+  },
+  {
+    "toc_index": 26,
+    "title": "Opportunity Cost",
+    "src": "POE-C03.xhtml#_idParaDest-37"
+  },
+  {
+    "toc_index": 27,
+    "title": "Material Abundance",
+    "src": "POE-C03.xhtml#_idParaDest-38"
+  },
+  {
+    "toc_index": 28,
+    "title": "Simon’s Bet",
+    "src": "POE-C03.xhtml#_idParaDest-39"
+  },
+  {
+    "toc_index": 29,
+    "title": "Time Preference",
+    "src": "POE-C03.xhtml#_idParaDest-40"
+  },
+  {
+    "toc_index": 30,
+    "title": "Economizing Time",
+    "src": "POE-C03.xhtml#_idParaDest-41"
+  },
+  {
+    "toc_index": 31,
+    "title": "Economizing Action",
+    "src": "POE-C03.xhtml#_idParaDest-42"
+  },
+  {
+    "toc_index": 32,
+    "title": "PART II. ECONOMY",
+    "src": "POE-PART-TWO.xhtml"
+  },
+  {
+    "toc_index": 33,
+    "title": "Chapter 4: Labor",
+    "src": "POE-C04.xhtml"
+  },
+  {
+    "toc_index": 34,
+    "title": "Labor and Leisure",
+    "src": "POE-C04.xhtml#_idParaDest-47"
+  },
+  {
+    "toc_index": 35,
+    "title": "Production",
+    "src": "POE-C04.xhtml#_idParaDest-48"
+  },
+  {
+    "toc_index": 36,
+    "title": "Productivity of Labor",
+    "src": "POE-C04.xhtml#_idParaDest-49"
+  },
+  {
+    "toc_index": 37,
+    "title": "Unemployment",
+    "src": "POE-C04.xhtml#_idParaDest-50"
+  },
+  {
+    "toc_index": 38,
+    "title": "Will Work Ever End?",
+    "src": "POE-C04.xhtml#_idParaDest-51"
+  },
+  {
+    "toc_index": 39,
+    "title": "Is Labor Exploitation?",
+    "src": "POE-C04.xhtml#_idParaDest-52"
+  },
+  {
+    "toc_index": 40,
+    "title": "Chapter 5: Property",
+    "src": "POE-C05.xhtml"
+  },
+  {
+    "toc_index": 41,
+    "title": "Scarcity and Property",
+    "src": "POE-C05.xhtml#_idParaDest-55"
+  },
+  {
+    "toc_index": 42,
+    "title": "Types of Property",
+    "src": "POE-C05.xhtml#_idParaDest-56"
+  },
+  {
+    "toc_index": 43,
+    "title": "Self-Ownership",
+    "src": "POE-C05.xhtml#_idParaDest-57"
+  },
+  {
+    "toc_index": 44,
+    "title": "Importance of Property Rights",
+    "src": "POE-C05.xhtml#_idParaDest-58"
+  },
+  {
+    "toc_index": 45,
+    "title": "Chapter 6: Capital",
+    "src": "POE-C06.xhtml"
+  },
+  {
+    "toc_index": 46,
+    "title": "Lengthening Structure of Production",
+    "src": "POE-C06.xhtml#_idParaDest-61"
+  },
+  {
+    "toc_index": 47,
+    "title": "Saving",
+    "src": "POE-C06.xhtml#_idParaDest-62"
+  },
+  {
+    "toc_index": 48,
+    "title": "Higher Productivity",
+    "src": "POE-C06.xhtml#_idParaDest-63"
+  },
+  {
+    "toc_index": 49,
+    "title": "The High Cost of Capital",
+    "src": "POE-C06.xhtml#_idParaDest-64"
+  },
+  {
+    "toc_index": 50,
+    "title": "Capital and Time Preference",
+    "src": "POE-C06.xhtml#_idParaDest-69"
+  },
+  {
+    "toc_index": 51,
+    "title": "Saving Fallacies",
+    "src": "POE-C06.xhtml#_idParaDest-70"
+  },
+  {
+    "toc_index": 52,
+    "title": "Limits to Capital",
+    "src": "POE-C06.xhtml#_idParaDest-71"
+  },
+  {
+    "toc_index": 53,
+    "title": "Chapter 7: Technology",
+    "src": "POE-C07.xhtml"
+  },
+  {
+    "toc_index": 54,
+    "title": "Technology and Labor",
+    "src": "POE-C07.xhtml#_idParaDest-74"
+  },
+  {
+    "toc_index": 55,
+    "title": "Technology and Productivity",
+    "src": "POE-C07.xhtml#_idParaDest-75"
+  },
+  {
+    "toc_index": 56,
+    "title": "Technological Innovation and Entrepreneurship",
+    "src": "POE-C07.xhtml#_idParaDest-76"
+  },
+  {
+    "toc_index": 57,
+    "title": "Software",
+    "src": "POE-C07.xhtml#_idParaDest-77"
+  },
+  {
+    "toc_index": 58,
+    "title": "Property in Ideas",
+    "src": "POE-C07.xhtml#_idParaDest-78"
+  },
+  {
+    "toc_index": 59,
+    "title": "Chapter 8: Energy and Power",
+    "src": "POE-C08.xhtml"
+  },
+  {
+    "toc_index": 60,
+    "title": "Energy in Human History",
+    "src": "POE-C08.xhtml#_idParaDest-84"
+  },
+  {
+    "toc_index": 61,
+    "title": "Energy Abundance",
+    "src": "POE-C08.xhtml#_idParaDest-85"
+  },
+  {
+    "toc_index": 62,
+    "title": "Power Scarcity",
+    "src": "POE-C08.xhtml#_idParaDest-86"
+  },
+  {
+    "toc_index": 63,
+    "title": "Power of Hydrocarbon Alternatives",
+    "src": "POE-C08.xhtml#_idParaDest-87"
+  },
+  {
+    "toc_index": 64,
+    "title": "Energy and Freedom",
+    "src": "POE-C08.xhtml#_idParaDest-88"
+  },
+  {
+    "toc_index": 65,
+    "title": "PART III. THE MARKET ORDER",
+    "src": "POE-PART-THREE.xhtml"
+  },
+  {
+    "toc_index": 66,
+    "title": "Chapter 9: Trade",
+    "src": "POE-C09.xhtml"
+  },
+  {
+    "toc_index": 67,
+    "title": "Subjective Valuation",
+    "src": "POE-C09.xhtml#_idParaDest-93"
+  },
+  {
+    "toc_index": 68,
+    "title": "Absolute Advantage",
+    "src": "POE-C09.xhtml#_idParaDest-94"
+  },
+  {
+    "toc_index": 69,
+    "title": "Comparative Advantage",
+    "src": "POE-C09.xhtml#_idParaDest-95"
+  },
+  {
+    "toc_index": 70,
+    "title": "Specialization and the Division of Labor",
+    "src": "POE-C09.xhtml#_idParaDest-96"
+  },
+  {
+    "toc_index": 71,
+    "title": "Extent of the Market",
+    "src": "POE-C09.xhtml#_idParaDest-97"
+  },
+  {
+    "toc_index": 72,
+    "title": "Chapter 10: Money",
+    "src": "POE-C10.xhtml"
+  },
+  {
+    "toc_index": 73,
+    "title": "The Problem Money Solves",
+    "src": "POE-C10.xhtml#_idParaDest-100"
+  },
+  {
+    "toc_index": 74,
+    "title": "Salability",
+    "src": "POE-C10.xhtml#_idParaDest-101"
+  },
+  {
+    "toc_index": 75,
+    "title": "Salability across Time",
+    "src": "POE-C10.xhtml#_idParaDest-102"
+  },
+  {
+    "toc_index": 76,
+    "title": "Why One Money?",
+    "src": "POE-C10.xhtml#_idParaDest-103"
+  },
+  {
+    "toc_index": 77,
+    "title": "Money and the State",
+    "src": "POE-C10.xhtml#_idParaDest-104"
+  },
+  {
+    "toc_index": 78,
+    "title": "Value of Money",
+    "src": "POE-C10.xhtml#_idParaDest-105"
+  },
+  {
+    "toc_index": 79,
+    "title": "Money’s Uniqueness",
+    "src": "POE-C10.xhtml#_idParaDest-109"
+  },
+  {
+    "toc_index": 80,
+    "title": "How Much Money Should There Be?",
+    "src": "POE-C10.xhtml#_idParaDest-110"
+  },
+  {
+    "toc_index": 81,
+    "title": "Chapter 11: Markets",
+    "src": "POE-C11.xhtml"
+  },
+  {
+    "toc_index": 82,
+    "title": "Consumer Good Markets",
+    "src": "POE-C11.xhtml#_idParaDest-113"
+  },
+  {
+    "toc_index": 83,
+    "title": "Equilibrium",
+    "src": "POE-C11.xhtml#_idParaDest-114"
+  },
+  {
+    "toc_index": 84,
+    "title": "Producer Good Markets",
+    "src": "POE-C11.xhtml#_idParaDest-115"
+  },
+  {
+    "toc_index": 85,
+    "title": "Economizing in the Market Order",
+    "src": "POE-C11.xhtml#_idParaDest-116"
+  },
+  {
+    "toc_index": 86,
+    "title": "Consumer Sovereignty",
+    "src": "POE-C11.xhtml#_idParaDest-117"
+  },
+  {
+    "toc_index": 87,
+    "title": "A Contrast of Approaches",
+    "src": "POE-C11.xhtml#_idParaDest-118"
+  },
+  {
+    "toc_index": 88,
+    "title": "Chapter 12: Capitalism",
+    "src": "POE-C12.xhtml"
+  },
+  {
+    "toc_index": 89,
+    "title": "Capital Markets",
+    "src": "POE-C12.xhtml#_idParaDest-121"
+  },
+  {
+    "toc_index": 90,
+    "title": "Capitalism Is Entrepreneurial, Not Managerial",
+    "src": "POE-C12.xhtml#_idParaDest-122"
+  },
+  {
+    "toc_index": 91,
+    "title": "Profit and Loss",
+    "src": "POE-C12.xhtml#_idParaDest-123"
+  },
+  {
+    "toc_index": 92,
+    "title": "The Economic Calculation Problem",
+    "src": "POE-C12.xhtml#_idParaDest-124"
+  },
+  {
+    "toc_index": 93,
+    "title": "Modern Economics and Calculation",
+    "src": "POE-C12.xhtml#_idParaDest-125"
+  },
+  {
+    "toc_index": 94,
+    "title": "The Effects of Entrepreneurial Investment",
+    "src": "POE-C12.xhtml#_idParaDest-126"
+  },
+  {
+    "toc_index": 95,
+    "title": "PART IV. MONETARY ECONOMICS",
+    "src": "POE-PART-FOUR.xhtml"
+  },
+  {
+    "toc_index": 96,
+    "title": "Chapter 13: Time Preference",
+    "src": "POE-C13.xhtml"
+  },
+  {
+    "toc_index": 97,
+    "title": "Time Preference and Money",
+    "src": "POE-C13.xhtml#_idParaDest-131"
+  },
+  {
+    "toc_index": 98,
+    "title": "Time Preference and Saving",
+    "src": "POE-C13.xhtml#_idParaDest-132"
+  },
+  {
+    "toc_index": 99,
+    "title": "Time Preference and Civilization",
+    "src": "POE-C13.xhtml#_idParaDest-133"
+  },
+  {
+    "toc_index": 100,
+    "title": "Time Preference and Bitcoin",
+    "src": "POE-C13.xhtml#_idParaDest-134"
+  },
+  {
+    "toc_index": 101,
+    "title": "Chapter 14: Credit and Banking",
+    "src": "POE-C14.xhtml"
+  },
+  {
+    "toc_index": 102,
+    "title": "Banking",
+    "src": "POE-C14.xhtml#_idParaDest-137"
+  },
+  {
+    "toc_index": 103,
+    "title": "Credit",
+    "src": "POE-C14.xhtml#_idParaDest-138"
+  },
+  {
+    "toc_index": 104,
+    "title": "Commodity Credit",
+    "src": "POE-C14.xhtml#_idParaDest-139"
+  },
+  {
+    "toc_index": 105,
+    "title": "Interest Rates",
+    "src": "POE-C14.xhtml#_idParaDest-140"
+  },
+  {
+    "toc_index": 106,
+    "title": "Can Interest Be Eliminated?",
+    "src": "POE-C14.xhtml#_idParaDest-141"
+  },
+  {
+    "toc_index": 107,
+    "title": "Chapter 15: Monetary Expansion",
+    "src": "POE-C15.xhtml"
+  },
+  {
+    "toc_index": 108,
+    "title": "Circulation Credit",
+    "src": "POE-C15.xhtml#_idParaDest-144"
+  },
+  {
+    "toc_index": 109,
+    "title": "Mises’ Typology of Money",
+    "src": "POE-C15.xhtml#_idParaDest-145"
+  },
+  {
+    "toc_index": 110,
+    "title": "Business Cycles",
+    "src": "POE-C15.xhtml#_idParaDest-146"
+  },
+  {
+    "toc_index": 111,
+    "title": "The Business Cycle Graphically",
+    "src": "POE-C15.xhtml#_idParaDest-147"
+  },
+  {
+    "toc_index": 112,
+    "title": "Capital Market Central Planning",
+    "src": "POE-C15.xhtml#_idParaDest-148"
+  },
+  {
+    "toc_index": 113,
+    "title": "PART V. CIVILIZATION",
+    "src": "POE-PART-FIVE.xhtml"
+  },
+  {
+    "toc_index": 114,
+    "title": "Chapter 16: Violence",
+    "src": "POE-C16.xhtml"
+  },
+  {
+    "toc_index": 115,
+    "title": "Non-Aggression Principle",
+    "src": "POE-C16.xhtml#_idParaDest-156"
+  },
+  {
+    "toc_index": 116,
+    "title": "Government Coercion",
+    "src": "POE-C16.xhtml#_idParaDest-157"
+  },
+  {
+    "toc_index": 117,
+    "title": "Rationales for Government Violence",
+    "src": "POE-C16.xhtml#_idParaDest-158"
+  },
+  {
+    "toc_index": 118,
+    "title": "Rationality in Economics",
+    "src": "POE-C16.xhtml#_idParaDest-163"
+  },
+  {
+    "toc_index": 119,
+    "title": "Chapter 17: Defense",
+    "src": "POE-C17.xhtml"
+  },
+  {
+    "toc_index": 120,
+    "title": "The Market for Defense",
+    "src": "POE-C17.xhtml#_idParaDest-169"
+  },
+  {
+    "toc_index": 121,
+    "title": "The Market for Law and Order",
+    "src": "POE-C17.xhtml#_idParaDest-170"
+  },
+  {
+    "toc_index": 122,
+    "title": "State Monopoly of Defense and Law",
+    "src": "POE-C17.xhtml#_idParaDest-171"
+  },
+  {
+    "toc_index": 123,
+    "title": "State Monopoly Failure Modes",
+    "src": "POE-C17.xhtml#_idParaDest-172"
+  },
+  {
+    "toc_index": 124,
+    "title": "A Free Market in Defense",
+    "src": "POE-C17.xhtml#_idParaDest-173"
+  },
+  {
+    "toc_index": 125,
+    "title": "Chapter 18: Civilization",
+    "src": "POE-C18.xhtml"
+  },
+  {
+    "toc_index": 126,
+    "title": "The Cost of Civilization",
+    "src": "POE-C18.xhtml#_idParaDest-176"
+  },
+  {
+    "toc_index": 127,
+    "title": "The Case for Civilization",
+    "src": "POE-C18.xhtml#_idParaDest-177"
+  },
+  {
+    "toc_index": 128,
+    "title": "The Fiat Slavery Alternative to Civilization",
+    "src": "POE-C18.xhtml#_idParaDest-178"
+  },
+  {
+    "toc_index": 129,
+    "title": "The Triumph of Reason",
+    "src": "POE-C18.xhtml#_idParaDest-179"
+  },
+  {
+    "toc_index": 130,
+    "title": "Appendix 1",
+    "src": "POE-APPENDIX.xhtml"
+  },
+  {
+    "toc_index": 131,
+    "title": "Bibliography",
+    "src": "POE-BIBLIO.xhtml"
+  }
+]

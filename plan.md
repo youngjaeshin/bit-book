@@ -69,6 +69,7 @@
 | SCHEMA-001 | P1 | done | writer -> executor | direct | EPUB-001 | 챕터 영어 Markdown 포맷 정의 | 챕터별 영문 Markdown 템플릿과 필수 필드가 정해짐 |
 | I18N-001 | P1 | done | writer -> executor | direct | SCHEMA-001 | 챕터 한국어 번역 Markdown 포맷 정의 | 영문판과 대응되는 한글 Markdown 경로/필드/번역 규칙이 정해짐 |
 | QUIZ-001 | P1 | done | writer -> executor | direct | EPUB-001 | 퀴즈 JSON 스키마 정의 | 질문/선택지/정답/해설 구조가 문서화됨 |
+| EPUB-003 | P1 | todo | explore -> executor | `omx explore`, direct | EPUB-002 | `Principles of Economics` 메타데이터/목차/본문 분리 전략 확정 | front matter 제외 규칙, chapter-level 포함 기준, subsection anchor 처리 기준이 문서화됨 |
 | PDF-001 | P2 | todo | explore -> executor | direct | EPUB-001 | PDF 챕터 분리 파이프라인 설계 | 텍스트 PDF 전제에서 챕터 탐지, 제외 규칙, 저장 형식이 문서화됨 |
 | SITE-001 | P2 | done | executor | direct | SCHEMA-001, I18N-001, QUIZ-001 | 정적 HTML 템플릿 초안 생성 | 영어/한국어 전환과 요약/퀴즈를 렌더링하는 기본 템플릿이 생성됨 |
 | VERIFY-001 | P2 | todo | verifier | direct | EPUB-002, SITE-001 | 첫 책 MVP 검증 | 텍스트/퀴즈/HTML이 최소 1개 챕터에서 동작 확인됨 |
@@ -90,17 +91,19 @@
 
 ## Immediate Next Recommended Task
 
-현재 가장 먼저 진행할 작업은 `VERIFY-001`이다.
+현재 가장 먼저 진행할 작업은 `EPUB-003`이다.
 
 ### 목표
 
-- 생성된 퀴즈와 HTML 결과물을 검증하고
-  - 구조 누락이 없는지 확인
-  - 로컬 확인 증거를 남기고
-  - 커밋/배포 가능한 상태로 정리한다.
+- `Principles of Economics`를 기준으로
+  - front matter 제외 기준
+  - chapter-level 포함 기준
+  - chapter 내부 subsection anchor 처리 기준
+  - 파일명/경로 규칙
+를 확정한다.
 
 ### 권장 시작 방식
 
-1. 퀴즈 파일 수와 챕터 수가 일치하는지 확인한다.
-2. 생성된 HTML 페이지와 인덱스가 존재하는지 확인한다.
-3. 커밋/배포 전에 결과 구조를 최종 점검한다.
+1. `books/principles-of-economics/source/toc.json`을 기준으로 chapter-level 항목을 구분한다.
+2. Front Matter / Introduction / part-divider / chapter / subsection anchor를 분류한다.
+3. `books/principles-of-economics/source/` 아래 분리 전략 문서를 확정한다.

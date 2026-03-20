@@ -3,8 +3,8 @@
 ## Current Status
 
 - Date: 2026-03-20
-- Phase: quizzes_and_site_complete
-- Current top unblocked task: `VERIFY-001`
+- Phase: big_print_published_next_book_initialized
+- Current top unblocked task: `EPUB-003`
 - Blockers: 없음
 - Recommended next role: `explore` 또는 `executor`
 
@@ -115,3 +115,9 @@
 - 2026-03-20 10:44 KST | executor | completed | 한국어 heading 통일 완료: `읽는 느낌의 요약` → `요약`, HTML 재빌드 반영
 
 - 2026-03-20 10:49 KST | executor | completed | 퀴즈 언어 분리 반영: 영어/한국어 퀴즈를 각 언어 패널에 맞춰 분리하고 사이트 재빌드
+
+- 2026-03-20 11:00 KST | executor | started | Big Print production 배포 시작 후 Ammous 책 다음 타깃 셋업 진행
+
+- 2026-03-20 11:03 KST | executor | completed | Big Print production 배포 완료: https://site-ochre-omega.vercel.app
+- 2026-03-20 11:03 KST | executor | completed | 다음 책 초기화: `Principles of Economics - Ammous, Saifedean_9883.epub` 메타데이터/TOC 추출 및 books/principles-of-economics 스캐폴드 생성
+- 2026-03-20 11:03 KST | executor | completed | plan/progress 갱신: 다음 우선 작업을 EPUB-003 (Principles of Economics 분리 전략)으로 변경
