@@ -170,3 +170,5 @@
 - 2026-03-20 12:48 KST | executor | started | 통합 챕터 페이지 상대경로 수정 시작: CSS/Library 링크 깨짐 수정
 
 - 2026-03-20 12:49 KST | executor | completed | 통합 챕터 페이지 상대경로 수정 및 라이브러리 재빌드 완료
+
+- 2026-03-20 12:54 KST | executor | completed | 퀴즈 섹션 제목 언어 분리 반영: 영어 탭은 Quiz, 한국어 탭은 퀴즈

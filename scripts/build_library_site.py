@@ -245,9 +245,14 @@ def render_chapter_page(book: dict, chapter: dict, en_html: str, ko_html: str, q
         <article class="card lang-panel" data-lang="ko">{ko_html}</article>
       </section>
       <section class="card quiz-card">
-        <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-panel active" data-lang="en">{quiz_en}</div>
-        <div class="quiz-panel" data-lang="ko">{quiz_ko}</div>
+        <div class="quiz-panel active" data-lang="en">
+          <h2>Quiz</h2>
+          {quiz_en}
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <h2>퀴즈</h2>
+          {quiz_ko}
+        </div>
       </section>
     </main>
     <script>
