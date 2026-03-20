@@ -86,6 +86,8 @@ h1, h2, h3 { line-height: 1.25; }
 }
 .lang-panel { display: none; }
 .lang-panel.active { display: block; }
+.quiz-panel { display: none; }
+.quiz-panel.active { display: block; }
 .grid {
   display: grid;
   grid-template-columns: 1fr;
