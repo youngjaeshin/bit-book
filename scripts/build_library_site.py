@@ -225,12 +225,12 @@ def render_chapter_page(book: dict, chapter: dict, en_html: str, ko_html: str, q
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{html.escape(chapter['title'])} · {html.escape(book['title'])}</title>
-    <link rel="stylesheet" href="../../assets/styles.css" />
+    <link rel="stylesheet" href="../../../assets/styles.css" />
   </head>
   <body>
     <main class="container">
       <nav class="topnav">
-        <a href="../index.html">← Back to book</a> · <a href="../../index.html">Library</a>
+        <a href="../index.html">← Back to book</a> · <a href="../../../index.html">Library</a>
       </nav>
       <header class="hero compact">
         <p class="eyebrow">{html.escape(book['title'])}</p>
