@@ -121,7 +121,6 @@ def quiz_to_html(quiz: dict, lang: str) -> str:
 
 def render_home(books: list[dict]) -> str:
     cards = []
-    total_chapters = sum(book["chapter_count"] for book in books)
     for book in books:
         badge = "Bitcoin / Sound Money" if "bitcoin" in book["title"].lower() or "print" in book["title"].lower() else "Economics / Theory"
         cards.append(
@@ -154,67 +153,13 @@ def render_home(books: list[dict]) -> str:
   </head>
   <body>
     <main class="container">
-      <header class="hero hero-home">
-        <div class="hero-copy">
-          <p class="eyebrow">Bit Book Library</p>
-          <h1>Read, compare, and quiz yourself across multiple books.</h1>
-          <p class="subtitle">A single library for bilingual chapter digests, Korean translations, and quick review quizzes built from long-form books.</p>
-          <div class="hero-actions">
-            <a class="primary-link" href="#library-grid">Browse books</a>
-            <span class="hero-note">Start from any book and switch chapter by chapter.</span>
-          </div>
-        </div>
-        <div class="hero-stats card card-accent">
-          <h2>Library snapshot</h2>
-          <div class="stats-grid">
-            <div>
-              <span class="stat-value">{len(books)}</span>
-              <span class="stat-label">Books</span>
-            </div>
-            <div>
-              <span class="stat-value">{total_chapters}</span>
-              <span class="stat-label">Chapters</span>
-            </div>
-            <div>
-              <span class="stat-value">2</span>
-              <span class="stat-label">Languages</span>
-            </div>
-            <div>
-              <span class="stat-value">{total_chapters}</span>
-              <span class="stat-label">Quizzes</span>
-            </div>
-          </div>
-        </div>
+      <header class="hero">
+        <p class="eyebrow">Bit Book Library</p>
+        <h1>Library</h1>
       </header>
-      <section class="card overview-card">
-        <div class="section-head">
-          <div>
-            <p class="eyebrow">How it works</p>
-            <h2>Pick a book, then move chapter by chapter.</h2>
-          </div>
-        </div>
-        <div class="overview-grid">
-          <div class="overview-item">
-            <h3>1. Choose a title</h3>
-            <p>Each book has its own chapter hub, bilingual digest pages, and chapter-level quiz flow.</p>
-          </div>
-          <div class="overview-item">
-            <h3>2. Switch language instantly</h3>
-            <p>Read the English digest or the Korean version without leaving the chapter page.</p>
-          </div>
-          <div class="overview-item">
-            <h3>3. Review with a quick quiz</h3>
-            <p>Every chapter includes one lightweight quiz for rapid comprehension checks.</p>
-          </div>
-        </div>
-      </section>
       <section class="card" id="library-grid">
         <div class="section-head">
-          <div>
-            <p class="eyebrow">Library</p>
-            <h2>Available books</h2>
-          </div>
-          <p class="section-note">Choose a book to enter its chapter list.</p>
+          <h2>Available books</h2>
         </div>
         <ul class="book-grid">
           {"".join(cards)}
