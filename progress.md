@@ -146,3 +146,9 @@
 - 2026-03-20 12:00 KST | executor | started | 멀티북 통합 사이트 작업 시작: 홈에서 여러 책을 고르는 구조로 통합 빌드/배포
 
 - 2026-03-20 11:50 KST | executor | completed | 멀티북 통합 사이트 빌드 완료: 홈에서 책 선택 후 책별 페이지로 이동하는 구조 생성
+
+- 2026-03-20 11:55 KST | executor | completed | 통합 라이브러리 사이트 GitHub push 완료
+- 2026-03-20 11:55 KST | executor | started | 통합 라이브러리 Vercel project link 및 preview 배포 시작
+
+- 2026-03-20 12:04 KST | executor | completed | 통합 라이브러리 Vercel 배포 완료: https://bit-book-library.vercel.app
+- 2026-03-20 12:04 KST | executor | completed | Principles of Economics 검토 링크는 통합 라이브러리 안의 책 페이지로 이동하도록 대체
