@@ -137,3 +137,8 @@
 
 - 2026-03-20 11:40 KST | executor | completed | Principles of Economics 장당 1개 퀴즈 18개 생성 완료
 - 2026-03-20 11:40 KST | executor | completed | Principles of Economics HTML 사이트 빌드 완료 (18개 chapter page + index)
+
+- 2026-03-20 11:43 KST | executor | completed | Principles of Economics 퀴즈/HTML 결과 GitHub push 완료
+- 2026-03-20 11:43 KST | executor | started | Principles of Economics 전용 Vercel project link 및 preview 배포 시작
+
+- 2026-03-20 11:46 KST | executor | completed | Principles of Economics Vercel 배포 완료: https://principles-of-economics-site.vercel.app
