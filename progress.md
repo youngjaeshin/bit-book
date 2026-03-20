@@ -142,3 +142,7 @@
 - 2026-03-20 11:43 KST | executor | started | Principles of Economics 전용 Vercel project link 및 preview 배포 시작
 
 - 2026-03-20 11:46 KST | executor | completed | Principles of Economics Vercel 배포 완료: https://principles-of-economics-site.vercel.app
+
+- 2026-03-20 12:00 KST | executor | started | 멀티북 통합 사이트 작업 시작: 홈에서 여러 책을 고르는 구조로 통합 빌드/배포
+
+- 2026-03-20 11:50 KST | executor | completed | 멀티북 통합 사이트 빌드 완료: 홈에서 책 선택 후 책별 페이지로 이동하는 구조 생성
