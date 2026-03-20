@@ -1,0 +1,20 @@
+{
+  "chapter_id": "02-value",
+  "question_en": "How is value treated in Chapter 2?",
+  "choices_en": [
+    "As a subjective judgment made by acting individuals",
+    "As an objective property inside goods",
+    "As a number fixed by the state",
+    "As a quantity measured by labor hours alone"
+  ],
+  "question_ko": "2장에서 가치는 어떻게 다뤄지는가?",
+  "choices_ko": [
+    "행동하는 개인이 내리는 주관적 판단",
+    "재화 내부에 있는 객관적 속성",
+    "국가가 고정하는 숫자",
+    "노동시간만으로 측정되는 양"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Value is presented as subjective and rooted in individual valuation.",
+  "explanation_ko": "가치는 개인의 평가에 뿌리를 둔 주관적 판단으로 제시된다."
+}

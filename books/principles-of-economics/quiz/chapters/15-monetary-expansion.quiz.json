@@ -1,0 +1,20 @@
+{
+  "chapter_id": "15-monetary-expansion",
+  "question_en": "What does monetary expansion fail to create, according to Chapter 15?",
+  "choices_en": [
+    "Real capital",
+    "New bank claims",
+    "Short-run euphoria",
+    "Distorted price signals"
+  ],
+  "question_ko": "15장에 따르면 통화 팽창이 만들어내지 못하는 것은 무엇인가?",
+  "choices_ko": [
+    "실제 자본",
+    "새로운 은행 청구권",
+    "단기적 환호",
+    "왜곡된 가격 신호"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter insists that credit expansion cannot substitute for real capital.",
+  "explanation_ko": "이 장은 신용 팽창이 실제 자본을 대신할 수 없다고 강조한다."
+}

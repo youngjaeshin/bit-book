@@ -1,0 +1,20 @@
+{
+  "chapter_id": "03-time",
+  "question_en": "What ultimate scarce resource stands behind all economic action in Chapter 3?",
+  "choices_en": [
+    "Time",
+    "Gold",
+    "Land",
+    "Labor unions"
+  ],
+  "question_ko": "3장에서 모든 경제 행동의 배후에 있는 궁극적 희소 자원은 무엇인가?",
+  "choices_ko": [
+    "시간",
+    "금",
+    "토지",
+    "노동조합"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter argues that time is the ultimate scarce resource behind economic choice.",
+  "explanation_ko": "이 장은 시간 자체가 경제 선택의 배후에 있는 궁극적 희소 자원이라고 본다."
+}

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-human-action",
+  "question_en": "What is economics primarily defined as in Chapter 1?",
+  "choices_en": [
+    "The study of purposeful human action under scarcity",
+    "The study of physical objects alone",
+    "The management of government aggregates",
+    "The prediction of history by equations"
+  ],
+  "question_ko": "1장에서 경제학은 주로 무엇으로 정의되는가?",
+  "choices_ko": [
+    "희소성 아래의 목적 있는 인간 행동을 연구하는 학문",
+    "물리적 사물만 연구하는 학문",
+    "정부 집계를 관리하는 학문",
+    "방정식으로 역사를 예측하는 학문"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter grounds economics in purposeful human action rather than aggregates or material objects alone.",
+  "explanation_ko": "이 장은 경제학의 출발점을 집계나 물질 자체가 아니라 목적 있는 인간 행동에 둔다."
+}

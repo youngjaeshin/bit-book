@@ -1,0 +1,20 @@
+{
+  "chapter_id": "08-energy-and-power",
+  "question_en": "Why is energy treated as central in Chapter 8?",
+  "choices_en": [
+    "Because it expands the quantity and quality of human action",
+    "Because it replaces all capital",
+    "Because it makes trade unnecessary",
+    "Because it removes scarcity entirely"
+  ],
+  "question_ko": "8장에서 에너지가 중심적으로 다뤄지는 이유는 무엇인가?",
+  "choices_ko": [
+    "인간 행동의 양과 질을 확장하기 때문",
+    "모든 자본을 대체하기 때문",
+    "무역을 불필요하게 만들기 때문",
+    "희소성을 완전히 없애기 때문"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter treats energy as a key economic input that broadens productive possibilities.",
+  "explanation_ko": "이 장은 에너지를 생산 가능성을 넓히는 핵심 경제 투입요소로 본다."
+}

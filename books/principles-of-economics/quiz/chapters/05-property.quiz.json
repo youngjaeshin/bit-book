@@ -1,0 +1,20 @@
+{
+  "chapter_id": "05-property",
+  "question_en": "Why does Chapter 5 treat property as foundational?",
+  "choices_en": [
+    "Because scarcity requires rules for exclusive control",
+    "Because property eliminates all conflict automatically",
+    "Because property matters only after production ends",
+    "Because property is unrelated to ethics"
+  ],
+  "question_ko": "5장이 재산권을 기초적 제도로 다루는 이유는 무엇인가?",
+  "choices_ko": [
+    "희소성이 배타적 통제 규칙을 요구하기 때문",
+    "재산권이 자동으로 모든 갈등을 없애기 때문",
+    "생산이 끝난 뒤에만 중요하기 때문",
+    "윤리와 무관하기 때문"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Property is foundational because scarce means require clear rules of control to avoid conflict.",
+  "explanation_ko": "희소한 수단을 둘러싼 갈등을 피하려면 명확한 통제 규칙이 필요하기 때문에 재산권이 기초가 된다."
+}

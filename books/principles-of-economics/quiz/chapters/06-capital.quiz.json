@@ -1,0 +1,20 @@
+{
+  "chapter_id": "06-capital",
+  "question_en": "What does capital mainly represent in Chapter 6?",
+  "choices_en": [
+    "Advance provision and saving for future production",
+    "Only government spending",
+    "Immediate consumption with no delay",
+    "A rejection of planning"
+  ],
+  "question_ko": "6장에서 자본은 주로 무엇을 의미하는가?",
+  "choices_ko": [
+    "미래 생산을 위한 선행 준비와 저축",
+    "오직 정부 지출",
+    "지연 없는 즉각적 소비",
+    "계획의 거부"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Capital is presented as future-oriented provision built through saving and planning.",
+  "explanation_ko": "자본은 저축과 계획을 통해 형성된 미래지향적 준비로 제시된다."
+}

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "09-trade",
+  "question_en": "What makes trade beneficial in Chapter 9?",
+  "choices_en": [
+    "Voluntary exchange and specialization",
+    "One side defeating the other",
+    "The elimination of division of labor",
+    "Central planners fixing every price"
+  ],
+  "question_ko": "9장에서 무역이 유익한 이유는 무엇인가?",
+  "choices_ko": [
+    "자발적 교환과 특화",
+    "한쪽이 다른 쪽을 패배시키기 때문",
+    "분업을 없애기 때문",
+    "중앙계획자가 모든 가격을 고정하기 때문"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Trade benefits both sides through specialization and voluntary exchange.",
+  "explanation_ko": "무역은 특화와 자발적 교환을 통해 양측 모두에게 이익을 준다."
+}

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "07-technology",
+  "question_en": "What is technology primarily treated as in Chapter 7?",
+  "choices_en": [
+    "Human reason applied to production",
+    "A force unrelated to institutions",
+    "A purely state-driven phenomenon",
+    "An enemy of innovation"
+  ],
+  "question_ko": "7장에서 기술은 주로 무엇으로 다뤄지는가?",
+  "choices_ko": [
+    "생산에 적용된 인간 이성",
+    "제도와 무관한 힘",
+    "순전히 국가 주도 현상",
+    "혁신의 적"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Technology is described as reason and innovation applied within production.",
+  "explanation_ko": "기술은 생산에 적용된 이성과 혁신으로 설명된다."
+}

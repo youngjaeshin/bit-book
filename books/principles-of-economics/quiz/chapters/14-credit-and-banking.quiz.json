@@ -1,0 +1,20 @@
+{
+  "chapter_id": "14-credit-and-banking",
+  "question_en": "When does banking become dangerous in Chapter 14?",
+  "choices_en": [
+    "When claims grow beyond real savings",
+    "When credit reflects actual savings",
+    "When savers and borrowers are coordinated",
+    "When money maintains integrity"
+  ],
+  "question_ko": "14장에서 은행이 위험해지는 때는 언제인가?",
+  "choices_ko": [
+    "청구권이 실제 저축을 넘어설 때",
+    "신용이 실제 저축을 반영할 때",
+    "저축가와 차입자가 조정될 때",
+    "화폐가 무결성을 유지할 때"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter warns that banking becomes dangerous when claims multiply beyond real saved resources.",
+  "explanation_ko": "이 장은 청구권이 실제 저축 자원을 넘어 증식할 때 은행이 위험해진다고 본다."
+}

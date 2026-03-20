@@ -1,0 +1,20 @@
+{
+  "chapter_id": "13-time-preference",
+  "question_en": "What does lower time preference support according to Chapter 13?",
+  "choices_en": [
+    "Saving, capital accumulation, and longer planning horizons",
+    "Only immediate consumption",
+    "The rejection of civilization",
+    "The elimination of future-oriented action"
+  ],
+  "question_ko": "13장에 따르면 낮은 시간선호는 무엇을 뒷받침하는가?",
+  "choices_ko": [
+    "저축, 자본 축적, 더 긴 계획 지평",
+    "즉각적 소비만",
+    "문명의 거부",
+    "미래지향적 행동의 제거"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Lower time preference makes longer-term saving and civilization-building possible.",
+  "explanation_ko": "낮은 시간선호는 장기 저축과 문명적 축적을 가능하게 한다."
+}

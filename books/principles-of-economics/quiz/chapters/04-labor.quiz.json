@@ -1,0 +1,20 @@
+{
+  "chapter_id": "04-labor",
+  "question_en": "How is labor described in Chapter 4?",
+  "choices_en": [
+    "As a means to attain ends, not an end in itself",
+    "As a sacred end in itself",
+    "As something technology makes permanently irrelevant",
+    "As an activity outside economic analysis"
+  ],
+  "question_ko": "4장에서 노동은 어떻게 설명되는가?",
+  "choices_ko": [
+    "목적 달성을 위한 수단이지 그 자체가 목적은 아님",
+    "그 자체로 신성한 목적",
+    "기술이 영구히 무의미하게 만드는 것",
+    "경제 분석 바깥의 활동"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Labor is treated as purposeful effort used to achieve chosen ends.",
+  "explanation_ko": "노동은 선택된 목적을 이루기 위한 목적 있는 노력으로 다뤄진다."
+}

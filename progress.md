@@ -132,3 +132,8 @@
 
 - 2026-03-20 11:28 KST | executor | completed | Principles of Economics 영어 digest 18개 초안 작성 완료
 - 2026-03-20 11:28 KST | executor | completed | Principles of Economics 한국어 digest 18개 초안 작성 완료
+
+- 2026-03-20 11:36 KST | executor | started | Principles of Economics 퀴즈/HTML/배포 단계 시작: 장당 퀴즈 생성, 사이트 빌드, Vercel preview 배포
+
+- 2026-03-20 11:40 KST | executor | completed | Principles of Economics 장당 1개 퀴즈 18개 생성 완료
+- 2026-03-20 11:40 KST | executor | completed | Principles of Economics HTML 사이트 빌드 완료 (18개 chapter page + index)

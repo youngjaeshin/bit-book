@@ -1,0 +1,20 @@
+{
+  "chapter_id": "18-civilization",
+  "question_en": "What does Chapter 18 present as the foundation of civilization?",
+  "choices_en": [
+    "Reason, property, division of labor, and peaceful cooperation",
+    "Permanent coercion and monetary distortion",
+    "The abolition of all institutions",
+    "Instinct alone"
+  ],
+  "question_ko": "18장은 문명의 기초를 무엇으로 제시하는가?",
+  "choices_ko": [
+    "이성, 재산권, 분업, 평화적 협력",
+    "영구적 강제와 통화 왜곡",
+    "모든 제도의 폐지",
+    "오직 본능"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter closes by presenting civilization as the result of rational cooperation under supporting institutions.",
+  "explanation_ko": "이 장은 문명을 제도에 의해 뒷받침되는 합리적 협력의 결과로 제시하며 끝난다."
+}

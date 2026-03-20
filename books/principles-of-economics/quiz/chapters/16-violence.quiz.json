@@ -1,0 +1,20 @@
+{
+  "chapter_id": "16-violence",
+  "question_en": "How is violence positioned in Chapter 16?",
+  "choices_en": [
+    "As the opposite principle to voluntary cooperation",
+    "As a natural extension of market exchange",
+    "As economically irrelevant",
+    "As a form of peaceful specialization"
+  ],
+  "question_ko": "16장에서 폭력은 어떻게 위치 지워지는가?",
+  "choices_ko": [
+    "자발적 협력의 반대 원리",
+    "시장 교환의 자연스러운 연장",
+    "경제적으로 무관한 것",
+    "평화적 특화의 한 형태"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter treats violence as the coercive opposite of voluntary order.",
+  "explanation_ko": "이 장은 폭력을 자발적 질서의 강제적 반대 원리로 본다."
+}

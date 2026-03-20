@@ -1,0 +1,20 @@
+{
+  "chapter_id": "12-capitalism",
+  "question_en": "What institutional combination defines capitalism in Chapter 12?",
+  "choices_en": [
+    "Private property, voluntary exchange, and capital accumulation",
+    "State monopoly, rationing, and coercion",
+    "No prices and no profit signals",
+    "Permanent hostility to entrepreneurship"
+  ],
+  "question_ko": "12장에서 자본주의를 규정하는 제도적 결합은 무엇인가?",
+  "choices_ko": [
+    "사적 소유, 자발적 교환, 자본 축적",
+    "국가 독점, 배급, 강제",
+    "가격도 손익 신호도 없는 체제",
+    "기업가정신에 대한 영구적 적대"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter defines capitalism through private property, exchange, and capital accumulation.",
+  "explanation_ko": "이 장은 자본주의를 사적 소유, 교환, 자본 축적의 결합으로 설명한다."
+}

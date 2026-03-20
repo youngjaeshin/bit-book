@@ -1,0 +1,20 @@
+{
+  "chapter_id": "17-defense",
+  "question_en": "What question drives Chapter 17?",
+  "choices_en": [
+    "Whether defense must be monopolized by the state",
+    "Whether trade should be abolished",
+    "Whether money should be ignored",
+    "Whether all law should disappear instantly"
+  ],
+  "question_ko": "17장을 이끄는 핵심 질문은 무엇인가?",
+  "choices_ko": [
+    "방어가 반드시 국가 독점이어야 하는가",
+    "무역을 폐지해야 하는가",
+    "화폐를 무시해야 하는가",
+    "모든 법이 즉시 사라져야 하는가"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter examines whether defense and law must be monopolized by the state.",
+  "explanation_ko": "이 장은 방어와 법이 국가 독점이어야 하는지를 검토한다."
+}

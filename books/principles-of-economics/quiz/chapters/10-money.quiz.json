@@ -1,0 +1,20 @@
+{
+  "chapter_id": "10-money",
+  "question_en": "How does Chapter 10 characterize money?",
+  "choices_en": [
+    "As the most marketable good that coordinates exchange",
+    "As a quantity planners can optimize by decree",
+    "As a purely state-created fiction",
+    "As a substitute for all production"
+  ],
+  "question_ko": "10장은 화폐를 어떻게 규정하는가?",
+  "choices_ko": [
+    "교환을 조정하는 가장 높은 시장성의 재화",
+    "정책 당국이 명령으로 최적화할 수 있는 양",
+    "순전히 국가가 만든 허구",
+    "모든 생산을 대체하는 것"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Money is presented as the most marketable good that emerges to facilitate exchange.",
+  "explanation_ko": "화폐는 교환을 원활하게 하기 위해 등장한 가장 높은 시장성의 재화로 제시된다."
+}
