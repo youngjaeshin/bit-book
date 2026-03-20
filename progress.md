@@ -158,3 +158,5 @@
 - 2026-03-20 12:16 KST | executor | completed | 통합 사이트 홈 디자인 개편 반영 및 라이브러리 재빌드 완료
 
 - 2026-03-20 12:20 KST | executor | completed | 통합 사이트 홈 디자인 개편 커밋/푸시 및 production 재배포 시작
+
+- 2026-03-20 12:24 KST | executor | completed | 홈 단순화 반영: hero 설명/통계/가이드 섹션 제거, 바로 라이브러리 목록이 보이도록 재빌드
