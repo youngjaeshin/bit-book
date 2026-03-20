@@ -167,23 +167,72 @@ h1, h2, h3 { line-height: 1.25; }
 }
 .book-grid.list-mode {
   grid-template-columns: 1fr;
+  gap: 8px;
 }
 .book-grid.list-mode .book-link {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 10px 20px;
+  grid-template-columns: auto minmax(0, 1.4fr) auto auto auto;
+  gap: 10px 14px;
   align-items: center;
+  padding: 12px 14px;
+  border-radius: 14px;
 }
 .book-grid.list-mode .book-card-top,
 .book-grid.list-mode .book-copy,
+.book-grid.list-mode .book-meta-row,
+.book-grid.list-mode .book-cta {
+  margin: 0;
+}
+.book-grid.list-mode .book-card-top {
+  display: contents;
+}
+.book-grid.list-mode .badge {
+  order: 1;
+}
+.book-grid.list-mode .book-author {
+  order: 2;
+  font-size: .85rem;
+}
+.book-grid.list-mode .book-title {
+  order: 3;
+  margin: 0;
+  font-size: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.book-grid.list-mode .book-copy {
+  display: none;
+}
 .book-grid.list-mode .book-meta-row {
-  grid-column: 1 / 2;
+  order: 4;
+  margin: 0;
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+}
+.book-grid.list-mode .meta-pill {
+  font-size: .76rem;
+  padding: 4px 8px;
 }
 .book-grid.list-mode .book-cta {
-  grid-column: 2 / 3;
-  grid-row: 1 / span 3;
-  align-self: center;
+  order: 5;
   white-space: nowrap;
+  font-size: .88rem;
+}
+.book-grid.list-mode .book-card-top > .badge {
+  grid-column: 1 / 2;
+}
+.book-grid.list-mode .book-card-top > .book-author {
+  grid-column: 2 / 3;
+}
+.book-grid.list-mode .book-title {
+  grid-column: 2 / 3;
+}
+.book-grid.list-mode .book-meta-row {
+  grid-column: 4 / 5;
+}
+.book-grid.list-mode .book-cta {
+  grid-column: 5 / 6;
 }
 .chapter-list {
   padding-left: 1.2rem;
@@ -279,8 +328,21 @@ h1, h2, h3 { line-height: 1.25; }
   .book-grid.list-mode .book-link {
     grid-template-columns: 1fr;
   }
+  .book-grid.list-mode .book-card-top {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  .book-grid.list-mode .book-title,
+  .book-grid.list-mode .book-meta-row,
   .book-grid.list-mode .book-cta {
     grid-column: 1 / 2;
-    grid-row: auto;
+  }
+  .book-grid.list-mode .book-title {
+    white-space: normal;
+  }
+  .book-grid.list-mode .book-meta-row {
+    justify-content: flex-start;
+    flex-wrap: wrap;
   }
 }
