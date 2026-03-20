@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: Sound money versus fiat money / 건전 화폐와 법정화폐 — The chapter contrasts sound money, which preserves integrity, with fiat money, which expands by political discretion. / 이 장은 무결성을 지키는 건전 화폐와 정치적 재량으로 팽창하는 법정화폐를 대비한다."
-     data-wrong-text="Answer: Sound money versus fiat money / 건전 화폐와 법정화폐 — The chapter contrasts sound money, which preserves integrity, with fiat money, which expands by political discretion. / 이 장은 무결성을 지키는 건전 화폐와 정치적 재량으로 팽창하는 법정화폐를 대비한다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: Sound money versus fiat money — The chapter contrasts sound money, which preserves integrity, with fiat money, which expands by political discretion."
+     data-wrong-text="Answer: Sound money versus fiat money — The chapter contrasts sound money, which preserves integrity, with fiat money, which expands by political discretion.">
   <h3>Which contrast is central to this chapter?</h3>
-  <p>이 장의 중심 대비는 무엇인가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">Sound money versus fiat money / 건전 화폐와 법정화폐</button><button class="quiz-option" data-option-index="1">Stocks versus bonds / 주식과 채권</button><button class="quiz-option" data-option-index="2">Imports versus exports / 수입과 수출</button><button class="quiz-option" data-option-index="3">Cities versus farms / 도시와 농촌</button>
+    <button class="quiz-option" data-option-index="0">Sound money versus fiat money</button><button class="quiz-option" data-option-index="1">Stocks versus bonds</button><button class="quiz-option" data-option-index="2">Imports versus exports</button><button class="quiz-option" data-option-index="3">Cities versus farms</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 건전 화폐와 법정화폐 — 이 장은 무결성을 지키는 건전 화폐와 정치적 재량으로 팽창하는 법정화폐를 대비한다."
+     data-wrong-text="Answer: 건전 화폐와 법정화폐 — 이 장은 무결성을 지키는 건전 화폐와 정치적 재량으로 팽창하는 법정화폐를 대비한다.">
+  <h3>이 장의 중심 대비는 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">건전 화폐와 법정화폐</button><button class="quiz-option" data-option-index="1">주식과 채권</button><button class="quiz-option" data-option-index="2">수입과 수출</button><button class="quiz-option" data-option-index="3">도시와 농촌</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

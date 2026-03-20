@@ -95,22 +95,29 @@ def chapter_title(path: Path) -> str:
     return path.stem
 
 
-def quiz_to_html(quiz: dict) -> str:
+def quiz_to_html(quiz: dict, lang: str) -> str:
+    if lang == "en":
+        question = quiz["question_en"]
+        choices = quiz["choices_en"]
+        explanation = quiz["explanation_en"]
+        answer_label = quiz["choices_en"][quiz["answer_index"]]
+    else:
+        question = quiz["question_ko"]
+        choices = quiz["choices_ko"]
+        explanation = quiz["explanation_ko"]
+        answer_label = quiz["choices_ko"][quiz["answer_index"]]
+
     options = []
-    for idx, (en, ko) in enumerate(zip(quiz["choices_en"], quiz["choices_ko"])):
-        label = f"{html.escape(en)} / {html.escape(ko)}"
+    for idx, label in enumerate(choices):
         options.append(
-            f'<button class="quiz-option" data-option-index="{idx}">{label}</button>'
+            f'<button class="quiz-option" data-option-index="{idx}">{html.escape(label)}</button>'
         )
-    result = html.escape(
-        f"Answer: {quiz['choices_en'][quiz['answer_index']]} / {quiz['choices_ko'][quiz['answer_index']]} — {quiz['explanation_en']} / {quiz['explanation_ko']}"
-    )
+    result = html.escape(f"Answer: {answer_label} — {explanation}")
     return f"""
 <div class="quiz-box" data-answer-index="{quiz['answer_index']}"
      data-correct-text="{result}"
      data-wrong-text="{result}">
-  <h3>{html.escape(quiz['question_en'])}</h3>
-  <p>{html.escape(quiz['question_ko'])}</p>
+  <h3>{html.escape(question)}</h3>
   <div class="quiz-options">
     {''.join(options)}
   </div>
@@ -135,14 +142,17 @@ def build() -> None:
 
         en_html = markdown_to_html(en_path)
         ko_html = markdown_to_html(ko_path)
-        quiz_html = quiz_to_html(json.loads(quiz_path.read_text()))
+        quiz = json.loads(quiz_path.read_text())
+        quiz_en_html = quiz_to_html(quiz, "en")
+        quiz_ko_html = quiz_to_html(quiz, "ko")
         title = chapter_title(en_path)
         out_html = (
             chapter_template.replace("{{BOOK_TITLE}}", BOOK_TITLE)
             .replace("{{CHAPTER_TITLE}}", title)
             .replace("{{EN_HTML}}", en_html)
             .replace("{{KO_HTML}}", ko_html)
-            .replace("{{QUIZ_HTML}}", quiz_html)
+            .replace("{{QUIZ_EN_HTML}}", quiz_en_html)
+            .replace("{{QUIZ_KO_HTML}}", quiz_ko_html)
         )
         out_path = SITE_CHAPTERS / f"{slug}.html"
         out_path.write_text(out_html)

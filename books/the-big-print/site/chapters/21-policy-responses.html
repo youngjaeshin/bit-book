@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: Restoring limits versus deepening fiat management / 한계 복원과 더 깊은 법정화폐 관리 사이의 선택 — The chapter contrasts institutional restraint with continued interventionist fiat management. / 이 장은 제도적 절제 복원과 개입주의적 법정화폐 관리 지속을 대비한다."
-     data-wrong-text="Answer: Restoring limits versus deepening fiat management / 한계 복원과 더 깊은 법정화폐 관리 사이의 선택 — The chapter contrasts institutional restraint with continued interventionist fiat management. / 이 장은 제도적 절제 복원과 개입주의적 법정화폐 관리 지속을 대비한다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: Restoring limits versus deepening fiat management — The chapter contrasts institutional restraint with continued interventionist fiat management."
+     data-wrong-text="Answer: Restoring limits versus deepening fiat management — The chapter contrasts institutional restraint with continued interventionist fiat management.">
   <h3>What policy fork does the chapter present?</h3>
-  <p>이 장이 제시하는 정책적 갈림길은 무엇인가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">Restoring limits versus deepening fiat management / 한계 복원과 더 깊은 법정화폐 관리 사이의 선택</button><button class="quiz-option" data-option-index="1">Ending all trade versus ending all industry / 모든 무역 종식과 모든 산업 종식 사이의 선택</button><button class="quiz-option" data-option-index="2">Replacing money with barter versus replacing markets with commands / 화폐를 물물교환으로 대체할지 명령으로 시장을 대체할지의 선택</button><button class="quiz-option" data-option-index="3">Lowering population versus lowering productivity / 인구 감소와 생산성 감소 사이의 선택</button>
+    <button class="quiz-option" data-option-index="0">Restoring limits versus deepening fiat management</button><button class="quiz-option" data-option-index="1">Ending all trade versus ending all industry</button><button class="quiz-option" data-option-index="2">Replacing money with barter versus replacing markets with commands</button><button class="quiz-option" data-option-index="3">Lowering population versus lowering productivity</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 한계 복원과 더 깊은 법정화폐 관리 사이의 선택 — 이 장은 제도적 절제 복원과 개입주의적 법정화폐 관리 지속을 대비한다."
+     data-wrong-text="Answer: 한계 복원과 더 깊은 법정화폐 관리 사이의 선택 — 이 장은 제도적 절제 복원과 개입주의적 법정화폐 관리 지속을 대비한다.">
+  <h3>이 장이 제시하는 정책적 갈림길은 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">한계 복원과 더 깊은 법정화폐 관리 사이의 선택</button><button class="quiz-option" data-option-index="1">모든 무역 종식과 모든 산업 종식 사이의 선택</button><button class="quiz-option" data-option-index="2">화폐를 물물교환으로 대체할지 명령으로 시장을 대체할지의 선택</button><button class="quiz-option" data-option-index="3">인구 감소와 생산성 감소 사이의 선택</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

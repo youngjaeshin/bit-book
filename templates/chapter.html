@@ -29,17 +29,24 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        {{QUIZ_HTML}}
+        <div class="quiz-panel active" data-lang="en">
+          {{QUIZ_EN_HTML}}
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          {{QUIZ_KO_HTML}}
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

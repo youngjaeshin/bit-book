@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: To distinguish sound-money discipline from fiat-generated crises / 건전 화폐의 절제와 법정화폐가 만든 위기를 구분하는 것 — The chapter repeatedly argues that critics confuse monetary discipline with crises created by debt and fiat distortion. / 이 장은 비판자들이 건전 화폐의 절제와 부채·법정화폐 왜곡이 만든 위기를 혼동한다고 본다."
-     data-wrong-text="Answer: To distinguish sound-money discipline from fiat-generated crises / 건전 화폐의 절제와 법정화폐가 만든 위기를 구분하는 것 — The chapter repeatedly argues that critics confuse monetary discipline with crises created by debt and fiat distortion. / 이 장은 비판자들이 건전 화폐의 절제와 부채·법정화폐 왜곡이 만든 위기를 혼동한다고 본다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: To distinguish sound-money discipline from fiat-generated crises — The chapter repeatedly argues that critics confuse monetary discipline with crises created by debt and fiat distortion."
+     data-wrong-text="Answer: To distinguish sound-money discipline from fiat-generated crises — The chapter repeatedly argues that critics confuse monetary discipline with crises created by debt and fiat distortion.">
   <h3>What is one main purpose of this chapter’s rebuttals?</h3>
-  <p>이 장의 반박들이 가진 주요 목적 중 하나는 무엇인가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">To distinguish sound-money discipline from fiat-generated crises / 건전 화폐의 절제와 법정화폐가 만든 위기를 구분하는 것</button><button class="quiz-option" data-option-index="1">To deny that history matters / 역사가 중요하지 않다고 부정하는 것</button><button class="quiz-option" data-option-index="2">To avoid discussing criticism altogether / 비판 자체를 피하는 것</button><button class="quiz-option" data-option-index="3">To argue that every objection is irrational / 모든 반론이 비이성적이라고 주장하는 것</button>
+    <button class="quiz-option" data-option-index="0">To distinguish sound-money discipline from fiat-generated crises</button><button class="quiz-option" data-option-index="1">To deny that history matters</button><button class="quiz-option" data-option-index="2">To avoid discussing criticism altogether</button><button class="quiz-option" data-option-index="3">To argue that every objection is irrational</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 건전 화폐의 절제와 법정화폐가 만든 위기를 구분하는 것 — 이 장은 비판자들이 건전 화폐의 절제와 부채·법정화폐 왜곡이 만든 위기를 혼동한다고 본다."
+     data-wrong-text="Answer: 건전 화폐의 절제와 법정화폐가 만든 위기를 구분하는 것 — 이 장은 비판자들이 건전 화폐의 절제와 부채·법정화폐 왜곡이 만든 위기를 혼동한다고 본다.">
+  <h3>이 장의 반박들이 가진 주요 목적 중 하나는 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">건전 화폐의 절제와 법정화폐가 만든 위기를 구분하는 것</button><button class="quiz-option" data-option-index="1">역사가 중요하지 않다고 부정하는 것</button><button class="quiz-option" data-option-index="2">비판 자체를 피하는 것</button><button class="quiz-option" data-option-index="3">모든 반론이 비이성적이라고 주장하는 것</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

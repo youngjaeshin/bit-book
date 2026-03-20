@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: Saving and capital formation / 저축과 자본 형성 — Classical economics is presented as a framework in which saving and capital formation drive growth. / 이 장은 고전파 경제학에서 저축과 자본 형성이 성장의 기반이라고 본다."
-     data-wrong-text="Answer: Saving and capital formation / 저축과 자본 형성 — Classical economics is presented as a framework in which saving and capital formation drive growth. / 이 장은 고전파 경제학에서 저축과 자본 형성이 성장의 기반이라고 본다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: Saving and capital formation — Classical economics is presented as a framework in which saving and capital formation drive growth."
+     data-wrong-text="Answer: Saving and capital formation — Classical economics is presented as a framework in which saving and capital formation drive growth.">
   <h3>According to this chapter, real prosperity grows mainly through what?</h3>
-  <p>이 장에 따르면 실질적 번영은 주로 무엇을 통해 성장하는가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">Saving and capital formation / 저축과 자본 형성</button><button class="quiz-option" data-option-index="1">Constant stimulus spending / 끊임없는 경기 부양 지출</button><button class="quiz-option" data-option-index="2">Permanent negative rates / 영구적 마이너스 금리</button><button class="quiz-option" data-option-index="3">Removing prices from markets / 가격 신호의 제거</button>
+    <button class="quiz-option" data-option-index="0">Saving and capital formation</button><button class="quiz-option" data-option-index="1">Constant stimulus spending</button><button class="quiz-option" data-option-index="2">Permanent negative rates</button><button class="quiz-option" data-option-index="3">Removing prices from markets</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 저축과 자본 형성 — 이 장은 고전파 경제학에서 저축과 자본 형성이 성장의 기반이라고 본다."
+     data-wrong-text="Answer: 저축과 자본 형성 — 이 장은 고전파 경제학에서 저축과 자본 형성이 성장의 기반이라고 본다.">
+  <h3>이 장에 따르면 실질적 번영은 주로 무엇을 통해 성장하는가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">저축과 자본 형성</button><button class="quiz-option" data-option-index="1">끊임없는 경기 부양 지출</button><button class="quiz-option" data-option-index="2">영구적 마이너스 금리</button><button class="quiz-option" data-option-index="3">가격 신호의 제거</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

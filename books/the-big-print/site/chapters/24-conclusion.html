@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: As a form of theft with personal and social consequences / 개인적·사회적 결과를 낳는 절도의 한 형태 — The conclusion frames inflation as monetary theft that damages ordinary life and social trust. / 결론은 인플레이션을 일상과 사회적 신뢰를 훼손하는 화폐적 절도로 본다."
-     data-wrong-text="Answer: As a form of theft with personal and social consequences / 개인적·사회적 결과를 낳는 절도의 한 형태 — The conclusion frames inflation as monetary theft that damages ordinary life and social trust. / 결론은 인플레이션을 일상과 사회적 신뢰를 훼손하는 화폐적 절도로 본다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: As a form of theft with personal and social consequences — The conclusion frames inflation as monetary theft that damages ordinary life and social trust."
+     data-wrong-text="Answer: As a form of theft with personal and social consequences — The conclusion frames inflation as monetary theft that damages ordinary life and social trust.">
   <h3>How is inflation characterized in the conclusion?</h3>
-  <p>결론에서 인플레이션은 어떻게 규정되는가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">As a form of theft with personal and social consequences / 개인적·사회적 결과를 낳는 절도의 한 형태</button><button class="quiz-option" data-option-index="1">As a harmless technical detail / 무해한 기술적 세부사항</button><button class="quiz-option" data-option-index="2">As an inevitable sign of progress / 진보의 불가피한 징표</button><button class="quiz-option" data-option-index="3">As a purely foreign-policy issue / 순전히 외교 정책 문제</button>
+    <button class="quiz-option" data-option-index="0">As a form of theft with personal and social consequences</button><button class="quiz-option" data-option-index="1">As a harmless technical detail</button><button class="quiz-option" data-option-index="2">As an inevitable sign of progress</button><button class="quiz-option" data-option-index="3">As a purely foreign-policy issue</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 개인적·사회적 결과를 낳는 절도의 한 형태 — 결론은 인플레이션을 일상과 사회적 신뢰를 훼손하는 화폐적 절도로 본다."
+     data-wrong-text="Answer: 개인적·사회적 결과를 낳는 절도의 한 형태 — 결론은 인플레이션을 일상과 사회적 신뢰를 훼손하는 화폐적 절도로 본다.">
+  <h3>결론에서 인플레이션은 어떻게 규정되는가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">개인적·사회적 결과를 낳는 절도의 한 형태</button><button class="quiz-option" data-option-index="1">무해한 기술적 세부사항</button><button class="quiz-option" data-option-index="2">진보의 불가피한 징표</button><button class="quiz-option" data-option-index="3">순전히 외교 정책 문제</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

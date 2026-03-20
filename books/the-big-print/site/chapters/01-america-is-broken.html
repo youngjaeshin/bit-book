@@ -51,26 +51,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: Inflation built into the financial system / 금융 시스템에 내장된 인플레이션 — The chapter argues that inflation is built into the American financial system and redistributes wealth upward. / 이 장은 인플레이션이 미국 금융 시스템에 내장되어 있으며 부를 위로 재분배한다고 본다."
-     data-wrong-text="Answer: Inflation built into the financial system / 금융 시스템에 내장된 인플레이션 — The chapter argues that inflation is built into the American financial system and redistributes wealth upward. / 이 장은 인플레이션이 미국 금융 시스템에 내장되어 있으며 부를 위로 재분배한다고 본다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: Inflation built into the financial system — The chapter argues that inflation is built into the American financial system and redistributes wealth upward."
+     data-wrong-text="Answer: Inflation built into the financial system — The chapter argues that inflation is built into the American financial system and redistributes wealth upward.">
   <h3>What does the chapter identify as a structural force that pushes wealth upward?</h3>
-  <p>이 장은 무엇을 부를 위로 끌어올리는 구조적 힘으로 제시하는가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">Inflation built into the financial system / 금융 시스템에 내장된 인플레이션</button><button class="quiz-option" data-option-index="1">Population decline / 인구 감소</button><button class="quiz-option" data-option-index="2">Gold scarcity / 금 부족</button><button class="quiz-option" data-option-index="3">Balanced federal budgets / 균형 재정</button>
+    <button class="quiz-option" data-option-index="0">Inflation built into the financial system</button><button class="quiz-option" data-option-index="1">Population decline</button><button class="quiz-option" data-option-index="2">Gold scarcity</button><button class="quiz-option" data-option-index="3">Balanced federal budgets</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 금융 시스템에 내장된 인플레이션 — 이 장은 인플레이션이 미국 금융 시스템에 내장되어 있으며 부를 위로 재분배한다고 본다."
+     data-wrong-text="Answer: 금융 시스템에 내장된 인플레이션 — 이 장은 인플레이션이 미국 금융 시스템에 내장되어 있으며 부를 위로 재분배한다고 본다.">
+  <h3>이 장은 무엇을 부를 위로 끌어올리는 구조적 힘으로 제시하는가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">금융 시스템에 내장된 인플레이션</button><button class="quiz-option" data-option-index="1">인구 감소</button><button class="quiz-option" data-option-index="2">금 부족</button><button class="quiz-option" data-option-index="3">균형 재정</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

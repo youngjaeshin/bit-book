@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: Policy follows underlying theory / 정책은 밑바탕의 이론을 따른다 — The chapter argues that different theories generate different policy regimes and outcomes. / 이 장은 서로 다른 이론이 서로 다른 정책 체제와 결과를 만든다고 본다."
-     data-wrong-text="Answer: Policy follows underlying theory / 정책은 밑바탕의 이론을 따른다 — The chapter argues that different theories generate different policy regimes and outcomes. / 이 장은 서로 다른 이론이 서로 다른 정책 체제와 결과를 만든다고 본다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: Policy follows underlying theory — The chapter argues that different theories generate different policy regimes and outcomes."
+     data-wrong-text="Answer: Policy follows underlying theory — The chapter argues that different theories generate different policy regimes and outcomes.">
   <h3>What does the chapter suggest about policy and economic theory?</h3>
-  <p>이 장은 정책과 경제 이론의 관계를 어떻게 보나?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">Policy follows underlying theory / 정책은 밑바탕의 이론을 따른다</button><button class="quiz-option" data-option-index="1">Policy has nothing to do with theory / 정책은 이론과 무관하다</button><button class="quiz-option" data-option-index="2">Theory matters only in recessions / 이론은 불황기에만 중요하다</button><button class="quiz-option" data-option-index="3">Only voters determine theory / 유권자만이 이론을 결정한다</button>
+    <button class="quiz-option" data-option-index="0">Policy follows underlying theory</button><button class="quiz-option" data-option-index="1">Policy has nothing to do with theory</button><button class="quiz-option" data-option-index="2">Theory matters only in recessions</button><button class="quiz-option" data-option-index="3">Only voters determine theory</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 정책은 밑바탕의 이론을 따른다 — 이 장은 서로 다른 이론이 서로 다른 정책 체제와 결과를 만든다고 본다."
+     data-wrong-text="Answer: 정책은 밑바탕의 이론을 따른다 — 이 장은 서로 다른 이론이 서로 다른 정책 체제와 결과를 만든다고 본다.">
+  <h3>이 장은 정책과 경제 이론의 관계를 어떻게 보나?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">정책은 밑바탕의 이론을 따른다</button><button class="quiz-option" data-option-index="1">정책은 이론과 무관하다</button><button class="quiz-option" data-option-index="2">이론은 불황기에만 중요하다</button><button class="quiz-option" data-option-index="3">유권자만이 이론을 결정한다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

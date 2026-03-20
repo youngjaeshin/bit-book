@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: Financialization, bailouts, and cheap money / 금융화, 구제금융, 값싼 돈 — The chapter sees the post-1971 period as one of growing financialization, serial bailouts, and progressively cheaper money. / 이 장은 1971년 이후를 심화되는 금융화, 반복적 구제금융, 값싼 돈의 시대로 본다."
-     data-wrong-text="Answer: Financialization, bailouts, and cheap money / 금융화, 구제금융, 값싼 돈 — The chapter sees the post-1971 period as one of growing financialization, serial bailouts, and progressively cheaper money. / 이 장은 1971년 이후를 심화되는 금융화, 반복적 구제금융, 값싼 돈의 시대로 본다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: Financialization, bailouts, and cheap money — The chapter sees the post-1971 period as one of growing financialization, serial bailouts, and progressively cheaper money."
+     data-wrong-text="Answer: Financialization, bailouts, and cheap money — The chapter sees the post-1971 period as one of growing financialization, serial bailouts, and progressively cheaper money.">
   <h3>What pattern defines the post-1971 era in this chapter?</h3>
-  <p>이 장에서 1971년 이후 시대를 규정하는 패턴은 무엇인가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">Financialization, bailouts, and cheap money / 금융화, 구제금융, 값싼 돈</button><button class="quiz-option" data-option-index="1">Stable sound-money discipline / 안정적인 건전 화폐 절제</button><button class="quiz-option" data-option-index="2">Falling state intervention / 국가 개입의 축소</button><button class="quiz-option" data-option-index="3">The disappearance of debt / 부채의 소멸</button>
+    <button class="quiz-option" data-option-index="0">Financialization, bailouts, and cheap money</button><button class="quiz-option" data-option-index="1">Stable sound-money discipline</button><button class="quiz-option" data-option-index="2">Falling state intervention</button><button class="quiz-option" data-option-index="3">The disappearance of debt</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 금융화, 구제금융, 값싼 돈 — 이 장은 1971년 이후를 심화되는 금융화, 반복적 구제금융, 값싼 돈의 시대로 본다."
+     data-wrong-text="Answer: 금융화, 구제금융, 값싼 돈 — 이 장은 1971년 이후를 심화되는 금융화, 반복적 구제금융, 값싼 돈의 시대로 본다.">
+  <h3>이 장에서 1971년 이후 시대를 규정하는 패턴은 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">금융화, 구제금융, 값싼 돈</button><button class="quiz-option" data-option-index="1">안정적인 건전 화폐 절제</button><button class="quiz-option" data-option-index="2">국가 개입의 축소</button><button class="quiz-option" data-option-index="3">부채의 소멸</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

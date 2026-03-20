@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: Deflation can be healthy under productivity growth / 생산성 상승 아래에서는 디플레이션이 건강할 수 있다 — The chapter defends productivity-driven deflation as a sign of abundance rather than disease. / 이 장은 생산성에 기반한 디플레이션을 병이 아니라 풍요의 신호로 옹호한다."
-     data-wrong-text="Answer: Deflation can be healthy under productivity growth / 생산성 상승 아래에서는 디플레이션이 건강할 수 있다 — The chapter defends productivity-driven deflation as a sign of abundance rather than disease. / 이 장은 생산성에 기반한 디플레이션을 병이 아니라 풍요의 신호로 옹호한다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: Deflation can be healthy under productivity growth — The chapter defends productivity-driven deflation as a sign of abundance rather than disease."
+     data-wrong-text="Answer: Deflation can be healthy under productivity growth — The chapter defends productivity-driven deflation as a sign of abundance rather than disease.">
   <h3>What claim about deflation is central to this chapter?</h3>
-  <p>이 장의 중심 주장은 디플레이션에 대해 무엇인가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">Deflation can be healthy under productivity growth / 생산성 상승 아래에서는 디플레이션이 건강할 수 있다</button><button class="quiz-option" data-option-index="1">Deflation is always destructive / 디플레이션은 언제나 파괴적이다</button><button class="quiz-option" data-option-index="2">Deflation only benefits governments / 디플레이션은 정부에만 이익이 된다</button><button class="quiz-option" data-option-index="3">Deflation eliminates all debt instantly / 디플레이션은 즉시 모든 부채를 없앤다</button>
+    <button class="quiz-option" data-option-index="0">Deflation can be healthy under productivity growth</button><button class="quiz-option" data-option-index="1">Deflation is always destructive</button><button class="quiz-option" data-option-index="2">Deflation only benefits governments</button><button class="quiz-option" data-option-index="3">Deflation eliminates all debt instantly</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 생산성 상승 아래에서는 디플레이션이 건강할 수 있다 — 이 장은 생산성에 기반한 디플레이션을 병이 아니라 풍요의 신호로 옹호한다."
+     data-wrong-text="Answer: 생산성 상승 아래에서는 디플레이션이 건강할 수 있다 — 이 장은 생산성에 기반한 디플레이션을 병이 아니라 풍요의 신호로 옹호한다.">
+  <h3>이 장의 중심 주장은 디플레이션에 대해 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">생산성 상승 아래에서는 디플레이션이 건강할 수 있다</button><button class="quiz-option" data-option-index="1">디플레이션은 언제나 파괴적이다</button><button class="quiz-option" data-option-index="2">디플레이션은 정부에만 이익이 된다</button><button class="quiz-option" data-option-index="3">디플레이션은 즉시 모든 부채를 없앤다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

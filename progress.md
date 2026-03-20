@@ -113,3 +113,5 @@
 - 2026-03-20 10:40 KST | executor | started | 한국어 heading 정리: `요약`을 전체에서 `요약`으로 통일
 
 - 2026-03-20 10:44 KST | executor | completed | 한국어 heading 통일 완료: `읽는 느낌의 요약` → `요약`, HTML 재빌드 반영
+
+- 2026-03-20 10:49 KST | executor | completed | 퀴즈 언어 분리 반영: 영어/한국어 퀴즈를 각 언어 패널에 맞춰 분리하고 사이트 재빌드

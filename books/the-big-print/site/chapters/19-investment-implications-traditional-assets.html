@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: Nominal returns versus real purchasing power / 명목 수익과 실질 구매력 — The chapter stresses that fiat disorder can inflate nominal gains while real purchasing power erodes. / 이 장은 법정화폐 혼란 아래에서는 명목 수익이 커 보여도 실질 구매력은 악화될 수 있다고 본다."
-     data-wrong-text="Answer: Nominal returns versus real purchasing power / 명목 수익과 실질 구매력 — The chapter stresses that fiat disorder can inflate nominal gains while real purchasing power erodes. / 이 장은 법정화폐 혼란 아래에서는 명목 수익이 커 보여도 실질 구매력은 악화될 수 있다고 본다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: Nominal returns versus real purchasing power — The chapter stresses that fiat disorder can inflate nominal gains while real purchasing power erodes."
+     data-wrong-text="Answer: Nominal returns versus real purchasing power — The chapter stresses that fiat disorder can inflate nominal gains while real purchasing power erodes.">
   <h3>What distinction becomes crucial when evaluating traditional assets?</h3>
-  <p>전통 자산을 평가할 때 결정적으로 중요해지는 구분은 무엇인가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">Nominal returns versus real purchasing power / 명목 수익과 실질 구매력</button><button class="quiz-option" data-option-index="1">Morning trades versus afternoon trades / 오전 거래와 오후 거래</button><button class="quiz-option" data-option-index="2">Domestic assets versus foreign language assets / 국내 자산과 외국어 자산</button><button class="quiz-option" data-option-index="3">Weekday prices versus weekend prices / 평일 가격과 주말 가격</button>
+    <button class="quiz-option" data-option-index="0">Nominal returns versus real purchasing power</button><button class="quiz-option" data-option-index="1">Morning trades versus afternoon trades</button><button class="quiz-option" data-option-index="2">Domestic assets versus foreign language assets</button><button class="quiz-option" data-option-index="3">Weekday prices versus weekend prices</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 명목 수익과 실질 구매력 — 이 장은 법정화폐 혼란 아래에서는 명목 수익이 커 보여도 실질 구매력은 악화될 수 있다고 본다."
+     data-wrong-text="Answer: 명목 수익과 실질 구매력 — 이 장은 법정화폐 혼란 아래에서는 명목 수익이 커 보여도 실질 구매력은 악화될 수 있다고 본다.">
+  <h3>전통 자산을 평가할 때 결정적으로 중요해지는 구분은 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">명목 수익과 실질 구매력</button><button class="quiz-option" data-option-index="1">오전 거래와 오후 거래</button><button class="quiz-option" data-option-index="2">국내 자산과 외국어 자산</button><button class="quiz-option" data-option-index="3">평일 가격과 주말 가격</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {

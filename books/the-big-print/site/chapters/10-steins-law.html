@@ -47,26 +47,40 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-box" data-answer-index="0"
-     data-correct-text="Answer: What cannot continue forever will stop / 영원히 지속될 수 없는 것은 결국 멈춘다 — The chapter uses Stein’s Law to stress the inevitability of an end to unsustainable debt growth. / 이 장은 지속 불가능한 부채 경로가 결국 끝날 수밖에 없다는 필연성을 강조한다."
-     data-wrong-text="Answer: What cannot continue forever will stop / 영원히 지속될 수 없는 것은 결국 멈춘다 — The chapter uses Stein’s Law to stress the inevitability of an end to unsustainable debt growth. / 이 장은 지속 불가능한 부채 경로가 결국 끝날 수밖에 없다는 필연성을 강조한다.">
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: What cannot continue forever will stop — The chapter uses Stein’s Law to stress the inevitability of an end to unsustainable debt growth."
+     data-wrong-text="Answer: What cannot continue forever will stop — The chapter uses Stein’s Law to stress the inevitability of an end to unsustainable debt growth.">
   <h3>What does Stein’s Law mean in this context?</h3>
-  <p>이 맥락에서 스타인의 법칙은 무엇을 뜻하는가?</p>
   <div class="quiz-options">
-    <button class="quiz-option" data-option-index="0">What cannot continue forever will stop / 영원히 지속될 수 없는 것은 결국 멈춘다</button><button class="quiz-option" data-option-index="1">Every debt problem solves itself / 모든 부채 문제는 스스로 해결된다</button><button class="quiz-option" data-option-index="2">Inflation always lowers debt pain / 인플레이션은 언제나 부채 부담을 줄인다</button><button class="quiz-option" data-option-index="3">Growth permanently outruns leverage / 성장은 항상 레버리지를 앞선다</button>
+    <button class="quiz-option" data-option-index="0">What cannot continue forever will stop</button><button class="quiz-option" data-option-index="1">Every debt problem solves itself</button><button class="quiz-option" data-option-index="2">Inflation always lowers debt pain</button><button class="quiz-option" data-option-index="3">Growth permanently outruns leverage</button>
   </div>
   <div class="quiz-result" hidden></div>
 </div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 영원히 지속될 수 없는 것은 결국 멈춘다 — 이 장은 지속 불가능한 부채 경로가 결국 끝날 수밖에 없다는 필연성을 강조한다."
+     data-wrong-text="Answer: 영원히 지속될 수 없는 것은 결국 멈춘다 — 이 장은 지속 불가능한 부채 경로가 결국 끝날 수밖에 없다는 필연성을 강조한다.">
+  <h3>이 맥락에서 스타인의 법칙은 무엇을 뜻하는가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">영원히 지속될 수 없는 것은 결국 멈춘다</button><button class="quiz-option" data-option-index="1">모든 부채 문제는 스스로 해결된다</button><button class="quiz-option" data-option-index="2">인플레이션은 언제나 부채 부담을 줄인다</button><button class="quiz-option" data-option-index="3">성장은 항상 레버리지를 앞선다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
       </section>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");
       const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
       buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
           const lang = btn.dataset.lang;
           buttons.forEach((b) => b.classList.toggle("active", b === btn));
           panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
         });
       });
       document.querySelectorAll(".quiz-option").forEach((btn) => {
