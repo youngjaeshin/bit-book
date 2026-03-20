@@ -1,0 +1,80 @@
+[
+  {
+    "toc_index": 1,
+    "title": "Front Matter",
+    "src": "POE-Title.xhtml",
+    "reason": "front matter"
+  },
+  {
+    "toc_index": 2,
+    "title": "Copyright",
+    "src": "POE-Copyright.xhtml",
+    "reason": "front matter"
+  },
+  {
+    "toc_index": 3,
+    "title": "Dedication",
+    "src": "POE-Dedication.xhtml",
+    "reason": "front matter"
+  },
+  {
+    "toc_index": 4,
+    "title": "Table of Contents",
+    "src": "POE-TOC.xhtml",
+    "reason": "front matter"
+  },
+  {
+    "toc_index": 5,
+    "title": "About the Author",
+    "src": "POE-Author.xhtml",
+    "reason": "front matter"
+  },
+  {
+    "toc_index": 6,
+    "title": "Introduction",
+    "src": "POE-Intro.xhtml",
+    "reason": "front matter"
+  },
+  {
+    "toc_index": 7,
+    "title": "PART I. FUNDAMENTALS",
+    "src": "POE-PART-ONE.xhtml",
+    "reason": "part divider (group heading only)"
+  },
+  {
+    "toc_index": 32,
+    "title": "PART II. ECONOMY",
+    "src": "POE-PART-TWO.xhtml",
+    "reason": "part divider (group heading only)"
+  },
+  {
+    "toc_index": 65,
+    "title": "PART III. THE MARKET ORDER",
+    "src": "POE-PART-THREE.xhtml",
+    "reason": "part divider (group heading only)"
+  },
+  {
+    "toc_index": 95,
+    "title": "PART IV. MONETARY ECONOMICS",
+    "src": "POE-PART-FOUR.xhtml",
+    "reason": "part divider (group heading only)"
+  },
+  {
+    "toc_index": 113,
+    "title": "PART V. CIVILIZATION",
+    "src": "POE-PART-FIVE.xhtml",
+    "reason": "part divider (group heading only)"
+  },
+  {
+    "toc_index": 130,
+    "title": "Appendix 1",
+    "src": "POE-APPENDIX.xhtml",
+    "reason": "back matter"
+  },
+  {
+    "toc_index": 131,
+    "title": "Bibliography",
+    "src": "POE-BIBLIO.xhtml",
+    "reason": "back matter"
+  }
+]

@@ -4,7 +4,7 @@
 
 - Date: 2026-03-20
 - Phase: big_print_published_next_book_initialized
-- Current top unblocked task: `EPUB-003`
+- Current top unblocked task: `EPUB-004`
 - Blockers: 없음
 - Recommended next role: `explore` 또는 `executor`
 
@@ -121,3 +121,9 @@
 - 2026-03-20 11:03 KST | executor | completed | Big Print production 배포 완료: https://site-ochre-omega.vercel.app
 - 2026-03-20 11:03 KST | executor | completed | 다음 책 초기화: `Principles of Economics - Ammous, Saifedean_9883.epub` 메타데이터/TOC 추출 및 books/principles-of-economics 스캐폴드 생성
 - 2026-03-20 11:03 KST | executor | completed | plan/progress 갱신: 다음 우선 작업을 EPUB-003 (Principles of Economics 분리 전략)으로 변경
+
+- 2026-03-20 11:08 KST | executor | started | EPUB-003 시작: Principles of Economics의 제외 목록과 chapter-level 분리 기준 확정 작업 시작
+
+- 2026-03-20 11:12 KST | executor | completed | EPUB-003 완료: Principles of Economics의 front matter 제외 목록, chapter-level 포함 기준, subsection anchor 병합 기준 확정
+
+- 2026-03-20 11:16 KST | executor | completed | EPUB-004 완료: Principles of Economics chapter-map 기준 source chapter 18개 추출
