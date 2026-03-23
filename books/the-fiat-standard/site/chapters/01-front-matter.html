@@ -1,26 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Front Matter · The Fiat Standard</title>
+    <title>{{CHAPTER_TITLE}} · 피아트 스탠다드</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <main class="container">
       <nav class="topnav">
-        <a href="../index.html">← Back to index</a>
+        <a href="../index.html">← 목차로 돌아가기</a>
       </nav>
-      <header class="hero compact">
-        <p class="eyebrow">The Fiat Standard</p>
-        <h1>Front Matter</h1>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">피아트 스탠다드</p>
+        <h1>서문과 문제 설정</h1>
+        <p class="reading-subtitle">The Fiat Standard · Front Matter</p>
       </header>
-      <div class="lang-toggle">
-        <button class="lang-btn active" data-lang="en">English</button>
-        <button class="lang-btn" data-lang="ko">한국어</button>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
       </div>
-      <section class="grid">
-        <article class="card lang-panel active" data-lang="en">
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
           <div class="digest">
 <h2>Front Matter</h2>
 <h3>Chapter Digest</h3>
@@ -32,7 +33,7 @@
 <ul><li>Fiat as technology</li><li>Salability across space</li><li>Monetary engineering</li><li>Sequel to The Bitcoin Standard</li><li>Functional analysis of fiat</li></ul>
 </div>
         </article>
-        <article class="card lang-panel" data-lang="ko">
+        <article class="card lang-panel active" data-lang="ko">
           <div class="digest">
 <h2>서문과 문제 설정</h2>
 <h3>요약</h3>
@@ -47,7 +48,7 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-panel active" data-lang="en">
+        <div class="quiz-panel" data-lang="en">
           <div class="quiz-box" data-answer-index="1"
      data-correct-text="Answer: As a technology with functions and failure modes — The opening explicitly frames fiat as a technology to be analyzed in terms of uses and failure modes."
      data-wrong-text="Answer: As a technology with functions and failure modes — The opening explicitly frames fiat as a technology to be analyzed in terms of uses and failure modes.">
@@ -58,7 +59,7 @@
   <div class="quiz-result" hidden></div>
 </div>
         </div>
-        <div class="quiz-panel" data-lang="ko">
+        <div class="quiz-panel active" data-lang="ko">
           <div class="quiz-box" data-answer-index="1"
      data-correct-text="Answer: 기능과 고장 방식을 가진 기술로 — 서두는 법정화폐를 기능과 실패 양식을 가진 기술로 분석하겠다고 밝힌다."
      data-wrong-text="Answer: 기능과 고장 방식을 가진 기술로 — 서두는 법정화폐를 기능과 실패 양식을 가진 기술로 분석하겠다고 밝힌다.">
@@ -70,6 +71,10 @@
 </div>
         </div>
       </section>
+      <nav class="chapter-pagination">
+        
+        <a class="chapter-nav-link next" href="./02-fiat-money-part-i.html">→ 다음 장 · 피아트 머니 1</a>
+      </nav>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");

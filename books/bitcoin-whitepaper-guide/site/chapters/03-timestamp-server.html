@@ -1,26 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Timestamp Server · Bitcoin Whitepaper Guide</title>
+    <title>{{CHAPTER_TITLE}} · 비트코인 백서 해설</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <main class="container">
       <nav class="topnav">
-        <a href="../index.html">← Back to index</a>
+        <a href="../index.html">← 목차로 돌아가기</a>
       </nav>
-      <header class="hero compact">
-        <p class="eyebrow">Bitcoin Whitepaper Guide</p>
-        <h1>Timestamp Server</h1>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>타임스탬프 서버</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · Timestamp Server</p>
       </header>
-      <div class="lang-toggle">
-        <button class="lang-btn active" data-lang="en">English</button>
-        <button class="lang-btn" data-lang="ko">한국어</button>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
       </div>
-      <section class="grid">
-        <article class="card lang-panel active" data-lang="en">
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
           <div class="digest">
 <h2>Timestamp Server</h2>
 <h3>Chapter Digest</h3>
@@ -32,7 +33,7 @@
 <ul><li>Timestamp server</li><li>Event ordering</li><li>Hash chaining</li><li>Public auditability</li><li>Tamper resistance</li></ul>
 </div>
         </article>
-        <article class="card lang-panel" data-lang="ko">
+        <article class="card lang-panel active" data-lang="ko">
           <div class="digest">
 <h2>타임스탬프 서버</h2>
 <h3>요약</h3>
@@ -47,7 +48,7 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-panel active" data-lang="en">
+        <div class="quiz-panel" data-lang="en">
           <div class="quiz-box" data-answer-index="0"
      data-correct-text="Answer: The order of events in a public record — The timestamp server secures the ordering of events in a publicly auditable record."
      data-wrong-text="Answer: The order of events in a public record — The timestamp server secures the ordering of events in a publicly auditable record.">
@@ -58,7 +59,7 @@
   <div class="quiz-result" hidden></div>
 </div>
         </div>
-        <div class="quiz-panel" data-lang="ko">
+        <div class="quiz-panel active" data-lang="ko">
           <div class="quiz-box" data-answer-index="0"
      data-correct-text="Answer: 공개 기록 안의 사건 순서 — 타임스탬프 서버는 공개적으로 검증 가능한 기록 안의 사건 순서를 확보한다."
      data-wrong-text="Answer: 공개 기록 안의 사건 순서 — 타임스탬프 서버는 공개적으로 검증 가능한 기록 안의 사건 순서를 확보한다.">
@@ -70,6 +71,10 @@
 </div>
         </div>
       </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./02-transactions.html">← 이전 장 · 거래</a>
+        <a class="chapter-nav-link next" href="./04-proof-of-work.html">→ 다음 장 · 작업증명</a>
+      </nav>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");

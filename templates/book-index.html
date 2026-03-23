@@ -1,20 +1,25 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{BOOK_TITLE}}</title>
     <link rel="stylesheet" href="./assets/styles.css" />
   </head>
-  <body>
+  <body class="library-book-page">
     <main class="container">
-      <header class="hero">
-        <p class="eyebrow">Book Digest</p>
-        <h1>{{BOOK_TITLE}}</h1>
-        <p class="subtitle">{{BOOK_SUBTITLE}}</p>
+      <nav class="topnav">
+        <a href="../../../library-site/index.html">← 책장으로 돌아가기</a>
+      </nav>
+      <header class="hero book-hero">
+        <div class="book-hero-copy">
+          <p class="eyebrow">BTC-BOOK</p>
+          <h1>{{BOOK_TITLE}}</h1>
+          <p class="subtitle">{{BOOK_SUBTITLE}}</p>
+        </div>
       </header>
       <section class="card">
-        <h2>Chapters</h2>
+        <h2>목차</h2>
         <ol class="chapter-list">
           {{CHAPTER_LIST}}
         </ol>

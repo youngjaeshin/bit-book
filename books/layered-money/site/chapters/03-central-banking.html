@@ -1,26 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Central Banking · Layered Money</title>
+    <title>{{CHAPTER_TITLE}} · 레이어드 머니</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <main class="container">
       <nav class="topnav">
-        <a href="../index.html">← Back to index</a>
+        <a href="../index.html">← 목차로 돌아가기</a>
       </nav>
-      <header class="hero compact">
-        <p class="eyebrow">Layered Money</p>
-        <h1>Central Banking</h1>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">레이어드 머니</p>
+        <h1>중앙은행</h1>
+        <p class="reading-subtitle">Layered Money · Central Banking</p>
       </header>
-      <div class="lang-toggle">
-        <button class="lang-btn active" data-lang="en">English</button>
-        <button class="lang-btn" data-lang="ko">한국어</button>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
       </div>
-      <section class="grid">
-        <article class="card lang-panel active" data-lang="en">
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
           <div class="digest">
 <h2>Central Banking</h2>
 <h3>Chapter Digest</h3>
@@ -32,7 +33,7 @@
 <ul><li>Central banking</li><li>Reserve concentration</li><li>Lender of last resort</li><li>Socialized risk</li><li>Political management of money</li></ul>
 </div>
         </article>
-        <article class="card lang-panel" data-lang="ko">
+        <article class="card lang-panel active" data-lang="ko">
           <div class="digest">
 <h2>중앙은행</h2>
 <h3>요약</h3>
@@ -47,7 +48,7 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-panel active" data-lang="en">
+        <div class="quiz-panel" data-lang="en">
           <div class="quiz-box" data-answer-index="0"
      data-correct-text="Answer: As a concentration of power within the monetary hierarchy — The unit portrays central banking as concentrating monetary power within the layered system."
      data-wrong-text="Answer: As a concentration of power within the monetary hierarchy — The unit portrays central banking as concentrating monetary power within the layered system.">
@@ -58,7 +59,7 @@
   <div class="quiz-result" hidden></div>
 </div>
         </div>
-        <div class="quiz-panel" data-lang="ko">
+        <div class="quiz-panel active" data-lang="ko">
           <div class="quiz-box" data-answer-index="0"
      data-correct-text="Answer: 통화 위계 안의 권력 집중으로 — 이 단위는 중앙은행을 레이어 구조 안의 통화 권력 집중으로 묘사한다."
      data-wrong-text="Answer: 통화 위계 안의 권력 집중으로 — 이 단위는 중앙은행을 레이어 구조 안의 통화 권력 집중으로 묘사한다.">
@@ -70,6 +71,10 @@
 </div>
         </div>
       </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./02-the-emergence-of-layered-money.html">← 이전 장 · 레이어드 머니의 출현</a>
+        <a class="chapter-nav-link next" href="./04-federal-reserve-system.html">→ 다음 장 · 연방준비제도 시스템</a>
+      </nav>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");

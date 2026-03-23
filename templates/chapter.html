@@ -1,41 +1,46 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{CHAPTER_TITLE}} · {{BOOK_TITLE}}</title>
+    <title>{{CHAPTER_TITLE_KO}} · {{BOOK_TITLE_KO}}</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
-  <body>
+  <body class="library-book-page library-reading-page">
     <main class="container">
       <nav class="topnav">
-        <a href="../index.html">← Back to index</a>
+        <a href="../index.html">← 목차로 돌아가기</a>
       </nav>
-      <header class="hero compact">
-        <p class="eyebrow">{{BOOK_TITLE}}</p>
-        <h1>{{CHAPTER_TITLE}}</h1>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">{{BOOK_TITLE_KO}}</p>
+        <h1>{{CHAPTER_TITLE_KO}}</h1>
+        <p class="reading-subtitle">{{BOOK_TITLE_EN}} · {{CHAPTER_TITLE_EN}}</p>
       </header>
-      <div class="lang-toggle">
-        <button class="lang-btn active" data-lang="en">English</button>
-        <button class="lang-btn" data-lang="ko">한국어</button>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
       </div>
-      <section class="grid">
-        <article class="card lang-panel active" data-lang="en">
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
           {{EN_HTML}}
         </article>
-        <article class="card lang-panel" data-lang="ko">
+        <article class="card lang-panel active" data-lang="ko">
           {{KO_HTML}}
         </article>
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-panel active" data-lang="en">
+        <div class="quiz-panel" data-lang="en">
           {{QUIZ_EN_HTML}}
         </div>
-        <div class="quiz-panel" data-lang="ko">
+        <div class="quiz-panel active" data-lang="ko">
           {{QUIZ_KO_HTML}}
         </div>
       </section>
+      <nav class="chapter-pagination">
+        {{PREV_LINK}}
+        {{NEXT_LINK}}
+      </nav>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");

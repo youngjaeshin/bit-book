@@ -1,26 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Fiat Life I · The Fiat Standard</title>
+    <title>{{CHAPTER_TITLE}} · 피아트 스탠다드</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <main class="container">
       <nav class="topnav">
-        <a href="../index.html">← Back to index</a>
+        <a href="../index.html">← 목차로 돌아가기</a>
       </nav>
-      <header class="hero compact">
-        <p class="eyebrow">The Fiat Standard</p>
-        <h1>Fiat Life I</h1>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">피아트 스탠다드</p>
+        <h1>피아트 머니 4</h1>
+        <p class="reading-subtitle">The Fiat Standard · Fiat Life I</p>
       </header>
-      <div class="lang-toggle">
-        <button class="lang-btn active" data-lang="en">English</button>
-        <button class="lang-btn" data-lang="ko">한국어</button>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
       </div>
-      <section class="grid">
-        <article class="card lang-panel active" data-lang="en">
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
           <div class="digest">
 <h2>Fiat Life I</h2>
 <h3>Chapter Digest</h3>
@@ -33,7 +34,7 @@
 <ul><li>Fiat life</li><li>Time preference</li><li>Processed food</li><li>Industrial agriculture</li><li>Distorted incentives</li></ul>
 </div>
         </article>
-        <article class="card lang-panel" data-lang="ko">
+        <article class="card lang-panel active" data-lang="ko">
           <div class="digest">
 <h2>피아트 머니 4</h2>
 <h3>요약</h3>
@@ -49,7 +50,7 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-panel active" data-lang="en">
+        <div class="quiz-panel" data-lang="en">
           <div class="quiz-box" data-answer-index="1"
      data-correct-text="Answer: Because fiat-aligned incentives reward scalable, subsidized, low-quality production — The chapter treats food degradation as one visible output of distorted monetary incentives."
      data-wrong-text="Answer: Because fiat-aligned incentives reward scalable, subsidized, low-quality production — The chapter treats food degradation as one visible output of distorted monetary incentives.">
@@ -60,7 +61,7 @@
   <div class="quiz-result" hidden></div>
 </div>
         </div>
-        <div class="quiz-panel" data-lang="ko">
+        <div class="quiz-panel active" data-lang="ko">
           <div class="quiz-box" data-answer-index="1"
      data-correct-text="Answer: 법정화폐적 유인이 확장 가능하고 보조금에 기대며 질 낮은 생산을 보상하기 때문에 — 이 장은 식품의 질 저하를 왜곡된 통화 유인이 만들어 낸 가시적 결과 중 하나로 본다."
      data-wrong-text="Answer: 법정화폐적 유인이 확장 가능하고 보조금에 기대며 질 낮은 생산을 보상하기 때문에 — 이 장은 식품의 질 저하를 왜곡된 통화 유인이 만들어 낸 가시적 결과 중 하나로 본다.">
@@ -72,6 +73,10 @@
 </div>
         </div>
       </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./04-fiat-money-part-iii.html">← 이전 장 · 피아트 머니 3</a>
+        <a class="chapter-nav-link next" href="./06-fiat-life-part-i.html">→ 다음 장 · 피아트 라이프 1</a>
+      </nav>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");

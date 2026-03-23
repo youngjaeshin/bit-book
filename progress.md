@@ -340,3 +340,8 @@
 - 2026-03-23 21:56 KST | executor | completed | 비트코인 필수 12권 로컬 자체검수 완료: 12권 모두 source/content/quiz/site 산출물 존재, curated library-site 로컬 빌드 기준 12권 published 확인
 - 2026-03-23 21:58 KST | executor | completed | `레이어드 머니` source 정합성 보정: chapter-map 기준 10개 source markdown 재추출 완료
 - 2026-03-23 22:00 KST | executor | completed | 비트코인 필수 12권 최종 재검증: 12권 모두 source/content/quiz/site 개수 일치, library-site ready 카드 12개 확인
+
+- 2026-03-23 22:05 KST | executor | completed | 단독 책 사이트 템플릿 정합성 보정: build_book_site를 책장 UI와 맞춰 KO 기본 탭/한국어 제목/이전다음 네비게이션 지원으로 수정
+- 2026-03-23 22:07 KST | executor | completed | 비트코인 필수 12권 단독 사이트 전권 재빌드 및 library-site 로컬 재빌드 완료
+- 2026-03-23 22:09 KST | executor | completed | 최종 검증: 샘플 3권 기준 단독 챕터 페이지에서 한국어 탭 기본 활성/퀴즈 한국어 기본 활성/이전다음 네비 존재 확인
+- 2026-03-23 22:08 KST | executor | completed | 템플릿/네비게이션 반영 후 12권 책 사이트 + library-site 전체 재빌드 완료

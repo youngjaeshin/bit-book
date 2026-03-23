@@ -1,26 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Economics B · 21 Lessons</title>
+    <title>{{CHAPTER_TITLE}} · 21가지 교훈</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <main class="container">
       <nav class="topnav">
-        <a href="../index.html">← Back to index</a>
+        <a href="../index.html">← 목차로 돌아가기</a>
       </nav>
-      <header class="hero compact">
-        <p class="eyebrow">21 Lessons</p>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">21가지 교훈</p>
         <h1>Economics B</h1>
+        <p class="reading-subtitle">21 Lessons · Economics B</p>
       </header>
-      <div class="lang-toggle">
-        <button class="lang-btn active" data-lang="en">English</button>
-        <button class="lang-btn" data-lang="ko">한국어</button>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
       </div>
-      <section class="grid">
-        <article class="card lang-panel active" data-lang="en">
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
           <div class="digest">
 <h2>Economics B</h2>
 <h3>Chapter Digest</h3>
@@ -33,7 +34,7 @@
 <ul><li>Barter problem</li><li>Commodity money</li><li>Representative money</li><li>Fiat money</li><li>Legal tender</li></ul>
 </div>
         </article>
-        <article class="card lang-panel" data-lang="ko">
+        <article class="card lang-panel active" data-lang="ko">
           <div class="digest">
 <h2>Economics B</h2>
 <h3>요약</h3>
@@ -49,7 +50,7 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-panel active" data-lang="en">
+        <div class="quiz-panel" data-lang="en">
           <div class="quiz-box" data-answer-index="1"
      data-correct-text="Answer: Commodity/representative anchors versus fiat decree — The chapter contrasts money anchored in scarce reality with money maintained by political decree."
      data-wrong-text="Answer: Commodity/representative anchors versus fiat decree — The chapter contrasts money anchored in scarce reality with money maintained by political decree.">
@@ -60,7 +61,7 @@
   <div class="quiz-result" hidden></div>
 </div>
         </div>
-        <div class="quiz-panel" data-lang="ko">
+        <div class="quiz-panel active" data-lang="ko">
           <div class="quiz-box" data-answer-index="1"
      data-correct-text="Answer: 상품/대표 화폐의 닻과 법정화폐의 선언 — 이 장은 희소한 현실에 닻을 둔 화폐와 정치적 선언으로 유지되는 화폐를 대비한다."
      data-wrong-text="Answer: 상품/대표 화폐의 닻과 법정화폐의 선언 — 이 장은 희소한 현실에 닻을 둔 화폐와 정치적 선언으로 유지되는 화폐를 대비한다.">
@@ -72,6 +73,10 @@
 </div>
         </div>
       </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./03-economics-a.html">← 이전 장 · Economics A</a>
+        <a class="chapter-nav-link next" href="./05-economics-c.html">→ 다음 장 · Economics C</a>
+      </nav>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");

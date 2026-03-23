@@ -1,50 +1,55 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>비트코인 사용 가이드</title>
     <link rel="stylesheet" href="./assets/styles.css" />
   </head>
-  <body>
+  <body class="library-book-page">
     <main class="container">
-      <header class="hero">
-        <p class="eyebrow">Book Digest</p>
-        <h1>비트코인 사용 가이드</h1>
-        <p class="subtitle">개인 지갑 · 결제 · 풀 노드 · 라이트닝 노드 · 노스터 · 홈 채굴 가이드</p>
+      <nav class="topnav">
+        <a href="../../../library-site/index.html">← 책장으로 돌아가기</a>
+      </nav>
+      <header class="hero book-hero">
+        <div class="book-hero-copy">
+          <p class="eyebrow">BTC-BOOK</p>
+          <h1>비트코인 사용 가이드</h1>
+          <p class="subtitle">Bitcoin User Guide</p>
+        </div>
       </header>
       <section class="card">
-        <h2>Chapters</h2>
+        <h2>목차</h2>
         <ol class="chapter-list">
-          <li><a href="./chapters/01-preface-and-review.html">01 Preface And Review</a></li>
-<li><a href="./chapters/02-basics.html">02 Basics</a></li>
-<li><a href="./chapters/03-keystone-wallet.html">03 Keystone Wallet</a></li>
-<li><a href="./chapters/04-seedsigner-wallet.html">04 Seedsigner Wallet</a></li>
-<li><a href="./chapters/05-airgapped-phone-wallet.html">05 Airgapped Phone Wallet</a></li>
-<li><a href="./chapters/06-exchange-to-personal-wallet.html">06 Exchange To Personal Wallet</a></li>
-<li><a href="./chapters/07-personal-wallet-to-exchange.html">07 Personal Wallet To Exchange</a></li>
-<li><a href="./chapters/08-sparrow-and-utxo.html">08 Sparrow And Utxo</a></li>
-<li><a href="./chapters/09-fees-rbf-cpfp.html">09 Fees Rbf Cpfp</a></li>
-<li><a href="./chapters/10-passphrase-and-multisig.html">10 Passphrase And Multisig</a></li>
-<li><a href="./chapters/11-bitcoin-is-money.html">11 Bitcoin Is Money</a></li>
-<li><a href="./chapters/12-custodial-wallets-and-payments.html">12 Custodial Wallets And Payments</a></li>
-<li><a href="./chapters/13-retail-payments-and-acceptance.html">13 Retail Payments And Acceptance</a></li>
-<li><a href="./chapters/14-full-node-concepts.html">14 Full Node Concepts</a></li>
-<li><a href="./chapters/15-umbrel-home.html">15 Umbrel Home</a></li>
-<li><a href="./chapters/16-mini-pc-and-raspberry-pi.html">16 Mini Pc And Raspberry Pi</a></li>
-<li><a href="./chapters/17-laptop-installation-and-sync.html">17 Laptop Installation And Sync</a></li>
-<li><a href="./chapters/18-remote-access-and-watch-only.html">18 Remote Access And Watch Only</a></li>
-<li><a href="./chapters/19-mempool-rpc-and-reachable-node.html">19 Mempool Rpc And Reachable Node</a></li>
-<li><a href="./chapters/20-windows-mac-local-integration.html">20 Windows Mac Local Integration</a></li>
-<li><a href="./chapters/21-lightning-concepts-and-install.html">21 Lightning Concepts And Install</a></li>
-<li><a href="./chapters/22-lightning-daily-ops.html">22 Lightning Daily Ops</a></li>
-<li><a href="./chapters/23-lightning-remote-access-and-settings.html">23 Lightning Remote Access And Settings</a></li>
-<li><a href="./chapters/24-channel-management-and-addresses.html">24 Channel Management And Addresses</a></li>
-<li><a href="./chapters/25-btcpay-and-online-store.html">25 Btcpay And Online Store</a></li>
-<li><a href="./chapters/26-nostr-basics.html">26 Nostr Basics</a></li>
-<li><a href="./chapters/27-nostr-advanced.html">27 Nostr Advanced</a></li>
-<li><a href="./chapters/28-home-mining-basics.html">28 Home Mining Basics</a></li>
-<li><a href="./chapters/29-datum-and-appendices.html">29 Datum And Appendices</a></li>
+          <li><a href="./chapters/01-preface-and-review.html">서문 + 감수의 글</a></li>
+<li><a href="./chapters/02-basics.html">1부 기본 지식</a></li>
+<li><a href="./chapters/03-keystone-wallet.html">키스톤 지갑</a></li>
+<li><a href="./chapters/04-seedsigner-wallet.html">시드사이너 지갑</a></li>
+<li><a href="./chapters/05-airgapped-phone-wallet.html">공기계 지갑</a></li>
+<li><a href="./chapters/06-exchange-to-personal-wallet.html">거래소 → 개인지갑</a></li>
+<li><a href="./chapters/07-personal-wallet-to-exchange.html">개인지갑 → 거래소</a></li>
+<li><a href="./chapters/08-sparrow-and-utxo.html">스패로우 + UTXO</a></li>
+<li><a href="./chapters/09-fees-rbf-cpfp.html">수수료/RBF/CPFP</a></li>
+<li><a href="./chapters/10-passphrase-and-multisig.html">패스프레이즈 + 멀티시그</a></li>
+<li><a href="./chapters/11-bitcoin-is-money.html">비트코인은 돈이다</a></li>
+<li><a href="./chapters/12-custodial-wallets-and-payments.html">수탁 지갑 + 결제</a></li>
+<li><a href="./chapters/13-retail-payments-and-acceptance.html">오프라인/온라인 매장 결제받기</a></li>
+<li><a href="./chapters/14-full-node-concepts.html">풀 노드 개념</a></li>
+<li><a href="./chapters/15-umbrel-home.html">엄브렐 홈</a></li>
+<li><a href="./chapters/16-mini-pc-and-raspberry-pi.html">미니PC/라즈베리파이 설치</a></li>
+<li><a href="./chapters/17-laptop-installation-and-sync.html">노트북 설치 + 동기화</a></li>
+<li><a href="./chapters/18-remote-access-and-watch-only.html">외부 접속 + 워치온리 연동</a></li>
+<li><a href="./chapters/19-mempool-rpc-and-reachable-node.html">멤풀/RPC/도달 가능한 노드</a></li>
+<li><a href="./chapters/20-windows-mac-local-integration.html">Windows/Mac/로컬 연동</a></li>
+<li><a href="./chapters/21-lightning-concepts-and-install.html">라이트닝 개념 + 설치</a></li>
+<li><a href="./chapters/22-lightning-daily-ops.html">일상적 라이트닝 운영</a></li>
+<li><a href="./chapters/23-lightning-remote-access-and-settings.html">외부 접속 + 설정</a></li>
+<li><a href="./chapters/24-channel-management-and-addresses.html">채널 관리 + 라이트닝 주소</a></li>
+<li><a href="./chapters/25-btcpay-and-online-store.html">BTCPay 기반 온라인 결제</a></li>
+<li><a href="./chapters/26-nostr-basics.html">노스터 기초</a></li>
+<li><a href="./chapters/27-nostr-advanced.html">노스터 확장/긴 글/릴레이/NWC</a></li>
+<li><a href="./chapters/28-home-mining-basics.html">홈 채굴 기초</a></li>
+<li><a href="./chapters/29-datum-and-appendices.html">Datum + 부록 1 + 부록 2</a></li>
         </ol>
       </section>
     </main>

@@ -1,26 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Reclaiming Disk Space and SPV · Bitcoin Whitepaper Guide</title>
+    <title>{{CHAPTER_TITLE}} · 비트코인 백서 해설</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <main class="container">
       <nav class="topnav">
-        <a href="../index.html">← Back to index</a>
+        <a href="../index.html">← 목차로 돌아가기</a>
       </nav>
-      <header class="hero compact">
-        <p class="eyebrow">Bitcoin Whitepaper Guide</p>
-        <h1>Reclaiming Disk Space and SPV</h1>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>디스크 공간 재확보와 SPV</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · Reclaiming Disk Space and SPV</p>
       </header>
-      <div class="lang-toggle">
-        <button class="lang-btn active" data-lang="en">English</button>
-        <button class="lang-btn" data-lang="ko">한국어</button>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
       </div>
-      <section class="grid">
-        <article class="card lang-panel active" data-lang="en">
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
           <div class="digest">
 <h2>Reclaiming Disk Space and SPV</h2>
 <h3>Chapter Digest</h3>
@@ -32,7 +33,7 @@
 <ul><li>Pruning</li><li>SPV</li><li>Differential participation</li><li>Shared security foundation</li><li>Trust minimization at scale</li></ul>
 </div>
         </article>
-        <article class="card lang-panel" data-lang="ko">
+        <article class="card lang-panel active" data-lang="ko">
           <div class="digest">
 <h2>디스크 공간 재확보와 SPV</h2>
 <h3>요약</h3>
@@ -47,7 +48,7 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-panel active" data-lang="en">
+        <div class="quiz-panel" data-lang="en">
           <div class="quiz-box" data-answer-index="1"
      data-correct-text="Answer: Lighter participation can exist without abandoning the shared security foundation — The section shows that lighter participation can still rest on the security of the full system."
      data-wrong-text="Answer: Lighter participation can exist without abandoning the shared security foundation — The section shows that lighter participation can still rest on the security of the full system.">
@@ -58,7 +59,7 @@
   <div class="quiz-result" hidden></div>
 </div>
         </div>
-        <div class="quiz-panel" data-lang="ko">
+        <div class="quiz-panel active" data-lang="ko">
           <div class="quiz-box" data-answer-index="1"
      data-correct-text="Answer: 더 가벼운 참여도 공통 보안 기반을 버리지 않고 가능하다는 점 — 이 단위는 가벼운 참여도 전체 시스템의 보안 위에 설 수 있음을 보여 준다."
      data-wrong-text="Answer: 더 가벼운 참여도 공통 보안 기반을 버리지 않고 가능하다는 점 — 이 단위는 가벼운 참여도 전체 시스템의 보안 위에 설 수 있음을 보여 준다.">
@@ -70,6 +71,10 @@
 </div>
         </div>
       </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./06-incentives.html">← 이전 장 · 인센티브</a>
+        <a class="chapter-nav-link next" href="./08-combining-splitting-and-privacy.html">→ 다음 장 · 금액 합치기와 나누기, 프라이버시</a>
+      </nav>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");

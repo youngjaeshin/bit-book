@@ -1,26 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Calculations · Bitcoin Whitepaper Guide</title>
+    <title>{{CHAPTER_TITLE}} · 비트코인 백서 해설</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body>
     <main class="container">
       <nav class="topnav">
-        <a href="../index.html">← Back to index</a>
+        <a href="../index.html">← 목차로 돌아가기</a>
       </nav>
-      <header class="hero compact">
-        <p class="eyebrow">Bitcoin Whitepaper Guide</p>
-        <h1>Calculations</h1>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>계산</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · Calculations</p>
       </header>
-      <div class="lang-toggle">
-        <button class="lang-btn active" data-lang="en">English</button>
-        <button class="lang-btn" data-lang="ko">한국어</button>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
       </div>
-      <section class="grid">
-        <article class="card lang-panel active" data-lang="en">
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
           <div class="digest">
 <h2>Calculations</h2>
 <h3>Chapter Digest</h3>
@@ -32,7 +33,7 @@
 <ul><li>Hash power</li><li>Confirmation depth</li><li>Attack probability</li><li>Probabilistic security</li><li>Quantified robustness</li></ul>
 </div>
         </article>
-        <article class="card lang-panel" data-lang="ko">
+        <article class="card lang-panel active" data-lang="ko">
           <div class="digest">
 <h2>계산</h2>
 <h3>요약</h3>
@@ -47,7 +48,7 @@
       </section>
       <section class="card quiz-card">
         <h2>Quiz / 퀴즈</h2>
-        <div class="quiz-panel active" data-lang="en">
+        <div class="quiz-panel" data-lang="en">
           <div class="quiz-box" data-answer-index="0"
      data-correct-text="Answer: A probabilistic measure of attack difficulty and confirmation security — The section quantifies security by relating attack success to hash power and confirmation depth."
      data-wrong-text="Answer: A probabilistic measure of attack difficulty and confirmation security — The section quantifies security by relating attack success to hash power and confirmation depth.">
@@ -58,7 +59,7 @@
   <div class="quiz-result" hidden></div>
 </div>
         </div>
-        <div class="quiz-panel" data-lang="ko">
+        <div class="quiz-panel active" data-lang="ko">
           <div class="quiz-box" data-answer-index="0"
      data-correct-text="Answer: 공격 난이도와 확인 보안에 대한 확률적 측정 — 이 장은 공격 성공 가능성을 해시 파워와 확인 수에 연결해 보안을 확률적으로 정량화한다."
      data-wrong-text="Answer: 공격 난이도와 확인 보안에 대한 확률적 측정 — 이 장은 공격 성공 가능성을 해시 파워와 확인 수에 연결해 보안을 확률적으로 정량화한다.">
@@ -70,6 +71,10 @@
 </div>
         </div>
       </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./08-combining-splitting-and-privacy.html">← 이전 장 · 금액 합치기와 나누기, 프라이버시</a>
+        <a class="chapter-nav-link next" href="./10-conclusion-and-closing.html">→ 다음 장 · 결론과 마무리</a>
+      </nav>
     </main>
     <script>
       const buttons = document.querySelectorAll(".lang-btn");

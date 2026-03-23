@@ -86,6 +86,15 @@ def chapter_title(path: Path) -> str:
     return path.stem
 
 
+def chapter_nav_link(href: str, label: str, direction: str) -> str:
+    arrow = "←" if direction == "prev" else "→"
+    extra_class = " next" if direction == "next" else ""
+    return (
+        f'<a class="chapter-nav-link{extra_class}" href="{html.escape(href)}">'
+        f'{arrow} {html.escape(label)}</a>'
+    )
+
+
 def quiz_to_html(quiz: dict, lang: str) -> str:
     if lang == "en":
         question = quiz["question_en"]
@@ -135,8 +144,20 @@ def build(book_slug: str, book_title: str, book_subtitle: str) -> None:
 
     chapter_entries = []
     chapter_template = (TEMPLATES / "chapter.html").read_text()
+    chapter_files = sorted(en_dir.glob("*.md"))
+    chapter_meta: list[dict[str, str]] = []
+    for en_path in chapter_files:
+        slug = en_path.stem
+        ko_path = ko_dir / en_path.name
+        chapter_meta.append(
+            {
+                "slug": slug,
+                "en_title": chapter_title(en_path),
+                "ko_title": chapter_title(ko_path),
+            }
+        )
 
-    for en_path in sorted(en_dir.glob("*.md")):
+    for idx, en_path in enumerate(chapter_files):
         slug = en_path.stem
         ko_path = ko_dir / en_path.name
         quiz_path = quiz_dir / f"{slug}.quiz.json"
@@ -146,19 +167,37 @@ def build(book_slug: str, book_title: str, book_subtitle: str) -> None:
         quiz = json.loads(quiz_path.read_text())
         quiz_en_html = quiz_to_html(quiz, "en")
         quiz_ko_html = quiz_to_html(quiz, "ko")
-        title = chapter_title(en_path)
+        title_en = chapter_title(en_path)
+        title_ko = chapter_title(ko_path)
+        prev_link = ""
+        next_link = ""
+        if idx > 0:
+            prev_meta = chapter_meta[idx - 1]
+            prev_link = chapter_nav_link(
+                f"./{prev_meta['slug']}.html", f"이전 장 · {prev_meta['ko_title']}", "prev"
+            )
+        if idx < len(chapter_meta) - 1:
+            next_meta = chapter_meta[idx + 1]
+            next_link = chapter_nav_link(
+                f"./{next_meta['slug']}.html", f"다음 장 · {next_meta['ko_title']}", "next"
+            )
         out_html = (
             chapter_template.replace("{{BOOK_TITLE}}", book_title)
-            .replace("{{CHAPTER_TITLE}}", title)
+            .replace("{{BOOK_TITLE_KO}}", book_title)
+            .replace("{{BOOK_TITLE_EN}}", book_subtitle)
+            .replace("{{CHAPTER_TITLE_KO}}", title_ko)
+            .replace("{{CHAPTER_TITLE_EN}}", title_en)
             .replace("{{EN_HTML}}", en_html)
             .replace("{{KO_HTML}}", ko_html)
             .replace("{{QUIZ_EN_HTML}}", quiz_en_html)
             .replace("{{QUIZ_KO_HTML}}", quiz_ko_html)
+            .replace("{{PREV_LINK}}", prev_link)
+            .replace("{{NEXT_LINK}}", next_link)
         )
         out_path = site_chapters / f"{slug}.html"
         out_path.write_text(out_html)
         chapter_entries.append(
-            f'<li><a href="./chapters/{slug}.html">{html.escape(title)}</a></li>'
+            f'<li><a href="./chapters/{slug}.html">{html.escape(title_ko)}</a></li>'
         )
 
     index_template = (TEMPLATES / "book-index.html").read_text()
