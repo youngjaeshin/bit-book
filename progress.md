@@ -364,3 +364,4 @@
 - 2026-03-24 01:22 KST | executor | completed | `비트코인 사용 가이드` 재요약 반영 후 책 사이트와 library-site 재빌드 완료
 - 2026-03-24 01:34 KST | executor | completed | `비트코인 사용 가이드` EN 재요약 마지막 정리 반영 후 책 사이트와 library-site 재빌드 완료
 - 2026-03-24 01:38 KST | executor | completed | `비트코인 사용 가이드` KO 재요약 마지막 정리 반영 후 책 사이트와 library-site 재빌드 완료
+- 2026-03-24 01:42 KST | executor | completed | `비트코인 사용 가이드` 단일 EN 문장 정리 반영 후 사이트 재빌드 완료
