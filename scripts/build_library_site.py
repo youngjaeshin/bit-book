@@ -710,6 +710,7 @@ def build() -> None:
     for book in books:
         book_out = OUT_DIR / "books" / book["slug"]
         chapters_out = book_out / "chapters"
+        shutil.rmtree(book_out, ignore_errors=True)
         chapters_out.mkdir(parents=True, exist_ok=True)
 
         chapter_entries: list[str] = []
