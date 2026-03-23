@@ -30,6 +30,7 @@ def target_instructions(lang: str, source_chars: int) -> str:
             "짧은 개요가 아니라 저자의 핵심 논지와 전개를 충분히 담는다. "
             "메타 문장 금지: `이 장은`, `이 단위는`, `서두는`, `장 후반부`, `저자는 여기서`, `원문 추출 기준으로 보면`. "
             "독후감/감상 금지. 내용 자체를 직접 압축 서술. "
+            "절대 `## 핵심 포인트`, `## 중요 용어 / 주장`, 불릿 목록을 넣지 않는다. "
             "추출된 반복 머리말/쪽수/잡음은 버리고 실제 내용만 살린다. "
             "반드시 아래 형식만 출력:\n"
             "# <제목>\n\n## 요약\n\n<문단들>\n"
@@ -38,6 +39,7 @@ def target_instructions(lang: str, source_chars: int) -> str:
         f"Write in English. Produce {para_hint} of connected prose. "
         "Preserve the author's argument flow and substantive content. "
         "Do not use meta-summary framing such as `The chapter`, `This chapter`, `The opening`, `This section`, or reader-response language. "
+        "Do not add `## Key Takeaways`, `## Notable Terms / Claims`, or bullet lists. "
         "Ignore repeated headers, page junk, or extraction noise. "
         "Output only this format:\n"
         "# <Title>\n\n## Chapter Digest\n\n<paragraphs>\n"
@@ -121,7 +123,7 @@ def rewrite_slug(slug: str, lang: str) -> None:
         if not rewritten:
             raise RuntimeError(f"Failed to produce valid output for {slug}/{chapter_id} ({lang}): {reason}")
         existing_path.write_text(rewritten)
-        print(f"rewrote {lang} {slug}/{chapter_id}")
+        print(f"rewrote {lang} {slug}/{chapter_id}", flush=True)
 
 
 def main() -> None:
