@@ -6,7 +6,7 @@ The user-activated soft fork crystallized the small-block theory of sovereignty.
 
 This was a constitutional turning point. The UASF made explicit what had previously been an intuition: users were not passive consumers of miner output but active constitutional actors. Even if the exact software pathway was messy, the political meaning was unmistakable.
 
-The chapter therefore marks the moment when small-block arguments moved from theory to direct collective action.
+marks the moment when small-block arguments moved from theory to direct collective action.
 
 ## Key Takeaways
 

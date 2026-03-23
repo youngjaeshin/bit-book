@@ -1,1 +1,20 @@
-{"chapter_id":"12-bitcoin-cost-benefit","question_en":"What makes Bitcoin’s costs different from fiat’s in Ammous’s comparison?","choices_en":["They are mostly explicit instead of hidden and deferred","They do not exist at all","They are borne only by governments","They are purely symbolic"],"question_ko":"아모스의 비교에서 비트코인의 비용이 법정화폐와 다른 점은 무엇인가?","choices_ko":["대체로 명시적이며 숨겨져 연기되지 않는다","아예 존재하지 않는다","오직 정부만 부담한다","순전히 상징적이다"],"answer_index":0,"explanation_en":"Bitcoin’s costs are presented as visible and upfront, unlike fiat’s diffuse hidden transfers.","explanation_ko":"비트코인의 비용은 법정화폐의 확산된 숨겨진 이전과 달리 눈에 보이고 앞에 드러난 것으로 제시된다."}
+{
+  "chapter_id": "12-bitcoin-cost-benefit",
+  "question_en": "What makes Bitcoin’s costs different from fiat’s in Ammous’s comparison?",
+  "choices_en": [
+    "They are mostly explicit instead of hidden and deferred",
+    "They do not exist at all",
+    "They are borne only by governments",
+    "They are purely symbolic"
+  ],
+  "question_ko": "아모스의 비교에서 비트코인의 비용이 법정화폐와 다른 점은 무엇인가?",
+  "choices_ko": [
+    "대체로 명시적이며 숨겨져 연기되지 않는다",
+    "아예 존재하지 않는다",
+    "오직 정부만 부담한다",
+    "순전히 상징적이다"
+  ],
+  "answer_index": 0,
+  "explanation_en": "Bitcoin’s costs are presented as visible and upfront, unlike fiat’s diffuse hidden transfers.",
+  "explanation_ko": "비트코인의 비용은 법정화폐의 확산된 숨겨진 이전과 달리 눈에 보이고 앞에 드러난 것으로 제시된다."
+}

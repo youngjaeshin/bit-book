@@ -1,1 +1,20 @@
-{"chapter_id":"06-fiat-life-2","question_en":"What is the core claim about science and energy under fiat?","choices_en":["They become free from politics","They are increasingly shaped by subsidy and bureaucracy","They no longer require expertise","They become impossible to fund"],"question_ko":"법정화폐 아래 과학과 에너지에 대한 핵심 주장은 무엇인가?","choices_ko":["정치로부터 자유로워진다","보조금과 관료 구조에 점점 더 형성된다","전문성이 더 이상 필요 없어지게 된다","자금 조달이 불가능해진다"],"answer_index":1,"explanation_en":"Ammous argues fiat-financed institutions reward administratively favored paths over truth and discipline.","explanation_ko":"아모스는 법정화폐로 자금이 공급되는 제도가 진실과 규율보다 행정적으로 유리한 경로를 보상한다고 본다."}
+{
+  "chapter_id": "06-fiat-life-2",
+  "question_en": "What is the core claim about science and energy under fiat?",
+  "choices_en": [
+    "They become free from politics",
+    "They are increasingly shaped by subsidy and bureaucracy",
+    "They no longer require expertise",
+    "They become impossible to fund"
+  ],
+  "question_ko": "법정화폐 아래 과학과 에너지에 대한 핵심 주장은 무엇인가?",
+  "choices_ko": [
+    "정치로부터 자유로워진다",
+    "보조금과 관료 구조에 점점 더 형성된다",
+    "전문성이 더 이상 필요 없어지게 된다",
+    "자금 조달이 불가능해진다"
+  ],
+  "answer_index": 1,
+  "explanation_en": "Ammous argues fiat-financed institutions reward administratively favored paths over truth and discipline.",
+  "explanation_ko": "아모스는 법정화폐로 자금이 공급되는 제도가 진실과 규율보다 행정적으로 유리한 경로를 보상한다고 본다."
+}

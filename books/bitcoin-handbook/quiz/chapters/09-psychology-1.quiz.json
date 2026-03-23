@@ -1,1 +1,20 @@
-{"chapter_id":"09-psychology-1","question_en":"What drives Bitcoin diffusion in this unit besides direct understanding?","choices_en":["Strategic imitation and social proof","Compulsory taxation","Guaranteed state subsidies","The disappearance of uncertainty"],"question_ko":"이 단위에서 직접적 이해 외에 비트코인 확산을 이끄는 것은 무엇인가?","choices_ko":["전략적 모방과 사회적 증거","강제 과세","보장된 국가 보조금","불확실성의 소멸"],"answer_index":0,"explanation_en":"The chapter shows that coordination, imitation, and jurisdictional competition all support adoption.","explanation_ko":"이 장은 조정, 모방, 관할권 경쟁이 모두 채택을 밀어 올린다고 본다."}
+{
+  "chapter_id": "09-psychology-1",
+  "question_en": "What drives Bitcoin diffusion in this unit besides direct understanding?",
+  "choices_en": [
+    "Strategic imitation and social proof",
+    "Compulsory taxation",
+    "Guaranteed state subsidies",
+    "The disappearance of uncertainty"
+  ],
+  "question_ko": "이 단위에서 직접적 이해 외에 비트코인 확산을 이끄는 것은 무엇인가?",
+  "choices_ko": [
+    "전략적 모방과 사회적 증거",
+    "강제 과세",
+    "보장된 국가 보조금",
+    "불확실성의 소멸"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter shows that coordination, imitation, and jurisdictional competition all support adoption.",
+  "explanation_ko": "조정, 모방, 관할권 경쟁이 모두 채택을 밀어 올린다고 본다."
+}

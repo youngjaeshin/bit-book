@@ -8,13 +8,13 @@
     "A broken monetary system that redistributes purchasing power upward",
     "A one-time housing shortage"
   ],
-  "question_ko": "이 장은 커지는 좌절과 불평등의 더 깊은 원인을 무엇으로 보는가?",
+  "question_ko": "커지는 좌절과 불평등의 더 깊은 원인을 무엇으로 보는가?",
   "choices_ko": [
     "일시적인 임금 정체만으로",
     "개인의 예산 관리 능력 부족으로",
     "구매력을 위로 재분배하는 고장 난 통화 시스템으로",
     "일회성 주택 부족으로"
   ],
-  "explanation_en": "The chapter argues that broken money redistributes purchasing power upward and makes ordinary effort feel futile.",
-  "explanation_ko": "이 장은 고장 난 돈이 구매력을 위로 재분배하며 평범한 사람들의 노력을 무력하게 만든다고 본다."
+  "explanation_en": "broken money redistributes purchasing power upward and makes ordinary effort feel futile.",
+  "explanation_ko": "고장 난 돈이 구매력을 위로 재분배하며 평범한 사람들의 노력을 무력하게 만든다고 본다."
 }

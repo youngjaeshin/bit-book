@@ -8,7 +8,7 @@
     "As irrelevant to monetary credibility",
     "As costs and constraints flowing from protective design choices"
   ],
-  "question_ko": "이 단위는 많은 비트코인 반론을 어떻게 다루는가?",
+  "question_ko": "많은 비트코인 반론을 어떻게 다루는가?",
   "choices_ko": [
     "최종적 실패 증거로",
     "돈은 국가가 맡아야 한다는 증거로",
@@ -16,5 +16,5 @@
     "보호적 설계 선택에서 나온 비용과 제약으로"
   ],
   "explanation_en": "The chapter recasts many objections as the visible cost of design trade-offs that protect robustness.",
-  "explanation_ko": "이 단위는 많은 반론을 견고함을 지키는 설계 절충의 보이는 비용으로 다시 읽는다."
+  "explanation_ko": "많은 반론을 견고함을 지키는 설계 절충의 보이는 비용으로 다시 읽는다."
 }

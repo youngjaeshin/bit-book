@@ -4,7 +4,7 @@
 
 Layered bitcoin extends the central framework of the book into Bitcoin itself. Bitcoin does not abolish monetary layering; it reorganizes it around a harder base asset. Second layers, side systems, and financial promises can still arise, but they do so with a base layer that cannot be expanded by decree. This changes the character of everything built on top.
 
-The chapter therefore treats Bitcoin as both continuity and rupture. It continues the historical pattern of layered money because higher-order claims and faster settlement systems still emerge. But it breaks from fiat because the underlying layer is no longer politically elastic. Bitcoin can support layering without inheriting the same discretionary monetary corruption.
+treats Bitcoin as both continuity and rupture. It continues the historical pattern of layered money because higher-order claims and faster settlement systems still emerge. But it breaks from fiat because the underlying layer is no longer politically elastic. Bitcoin can support layering without inheriting the same discretionary monetary corruption.
 
 ## Key Takeaways
 

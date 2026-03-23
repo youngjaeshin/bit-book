@@ -6,7 +6,7 @@ The chapter turns from diagnosis to trajectory. A monetary order built on expans
 
 Several endgame possibilities are implied: currency breakdown, debt crises, institutional loss of credibility, or a long deterioration marked by repeated interventions and falling trust. What unites them is the claim that bad money creates a future in which the system must eventually collide with reality. Printing, borrowing, and administrative management can postpone adjustment, but they cannot abolish scarcity or eliminate the social consequences of distortion.
 
-The chapter therefore frames the end not as a melodramatic prediction but as the logical destination of a system built on falsified signals. The longer correction is delayed, the harsher the eventual reckoning tends to become. Monetary disorder does not disappear because it is hidden; it accumulates.
+frames the end not as a melodramatic prediction but as the logical destination of a system built on falsified signals. The longer correction is delayed, the harsher the eventual reckoning tends to become. Monetary disorder does not disappear because it is hidden; it accumulates.
 
 ## Key Takeaways
 

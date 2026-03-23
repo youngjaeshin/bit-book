@@ -1,1 +1,20 @@
-{"chapter_id":"05-fiat-life-1","question_en":"Why does Ammous connect fiat to modern industrial food?","choices_en":["Because fiat abolishes agriculture","Because fiat-aligned incentives reward scalable, subsidized, low-quality production","Because bitcoin requires vegetarianism","Because food has no relation to money"],"question_ko":"아모스가 법정화폐를 현대 산업식 식품과 연결하는 이유는 무엇인가?","choices_ko":["법정화폐가 농업을 없애기 때문에","법정화폐적 유인이 확장 가능하고 보조금에 기대며 질 낮은 생산을 보상하기 때문에","비트코인이 채식을 요구하기 때문에","음식은 돈과 무관하기 때문에"],"answer_index":1,"explanation_en":"The chapter treats food degradation as one visible output of distorted monetary incentives.","explanation_ko":"이 장은 식품의 질 저하를 왜곡된 통화 유인이 만들어 낸 가시적 결과 중 하나로 본다."}
+{
+  "chapter_id": "05-fiat-life-1",
+  "question_en": "Why does Ammous connect fiat to modern industrial food?",
+  "choices_en": [
+    "Because fiat abolishes agriculture",
+    "Because fiat-aligned incentives reward scalable, subsidized, low-quality production",
+    "Because bitcoin requires vegetarianism",
+    "Because food has no relation to money"
+  ],
+  "question_ko": "아모스가 법정화폐를 현대 산업식 식품과 연결하는 이유는 무엇인가?",
+  "choices_ko": [
+    "법정화폐가 농업을 없애기 때문에",
+    "법정화폐적 유인이 확장 가능하고 보조금에 기대며 질 낮은 생산을 보상하기 때문에",
+    "비트코인이 채식을 요구하기 때문에",
+    "음식은 돈과 무관하기 때문에"
+  ],
+  "answer_index": 1,
+  "explanation_en": "The chapter treats food degradation as one visible output of distorted monetary incentives.",
+  "explanation_ko": "식품의 질 저하를 왜곡된 통화 유인이 만들어 낸 가시적 결과 중 하나다."
+}

@@ -2,7 +2,7 @@
 
 ## Chapter Digest
 
-The chapter explains the strange attraction of the dollar by showing that people often demand the dominant currency not because it is healthy money, but because they are trapped inside a system organized around it. Dollar demand is sustained by global debt structures, reserve conventions, trade settlement, and the need to access the networks through which modern economic life flows. The result is an apparent contradiction: people seek dollars because the system is built around dollars, even while the dollar regime itself is degrading their purchasing power.
+the strange attraction of the dollar by showing that people often demand the dominant currency not because it is healthy money, but because they are trapped inside a system organized around it. Dollar demand is sustained by global debt structures, reserve conventions, trade settlement, and the need to access the networks through which modern economic life flows. The result is an apparent contradiction: people seek dollars because the system is built around dollars, even while the dollar regime itself is degrading their purchasing power.
 
 This dynamic gives the incumbent monetary order enormous staying power. A currency can be dysfunctional as a long-term store of value and still remain indispensable in the short run because contracts, liabilities, and institutions all require it. The dollar therefore survives partly through habit and partly through coercive structure. People want it because they must navigate the world as it currently exists, not because it represents an ideal form of money.
 

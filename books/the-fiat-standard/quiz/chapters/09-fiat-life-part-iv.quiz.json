@@ -1,1 +1,20 @@
-{"chapter_id":"09-bitcoin-fixes-this","question_en":"How is Bitcoin introduced as a fix in this unit?","choices_en":["As discretionary money managed better than fiat","As scarce, verifiable, apolitical monetary architecture","As a state-owned settlement rail","As a way to print money more fairly"],"question_ko":"이 단위에서 비트코인은 어떤 해법으로 제시되는가?","choices_ko":["법정화폐보다 더 잘 관리되는 재량적 화폐","희소하고 검증 가능하며 비정치적인 통화 아키텍처","국가 소유 결제망","더 공정하게 돈을 찍는 방법"],"answer_index":1,"explanation_en":"Bitcoin is framed as an architectural alternative built on fixed issuance and distributed verification.","explanation_ko":"비트코인은 고정 발행과 분산 검증 위에 세워진 아키텍처적 대안으로 제시된다."}
+{
+  "chapter_id": "09-bitcoin-fixes-this",
+  "question_en": "How is Bitcoin introduced as a fix in this unit?",
+  "choices_en": [
+    "As discretionary money managed better than fiat",
+    "As scarce, verifiable, apolitical monetary architecture",
+    "As a state-owned settlement rail",
+    "As a way to print money more fairly"
+  ],
+  "question_ko": "이 단위에서 비트코인은 어떤 해법으로 제시되는가?",
+  "choices_ko": [
+    "법정화폐보다 더 잘 관리되는 재량적 화폐",
+    "희소하고 검증 가능하며 비정치적인 통화 아키텍처",
+    "국가 소유 결제망",
+    "더 공정하게 돈을 찍는 방법"
+  ],
+  "answer_index": 1,
+  "explanation_en": "Bitcoin is framed as an architectural alternative built on fixed issuance and distributed verification.",
+  "explanation_ko": "비트코인은 고정 발행과 분산 검증 위에 세워진 아키텍처적 대안으로 제시된다."
+}

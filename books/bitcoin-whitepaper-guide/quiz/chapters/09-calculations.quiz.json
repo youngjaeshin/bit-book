@@ -16,5 +16,5 @@
     "시장의 모든 불확실성을 제거하는 방법"
   ],
   "explanation_en": "The section quantifies security by relating attack success to hash power and confirmation depth.",
-  "explanation_ko": "이 장은 공격 성공 가능성을 해시 파워와 확인 수에 연결해 보안을 확률적으로 정량화한다."
+  "explanation_ko": "공격 성공 가능성을 해시 파워와 확인 수에 연결해 보안을 확률적으로 정량화한다."
 }

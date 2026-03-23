@@ -8,13 +8,13 @@
     "As a purely moral evil with no practical use",
     "As a temporary wartime anomaly only"
   ],
-  "question_ko": "이 책의 서두는 법정화폐를 어떻게 다루는가?",
+  "question_ko": "법정화폐를 어떻게 다루는가?",
   "choices_ko": [
     "본래부터 중립적인 공공 서비스로",
     "기능과 고장 방식을 가진 기술로",
     "실용성 없는 순수한 도덕적 악으로",
     "오직 전시의 일시적 예외로"
   ],
-  "explanation_en": "The opening explicitly frames fiat as a technology to be analyzed in terms of uses and failure modes.",
-  "explanation_ko": "서두는 법정화폐를 기능과 실패 양식을 가진 기술로 분석하겠다고 밝힌다."
+  "explanation_en": "explicitly frames fiat as a technology to be analyzed in terms of uses and failure modes.",
+  "explanation_ko": "법정화폐를 기능과 실패 양식을 가진 기술로 분석하겠다고 밝힌다."
 }

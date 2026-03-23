@@ -1,1 +1,20 @@
-{"chapter_id":"02-scaling-i-and-ii","question_en":"Why did the scaling conferences fail to settle the dispute?","choices_en":["A minor issue of branding only","Because the conflict was about legitimacy and long-term design, not just a megabyte number.","A debate with no constitutional stakes","A purely personal rivalry"],"question_ko":"왜 초기 스케일링 회의들은 논쟁을 끝내지 못했는가?","choices_ko":["단순한 브랜딩 문제였다","갈등이 단지 메가바이트 숫자가 아니라 정당성과 장기 설계를 둘러싼 것이었기 때문이다.","헌정적 stakes가 전혀 없는 논쟁이었다","순전히 개인적 rivalry였다"],"answer_index":1,"explanation_en":"Because the conflict was about legitimacy and long-term design, not just a megabyte number.","explanation_ko":"갈등이 단지 메가바이트 숫자가 아니라 정당성과 장기 설계를 둘러싼 것이었기 때문이다."}
+{
+  "chapter_id": "02-scaling-i-and-ii",
+  "question_en": "Why did the scaling conferences fail to settle the dispute?",
+  "choices_en": [
+    "A minor issue of branding only",
+    "Because the conflict was about legitimacy and long-term design, not just a megabyte number.",
+    "A debate with no constitutional stakes",
+    "A purely personal rivalry"
+  ],
+  "question_ko": "왜 초기 스케일링 회의들은 논쟁을 끝내지 못했는가?",
+  "choices_ko": [
+    "단순한 브랜딩 문제였다",
+    "갈등이 단지 메가바이트 숫자가 아니라 정당성과 장기 설계를 둘러싼 것이었기 때문이다.",
+    "헌정적 stakes가 전혀 없는 논쟁이었다",
+    "순전히 개인적 rivalry였다"
+  ],
+  "answer_index": 1,
+  "explanation_en": "Because the conflict was about legitimacy and long-term design, not just a megabyte number.",
+  "explanation_ko": "갈등이 단지 메가바이트 숫자가 아니라 정당성과 장기 설계를 둘러싼 것이었기 때문이다."
+}

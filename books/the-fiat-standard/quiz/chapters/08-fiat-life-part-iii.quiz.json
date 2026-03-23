@@ -1,1 +1,20 @@
-{"chapter_id":"08-fiat-life-4","question_en":"What standard does Ammous insist on in evaluating fiat?","choices_en":["Short-term convenience alone","Full cost-benefit accounting including hidden long-run damage","Only political popularity","Only academic consensus"],"question_ko":"아모스가 법정화폐를 평가할 때 고집하는 기준은 무엇인가?","choices_ko":["오직 단기적 편의성","숨겨진 장기 손상까지 포함한 전체 비용-편익 회계","오직 정치적 인기","오직 학문적 합의"],"answer_index":1,"explanation_en":"The chapter says fiat’s visible benefits must be judged alongside its delayed structural costs.","explanation_ko":"이 장은 법정화폐의 눈에 보이는 이익을 연기된 구조적 비용과 함께 판단해야 한다고 본다."}
+{
+  "chapter_id": "08-fiat-life-4",
+  "question_en": "What standard does Ammous insist on in evaluating fiat?",
+  "choices_en": [
+    "Short-term convenience alone",
+    "Full cost-benefit accounting including hidden long-run damage",
+    "Only political popularity",
+    "Only academic consensus"
+  ],
+  "question_ko": "아모스가 법정화폐를 평가할 때 고집하는 기준은 무엇인가?",
+  "choices_ko": [
+    "오직 단기적 편의성",
+    "숨겨진 장기 손상까지 포함한 전체 비용-편익 회계",
+    "오직 정치적 인기",
+    "오직 학문적 합의"
+  ],
+  "answer_index": 1,
+  "explanation_en": "The chapter says fiat’s visible benefits must be judged alongside its delayed structural costs.",
+  "explanation_ko": "법정화폐의 눈에 보이는 이익을 연기된 구조적 비용과 함께 판단해야 한다고 본다."
+}

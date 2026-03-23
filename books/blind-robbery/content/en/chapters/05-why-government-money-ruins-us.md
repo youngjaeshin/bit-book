@@ -6,7 +6,7 @@ Government money is portrayed as destructive not only because it loses value, bu
 
 This distortion has cumulative effects. Cheap credit and expanding money supplies encourage projects that appear sustainable only because the monetary environment has been falsified. Consumption is favored over saving, debt over prudence, and political management over market coordination. The apparent short-term benefits of easy money conceal deeper fragility and misallocation.
 
-The chapter therefore presents government money as economically ruinous because it undermines the information content of money itself. Once the monetary unit becomes politically malleable, the entire process of economic coordination is weakened. What follows is not real prosperity but a system increasingly dependent on further manipulation to keep the illusion alive.
+presents government money as economically ruinous because it undermines the information content of money itself. Once the monetary unit becomes politically malleable, the entire process of economic coordination is weakened. What follows is not real prosperity but a system increasingly dependent on further manipulation to keep the illusion alive.
 
 ## Key Takeaways
 

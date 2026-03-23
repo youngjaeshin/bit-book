@@ -6,7 +6,7 @@ Ammous applies the same evaluative standard to bitcoin that he applied to fiat. 
 
 This is the decisive analytical move of the book. Instead of comparing ideal fiat theory to lived bitcoin reality, Ammous compares the actual operating costs of both systems. On those terms, bitcoin becomes legible not as a perfect solution but as a more honest one. Its discipline is costly, but its costs are knowable. Fiat’s convenience is seductive, but its costs are diffusely imposed across time and society.
 
-The chapter therefore positions bitcoin as a superior trade-off structure. The point is not zero cost; the point is cleaner incentives, clearer accounting, and fewer hidden transfers.
+positions bitcoin as a superior trade-off structure. The point is not zero cost; the point is cleaner incentives, clearer accounting, and fewer hidden transfers.
 
 ## Key Takeaways
 

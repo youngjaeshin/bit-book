@@ -2,7 +2,7 @@
 
 ## Chapter Digest
 
-The opening argues that the world is standing at a rare monetary turning point and needs a new way of mapping money. The central proposal is that money is layered: some forms sit higher in the hierarchy as final settlement assets, while others exist as promises, claims, or derivative forms built on top of them. This layered framework is offered as the missing language for understanding both the history of money and Bitcoin’s future role within it.
+argues that the world is standing at a rare monetary turning point and needs a new way of mapping money. The central proposal is that money is layered: some forms sit higher in the hierarchy as final settlement assets, while others exist as promises, claims, or derivative forms built on top of them. This layered framework is offered as the missing language for understanding both the history of money and Bitcoin’s future role within it.
 
 The first historical case study is the Florentine florin. Its stability, purity, and reliability made it an unusually strong monetary foundation at a time when Europe was fragmented by coin multiplicity, uncertain standards, and difficult settlement. What mattered was not simply that gold existed, but that one particular coin became trusted enough to serve as a common denominator across wider commercial networks. The chapter therefore uses the florin to show how a superior first-layer money can anchor wider second-layer credit instruments and make larger-scale trade possible.
 

@@ -6,7 +6,7 @@ The cost-benefit chapter gathers the scattered consequences of fiat life into a 
 
 This evaluative frame matters because fiat’s defenders often isolate visible benefits while treating invisible costs as secondary, delayed, or unrelated. Ammous argues the opposite. The invisible costs are often the most structurally important because they accumulate slowly and reshape the background conditions of life. A system that appears efficient in the short run may be highly destructive once intertemporal effects are counted honestly.
 
-The chapter therefore serves as a hinge. It closes the examination of fiat life by insisting that the right standard is not short-term convenience but full-spectrum social accounting. From here the book is prepared to turn toward bitcoin not as an abstract ideal, but as a concrete competitor judged by the same cost-benefit lens.
+serves as a hinge. It closes the examination of fiat life by insisting that the right standard is not short-term convenience but full-spectrum social accounting. From here the book is prepared to turn toward bitcoin not as an abstract ideal, but as a concrete competitor judged by the same cost-benefit lens.
 
 ## Key Takeaways
 

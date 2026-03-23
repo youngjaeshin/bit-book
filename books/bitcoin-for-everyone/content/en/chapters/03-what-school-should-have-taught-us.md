@@ -2,7 +2,7 @@
 
 ## Chapter Digest
 
-The chapter traces the root problem behind the pain described earlier: an expanding money supply that continuously dilutes the value of each existing unit of currency. Measures like M2 are used to show that monetary expansion was not a one-off emergency response but a long-running structural process that accelerated dramatically after 2020. Once money creation is viewed this way, inflation stops looking like an accidental side effect and starts looking like a built-in feature of the system.
+the root problem behind the pain described earlier: an expanding money supply that continuously dilutes the value of each existing unit of currency. Measures like M2 are used to show that monetary expansion was not a one-off emergency response but a long-running structural process that accelerated dramatically after 2020. Once money creation is viewed this way, inflation stops looking like an accidental side effect and starts looking like a built-in feature of the system.
 
 That dilution transforms the economic meaning of work, saving, and ownership. If the money supply expands faster than wages, then even regular pay raises can conceal a loss in real purchasing power. Housing becomes a primary example because newly created money rushes into scarce assets first, pushing prices beyond the reach of younger and less-asset-rich households. The result is not merely inconvenience but a generational reordering of what is realistic: home ownership, family formation, and long-term planning all become harder.
 

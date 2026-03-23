@@ -1,1 +1,20 @@
-{"chapter_id":"14-acknowledgments-and-bibliography","question_en":"What do the acknowledgments mainly demonstrate about the book’s production?","choices_en":["It was built inside state-funded academia","It relied on a voluntary intellectual and patronage network","It rejected all outside input","It was written only for central bankers"],"question_ko":"감사의 말이 이 책의 생산 방식에 대해 주로 보여 주는 것은 무엇인가?","choices_ko":["국가 자금 지원 학계 내부에서 만들어졌다는 것","자발적 지적 네트워크와 후원에 의존했다는 것","외부 입력을 전부 거부했다는 것","오직 중앙은행가를 위해 쓰였다는 것"],"answer_index":1,"explanation_en":"Ammous emphasizes reader, student, and patron support outside fiat academia.","explanation_ko":"아모스는 법정화폐 학계 바깥의 독자, 학생, 후원자의 지원을 강조한다."}
+{
+  "chapter_id": "14-acknowledgments-and-bibliography",
+  "question_en": "What do the acknowledgments mainly demonstrate about the book’s production?",
+  "choices_en": [
+    "It was built inside state-funded academia",
+    "It relied on a voluntary intellectual and patronage network",
+    "It rejected all outside input",
+    "It was written only for central bankers"
+  ],
+  "question_ko": "감사의 말이 이 책의 생산 방식에 대해 주로 보여 주는 것은 무엇인가?",
+  "choices_ko": [
+    "국가 자금 지원 학계 내부에서 만들어졌다는 것",
+    "자발적 지적 네트워크와 후원에 의존했다는 것",
+    "외부 입력을 전부 거부했다는 것",
+    "오직 중앙은행가를 위해 쓰였다는 것"
+  ],
+  "answer_index": 1,
+  "explanation_en": "Ammous emphasizes reader, student, and patron support outside fiat academia.",
+  "explanation_ko": "아모스는 법정화폐 학계 바깥의 독자, 학생, 후원자의 지원을 강조한다."
+}

@@ -1,13 +1,13 @@
 {
   "chapter_id": "06-technology-a",
-  "question_en": "What does this unit say proof-of-work fundamentally provides?",
+  "question_en": "What say proof-of-work fundamentally provides?",
   "choices_en": [
     "Free storage",
     "Costly time-ordering",
     "Guaranteed privacy by itself",
     "Centralized speed"
   ],
-  "question_ko": "이 단위는 작업증명이 근본적으로 무엇을 제공한다고 보는가?",
+  "question_ko": "작업증명이 근본적으로 무엇을 제공한다고 보는가?",
   "choices_ko": [
     "무료 저장공간",
     "값비싼 시간 질서",

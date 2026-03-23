@@ -2,7 +2,7 @@
 
 ## Chapter Digest
 
-The chapter argues that the damage of broken money is not confined to balance sheets. Monetary distortion eventually shows up as social pain: frustration, distrust, resentment, and the sense that ordinary effort no longer leads anywhere. A system that quietly redistributes value upward also redistributes emotional and civic burdens downward. People experience the loss not only as lower purchasing power but as humiliation, instability, and the collapse of expected reward for honest work.
+the damage of broken money is not confined to balance sheets. Monetary distortion eventually shows up as social pain: frustration, distrust, resentment, and the sense that ordinary effort no longer leads anywhere. A system that quietly redistributes value upward also redistributes emotional and civic burdens downward. People experience the loss not only as lower purchasing power but as humiliation, instability, and the collapse of expected reward for honest work.
 
 This helps explain why monetary disorder spills into politics and culture. When people cannot make sense of why they are falling behind, they search for culprits in visible enemies—other classes, other parties, other groups—while the monetary mechanism doing the deeper work remains hidden. The social order grows more brittle because the economic foundation no longer feels fair or intelligible. Inflation is therefore not merely a technical policy error. It is a regime that corrodes trust across the whole social field.
 

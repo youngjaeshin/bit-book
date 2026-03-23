@@ -4,7 +4,7 @@
 
 The final argumentative unit draws the threads together and asks why Bitcoin matters above all available alternatives. The answer is that Bitcoin combines fixed issuance, decentralization, financial sovereignty, and censorship resistance in a single system. It is not just a technical network but a monetary revolution that offers an alternative to concentrated financial power.
 
-The chapter also turns to CBDCs as the clearest contrast case. Where Bitcoin disperses control and gives users direct responsibility, CBDCs would deepen state visibility and intervention into monetary life. Bitcoin is therefore valuable not only for what it enables, but also for what it prevents: arbitrary monetary expansion, direct political control of balances, and the conversion of money into a programmable tool of surveillance.
+turns to CBDCs as the clearest contrast case. Where Bitcoin disperses control and gives users direct responsibility, CBDCs would deepen state visibility and intervention into monetary life. Bitcoin is therefore valuable not only for what it enables, but also for what it prevents: arbitrary monetary expansion, direct political control of balances, and the conversion of money into a programmable tool of surveillance.
 
 ## Key Takeaways
 

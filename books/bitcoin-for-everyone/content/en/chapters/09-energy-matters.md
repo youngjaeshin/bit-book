@@ -6,7 +6,7 @@ The chapter treats energy not as an embarrassing side effect of Bitcoin but as p
 
 That argument challenges a common modern intuition that digital things should be weightless and therefore almost free. Bitcoin is digital, but its credibility depends on being anchored to physical cost. By forcing miners to commit real resources, the network ties monetary issuance and transaction ordering to something that cannot be conjured out of rhetoric or politics. Energy becomes the bridge between digital records and monetary reality.
 
-The chapter therefore reframes the debate. The relevant question is not whether Bitcoin uses energy, but what kind of monetary and social value that energy secures. If energy use is what prevents easy forgery, preserves scarcity, and protects a neutral monetary network, then the expenditure is not incidental. It is part of why Bitcoin can function as hard money in the first place.
+reframes the debate. The relevant question is not whether Bitcoin uses energy, but what kind of monetary and social value that energy secures. If energy use is what prevents easy forgery, preserves scarcity, and protects a neutral monetary network, then the expenditure is not incidental. It is part of why Bitcoin can function as hard money in the first place.
 
 ## Key Takeaways
 

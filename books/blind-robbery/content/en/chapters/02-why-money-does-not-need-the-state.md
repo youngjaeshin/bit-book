@@ -2,7 +2,7 @@
 
 ## Chapter Digest
 
-This chapter attacks one of the strongest modern assumptions: that money must come from the state in order to function. The argument runs in the opposite direction. Money emerges out of exchange because people need a more efficient way to coordinate trade, and the monetary good that wins does so because market participants discover it to be superior for the task. The state is not the origin of money but a later intruder into an institution that already existed.
+attacks one of the strongest modern assumptions: that money must come from the state in order to function. The argument runs in the opposite direction. Money emerges out of exchange because people need a more efficient way to coordinate trade, and the monetary good that wins does so because market participants discover it to be superior for the task. The state is not the origin of money but a later intruder into an institution that already existed.
 
 Once money is understood as a market discovery, state issuance stops looking natural. A monopoly over money is no more justified than a monopoly over language, measurement, or any other social tool that emerges through human cooperation. The chapter therefore reframes the state not as the guarantor of money but as an actor that seizes control over something it did not create and then presents that control as necessary.
 

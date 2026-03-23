@@ -1,1 +1,20 @@
-{"chapter_id":"09-user-activated-softfork","question_en":"What did the UASF make explicit?","choices_en":["A minor issue of branding only","That validating users could act as constitutional actors in Bitcoin.","A debate with no constitutional stakes","A purely personal rivalry"],"question_ko":"UASF는 무엇을 명시적으로 드러냈는가?","choices_ko":["단순한 브랜딩 문제였다","검증 사용자가 비트코인 안에서 헌정적 행위자로 작동할 수 있다는 점이다.","헌정적 stakes가 전혀 없는 논쟁이었다","순전히 개인적 rivalry였다"],"answer_index":1,"explanation_en":"That validating users could act as constitutional actors in Bitcoin.","explanation_ko":"검증 사용자가 비트코인 안에서 헌정적 행위자로 작동할 수 있다는 점이다."}
+{
+  "chapter_id": "09-user-activated-softfork",
+  "question_en": "What did the UASF make explicit?",
+  "choices_en": [
+    "A minor issue of branding only",
+    "That validating users could act as constitutional actors in Bitcoin.",
+    "A debate with no constitutional stakes",
+    "A purely personal rivalry"
+  ],
+  "question_ko": "UASF는 무엇을 명시적으로 드러냈는가?",
+  "choices_ko": [
+    "단순한 브랜딩 문제였다",
+    "검증 사용자가 비트코인 안에서 헌정적 행위자로 작동할 수 있다는 점이다.",
+    "헌정적 stakes가 전혀 없는 논쟁이었다",
+    "순전히 개인적 rivalry였다"
+  ],
+  "answer_index": 1,
+  "explanation_en": "That validating users could act as constitutional actors in Bitcoin.",
+  "explanation_ko": "검증 사용자가 비트코인 안에서 헌정적 행위자로 작동할 수 있다는 점이다."
+}

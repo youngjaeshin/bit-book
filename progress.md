@@ -347,3 +347,9 @@
 - 2026-03-23 22:08 KST | executor | completed | 템플릿/네비게이션 반영 후 12권 책 사이트 + library-site 전체 재빌드 완료
 - 2026-03-23 22:14 KST | executor | completed | 단독 책 사이트 다크 테마 보정 완료: chapter template에 library-reading-page body class/title 치환을 적용하고 전권 재빌드 후 KO 기본 탭/이전다음 네비를 재검증
 - 2026-03-23 22:16 KST | executor | completed | Ralph 로컬 실행 종료: 비트코인 필수 12권 전권 산출물 수량 일치 및 KO 기본 읽기 UI 검증까지 완료, 이후 대기 상태 전환
+- 2026-03-24 00:22 KST | executor | started | 비트코인 필수 1~12권 digest 전면 재작성 시작: 메타 해설형 표현 금지 규칙에 맞춰 KO 기본 읽기 문체를 직접 서술형으로 일괄 교정
+- 2026-03-24 00:31 KST | executor | completed | 10번 `비트코인 사용 가이드` EN/KO digest 29개 전면 재작성: 추출 찌꺼기 제거 후 직접 서술형 실무 요약으로 교체
+- 2026-03-24 00:38 KST | executor | completed | 비트코인 필수 12권 KO digest 문체 정규화 완료: `이 장은/이 단위는/서두는/원문 추출 기준으로 보면` 류 표현 제거
+- 2026-03-24 00:41 KST | executor | completed | 전권 로컬 재빌드 및 HTML 검증 완료: KO 기본 읽기 HTML에서 금지 표현 미검출 확인
+- 2026-03-24 00:49 KST | executor | completed | 비트코인 필수 12권 KO 기본 읽기 전면 재작성 완료: 요약/퀴즈/HTML에서 `이 장은/이 단위는/서두는/원문 추출 기준으로 보면` 금지 표현 전권 미검출 확인
+- 2026-03-24 01:05 KST | executor | started | 전권 재요약 2차 착수: 기존 스타일 정규화 방식 폐기, 원문 분량 비례 직접 재요약 + 핵심포인트/용어 섹션 제거 + 10번 템플릿 요약 금지

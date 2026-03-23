@@ -1,1 +1,20 @@
-{"chapter_id":"04-economics-3","question_en":"Why do winner-takes-all effects matter for money?","choices_en":["Because money works best when many incompatible standards coexist","Because liquidity and network effects tend to concentrate around one standard","Because prices no longer matter","Because unit bias disappears automatically"],"question_ko":"돈에서 승자독식 효과가 중요한 이유는 무엇인가?","choices_ko":["많은 비호환 표준이 함께 존재할 때 가장 잘 작동하기 때문에","유동성과 네트워크 효과가 하나의 기준으로 집중되기 쉽기 때문에","가격이 더 이상 중요하지 않기 때문에","단위 편향이 자동으로 사라지기 때문에"],"answer_index":1,"explanation_en":"Monetary networks benefit from convergence, so small advantages can compound into dominant liquidity.","explanation_ko":"통화 네트워크는 수렴에서 이익을 얻기 때문에 작은 우위가 지배적 유동성으로 누적될 수 있다."}
+{
+  "chapter_id": "04-economics-3",
+  "question_en": "Why do winner-takes-all effects matter for money?",
+  "choices_en": [
+    "Because money works best when many incompatible standards coexist",
+    "Because liquidity and network effects tend to concentrate around one standard",
+    "Because prices no longer matter",
+    "Because unit bias disappears automatically"
+  ],
+  "question_ko": "돈에서 승자독식 효과가 중요한 이유는 무엇인가?",
+  "choices_ko": [
+    "많은 비호환 표준이 함께 존재할 때 가장 잘 작동하기 때문에",
+    "유동성과 네트워크 효과가 하나의 기준으로 집중되기 쉽기 때문에",
+    "가격이 더 이상 중요하지 않기 때문에",
+    "단위 편향이 자동으로 사라지기 때문에"
+  ],
+  "answer_index": 1,
+  "explanation_en": "Monetary networks benefit from convergence, so small advantages can compound into dominant liquidity.",
+  "explanation_ko": "통화 네트워크는 수렴에서 이익을 얻기 때문에 작은 우위가 지배적 유동성으로 누적될 수 있다."
+}

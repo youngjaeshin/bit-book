@@ -2,7 +2,7 @@
 
 ## Chapter Digest
 
-The opening frames state control over money as one of the least questioned monopolies in modern life. People are trained to distrust monopolies in food, transport, or energy, yet they rarely ask why money should be different. The introduction insists that once this question is asked seriously, the state monopoly on money begins to look less like a public service and more like a protected privilege whose costs are hidden by convention and complexity.
+frames state control over money as one of the least questioned monopolies in modern life. People are trained to distrust monopolies in food, transport, or energy, yet they rarely ask why money should be different. The introduction insists that once this question is asked seriously, the state monopoly on money begins to look less like a public service and more like a protected privilege whose costs are hidden by convention and complexity.
 
 The preface also establishes the basic moral and political stakes. Money is not treated as a narrow technical topic for specialists, but as the foundation beneath wealth, saving, social trust, and the relation between citizens and power. The ignorance surrounding money and banking is presented as politically useful because it leaves ordinary people unable to see how their purchasing power is being weakened and how banks, legislators, and central bankers benefit from the arrangement.
 

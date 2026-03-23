@@ -1,1 +1,20 @@
-{"chapter_id":"11-psychology-3-and-closing","question_en":"What gives Bitcoin psychological strength in the closing unit?","choices_en":["Dependence on fragile intermediaries","Continued survival that reduces counterparty dependence","Guaranteed consensus by governments","The disappearance of all risk"],"question_ko":"마지막 단위에서 비트코인에 심리적 힘을 주는 것은 무엇인가?","choices_ko":["취약한 중개자에 대한 의존","상대방 의존을 줄여 주는 지속적 생존","정부가 보장하는 합의","모든 위험의 소멸"],"answer_index":1,"explanation_en":"The closing argues that durable survival and lower counterparty dependence deepen conviction and loyalty.","explanation_ko":"마지막 부분은 오래 버티는 생존과 낮은 상대방 의존이 확신과 충성도를 깊게 만든다고 본다."}
+{
+  "chapter_id": "11-psychology-3-and-closing",
+  "question_en": "What gives Bitcoin psychological strength in the closing unit?",
+  "choices_en": [
+    "Dependence on fragile intermediaries",
+    "Continued survival that reduces counterparty dependence",
+    "Guaranteed consensus by governments",
+    "The disappearance of all risk"
+  ],
+  "question_ko": "마지막 단위에서 비트코인에 심리적 힘을 주는 것은 무엇인가?",
+  "choices_ko": [
+    "취약한 중개자에 대한 의존",
+    "상대방 의존을 줄여 주는 지속적 생존",
+    "정부가 보장하는 합의",
+    "모든 위험의 소멸"
+  ],
+  "answer_index": 1,
+  "explanation_en": "The closing argues that durable survival and lower counterparty dependence deepen conviction and loyalty.",
+  "explanation_ko": "마지막 부분은 오래 버티는 생존과 낮은 상대방 의존이 확신과 충성도를 깊게 만든다고 본다."
+}

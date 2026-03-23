@@ -2,7 +2,7 @@
 
 ## Chapter Digest
 
-The opening frames *The Bitcoin Handbook* as a visual and conceptual compression of Bitcoin’s core ideas. The testimonials emphasize that the book’s distinctive value lies in turning dense concepts into portable mental models. Bitcoin education here is not treated as a matter of accumulating jargon but of learning patterns that can be recognized across economics, systems, and psychology. The preface argues that this need exists because Bitcoin changes the conditions under which we think about money, yet most people still lack the vocabulary to navigate that change.
+frames *The Bitcoin Handbook* as a visual and conceptual compression of Bitcoin’s core ideas. The testimonials emphasize that the book’s distinctive value lies in turning dense concepts into portable mental models. Bitcoin education here is not treated as a matter of accumulating jargon but of learning patterns that can be recognized across economics, systems, and psychology. The preface argues that this need exists because Bitcoin changes the conditions under which we think about money, yet most people still lack the vocabulary to navigate that change.
 
 Anil Patel’s stated project is to make monetary and technological thought more intuitive through visual abstraction. The handbook is therefore less a linear narrative than a guided field manual. The foreword reinforces that Bitcoin matters globally because it offers a practical escape hatch from inflation, corruption, and repression, but that this escape requires education. Bitcoin’s diffusion is tied not only to its technical superiority but to the speed with which people can internalize its patterns.
 

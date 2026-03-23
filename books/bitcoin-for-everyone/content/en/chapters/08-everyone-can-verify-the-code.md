@@ -2,7 +2,7 @@
 
 ## Chapter Digest
 
-The chapter argues that Bitcoin’s credibility does not rest on blind faith in a founder, company, or institution. Its rules are open to inspection, and anyone willing to learn can verify what the system is actually doing. This is presented as a radical break from the modern financial order, where ordinary users are expected to trust opaque institutions, proprietary systems, and expert intermediaries without meaningful access to the underlying machinery.
+Bitcoin’s credibility does not rest on blind faith in a founder, company, or institution. Its rules are open to inspection, and anyone willing to learn can verify what the system is actually doing. This is presented as a radical break from the modern financial order, where ordinary users are expected to trust opaque institutions, proprietary systems, and expert intermediaries without meaningful access to the underlying machinery.
 
 Verification matters because money is too important to be left unquestioned. If a monetary system can be altered without public visibility, then the ordinary user is permanently subordinate to its managers. Bitcoin offers a different arrangement: rules, supply schedule, and network behavior can be checked directly, and confidence grows not by deference but by independent confirmation. The chapter therefore links transparency with self-sovereignty.
 

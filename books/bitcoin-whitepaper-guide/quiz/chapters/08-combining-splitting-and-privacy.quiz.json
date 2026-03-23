@@ -16,5 +16,5 @@
     "가치가 배열되는 방식이 바깥의 추론 가능성을 바꾸기 때문에"
   ],
   "explanation_en": "The unit links privacy to the structure of inputs, outputs, and address use.",
-  "explanation_ko": "이 단위는 프라이버시를 입력·출력 구조와 주소 사용 방식에 연결한다."
+  "explanation_ko": "프라이버시를 입력·출력 구조와 주소 사용 방식에 연결한다."
 }

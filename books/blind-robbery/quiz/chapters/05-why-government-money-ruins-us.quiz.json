@@ -8,7 +8,7 @@
     "Only export competitiveness",
     "The supply of physical cash"
   ],
-  "question_ko": "이 장은 정부 화폐가 무엇을 가장 크게 훼손한다고 보는가?",
+  "question_ko": "정부 화폐가 무엇을 가장 크게 훼손한다고 보는가?",
   "choices_ko": [
     "오직 소비 심리만",
     "왜곡된 가격 신호를 통한 경제 계산",
@@ -16,5 +16,5 @@
     "실물 현금 공급"
   ],
   "explanation_en": "The chapter says politically expandable money damages the information function of prices and economic calculation.",
-  "explanation_ko": "이 장은 정치적으로 팽창 가능한 돈이 가격의 정보 기능과 경제 계산을 망친다고 본다."
+  "explanation_ko": "정치적으로 팽창 가능한 돈이 가격의 정보 기능과 경제 계산을 망친다고 본다."
 }

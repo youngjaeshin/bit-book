@@ -1,1 +1,20 @@
-{"chapter_id":"07-fiat-life-3","question_en":"What distinguishes a fiat state from a hard-constrained state in this chapter?","choices_en":["It hides trade-offs by deferring them through money creation","It abolishes political power","It cannot expand promises","It stops using debt"],"question_ko":"이 장에서 법정화폐 국가는 hard constraint 아래의 국가와 무엇이 다른가?","choices_ko":["돈 찍기로 trade-off를 미래로 미뤄 숨긴다","정치 권력을 없앤다","약속을 확장할 수 없다","부채 사용을 멈춘다"],"answer_index":0,"explanation_en":"The chapter argues fiat states seem stronger because they defer visible constraint into the future.","explanation_ko":"이 장은 법정화폐 국가가 제약을 미래로 미루기 때문에 더 강해 보인다고 본다."}
+{
+  "chapter_id": "07-fiat-life-3",
+  "question_en": "What distinguishes a fiat state from a hard-constrained state in this chapter?",
+  "choices_en": [
+    "It hides trade-offs by deferring them through money creation",
+    "It abolishes political power",
+    "It cannot expand promises",
+    "It stops using debt"
+  ],
+  "question_ko": "이 장에서 법정화폐 국가는 hard constraint 아래의 국가와 무엇이 다른가?",
+  "choices_ko": [
+    "돈 찍기로 trade-off를 미래로 미뤄 숨긴다",
+    "정치 권력을 없앤다",
+    "약속을 확장할 수 없다",
+    "부채 사용을 멈춘다"
+  ],
+  "answer_index": 0,
+  "explanation_en": "The chapter argues fiat states seem stronger because they defer visible constraint into the future.",
+  "explanation_ko": "법정화폐 국가가 제약을 미래로 미루기 때문에 더 강해 보인다고 본다."
+}

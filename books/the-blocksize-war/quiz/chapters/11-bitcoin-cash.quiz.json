@@ -1,1 +1,20 @@
-{"chapter_id":"11-bitcoin-cash","question_en":"What did Bitcoin Cash become in the conflict?","choices_en":["A minor issue of branding only","A secession chain that gave the large-block worldview its own proving ground.","A debate with no constitutional stakes","A purely personal rivalry"],"question_ko":"갈등 속에서 비트코인 캐시는 무엇이 되었는가?","choices_ko":["단순한 브랜딩 문제였다","라지블록 세계관이 스스로를 시험할 수 있는 분리독립 체인이 되었다.","헌정적 stakes가 전혀 없는 논쟁이었다","순전히 개인적 rivalry였다"],"answer_index":1,"explanation_en":"A secession chain that gave the large-block worldview its own proving ground.","explanation_ko":"라지블록 세계관이 스스로를 시험할 수 있는 분리독립 체인이 되었다."}
+{
+  "chapter_id": "11-bitcoin-cash",
+  "question_en": "What did Bitcoin Cash become in the conflict?",
+  "choices_en": [
+    "A minor issue of branding only",
+    "A secession chain that gave the large-block worldview its own proving ground.",
+    "A debate with no constitutional stakes",
+    "A purely personal rivalry"
+  ],
+  "question_ko": "갈등 속에서 비트코인 캐시는 무엇이 되었는가?",
+  "choices_ko": [
+    "단순한 브랜딩 문제였다",
+    "라지블록 세계관이 스스로를 시험할 수 있는 분리독립 체인이 되었다.",
+    "헌정적 stakes가 전혀 없는 논쟁이었다",
+    "순전히 개인적 rivalry였다"
+  ],
+  "answer_index": 1,
+  "explanation_en": "A secession chain that gave the large-block worldview its own proving ground.",
+  "explanation_ko": "라지블록 세계관이 스스로를 시험할 수 있는 분리독립 체인이 되었다."
+}

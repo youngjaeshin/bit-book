@@ -8,7 +8,7 @@
     "As the end of layering",
     "As a purely technical improvement without political meaning"
   ],
-  "question_ko": "이 단위는 중앙은행을 어떻게 묘사하는가?",
+  "question_ko": "중앙은행을 어떻게 묘사하는가?",
   "choices_ko": [
     "통화 위계 안의 권력 집중으로",
     "돈 바깥의 중립적 관찰자로",
@@ -16,5 +16,5 @@
     "정치적 의미 없는 순수 기술 개선으로"
   ],
   "explanation_en": "The unit portrays central banking as concentrating monetary power within the layered system.",
-  "explanation_ko": "이 단위는 중앙은행을 레이어 구조 안의 통화 권력 집중으로 묘사한다."
+  "explanation_ko": "중앙은행을 레이어 구조 안의 통화 권력 집중으로 묘사한다."
 }

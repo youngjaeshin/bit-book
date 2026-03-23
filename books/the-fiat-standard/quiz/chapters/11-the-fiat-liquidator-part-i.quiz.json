@@ -1,1 +1,20 @@
-{"chapter_id":"11-bitcoin-energy-markets","question_en":"What special role do miners play in energy markets according to this chapter?","choices_en":["They eliminate the need for generation","They act as flexible buyers for otherwise wasted or stranded energy","They make all energy free","They centralize energy planning"],"question_ko":"이 장에 따르면 채굴자는 에너지 시장에서 어떤 특별한 역할을 하는가?","choices_ko":["발전 자체를 불필요하게 만든다","버려지거나 좌초된 에너지를 사는 유연한 수요자가 된다","모든 에너지를 무료로 만든다","에너지 계획을 중앙집중화한다"],"answer_index":1,"explanation_en":"The chapter argues mining can monetize unused energy and support more reliable energy systems.","explanation_ko":"이 장은 채굴이 미사용 에너지를 화폐화하고 더 안정적인 에너지 체계를 뒷받침할 수 있다고 본다."}
+{
+  "chapter_id": "11-bitcoin-energy-markets",
+  "question_en": "What special role do miners play in energy markets according to this chapter?",
+  "choices_en": [
+    "They eliminate the need for generation",
+    "They act as flexible buyers for otherwise wasted or stranded energy",
+    "They make all energy free",
+    "They centralize energy planning"
+  ],
+  "question_ko": "이 장에 따르면 채굴자는 에너지 시장에서 어떤 특별한 역할을 하는가?",
+  "choices_ko": [
+    "발전 자체를 불필요하게 만든다",
+    "버려지거나 좌초된 에너지를 사는 유연한 수요자가 된다",
+    "모든 에너지를 무료로 만든다",
+    "에너지 계획을 중앙집중화한다"
+  ],
+  "answer_index": 1,
+  "explanation_en": "The chapter argues mining can monetize unused energy and support more reliable energy systems.",
+  "explanation_ko": "채굴이 미사용 에너지를 화폐화하고 더 안정적인 에너지 체계를 뒷받침할 수 있다고 본다."
+}

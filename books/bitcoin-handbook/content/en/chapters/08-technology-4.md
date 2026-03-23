@@ -6,7 +6,7 @@ The final technology unit turns from growth to resilience. Attack surface is min
 
 Catalysts then widen the frame. New technologies often do not merely solve old problems; they trigger cascades of comparison and institutional adjustment. Bitcoin acts this way because its existence forces money, banking, and state systems to reveal their assumptions. Even before full adoption, it becomes catalytic.
 
-The chapter therefore presents Bitcoin’s technological strength as a combination of minimal core complexity and maximal outward pressure on surrounding systems.
+presents Bitcoin’s technological strength as a combination of minimal core complexity and maximal outward pressure on surrounding systems.
 
 ## Key Takeaways
 
