@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "required": [
+    "chapter_id",
+    "question_en",
+    "choices_en",
+    "question_ko",
+    "choices_ko",
+    "answer_index",
+    "explanation_en",
+    "explanation_ko"
+  ],
+  "notes": {
+    "one_question_per_file": true,
+    "choices_length": 4,
+    "answer_index_zero_based": true
+  }
+}

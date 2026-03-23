@@ -23,6 +23,7 @@
 - [ ] No untranslated chapter bodies where translation was expected
 - [ ] No obvious tag corruption
 - [ ] No duplicated paragraphs from reinsertion bugs
+- [ ] No English tail text accidentally reinserted from inline placeholders
 - [ ] Chapter order preserved
 
 ## Translation checks

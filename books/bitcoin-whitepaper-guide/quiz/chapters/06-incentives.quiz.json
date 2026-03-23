@@ -1,0 +1,20 @@
+{
+  "chapter_id": "06-incentives",
+  "answer_index": 2,
+  "question_en": "What keeps honest participation aligned with network security here?",
+  "choices_en": [
+    "Pure moral idealism",
+    "A fixed salary from the state",
+    "Block rewards and fees that make honest behavior profitable",
+    "The impossibility of any attack"
+  ],
+  "question_ko": "이 장에서 정직한 참여를 네트워크 보안과 연결하는 것은 무엇인가?",
+  "choices_ko": [
+    "순수한 도덕적 이상주의",
+    "국가가 주는 고정 급여",
+    "정직한 행동이 이익이 되게 만드는 블록 보상과 수수료",
+    "어떠한 공격도 불가능하다는 사실"
+  ],
+  "explanation_en": "The chapter emphasizes that incentives, not mere goodwill, align self-interest with Bitcoin’s security.",
+  "explanation_ko": "이 장은 선의가 아니라 유인 구조가 자기이익을 비트코인 보안과 연결한다고 본다."
+}

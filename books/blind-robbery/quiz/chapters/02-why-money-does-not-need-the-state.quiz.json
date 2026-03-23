@@ -1,0 +1,20 @@
+{
+  "chapter_id": "02-why-money-does-not-need-the-state",
+  "answer_index": 2,
+  "question_en": "How does this chapter describe the origin of money?",
+  "choices_en": [
+    "As a purely legal invention",
+    "As a central bank policy tool",
+    "As a market institution that predates state control",
+    "As a wartime emergency device"
+  ],
+  "question_ko": "이 장은 돈의 기원을 어떻게 설명하는가?",
+  "choices_ko": [
+    "순전히 법적 발명으로",
+    "중앙은행 정책 도구로",
+    "국가 통제 이전에 존재한 시장 제도로",
+    "전시 비상 장치로"
+  ],
+  "explanation_en": "The chapter argues that money arose from market processes before states seized control over it.",
+  "explanation_ko": "이 장은 돈이 국가가 장악하기 전부터 시장 과정 속에서 등장했다고 본다."
+}

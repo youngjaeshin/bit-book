@@ -1,0 +1,237 @@
+# Translation residue report
+
+- Findings: 10
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0002.xhtml
+- matches:
+  - What Happened To America
+  - and How Sound Money Will Fix It
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<title>part0002</title>
+</head>
+<body class="class-4">
+<p class="class_s12">THE BIG PRINT</p>
+<p class="class_s14">What Happened To America<br/>and How Sound Money Will Fix It</p>
+<p class="class_s16">Edition I<br/>December 2024<br/></p>
+</body>
+</html>
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0003.xhtml
+- matches:
+  - No part of this book may be reproduced or transmitted in any form by electronic or mechanical means now known, or to be invented, including photocopying, recording, or information storage and retrieval systems, without permission in writing from the author and publisher, except by
+  - reviewer who may quote brief passages in
+  - Cataloging-in-Publication data on file with the Library of Congress
+  - Cover Design: Jennifer Barton
+  - Interior Design: Konsensus Network
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<title>part0003</title>
+</head>
+<body class="class-0">
+<hr class="class_s1D"/>
+<p id="page_4" class="class_s1F-0">Copyright © by Lawrence W. Lepard</p>
+<p class="class_sM-0">All Rights Reserved. No part of this book may be reproduced or transmitted in any form by electronic or mechanical means now known, or to be invented, including photocopying, recording, or information storage and retrieval systems, without permission in writing from the author and publisher, except by a reviewer who may quote brief passages in a review.</p>
+<p class="class_sM-0">Cataloging-in-Publication data on file with the Library of Congress.</p>
+<
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0004.xhtml
+- matches:
+  - Army, Korean Theatre, signal intelligence
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0004</title>
+</head>
+<body class="class-0">
+<p class="class_s21">헌정</p>
+<p class="class_sM-0">내 아버지, 해럴드 존 “잭” 레퍼드 주니어께 바친다.<span id="a2W8" /><a href="part0004.xhtml#a34R" epub:type="noteref" class="class_s2T8">1</a> 2005년에 73세로 세상을 떠나신, 내가 이제껏 알았던 최고의 분이었다.</p>
+<p class="class_sM-0">아내와 아이들, 나의 진정한 부에게.</p>
+<p class="class_sM-0">그리고 인플레이션과 불공정한 시스템으로 고통받으면서도, 매일 아침 일어나 정직하게 일하는 세상의 사람들에게.</p>
+<hr class="class_s26" />
+<aside id="a34R" epub:type="footnote" class="class_s28"><a href="part0004.xhtml#a2W8">1</a>. U.S. Army, Korean Theatre, signal intelligence.</aside
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0011.xhtml
+- matches:
+  - The Tenth Anniversary of the Global Financial Crisis,
+  - Treasury Secretary in the Bush Administration
+  - Treasury Secretary in the Clinton Administration
+  - Timothy Geithner was President of the
+  - When discussing the Great Financial Crisis of
+  - GFC), many take the position that the government had no choice; it had to bail out the banks to keep the economy functioning and the ATMs working
+  - They believe the banker propaganda
+  - An alternative view, my view, is discussed in Chapter
+  - few people in that auditorium knew
+  - As one of my brightest investor friends once said to me:
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0011</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">이 책을 읽는 법</h2>
+<p class="class_s2H-0">이 책은 크게 두 부분으로 나뉜다. 하나는 문제를 이해하는 부분이고, 다른 하나는 해결책을 찾는 부분이다. 내용은 포괄적이지만 핵심을 파악하기 위해 모든 장을 다 읽을 필요는 없다. 자신의 이해에 가장 중요한 부분에 집중하라. 아래가 여러분을 위한 로드맵이다.</p>
+<h3 id="id__798_43_" class="heading_s61">제1부: 문제</h3>
+<p class="class_s4P-0">필수 읽기(6~10장): 현재 위기의 핵심 설명.</p>
+<p class="class_sM-0">역사적 맥락(11~14장): 연준의 역할과 경쟁하는 통화 사상 학파를 포함해, 우리가 현재의 도전에 이르기까지 걸어온 200년의 여정이다. 일부 테스트 독자들은 11장과 12장에 제시된 자세한 역사가 부담스럽다고 느꼈다. 책의 전체 메시지를 놓치지 않고도 이 장들은 건너뛸 수 있다.</p>
+<p class="class_s
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0021.xhtml
+- matches:
+  - The final conclusion to be drawn from our experience at the end of the last war is inescapable
+  - were the war to end suddenly within the next six months, were we again painlessly to wind up our war effort in the greatest haste, to demobilize our armed forces, to liquidate price controls, to shift from astronomical deficits to even the larger deficits of the thirties
+  - then there would be ushered in the greatest period of unemployment and industrial dislocation which any economy has ever faced
+  - Journal of Monetary Economics
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0021</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">케인즈주의자들과<br />현대통화이론(MMT)</h2>
+<p class="class_s8H-0">미국 통화 역사를 여행하면서 우리는 경제가 어떻게 작동해야 하는지에 대한 경쟁적인 비전으로 형성된 풍경을 조사했습니다. 앞으로 다가올 일에 착수하기 전에 우리는 전 세계 중앙 은행과 재무 부서의 대리석 홀에서 이루어지는 모든 결정에 계속해서 영향을 미치는 아이디어를 가진 지적 거물들을 이해해야 합니다. 이러한 경제 이론을 세상을 보는 다른 렌즈로 생각하십시오. 각각은 근본적인 질문에 대한 고유한 관점을 제공합니다. 정부가 시장에 개입해야 할까요, 아니면 시장이 자유롭게 운영되도록 허용해야 할까요? 저축은 선한 것인가, 해로운 것인가? 번영은 인쇄될 수 있는가? 이러한 질문에 대한 답은 우리의 미래에 깊은 영향을 미칩니다.</p>
+<h3 id="id__798_73_" class="heading_s78-0">고전경제학</h3>
+<p class="class_sXY-0">다시 한번 말씀드리자면
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0023.xhtml
+- matches:
+  - occurred when the Ancien
+  - gime of Louis XVI and the ruling elites refused to reform
+  - corrupt system, and the people took matters into their own hands
+  - good example of this type of behavior is the CEO
+  - HBS graduate) of what in
+  - was the second-largest Fortune
+  - decline in the company
+  - net worth of over
+  - stock options and salary) while his employees
+  - retirement plans were obliterated
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0023</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">아무것도 이 열차를 멈추지 못한다</h2>
+<p class="class_s2H-0">브레이크 없이 선로를 질주하는 기차를 상상해보세요. 이것이 미국의 현재 재정 궤적입니다. 뛰어난 엔지니어이자 투자 분석가인 린 올든은 "아무 것도 이 열차를 막지 못합니다."라는 적절한 표현을 사용했습니다. 그녀는 우리가 금융 시스템에서 돌아갈 수 없는 지점인 루비콘 강을 건넜다고 믿고 있고 나도 그녀의 말에 동의합니다. 미국의 재정 열차가 운명적인 전환을 향해 달려가는 가운데, 멈출 수 없는 부채 모멘텀으로 인한 시스템 붕괴 또는 고통스럽지만 의도적인 경제 재편을 향한 예리한 각도가 앞에 놓여 있습니다. 차장의 손이 레버 위로 움직이지만, 이 속도에서는 두 트랙 모두 변형으로 끝납니다. 유일한 선택은 우리가 변화를 주도할 것인지, 아니면 물리학이 결정하도록 할 것인지입니다.</p>
+<figure class="figure_sG9-0"><img src="image_rsrc3D0.jpg" alt="" 
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0032.xhtml
+- matches:
+  - amp;P Commodity Producer Index
+  - Gold Composition By Category
+  - Silver Usage By Category
+  - The Wizard of Oz
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0032</title>
+</head>
+<body>
+<h2 class="heading_s3K-1">투자 시사점<br />– 전통 자산</h2>
+<p class="class_s2H-1">제가 26세였을 때, 벤처 캐피털 업계의 첫 상사는 Continental Illinois Bank의 Venture Capital Group을 운영하는 친절하고 나이 많은 신사였습니다. 그는 Sequoia Ventures의 Don Valentine과 우정을 쌓았고, Valentine은 내 상사의 은행을 Apple Computer의 초기 투자자로 초대했습니다. 초기에 은행은 Apple에 약 500,000달러를 투자했는데, 제가 Continental에 입사할 무렵에는 약 4,500만 달러가 되었습니다.<span id="a2TB" /><a href="part0042.xhtml#a36A" epub:type="noteref" class="class_s2T8">44</a> 그래서 제 상사는 은행 내에서 많은 재량권을 가졌습니다.<span id="a2Z8" /><a href="part0042.xhtml#a36B" epub:type="not
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0034.xhtml
+- matches:
+  - Tender in Payment of Debts,
+  - The New York Times
+  - The New York Times
+  - he Wall Street Journal
+  - Voters To Elites: Do You See Me Now
+  - The time for honoring yourself will soon be at an end
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0034</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">정책 대응</h2>
+<p class="class_s2H-0">나는 명확한 대안을 제시하지 않은 채 우리 통화 시스템과 연준에 대해 불평했다는 점에서 비판을 받아왔습니다. 새로운 그림을 그려보겠습니다. 케네디의 영감을 주는 우아함과 레이건의 위엄 있는 존재감을 결합한 비전 있는 대통령이 미국의 금융 미래를 재편하기 위해 앞으로 나아갑니다. 유역의 순간이 어떻게 전개될 수 있는지는 다음과 같습니다.</p>
+<p class="class_s21">신사 숙녀 여러분, 동료 미국인 여러분,</p>
+<p class="class_sM-0">오늘 밤 저는 우리나라의 번영과 약속의 핵심, 즉 우리 경제 시스템의 기초에 영향을 미치는 것에 대해 이야기하기 위해 여러분 앞에 왔습니다. 너무 오랫동안 우리는 선의의 의도는 있지만 깨진 아이디어로 포장된 길을 걸어왔습니다. 우리는 부채를 짊어지고 확인되지 않는 성장을 추구하는 결함이 있는 케인지안 경제 모델에 의존해 왔습니다. 우리에게는 성장이 필요하지 않
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0042.xhtml
+- matches:
+  - presentation to the Commonwealth Club of California, San Francisco, California, June
+  - Deflating the Deflation Myth,
+  - Andrew Atkeson and Patrick
+  - Deflation and Depression: Is There an Empirical Link
+  - The American Economic Review
+  - Measuring prices and wages in
+  - terms involves subtracting the inflation rate from the nominal rate
+  - For example, if the nominal interest rate is
+  - but inflation is running at
+  - then the real rate of interest is
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0042</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s2BV">부록</h2>
+<h3 id="id__798_130_" class="heading_s78-0">내 크로스핏 코치가 가장 좋아하는 연설:</h3>
+<p class="class_s2BY">투기장 안의 인간</p>
+<p class="class_sM-0">중요한 것은 비평가가 아니다. 강한 사람이 어디서 비틀거리는지, 혹은 행동하는 사람이 어디서 더 잘할 수 있었는지를 지적하는 사람이 아니다.</p>
+<p class="class_sM-0">공은 실제로 투기장 안에 있는 사람에게 돌아간다. 그의 얼굴은 먼지와 땀과 피로 얼룩져 있고, 그는 용감하게 분투한다. 그는 실수하고, 거듭 부족함을 드러낸다. 오류와 결함 없는 노력은 없기 때문이다. 그러나 그는 실제로 그 행동을 이루기 위해 애쓴다. 그는 위대한 열정과 큰 헌신을 알고, 가치 있는 대의를 위해 자신을 바친다. 최선의 경우 그는 마침내 높은 성취의 승리를 맛보고, 최악의 경우 실패하더라도 적어도 대담하게 도전하다 실패한다. 그래서 그의 자
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0043.xhtml
+- matches:
+  - FOREWORD BY MAX KEISER
+  - HOW TO READ THIS BOOK
+  - INFLATION IS THE CAUSE
+  - MONEY: SOUND AND FIAT
+  - THE PATH TO PURE FIAT:
+  - TO PRESENT: FINANCIALIZATION, BAILOUTS, FREE MONEY
+  - KEYNESIANS AND MODERN MONETARY THEORY
+  - NOTHING STOPS THIS TRAIN
+  - PART II THE SOLUTION
+  - WHY WE WILL BE SAVED: DECENTRALIZATION
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<title>part0043</title>
+</head>
+<body class="class-0">
+<h1 class="heading_s2GB">Table of Contents</h1>
+<ol class="class_s2K4"><li><p class="class_s2GD"><a href="part0000.xhtml">COVER</a></p></li><li><p class="class_s9G"><a href="part0001.xhtml">REVIEWS</a> </p><ol><li><p class="class_s2GD"><a href="part0004.xhtml">DEDICATION</a></p></li><li><p class="class_s2GD"><a href="part0005.xhtml">FOREWORD BY MAX KEISER</a></p></li></ol></li><li><p class="class_s9G"><a href="part0006.xhtml">INTRODUCTION</a> </p><ol><li><p class="class_s2GD"><a href="part0007.xhtml">OPENING SCENE</a></p></li><li><p class="class_s2GD"><a href="part0008
+```

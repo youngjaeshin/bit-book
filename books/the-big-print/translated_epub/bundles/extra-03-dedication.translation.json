@@ -1,0 +1,39 @@
+{
+  "chapter_id": "extra-03-dedication",
+  "title": "DEDICATION",
+  "src": "part0004.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0004.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "DEDICATION",
+      "translated_text": "헌정",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "Dedicated to my Father, Harold John “Jack” Lepard, Jr.,__INLINE_1____INLINE_2__ deceased in 2005 at 73. The best man I have ever known.",
+      "translated_text": "내 아버지, 해럴드 존 “잭” 레퍼드 주니어께 바친다.__INLINE_1____INLINE_2__ 2005년에 73세로 세상을 떠나신, 내가 이제껏 알았던 최고의 분이었다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2W8\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0004.xhtml#a34R\" ns1:type=\"noteref\" class=\"class_s2T8\">1</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "To my Wife and Kids, my true wealth.",
+      "translated_text": "아내와 아이들, 나의 진정한 부에게.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "And to the people of the world who have suffered from inflation and an unfair system, and yet wake up every morning and do honest work.",
+      "translated_text": "그리고 인플레이션과 불공정한 시스템으로 고통받으면서도, 매일 아침 일어나 정직하게 일하는 세상의 사람들에게.",
+      "inline_tokens": {}
+    }
+  ]
+}

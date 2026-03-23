@@ -1,0 +1,530 @@
+{
+  "chapter_id": "13-bitcoin-fixes-this",
+  "title": "BITCOIN FIXES THIS",
+  "src": "part0026.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0026.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "BITCOIN FIXES THIS",
+      "translated_text": "비트코인이 이 문제를 해결했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "Bitcoin is a secure digital network that transfers digital value (money) across time and space. Bitcoin represents a paradigm shift in how we think about and use money. It’s not just another cryptocurrency or investment vehicle – it’s a fundamental technological innovation that will reshape our financial future.",
+      "translated_text": "비트코인은 시간과 공간을 넘어 디지털 가치(돈)를 전송하는 안전한 디지털 네트워크입니다. 비트코인은 우리가 돈을 생각하고 사용하는 방식의 패러다임 변화를 나타냅니다. 이는 단지 또 다른 암호화폐나 투자 수단이 아닙니다. 이는 우리의 금융 미래를 재편할 근본적인 기술 혁신입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "THE BIRTH OF BITCOIN",
+      "translated_text": "비트코인의 탄생",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "For those readers unfamiliar with Bitcoin, here is its history. On October 31, 2008, under the pseudonym Satoshi Nakamoto, an anonymous technologist (or several working together) publicly issued the Bitcoin white paper,__INLINE_1____INLINE_2__ laying out a blueprint for a peer-to-peer electronic cash system.",
+      "translated_text": "비트코인에 익숙하지 않은 독자들을 위해 비트코인의 역사를 소개합니다. 2008년 10월 31일, 익명의 기술자(또는 여러 명이 협력)가 사토시 나카모토라는 가명으로 P2P 전자 현금 시스템의 청사진을 제시하는 비트코인 ​​백서 __INLINE_1____INLINE_2__을 공개적으로 발행했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a36C\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a308\" ns1:type=\"noteref\" class=\"class_s2T8\">5</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "Nakamoto and others then began developing and building a network of computers that would keep a digital ledger of transactions measured in a new digital unit of account: one bitcoin. The core software is open-source and distributed to computer nodes,__INLINE_1____INLINE_2__ now numbering approximately 17,000 plus, and countless miners competing with each other to process transactions into blocks.",
+      "translated_text": "Nakamoto와 다른 사람들은 새로운 디지털 계정 단위인 비트코인 ​​1개로 측정된 거래의 디지털 원장을 유지하는 컴퓨터 네트워크를 개발하고 구축하기 시작했습니다. 핵심 소프트웨어는 오픈 소스이며 컴퓨터 노드에 배포됩니다. __INLINE_1____INLINE_2__은 현재 약 17,000개 이상에 달하며 거래를 블록으로 처리하기 위해 서로 경쟁하는 수많은 채굴자들이 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a36T\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2ZN\" ns1:type=\"noteref\" class=\"class_s2T8\">6</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "Bitcoin miners are individuals or entities that purchase computing power to satisfy three basic roles for the network: 1) confirm transactions, 2) secure the ledger, and 3) participate in the fair distribution of new bitcoins. A costly endeavor requiring specialized hardware and electricity, miners are incentivized through block rewards__INLINE_1____INLINE_2__ and transaction fees.__INLINE_3____INLINE_4__ They use electricity and computing power to attempt to verify transaction blocks. Their expense is electricity; their revenues are block rewards and transaction fees.",
+      "translated_text": "비트코인 채굴자는 네트워크의 세 가지 기본 역할, 즉 1) 거래 확인, 2) 원장 보안, 3) 새로운 비트코인의 공정한 배포에 참여하기 위해 컴퓨팅 성능을 구매하는 개인 또는 단체입니다. 전문적인 하드웨어와 전기가 필요한 비용이 많이 드는 작업인 채굴자는 블록 보상__INLINE_1____INLINE_2__ 및 거래 수수료를 통해 인센티브를 받습니다. __INLINE_3____INLINE_4__ 그들은 전기와 컴퓨팅 성능을 사용하여 거래 블록을 확인하려고 시도합니다. 그들의 비용은 전기입니다. 그들의 수익은 블록 보상과 거래 수수료입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2YW\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a365\" ns1:type=\"noteref\" class=\"class_s2T8\">7</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a30W\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a366\" ns1:type=\"noteref\" class=\"class_s2T8\">8</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "Once formed, these blocks stack on top of each other, linking one to the next, forming a “blockchain.” The blockchain holds a record of every transaction since inception. The system is designed to form a block roughly every 10 minutes. Each block contains between 1,500 and 4,000 transactions, builds upon prior blocks, and becomes permanent and immutable after six 10-minute cycles. The computing power behind the mining network generates new blocks that secure and validate transactions on the blockchain. Presently, the computing power behind the Bitcoin network makes it the largest distributed computer network in the world. Miners add computing power to the network, which increases the “hash rate” or computational power of the network. Because more power can assemble blocks more quickly, every 2016 blocks (roughly two weeks), a built-in difficulty algorithm self-adjusts the computational problem to keep the average time between blocks close to 10 minutes. Ingeniously, the performance of the network is coded to self-regulate.",
+      "translated_text": "일단 형성되면 이러한 블록은 서로 쌓여서 하나를 다음 블록으로 연결하여 \"블록체인\"을 형성합니다. 블록체인은 처음부터 모든 거래에 대한 기록을 보유합니다. 이 시스템은 대략 10분마다 블록을 형성하도록 설계되었습니다. 각 블록에는 1,500~4,000개의 거래가 포함되어 있으며 이전 블록을 기반으로 구축되며 6번의 10분 주기 후에 영구적이고 불변이 됩니다. 채굴 네트워크 뒤의 컴퓨팅 능력은 블록체인에서 거래를 보호하고 검증하는 새로운 블록을 생성합니다. 현재 비트코인 ​​네트워크의 컴퓨팅 능력은 비트코인 ​​네트워크를 세계 최대의 분산 컴퓨터 네트워크로 만들고 있습니다. 채굴자는 네트워크에 컴퓨팅 성능을 추가하여 네트워크의 \"해시 속도\" 또는 컴퓨팅 성능을 높입니다. 더 많은 전력을 사용하면 블록을 더 빠르게 조립할 수 있으므로 2016개 블록(약 2주)마다 내장된 난이도 알고리즘이 계산 문제를 자체 조정하여 블록 간 평균 시간을 10분에 가깝게 유지합니다. 교묘하게도 네트워크의 성능은 자체 조절되도록 코딩되어 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "The code behind the network is distributed and open-source so that everyone can see it. There is no single point of failure. A select team of core developers maintains the code and can only make changes if revisions are properly proposed, voted on, and accepted by a majority of the nodes in the network.",
+      "translated_text": "네트워크 뒤에 있는 코드는 누구나 볼 수 있도록 배포되고 오픈 소스로 제공됩니다. 단일 실패 지점이 없습니다. 핵심 개발자로 구성된 선별된 팀은 코드를 유지 관리하며 개정안이 적절하게 제안되고, 투표되고, 네트워크의 대다수 노드에서 승인된 경우에만 변경할 수 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "The system was designed with a 21-million-coin hard cap on the number of Bitcoins that will ever exist. Miners consume electricity to confirm the transactions and receive a reward if they successfully discover the correct solution that leads to the creation of a block. The reward is two-fold — transaction fees and an established block subsidy, currently 3.125 bitcoin. The block subsidy is mathematically programmed to halve every 210,000 blocks, about every four years, meaning that the __INLINE_1__dilution rate shrinks at each halving event. The Bitcoin network is nearly 16 years old, and more than 877,000 transaction blocks have been mined — or approximately 19.9 million of the 21 million supply hard cap. The last bitcoin is expected to be mined in 2140. It’s estimated that as many as 10-15% of the coins in existence have already been lost.__INLINE_2____INLINE_3__",
+      "translated_text": "이 시스템은 앞으로 존재할 비트코인 ​​수에 대해 2,100만 코인의 하드 캡을 설정하여 설계되었습니다. 채굴자는 거래를 확인하고 블록 생성으로 이어지는 올바른 솔루션을 성공적으로 발견하면 보상을 받기 위해 전기를 소비합니다. 보상은 거래 수수료와 확정된 블록 보조금(현재 3.125 비트코인)의 두 가지입니다. 블록 보조금은 약 4년마다 210,000블록마다 절반으로 줄어들도록 수학적으로 프로그래밍되어 있습니다. 즉, 각 절반이 줄어들 때마다 __INLINE_1__희석률이 줄어듭니다. 비트코인 네트워크는 거의 16년이 되었으며 877,000개 이상의 거래 블록이 채굴되었습니다. 이는 2,100만 공급 하드캡 중 약 1,990만 개입니다. 마지막 비트코인은 2140년에 채굴될 것으로 예상됩니다. 현존하는 코인 중 무려 10~15%가 이미 손실된 것으로 추정됩니다.__INLINE_2____INLINE_3__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_227\" />",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2XN\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2WD\" ns1:type=\"noteref\" class=\"class_s2T8\">9</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "The fact that there will never be more than 21 million bitcoins issued is critical to the network’s success. Bitcoin has value in the marketplace and is functioning as money.__INLINE_1____INLINE_2__ __INLINE_3__ You may think I am being hyperbolic, but I am not. Throughout thousands of years of human history, every form of money has eventually been diluted. This means that additional monetary units were created, and those new units diluted the value of all the existing money. Even gold, the soundest form of money before Bitcoin, grows in supply at an admittedly modest rate of 1.7% annually. So in less than 60 years, the supply of above-ground gold on the planet will double.",
+      "translated_text": "발행된 비트코인이 2,100만 개를 넘지 않을 것이라는 사실은 네트워크의 성공에 매우 중요합니다. 비트코인은 시장에서 가치가 있으며 돈으로 기능하고 있습니다. __INLINE_1____INLINE_2__ __INLINE_3__ 제가 과장하고 있다고 생각할 수도 있지만 그렇지 않습니다. 수천년의 인류 역사를 통해 모든 형태의 돈은 결국 희석되었습니다. 이는 추가적인 화폐 단위가 생성되었고, 이러한 새로운 단위가 기존 화폐의 가치를 희석한다는 것을 의미합니다. 비트코인 이전에 가장 건전 화폐 형태였던 금조차도 매년 1.7%의 적당한 비율로 공급이 증가합니다. 따라서 60년 안에 지구상의 지상 금 공급량은 두 배로 늘어날 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2U8\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a36F\" ns1:type=\"noteref\" class=\"class_s2T8\">10</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">공급량이 고정된 화폐 형태를 갖는 것은 말 그대로 인류사에 단 한 번 있을 사건이다.</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "The designers of Bitcoin created perfect money. It cannot be diluted. Said another way, __INLINE_1__ using code and algorithms. This is a very big deal.",
+      "translated_text": "비트코인의 설계자들은 완벽한 돈을 만들어냈습니다. 희석할 수 없습니다. 다른 말로 하면 __INLINE_1__은 코드와 알고리즘을 사용합니다. 이것은 매우 큰 일입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">그들은 완전하고 불변하며 검증 가능한 디지털 희소성을 설계했다</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "Imagine a form of money that can’t be diluted or devalued over time. That’s what Bitcoin offers – a once-in-humanity event that challenges thousands of years of monetary history. Mankind now has a form of money that holds its value. This will have enormous global implications in the next 10-20-50-100 years.",
+      "translated_text": "시간이 지나도 희석되거나 평가절하될 수 없는 형태의 돈을 상상해 보세요. 이것이 바로 비트코인이 제공하는 것입니다. 수천 년의 화폐 역사에 도전하는 인류 최초의 사건입니다. 인류는 이제 그 가치를 지닌 화폐 형태를 갖게 되었습니다. 이는 향후 10-20-50-100년 동안 전 세계적으로 엄청난 영향을 미칠 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[2]",
+      "tag": "h3",
+      "source_text": "BITCOIN IS A TECHNOLOGICAL INVENTION",
+      "translated_text": "비트코인은 기술적 발명품입니다",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "Many people look at Bitcoin and only see its monetary properties. Some consider it just another cryptocurrency and throw it in the Sam Bankman-Fried crypto-fraud bucket. Some consider only its investment characteristics. In my opinion, these are grave mistakes.",
+      "translated_text": "많은 사람들이 비트코인을 보고 금전적 속성만 봅니다. 어떤 사람들은 그것을 또 다른 암호화폐라고 생각하고 샘 뱅크먼프리드식 암호화폐 사기 범주에 넣습니다. 일부는 투자 특성만을 고려합니다. 제 생각에는 이것은 심각한 실수입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "Bitcoin is a fundamental, foundational technological innovation. It is a paradigm shift. The inventor(s) of Bitcoin created a system that provides absolute digital mathematical truth. Michael Saylor, Chairman of MicroStrategy and engineer by training, frames Bitcoin as one of humanity’s most transformative technological advancements. He compares it to pivotal discoveries that reshaped the world: fire, the wheel, brass, steel, gunpowder, Copernican heliocentricity, the printing press, Newtonian physics, electricity, telegraph, telephone, automobiles, air flight, radio, TV, microprocessors, cell phones, and the internet.",
+      "translated_text": "비트코인은 근본적이고 근본적인 기술 혁신입니다. 그것은 패러다임의 전환이다. 비트코인의 발명가는 절대적인 디지털 수학적 진실을 제공하는 시스템을 만들었습니다. 마이크로스트래티지 회장이자 훈련받은 엔지니어인 마이클 세일러는 비트코인을 인류의 가장 혁신적인 기술 발전 중 하나로 간주합니다. 그는 그것을 불, 바퀴, 황동, 강철, 화약, 코페르니쿠스의 태양 중심설, 인쇄기, 뉴턴 물리학, 전기, 전신, 전화, 자동차, 항공, 라디오, TV, 마이크로프로세서, 휴대폰, 인터넷 등 세계를 재편한 중추적인 발견에 비유합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "As you can see, we have become an increasingly digital world. Bitcoin is just the natural extension of that trend. It is pure digital energy, and because it is immutable, it will live forever. We used to live in an analog world. A book was physically printed. Now we read books on our Kindle, our computers, or our cell phones. By the same token, the soundest form of money before the invention of Bitcoin was gold. It is analog sound money. Bitcoin is digital sound money. Digital gold, if you will. As you will learn in Chapter 24: Investment Implications, it enjoys many benefits over gold.",
+      "translated_text": "보시다시피, 우리는 점점 더 디지털화되는 세상이 되었습니다. 비트코인은 이러한 추세의 자연스러운 확장일 뿐입니다. 그것은 순수한 디지털 에너지이며, 불변이기 때문에 영원히 지속됩니다. 우리는 아날로그 세상에 살았습니다. 책이 물리적으로 인쇄되었습니다. 이제 우리는 Kindle, 컴퓨터, 휴대폰으로 책을 읽습니다. 마찬가지로, 비트코인이 발명되기 전 가장 건전 화폐 형태는 금이었습니다. 아날로그 사운드머니입니다. 비트코인은 디지털 건전 화폐입니다. 원한다면 디지털 금. 24장: 투자에 미치는 영향에서 배우게 되겠지만, 금은 금에 비해 많은 이점을 누리고 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "In the limited space here, I cannot do justice to the rich history of technological advancements over the past 5,000 years __INLINE_1__that position Bitcoin as the next development in a long line of technological innovations. But if you are interested, you really owe it to yourself to take one hour and 40 minutes and listen to Michael Saylor’s Master Class Interview at the Atlas Society in 2024.__INLINE_2____INLINE_3__ He presents a very clear vision of Bitcoin’s transformative potential. After listening, you will understand why Bitcoin is destined to become the base layer of global money.",
+      "translated_text": "여기 제한된 공간에서는 비트코인을 기술 혁신의 다음 발전으로 자리매김한 지난 5,000년 동안 __INLINE_1__이 기술 발전의 풍부한 역사를 정의할 수 없습니다. 하지만 관심이 있으시다면 1시간 40분 정도 시간을 내어 2024년 아틀라스 소사이어티에서 진행된 마이클 세일러의 마스터클래스 인터뷰를 들어보세요.__INLINE_2____INLINE_3__ 그는 비트코인의 혁신적인 잠재력에 대한 매우 명확한 비전을 제시합니다. 듣고 나면 비트코인이 글로벌 화폐의 기본 계층이 될 운명인 이유를 이해하게 될 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_229\" />",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a37P\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a387\" ns1:type=\"noteref\" class=\"class_s2T8\">11</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "Consider the inventions listed above. Think about how things changed between the date of invention and 20, 50, or even 100 years later. When the printing press was invented, most people were illiterate. Now billions read, and books are ubiquitous. When the automobile was invented, it was a fast horse. Now they are part of everyone’s life. When the internet spread commercially__INLINE_1____INLINE_2__ (1993 marked the beginning of widespread adoption), Nobel Prize-winning Keynesian economist Paul Krugman said it had no more utility than the fax machine. Now it is part of the fabric of our lives, connecting us all through social networks and driving 20% of all retail sales worldwide. Few can imagine life today without the internet. All of these inventions were adopted and spread widely because they offered a better solution than what existed.",
+      "translated_text": "위에 나열된 발명품을 고려하십시오. 발명 날짜와 20년, 50년, 심지어 100년 후 사이에 상황이 어떻게 변했는지 생각해 보세요. 인쇄기가 발명되었을 당시 대부분의 사람들은 문맹이었습니다. 이제 수십억 명이 책을 읽고 있으며, 책은 어디에나 있습니다. 자동차가 발명되었을 때는 빠른 말이었죠. 이제 그들은 모든 사람의 삶의 일부가 되었습니다. 인터넷이 상업적으로 확산되었을 때 __INLINE_1____INLINE_2__(1993년)은 광범위한 채택의 시작을 알렸습니다. 노벨상을 수상한 케인즈주의 경제학자 Paul Krugman은 인터넷이 팩스 기계만큼 유용하지 않다고 말했습니다. 이제 이는 우리 삶의 일부가 되었으며, 소셜 네트워크를 통해 우리 모두를 연결하고 전 세계 소매 매출의 20%를 창출합니다. 오늘날 인터넷 없는 생활을 상상할 수 있는 사람은 거의 없습니다. 이러한 모든 발명품은 기존보다 더 나은 솔루션을 제공했기 때문에 널리 채택되고 확산되었습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a339\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2TE\" ns1:type=\"noteref\" class=\"class_s2T8\">12</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "The Bitcoin network and using Bitcoin as money is a better choice than storing value in fiat currencies like the dollar, which are programmed to debase and be diluted over time. Doesn’t it logically make sense that more and more people will choose the form of money that treats their savings the best over time? It seems obvious and certain to me.",
+      "translated_text": "비트코인 네트워크와 비트코인을 화폐로 사용하는 것은 시간이 지남에 따라 가치가 하락하고 희석되도록 프로그래밍된 달러와 같은 법정화폐에 가치를 저장하는 것보다 더 나은 선택입니다. 점점 더 많은 사람들이 시간이 지남에 따라 자신의 저축을 가장 잘 활용하는 돈의 형태를 선택할 것이라는 것이 논리적으로 이해되지 않습니까? 나에게는 분명하고 확실한 것 같습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[3]",
+      "tag": "h3",
+      "source_text": "STATE-FREE MONEY",
+      "translated_text": "무국적 화폐",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "Bitcoin is permissionless, peer-to-peer, and distributed. Anyone can buy Bitcoin, and anyone can transact in Bitcoin, 24/7, 365 days of the year. Users can send millions or billions of dollars of market value peer-to-peer, free from government interference and without needing a financial institution or a bank.__INLINE_1____INLINE_2__ The implications of this technology-based sound monetary network are profound and will grow in importance in the decades ahead.",
+      "translated_text": "비트코인은 무허가형, P2P(개인 간) 방식으로 분산됩니다. 누구나 비트코인을 구매할 수 있으며, 연중무휴 24시간 누구나 비트코인으로 거래할 수 있습니다. 사용자는 정부 간섭이나 금융 기관이나 은행 없이 수백만 또는 수십억 달러의 시장 가치를 개인 간 방식으로 보낼 수 있습니다. __INLINE_1____INLINE_2__ 이 기술 기반 건전 화폐 네트워크의 의미는 심오하며 앞으로 수십 년 동안 그 중요성이 커질 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a35K\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2VU\" ns1:type=\"noteref\" class=\"class_s2T8\">13</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[18]",
+      "tag": "p",
+      "source_text": "Bitcoin is money freed from control by the state or governments. Think about it: the government can access your bank account, tax your income, prevent you from transacting, and seize your assets via a court order delivered to your bank. With the Bitcoin network, you are self-sovereign. Nobody needs to know what you hold, what your private keys are, or how you transact with others. This gives individuals an enormous weapon against state overreach.__INLINE_1____INLINE_2__ Some Bitcoiners, myself included, believe Bitcoin may even curtail government instigation of wars because it will have no means of paying for them. It cannot get the money. This is my hope and that of many other Bitcoiners.",
+      "translated_text": "비트코인은 국가나 정부의 통제에서 벗어난 돈입니다. 생각해 보십시오. 정부는 은행에 전달된 법원 명령을 통해 귀하의 은행 계좌에 접근하고, 소득에 세금을 부과하고, 거래를 금지하고, 자산을 압류할 수 있습니다. 비트코인 네트워크를 사용하면 귀하는 자주권을 갖습니다. 누구도 귀하가 무엇을 보유하고 있는지, 개인 키가 무엇인지, 다른 사람과 어떻게 거래하는지 알 필요가 없습니다. 이는 개인에게 국가의 과도한 접근에 맞서는 엄청난 무기를 제공합니다. __INLINE_1____INLINE_2__ 저를 포함한 일부 비트코인 ​​사용자들은 비트코인이 비용을 지불할 수단이 없기 때문에 정부의 전쟁 선동을 줄일 수도 있다고 믿습니다. 돈을 얻을 수 없습니다. 이것이 저의 희망이자 다른 많은 Bitcoiners의 희망입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a34E\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2W1\" ns1:type=\"noteref\" class=\"class_s2T8\">14</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[19]",
+      "tag": "p",
+      "source_text": "For skeptics who dismiss Bitcoin as just a toy or a mere fad, doubting the significance of digital scarcity, consider this: In just 16 years, Bitcoin has risen to become the 10th largest currency worldwide by circulating supply. Catapulting from zero to the 10th largest world currency in 16 years is staggering.",
+      "translated_text": "비트코인을 단순한 장난감이나 유행으로 일축하고 디지털 희소성의 중요성을 의심하는 회의론자들은 다음을 고려하십시오. 단 16년 만에 비트코인은 순환 공급을 통해 전 세계 10번째로 큰 통화로 성장했습니다. 16년 만에 0에서 세계 10위의 통화로 성장한 것은 정말 놀라운 일입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[20]",
+      "tag": "p",
+      "source_text": "Fiat Market Cap, as of 12/14/2024. __INLINE_1__",
+      "translated_text": "법정화폐 시가총액(2024년 12월 14일 기준). __INLINE_1__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"https://fiatmarketcap.com/\">(fiatmarketcap.com)</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[4]",
+      "tag": "h3",
+      "source_text": "FIAT EMPOWERS THE STATE",
+      "translated_text": "법정화폐는 국가에 권한을 부여합니다",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[21]",
+      "tag": "p",
+      "source_text": "Bitcoin’s investment potential is undeniable, with its “Number-Go-Up” (NGU) appeal and unique monetary properties such as privacy, non-dilution, censorship resistance, and ease of independent use. However, its significance extends far beyond mere financial gain. Bitcoin is a powerful tool for preserving individual freedoms in an era of increasing government overreach.",
+      "translated_text": "비트코인의 투자 잠재력은 NGU(가격 상승) 매력과 개인 정보 보호, 희석 불가, 검열 저항 및 독립적 사용의 용이성과 같은 고유한 금전적 속성으로 인해 부인할 수 없습니다. 그러나 그 중요성은 단순한 금전적 이익 그 이상입니다. 비트코인은 정부의 과도한 영향력이 증가하는 시대에 개인의 자유를 보호하기 위한 강력한 도구입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[22]",
+      "tag": "p",
+      "source_text": "As we will discuss in an upcoming chapter, I believe that we have reached what can be termed “peak centralization,” where governments wield unprecedented power, often at the expense of personal liberties. Concentrating power within government structures has led to an overreaching and alarming growth in governments that misbehave, restricting individual freedoms everywhere.",
+      "translated_text": "다음 장에서 논의하겠지만, 나는 정부가 종종 개인의 자유를 희생하면서 전례 없는 권력을 휘두르는 '최고의 중앙집권화'에 도달했다고 믿습니다. 정부 구조 내에 권력이 집중되면서 잘못된 행동을 하고 모든 곳에서 개인의 자유를 제한하는 정부가 과도하고 놀랄 만큼 증가했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[23]",
+      "tag": "p",
+      "source_text": "An important Bitcoin use case emerged during the COVID pandemic when Canadian truckers peacefully organized a protest against the insane testing policies that prevented them from doing their jobs. Temporarily giving up their incomes, truckers across Canada assembled a Freedom Convoy of hundreds of 18-wheeler trucks that drove to Ottawa to hold a peaceful sit-in protest. Supporters throughout North America attempted to provide economic aid through traditional crowdfunding platforms like GoFundMe, but Canadian authorities swiftly froze and seized these donations. Recognizing the need for an uncensorable funding mechanism, my friend B.J. Dichter__INLINE_1____INLINE_2__ jumped into the breach and created a Bitcoin-based donation system. It worked. Donors contributed Bitcoin that was distributed to the truckers (probably now all Bitcoiners) and their families — all without government seizure. As an aside, former U.S. Presidential candidate Robert F. Kennedy, Jr. cited the truckers’ protest and seizure of their money as the catalyst that awakened him to the importance of Bitcoin as a civil liberties tool.",
+      "translated_text": "캐나다의 트럭 운전자들이 업무 수행을 방해하는 미친 테스트 정책에 반대하는 시위를 평화롭게 조직했을 때 코로나19 팬데믹 기간 동안 중요한 비트코인 ​​사용 사례가 나타났습니다. 일시적으로 수입을 포기한 캐나다 전역의 트럭 운전사들은 수백 대의 18륜 트럭으로 구성된 자유 호송대를 모아 오타와로 가서 평화적인 농성 시위를 벌였습니다. 북미 전역의 지지자들은 GoFundMe와 같은 전통적인 크라우드 펀딩 플랫폼을 통해 경제적 지원을 시도했지만 캐나다 당국은 신속하게 이러한 기부금을 동결하고 압수했습니다. 검열할 수 없는 자금 조달 메커니즘의 필요성을 인식한 내 친구 B. J. 딕터__INLINE_1____INLINE_2__은 위반에 뛰어들어 비트코인 ​​기반 기부 시스템을 만들었습니다. 효과가 있었습니다. 기부자들은 정부 압수 없이 트럭 운전사(현재는 모두 비트코인 ​​운전사)와 그 가족에게 배포된 비트코인을 기부했습니다. 여담으로, 전 미국 대통령 후보인 로버트 F. 케네디 2세(Robert F. Kennedy Jr.)는 시민 자유 도구로서 비트코인의 중요성을 깨달은 촉매제로 트럭 운전사의 항의와 돈 압수를 언급했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a32F\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2ZZ\" ns1:type=\"noteref\" class=\"class_s2T8\">15</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[5]",
+      "tag": "h3",
+      "source_text": "BITCOIN USE CASE: THIRD WORLD",
+      "translated_text": "비트코인 사용 사례: 제3세계",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[24]",
+      "tag": "p",
+      "source_text": "While Bitcoin’s investment potential often dominates headlines in the Western world, this narrow focus hides its revolutionary impact on global financial inclusion. In regions where __INLINE_1__traditional banking infrastructure is lacking or unreliable, Bitcoin emerges as a lifeline. With nothing more than a smartphone and Internet connection, individuals gain access to a borderless financial system that operates beyond the reach of oppressive regimes or unstable economies. Bitcoin’s true power lies not in its price charts but in its ability to grant sovereignty to unbanked and censored populations worldwide.",
+      "translated_text": "비트코인의 투자 잠재력은 종종 서구 세계의 헤드라인을 장식하지만, 이러한 편협한 초점에는 글로벌 금융 포용에 대한 혁명적인 영향이 숨겨져 있습니다. __INLINE_1__전통적인 은행 인프라가 부족하거나 신뢰할 수 없는 지역에서는 비트코인이 생명선으로 떠오릅니다. 스마트폰과 인터넷 연결만으로 개인은 억압적인 정권이나 불안정한 경제의 손이 닿지 않는 곳에서 운영되는 국경 없는 금융 시스템에 접근할 수 있습니다. 비트코인의 진정한 힘은 가격 차트가 아니라 전 세계적으로 은행 서비스를 받지 못하고 검열을 받지 않는 인구에게 주권을 부여하는 능력에 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_233\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[25]",
+      "tag": "p",
+      "source_text": "Human rights advocate Alex Gladstein’s book __INLINE_1__ highlights the global disparity between developed nations and the rest of the world. He points out that in the developed world, we take for granted our robust banking systems, credit cards, and payment tools/rails like Venmo and PayPal. Moreover, our currencies generally maintain their value and rarely experience double-digit annual inflation rates.",
+      "translated_text": "인권 옹호자 알렉스 글래드스타인의 저서 __INLINE_1__은 선진국과 나머지 세계 간의 글로벌 격차를 강조합니다. 그는 선진국에서는 강력한 은행 시스템, 신용 카드, Venmo 및 PayPal과 같은 결제 도구/레일을 당연한 것으로 여긴다고 지적합니다. 더욱이 우리 통화는 일반적으로 그 가치를 유지하며 연간 두 자릿수 인플레이션율을 경험하는 경우가 거의 없습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">당신의 금융 특권을 점검하라</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[26]",
+      "tag": "p",
+      "source_text": "On a planet of eight billion people, only 13% use the major, stable currencies such as the U.S. Dollar, Euro, Japanese Yen, British Pound, Australian Dollar, Canadian Dollar, or Swiss Franc. Even when including the Chinese Yuan and Indian Rupee, less than half the global population (48%) lives in a somewhat stable currency regime. This still leaves over four billion people who must deal with less trustworthy currencies, many of which suffer from mismanagement and frequent bouts of double-digit rates of inflation. For these individuals, financial instability is not just an economic concern — it’s a daily reality that impacts their ability to save, plan for the future, and maintain their standard of living.",
+      "translated_text": "80억 명의 인구가 있는 지구에서 단 13%만이 미국 달러, 유로, 일본 엔, 영국 파운드, 호주 달러, 캐나다 달러 또는 스위스 프랑과 같은 주요 안정적인 통화를 사용합니다. 중국 위안화와 인도 루피를 포함하더라도 전 세계 인구의 절반 미만(48%)이 다소 안정적인 통화 체제에 살고 있습니다. 이로 인해 여전히 40억 명이 넘는 사람들이 덜 신뢰할 수 있는 통화를 다루어야 하며, 그 중 다수는 잘못된 관리와 빈번한 두 자릿수 인플레이션으로 고통 받고 있습니다. 이들 개인에게 재정적 불안정은 단순히 경제적 문제가 아니라 저축, 미래 계획, 생활 수준 유지 능력에 영향을 미치는 일상적인 현실입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[27]",
+      "tag": "p",
+      "source_text": "The transformative power of Bitcoin in developing nations often eludes privileged elites who have benefited from our fiat currency system. For instance, the late American billionaire Charlie Munger described Bitcoin as “disgusting and contrary __INLINE_1__to the interests of civilization.” His business partner, Warren Buffett, called it “a delusion” and “rat poison squared.”__INLINE_2____INLINE_3__",
+      "translated_text": "개발도상국에서 비트코인의 변혁적인 힘은 종종 우리의 명목 화폐 시스템의 혜택을 받은 특권층 엘리트를 피해갑니다. 예를 들어, 고(故) 미국 억만장자 찰리 멍거(Charlie Munger)는 비트코인을 “문명의 이익에 역겹고 반대되는 __INLINE_1__”이라고 묘사했습니다. 그의 비즈니스 파트너인 워렌 버핏은 이를 “망상”, “쥐약 제곱”이라고 불렀습니다. __INLINE_2____INLINE_3__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_234\" />",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a3A3\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a3A6\" ns1:type=\"noteref\" class=\"class_s2T8\">16</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[28]",
+      "tag": "p",
+      "source_text": "What Messrs. Munger and Buffett miss is that, in the undeveloped world, Bitcoin has literally been a lifesaver for many people. Money is central to the ability of humans to conduct trade and improve their lives. Having the ability to transact and save in a currency that cannot be seized and cannot be inflated away is an enormous win for many people.",
+      "translated_text": "멍거 씨와 버핏 씨가 놓치고 있는 점은 미개발 세계에서 비트코인이 말 그대로 많은 사람들에게 생명의 은인이었다는 것입니다. 돈은 인간이 무역을 수행하고 삶을 개선하는 능력의 핵심입니다. 압류할 수 없고 인플레이션할 수도 없는 통화로 거래하고 저축할 수 있는 능력을 갖는 것은 많은 사람들에게 엄청난 승리입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[29]",
+      "tag": "p",
+      "source_text": "Gladstein’s book tells stories of people around the world who have used Bitcoin to their advantage. His work illustrates three crucial use cases:",
+      "translated_text": "Gladstein의 책은 비트코인을 유리하게 활용한 전 세계 사람들의 이야기를 담고 있습니다. 그의 작업은 세 가지 중요한 사용 사례를 보여줍니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[1]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__. In Senegal, Africa, Fode Diop’s family saw their hard-earned savings for his education halved overnight when, in January 1994, the French government and the International Monetary Fund devalued the CFA Franc (used by former French colonies) by 50% overnight. His education was in jeopardy. Fortunately, he found another alternative. Unsurprisingly, he is now a passionate Bitcoin developer and advocate.",
+      "translated_text": "__INLINE_1__. 아프리카 세네갈에서 Fode Diop의 가족은 1994년 1월 프랑스 정부와 국제통화기금(IMF)이 CFA 프랑(이전 프랑스 식민지에서 사용)을 하룻밤 사이에 50% 평가절하했을 때 교육을 위해 힘들게 벌어들인 저축이 하룻밤 사이에 절반으로 줄어드는 것을 보았습니다. 그의 교육은 위험에 처해 있었습니다. 다행히 그는 다른 대안을 찾았다. 당연히 그는 이제 열정적인 비트코인 ​​개발자이자 지지자입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">가치절하·재평가로부터의 자유</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[2]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__. Lelah Furzan, a female Afghan computer programmer, was fortunate to be paid in Bitcoin. When the Taliban forced her to flee Afghanistan to Germany, she faced a treacherous overland journey, during which she was robbed by dishonest middlemen and common thieves, losing all of her cash and jewelry. Because she kept her bitcoin seed phrases safe, she protected her 2.5 Bitcoin, now worth over $250,000.",
+      "translated_text": "__INLINE_1__. 아프가니스탄의 여성 컴퓨터 프로그래머인 Lelah Furzan은 운이 좋게도 비트코인으로 급여를 받았습니다. 탈레반이 그녀를 아프가니스탄에서 독일로 강제 이주시켰을 때, 그녀는 위험한 육로 여행에 직면했고, 그 동안 그녀는 부정직한 중개업자와 일반 도둑들에게 강탈당하고 현금과 보석을 모두 잃었습니다. 그녀는 비트코인 ​​시드 문구를 안전하게 보관했기 때문에 현재 250,000달러가 넘는 2.5비트코인을 보호했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">자금 도난</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[3]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__. Throughout the world, many poor families send a relative to work in a more developed __INLINE_2__country where they can earn higher wages. These relatives then often remit a portion of their income back home to help their families survive. What may seem like a small sum in Western terms can mean the difference between life and death in impoverished nations. The global remittance market is enormous, an estimated $785 billion, with $88 billion coming from the U.S. Top recipients include India ($125B), Mexico ($67B), China ($50B), Philippines ($40B), Egypt ($24B), Pakistan ($24B), Bangladesh ($23B), Nigeria ($21B), Guatemala ($20B), Uzbekistan ($16B), and El Salvador ($8B).",
+      "translated_text": "__INLINE_1__. 전 세계적으로 많은 가난한 가족들이 더 높은 임금을 받을 수 있는 더 발전된 __INLINE_2__ 국가에서 일하도록 친척을 보냅니다. 이 친척들은 종종 가족의 생존을 돕기 위해 수입의 일부를 본국으로 송금합니다. 서구식으로 보면 작은 액수처럼 보일 수도 있는 금액이 가난한 국가에서는 삶과 죽음의 차이를 의미할 수 있습니다. 글로벌 송금 시장은 약 7,850억 달러로 거대하며 미국에서 880억 달러가 유입됩니다. 최대 수혜국으로는 인도(1,250억 달러), 멕시코(670억 달러), 중국(500억 달러), 필리핀(400억 달러), 이집트(240억 달러), 파키스탄(240억 달러), 방글라데시(230억 달러), 나이지리아(210억 달러), 과테말라(200억 달러), 우즈베키스탄이 있습니다. ($160억), 엘살바도르 ($80억).",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">송금 비용</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_235\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[3]/p[2]",
+      "tag": "p",
+      "source_text": "Though critical to the recipient, sending these remittances is costly and sometimes perilous. Western Union and other money transfer services routinely charge between 6 and 12% of the funds, and recipients often have to travel long distances, wait in long lines, and risk being robbed after receiving their funds.",
+      "translated_text": "수취인에게는 매우 중요하지만 이러한 송금을 보내는 것은 비용이 많이 들고 때로는 위험할 수도 있습니다. 웨스턴 유니언 및 기타 송금 서비스는 일반적으로 자금의 6~12%를 청구하며 수취인은 종종 장거리 이동을 해야 하고 긴 줄을 서서 기다려야 하며 자금을 받은 후 강도를 당할 위험이 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[3]/p[3]",
+      "tag": "p",
+      "source_text": "If the receiver has a smartphone and an internet connection, they can easily download a Bitcoin Lightning wallet and receive funds almost instantaneously for fees that are generally several pennies, never as much as $1. Do the math. If all remittances moved to Lightning rails, financially vulnerable people would save $62.8 billion per year in transaction fees. Such savings could dramatically improve the lives of millions in developing nations, showcasing Bitcoin’s potential as a powerful tool for global financial inclusion and poverty alleviation.",
+      "translated_text": "수신자에게 스마트폰과 인터넷 연결이 있는 경우 비트코인 ​​라이트닝 지갑을 쉽게 다운로드하고 일반적으로 1달러가 아닌 몇 페니의 수수료로 거의 즉시 자금을 받을 수 있습니다. 수학을 해보세요. 모든 송금이 라이트닝 레일로 전환되면 재정적으로 취약한 사람들은 거래 수수료를 연간 628억 달러 절약하게 됩니다. 이러한 절약은 개발도상국 수백만 명의 삶을 극적으로 개선할 수 있으며, 글로벌 금융 포용과 빈곤 완화를 위한 강력한 도구로서 비트코인의 잠재력을 보여줍니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[30]",
+      "tag": "p",
+      "source_text": "At the country level, a striking example of Bitcoin’s impact can be seen in Nigeria, an African country of 233 million people. Their national currency, the Naira (NGN) has been a __INLINE_1__terrible store of value for decades, but the problem has grown more acute in recent years. In 2016, 199 Naira equaled 1 U.S. dollar. Today, that figure has soared to 1,668 Naira per dollar, meaning, in less than 9 years, the Naira has lost 88% of its purchasing power in dollar terms.",
+      "translated_text": "국가 차원에서 비트코인의 영향을 보여주는 놀라운 사례는 인구 2억 3,300만 명의 아프리카 국가인 나이지리아에서 볼 수 있습니다. 자국 통화인 나이라(NGN)는 수십 년 동안 __INLINE_1__의 끔찍한 가치 저장 수단이었지만 최근 몇 년 동안 문제가 더욱 심각해졌습니다. 2016년에는 199나이라가 1달러에 해당했습니다. 오늘날 그 수치는 달러당 1,668나이라로 치솟았습니다. 이는 9년도 채 안 되어 나이라가 달러 기준으로 구매력의 88%를 잃었다는 것을 의미합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_236\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[31]",
+      "tag": "p",
+      "source_text": "In light of this devaluation, it is not surprising that an estimated 35% of Nigerians now use Bitcoin and other cryptocurrencies for savings and transactions — an impressive adoption rate when only 50-60% of the population has internet access or owns a smartphone.",
+      "translated_text": "이러한 평가절하로 인해 현재 약 35%의 나이지리아인이 비트코인 ​​및 기타 암호화폐를 저축 및 거래에 사용하고 있다는 것은 놀라운 일이 아닙니다. 이는 인구의 50~60%만이 인터넷에 접속할 수 있거나 스마트폰을 소유하고 있는 상황에서 인상적인 채택률입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[32]",
+      "tag": "p",
+      "source_text": "It makes me angry that wealthy people like Munger and Buffett criticize Bitcoin,__INLINE_1____INLINE_2__ likely without considering the vital role it plays for the unbanked and financially oppressed world. I am encouraged once again by the words of Alex Gladstein:",
+      "translated_text": "Munger나 Buffett과 같은 부유한 사람들이 비트코인,__INLINE_1____INLINE_2__을 비판하는 것이 은행이 없고 재정적으로 억압받는 세계에서 비트코인이 수행하는 중요한 역할을 고려하지 않은 것이 나를 화나게 합니다. 나는 Alex Gladstein의 다음과 같은 말에 다시 한번 용기를 얻었습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a389\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a30R\" ns1:type=\"noteref\" class=\"class_s2T8\">17</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[33]",
+      "tag": "p",
+      "source_text": "Financial privilege is embedded in our world, and has steered the course of history. It has shifted power from the have-nots to the haves. It is getting worse.",
+      "translated_text": "금융 특권은 우리 세상에 내재되어 있으며 역사의 방향을 조종해 왔습니다. 권력이 없는 자에서 가진 자에게로 옮겨갔습니다. 점점 더 악화되고 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[34]",
+      "tag": "p",
+      "source_text": "But guess what? Bitcoin is going to obliterate financial privilege.",
+      "translated_text": "하지만 그거 알아요? 비트코인은 금융 특권을 말살할 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[35]",
+      "tag": "p",
+      "source_text": "This new currency where everyone is considered equal in the eyes of the protocol, no matter whether you live in Gaza or Tel Aviv, Havana or Miami, Dakar or Paris, Washington or Caracas. The bitcoin protocol does not care about your level of wealth, color of your skin, beliefs, family history, religion, or nationality. It is neutral and cannot discriminate.",
+      "translated_text": "가자, 텔아비브, 하바나, 마이애미, 다카르, 파리, 워싱턴, 카라카스에 거주하든 관계없이 프로토콜의 관점에서 모든 사람이 평등하다고 간주되는 이 새로운 통화입니다. 비트코인 프로토콜은 귀하의 부 수준, 피부색, 신념, 가족 역사, 종교 또는 국적에 관심이 없습니다. 중립적이며 차별할 수 없습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[36]",
+      "tag": "p",
+      "source_text": "When we consider that for millennia the world has been run by one form of financial colonialism or another, it truly is a case of: __INLINE_1__.",
+      "translated_text": "수천 년 동안 세계가 이런저런 형태의 금융 식민주의에 의해 운영되어 왔다는 점을 고려하면, 이는 진정으로 __INLINE_1__의 경우입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">비트코인이 이 문제를 해결한다</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[6]",
+      "tag": "h3",
+      "source_text": "BITCOIN DEFUNDS WAR",
+      "translated_text": "비트코인, 전쟁을 방어하다",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[37]",
+      "tag": "p",
+      "source_text": "The most profound impact of Bitcoin may lie in its potential to fundamentally alter the economics of war and state power. Fiat money empowers the State. Most people hate taxes and will only bear so much before they mount opposition to taxation. Yet, governments have figured out a workaround to this issue. Through monetary inflation, they can spend much more than they collect in taxes, funding initiatives that fail to serve their citizens’ best interests. The worst of which is war.",
+      "translated_text": "비트코인의 가장 심오한 영향은 전쟁의 경제와 국가 권력을 근본적으로 바꿀 수 있는 잠재력에 있을 수 있습니다. 법정화폐는 국가에 권한을 부여합니다. 대부분의 사람들은 세금을 싫어하고 세금에 반대하기 전에는 그 정도만 참을 것입니다. 그러나 정부는 이 문제에 대한 해결 방법을 찾아냈습니다. 통화 인플레이션을 통해 그들은 세금으로 징수하는 것보다 훨씬 더 많은 돈을 지출하여 시민의 최선의 이익에 부합하지 않는 계획에 자금을 지원할 수 있습니다. 그 중 최악은 전쟁이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[38]",
+      "tag": "p",
+      "source_text": "About wars under a fiat system, Ron Paul observed:",
+      "translated_text": "법정화폐 시스템 하의 전쟁에 대해 Ron Paul은 다음과 같이 말했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[39]",
+      "tag": "p",
+      "source_text": "Following the creation of the Fed, the government would discover other uses for an elastic money supply aside from keeping the banking system from defaulting on its obligations. It would prove useful in funding war. It is no coincidence that the century of total war coincided with the century of central banking.",
+      "translated_text": "연준이 창설된 후, 정부는 은행 시스템의 의무 불이행을 방지하는 것 외에 탄력적인 화폐 공급의 다른 용도를 발견하게 되었습니다. 전쟁 자금 조달에 도움이 될 것입니다. 총력전의 세기가 중앙은행의 세기와 일치한 것은 우연이 아닙니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[40]",
+      "tag": "p",
+      "source_text": "He goes on to illuminate what happened in World War I:",
+      "translated_text": "그는 계속해서 제1차 세계 대전에서 일어난 일을 조명합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[41]",
+      "tag": "p",
+      "source_text": "Armed with central banks to cover liabilities, European governments went to war one year after the Fed was created. __INLINE_1__ wrote with horror: ‘The world looks on in a stunned, incredulous way while Europe is rushing forward to a stupendous catastrophe. we have been told again and again that the financiers of the world, largely denationalized in their sympathies and interests, would never permit the great nations to impoverish themselves by war. A tightening of the screws of credit, it has been said, would bring most chancelleries to their senses.’__INLINE_2____INLINE_3__",
+      "translated_text": "부채를 충당하기 위해 중앙은행으로 무장한 유럽 정부는 연준이 창설된 지 1년 후 전쟁에 돌입했습니다. __INLINE_1__은 공포에 질려 다음과 같이 썼습니다. '유럽이 엄청난 재앙을 향해 달려가는 동안 세계는 놀라고 믿을 수 없는 표정으로 지켜보고 있습니다. 우리는 세계의 금융가들이 자신들의 동정심과 이익 때문에 대체로 탈국유화되어 있기 때문에 강대국들이 전쟁으로 스스로를 가난하게 만드는 것을 결코 허용하지 않을 것이라는 말을 반복해서 들어왔습니다. 신용의 나사를 조이면 대부분의 장관들이 정신을 차릴 것이라고 합니다.'__INLINE_2____INLINE_3__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">뉴욕 트리뷴</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a39X\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2Z5\" ns1:type=\"noteref\" class=\"class_s2T8\">18</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[42]",
+      "tag": "p",
+      "source_text": "Alas, it was not to be. Over 16 million people perished in World War I, nine million soldiers and seven million civilians.",
+      "translated_text": "아아, 그렇지 않았습니다. 제1차 세계대전에서 1,600만 명이 넘는 사람들이 목숨을 잃었고, 군인 900만 명, 민간인 700만 명이 목숨을 잃었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[43]",
+      "tag": "p",
+      "source_text": "As a teenager in Ann Arbor, Michigan, in the early 1970s, I vividly recall the Vietnam War and its impact on the United States. Anti-war protests were a regular occurrence on the University of Michigan Quad, while older guys in my neighborhood were being drafted and sent to Vietnam. Younger guys were receiving lottery draft numbers, and I missed that system by one year. In 1970, shortly after the Kent State shootings, where the National Guard had gunned down four student protestors,__INLINE_1____INLINE_2__ I recall asking my Dad what would happen if I were drafted. Dad, who was incredibly wise, looked at me and said, “Larry, this war is over. There is no way that the American people are going to let the National Guard murder students. They crossed the line. You watch, the outcry will be overwhelming. They will have to end this.” He was right. Sadly, the war dragged on for several more years, allowing Nixon and Kissinger to carpet bomb North Vietnam late into 1972. The human cost was staggering. The U.S. war in Vietnam is estimated to have resulted in between two and three million deaths, with perhaps as many as one million casualties in North Vietnam alone — many of them innocent civilian rice farmers who were near Hanoi.__INLINE_3____INLINE_4__ It was sick.__INLINE_5____INLINE_6__",
+      "translated_text": "1970년대 초 미시간 주 앤아버에서 십대를 보냈던 나는 베트남 전쟁과 그것이 미국에 미친 영향을 생생하게 기억합니다. 미시간대학교 쿼드에서는 반전 시위가 정기적으로 일어났고, 우리 동네 나이 많은 남자들은 징집되어 베트남으로 보내졌습니다. 젊은 사람들이 복권 초안 번호를 받고 있었는데, 저는 그 시스템을 1년 정도 놓쳤습니다. 1970년, 방위군이 학생 시위자 4명을 사살한 켄트 주 총격 사건 직후, __INLINE_1____INLINE_2__ 제가 징집되면 어떻게 되는지 아버지께 물었던 기억이 납니다. 믿을 수 없을 정도로 현명하신 아버지는 나를 바라보시며 \"래리야, 이 전쟁은 끝났다. 미국 국민이 방위군이 학생들을 살해하도록 놔둘 수는 없다. 그들은 선을 넘었다. 두고 봐라, 분노가 압도적으로 터져 나올 거다. 그들은 이 전쟁을 끝낼 수밖에 없다.\"라고 말씀하셨습니다. 그가 옳았습니다. 안타깝게도 전쟁은 몇 년 더 이어졌고, 닉슨과 키신저는 1972년 후반까지 북베트남에 융단폭격을 가했습니다. 인적 비용은 엄청났습니다. 미국의 베트남 전쟁으로 인해 200만~300만 명이 사망한 것으로 추정되며, 북베트남에서만 최대 100만 명의 사상자가 발생했습니다. 이들 중 상당수는 하노이 인근에 살던 무고한 민간인 쌀 농부들이었습니다.__INLINE_3____INLINE_4__ 참으로 역겨운 일이었습니다.__INLINE_5____INLINE_6__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a39Z\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a30H\" ns1:type=\"noteref\" class=\"class_s2T8\">19</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2TJ\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a30J\" ns1:type=\"noteref\" class=\"class_s2T8\">20</html:a>",
+        "__INLINE_5__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a324\" />",
+        "__INLINE_6__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a30K\" ns1:type=\"noteref\" class=\"class_s2T8\">21</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[44]",
+      "tag": "p",
+      "source_text": "Since World War II, the U.S. has grappled with the growing influence of the powerful alliance between defense contractors, politicians, and the military establishment. President Eisenhower warned of this in his 1961 farewell address:",
+      "translated_text": "제2차 세계대전 이후 미국은 방산업체, 정치인, 군부대 간의 강력한 동맹이 점점 커지는 영향력과 씨름해 왔다. 아이젠하워 대통령은 1961년 고별사에서 이에 대해 다음과 같이 경고했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[45]",
+      "tag": "p",
+      "source_text": "In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or __INLINE_1__unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist.",
+      "translated_text": "정부 평의회에서 우리는 군산복합체가 추구하든, __INLINE_1__원하지 않든 부당한 영향력을 획득하는 것을 방지해야 합니다. 잘못된 권력이 비참하게 상승할 가능성은 존재하며 앞으로도 지속될 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_239\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[46]",
+      "tag": "p",
+      "source_text": "Today the Military Industrial Complex (MIC) has grabbed our country by the throat and will not let go. Think of the wars that we have entered in the Middle East since the 9/11 attacks. The cost has exceeded $8 trillion. For what? To secure oil? On what pretext? Weapons of mass destruction in Iraq? The MIC has captured our political system, as it has strategically located contractor factories in nearly every state and makes huge campaign donations to legislators who vote to fund defense contracts. The U.S. sold its democracy to the highest bidder, prioritizing the war machine over the interests of average Americans or innocent citizens in other parts of the world where we have waged war.",
+      "translated_text": "오늘 군산복합체(MIC)는 우리 나라의 목을 움켜쥐고 놓지 않을 것입니다. 9·11 테러 이후 우리가 중동에서 벌인 전쟁을 생각해 보십시오. 그 비용은 8조 달러를 넘어섰습니다. 무엇을 위해? 석유를 확보하기 위해? 무슨 구실로? 이라크에 대량살상무기? MIC는 거의 모든 주에 계약자 공장을 전략적으로 배치하고 국방 계약에 자금을 지원하기 위해 투표하는 의원들에게 막대한 캠페인 기부금을 제공함으로써 우리의 정치 시스템을 포착했습니다. 미국은 우리가 전쟁을 벌인 세계 ​​다른 지역의 일반 미국인이나 무고한 시민의 이익보다 전쟁 기계를 우선시하면서 민주주의를 최고 입찰자에게 팔았습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[47]",
+      "tag": "p",
+      "source_text": "I am a strong anti-war proponent. I believe that sound money will help eliminate wars. There will be no way to pay for them.",
+      "translated_text": "나는 강력한 반전 지지자입니다. 나는 건전 화폐이 전쟁을 없애는 데 도움이 될 것이라고 믿습니다. 그 비용을 지불할 방법이 없습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[48]",
+      "tag": "p",
+      "source_text": "Beyond the MIC, Big Pharma, Big Healthcare, Big Food, Big Oil, and Big Agriculture all have centralized power to make our lives worse. Imagine what we could have spent that $8 trillion on? It is mind-boggling. These matters form the core of our broken system. By returning to sound money, we can defund government malfeasance and push back against this harmful centralization.",
+      "translated_text": "MIC를 넘어서 대형 제약회사, 대형 헬스케어, 대형 식품, 대형 석유, 대형 농업 등 모두 우리의 삶을 더욱 악화시키는 중앙 집중식 권력을 갖고 있습니다. 우리가 그 8조 달러를 어디에 쓸 수 있었는지 상상해 보세요. 정말 놀랍습니다. 이러한 문제는 깨진 시스템의 핵심을 형성합니다. 건전 화폐으로 돌아옴으로써 우리는 정부의 불법 행위를 취소하고 이 해로운 중앙 집중화에 맞서 싸울 수 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[49]",
+      "tag": "p",
+      "source_text": "We must return to a sound money standard if we ever want to take the car keys away from a government that has run amuck.",
+      "translated_text": "제멋대로 굴어가는 정부로부터 자동차 열쇠를 빼앗고 싶다면 우리는 건전한 금전 기준으로 돌아가야 합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[50]",
+      "tag": "p",
+      "source_text": "Famed Austrian Economist Friedrich Hayek foresaw this problem. He recognized that centralization of the gold standard would lead to its failure. In searching for a solution, he advised that the remedy must come from outside the system:",
+      "translated_text": "오스트리아의 유명한 경제학자 프리드리히 하이에크(Friedrich Hayek)는 이 문제를 예견했습니다. 그는 금본위제의 중앙집중화가 실패로 이어질 것임을 인식했습니다. 해결책을 찾는 과정에서 그는 해결책은 시스템 외부에서 나와야 한다고 조언했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[51]",
+      "tag": "p",
+      "source_text": "Is Bitcoin the “sly roundabout way” that Hayek prophesied?",
+      "translated_text": "비트코인은 하이에크가 예언한 “교활한 로터리”입니까?",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[52]",
+      "tag": "p",
+      "source_text": "I believe it is.",
+      "translated_text": "나는 그렇다고 믿는다.",
+      "inline_tokens": {}
+    }
+  ]
+}

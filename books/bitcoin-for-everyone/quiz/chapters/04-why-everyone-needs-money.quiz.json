@@ -1,0 +1,20 @@
+{
+  "chapter_id": "04-why-everyone-needs-money",
+  "answer_index": 3,
+  "question_en": "What monetary function does this unit emphasize most strongly?",
+  "choices_en": [
+    "Luxury consumption",
+    "Price speculation",
+    "Short-term payment convenience",
+    "Money as a store of value across time"
+  ],
+  "question_ko": "이 단위가 가장 강하게 강조하는 돈의 기능은 무엇인가?",
+  "choices_ko": [
+    "사치 소비",
+    "가격 투기",
+    "단기 결제의 편의성",
+    "시간을 넘어 가치를 저장하는 기능"
+  ],
+  "explanation_en": "The chapter argues that money matters most as a store of value that preserves labor and planning across time.",
+  "explanation_ko": "이 장은 돈의 핵심을 노동과 계획을 시간 너머로 보존하는 가치 저장 기능에서 찾는다."
+}

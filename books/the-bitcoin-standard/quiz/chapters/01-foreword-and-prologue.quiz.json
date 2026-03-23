@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-foreword-and-prologue",
+  "answer_index": 1,
+  "question_en": "How is Bitcoin first framed in the opening unit?",
+  "choices_en": [
+    "As a state-backed payments rail",
+    "As a monetary alternative to fiat debasement",
+    "As a corporate loyalty token",
+    "As a version of online banking"
+  ],
+  "question_ko": "서두에서 비트코인은 무엇으로 먼저 제시되는가?",
+  "choices_ko": [
+    "국가가 뒷받침하는 결제망으로",
+    "법정화폐 희석에 대한 통화 대안으로",
+    "기업 보상 토큰으로",
+    "온라인 뱅킹의 한 형태로"
+  ],
+  "explanation_en": "The opening frames Bitcoin as a monetary alternative to a debasing fiat order.",
+  "explanation_ko": "서두는 비트코인을 가치가 희석되는 법정화폐 질서에 대한 통화 대안으로 제시한다."
+}

@@ -5,3 +5,6 @@ __pycache__/
 .venv/
 .vercel/
 epub/
+.vercel
+.omc/
+tmp/

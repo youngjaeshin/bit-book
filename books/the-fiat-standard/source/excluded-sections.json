@@ -1,0 +1,8 @@
+{
+  "excluded": [
+    "cover",
+    "copyright",
+    "redundant toc page"
+  ],
+  "notes": "front matter merged into unit 1; back matter split into units 14-15"
+}

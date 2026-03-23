@@ -1,0 +1,1036 @@
+# Translation residue report
+
+- Findings: 61
+
+## bundle — books/the-big-print/translated_epub/bundles/01-america-is-broken.translation.json
+- chapter_id: `01-america-is-broken`
+- entry_index: `11`
+- node_path: `/html[1]/body[1]/p[9]`
+- tag: `p`
+- matches:
+  - National Election Studies, Gallup, ABC
+  - New York Times, CNN Polls, via Pew Research Center
+
+```text
+“정부를 항상 혹은 대부분의 시간에 신뢰한다고 말하는 미국인의 비율.” 자료 출처: 퓨리서치센터, National Election Studies, Gallup, ABC/Washington Post, CBS/New York Times, CNN Polls, via Pew Research Center.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/01-america-is-broken.translation.json
+- chapter_id: `01-america-is-broken`
+- entry_index: `20`
+- node_path: `/html[1]/body[1]/p[17]`
+- tag: `p`
+- matches:
+  - Multiple Cause of Death
+
+```text
+출처: 질병통제예방센터(CDC) 국립보건통계센터. CDC WONDER 온라인 데이터베이스의 Multiple Cause of Death 1999-2022, 2024년 4월 공개
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/03-money-sound-and-fiat.translation.json
+- chapter_id: `03-money-sound-and-fiat`
+- entry_index: `1`
+- node_path: `/html[1]/body[1]/p[1]`
+- tag: `p`
+- matches:
+  - double coincidence of wants)
+
+```text
+사회가 부족 단위의 자급자족을 넘어 발전하면서, 교역의 복잡성은 물물교환보다 더 나은 해법을 요구했다. 교환 매개로서의 화폐는 욕구의 이중적 일치(double coincidence of wants)__INLINE_1____INLINE_2__ 문제를 해결하기 위해 등장했다. 물물교환에서는 두 사람이 서로가 원하는 것을 정확히 가지고 있을 가능성이 드물었다.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/06-the-path-to-pure-fiat-1789-1971.translation.json
+- chapter_id: `06-the-path-to-pure-fiat-1789-1971`
+- entry_index: `75`
+- node_path: `/html[1]/body[1]/p[67]`
+- tag: `p`
+- matches:
+  - World Gold Charts goldchartsrus
+
+```text
+닉 레어드(GoldChartsRUS)와 에곤 폰 그레이어츠(Gold Switzerland), “220 Years - Dow/Gold Ratio.” ©World Gold Charts goldchartsrus.com
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/06-the-path-to-pure-fiat-1789-1971.translation.json
+- chapter_id: `06-the-path-to-pure-fiat-1789-1971`
+- entry_index: `76`
+- node_path: `/html[1]/body[1]/p[68]`
+- tag: `p`
+- matches:
+  - FFTT(Forest For The Trees)
+
+```text
+하지만 떨림을 느끼는 것이 주식만은 아니다. 미국의 대표적 매크로 투자 분석가 중 한 명인 루크 그로멘은 FFTT(Forest For The Trees)라는 꼭 구독해야 할 보고서를 쓴다. 그로멘이 준비한 다음 차트는 우리가 금본위를 떠난 뒤, 현대 경제의 생명선인 유가가 어떻게 롤러코스터가 되었는지 보여준다. 세계 경제 전체가 에너지와 연결되어 있으므로, 에너지 가격은 경제 계산에 엄청나게 중요한 입력값이다. 이런 변동성은 움직이는 모래 위에 집을 짓는 것과 같다. 기업들은 에너지 비용이 룰렛 게임만큼이나 예측 불가능하면 계획 세우기가 어려워진다.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/06-the-path-to-pure-fiat-1789-1971.translation.json
+- chapter_id: `06-the-path-to-pure-fiat-1789-1971`
+- entry_index: `111`
+- node_path: `/html[1]/body[1]/p[99]`
+- tag: `p`
+- matches:
+  - Gold Price Per Ounce
+
+```text
+TradingView, “Gold Price Per Ounce ($): 1971-1981.”
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/07-1971-to-present-financialization-bailouts-free-money.translation.json
+- chapter_id: `07-1971-to-present-financialization-bailouts-free-money`
+- entry_index: `9`
+- node_path: `/html[1]/body[1]/p[8]`
+- tag: `p`
+- matches:
+  - CCC(Civilian Conservation Corps), PWA(Public Works Administration), NIRA(National Industrial Recovery Act)
+
+```text
+중요한 것은 1971년 이후 발생한 금융화 추세 중 하나가 미국 기업에 대한 구제금융의 시작이었다는 것입니다. 사실, 대공황 동안 정부는 경기 침체에 맞서 싸우기 위해 CCC(Civilian Conservation Corps), PWA(Public Works Administration), NIRA(National Industrial Recovery Act)와 같은 __INLINE_1__uge 거대한 사회 프로그램을 시행했지만 개별 기업을 구체적으로 구제하는 프로그램은 없었습니다. 이러한 상황은 1971년 록히드 항공기의 구제금융으로 바뀌었습니다. 정부가 공기업을 구제한 것은 이번이 처음이다. 그것은 마지막이 아닐 것이다. 곧 이어 여러 차례의 구제금융이 이루어졌습니다. Penn Central(1974), C
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/07-1971-to-present-financialization-bailouts-free-money.translation.json
+- chapter_id: `07-1971-to-present-financialization-bailouts-free-money`
+- entry_index: `13`
+- node_path: `/html[1]/body[1]/p[12]`
+- tag: `p`
+- matches:
+  - Lincoln Savings and Loan
+
+```text
+"정크 본드" 또는 고수익 채권 시장의 개방과 성장도 중요한 역할을 했으며, Michael Milken은 1989년에 실패하고 Greenspan이 상담했던 Charles Keating이 운영한 Lincoln Savings and Loan을 포함하여 이러한 S&L 중 많은 자금을 지원했습니다. __INLINE_1____INLINE_2__ S&L 위기 정리를 통해 많은 사기와 부패가 드러났습니다. 강인한 전 법학 교수인 윌리엄 블랙(William Black)이 이 노력을 주도하여 1,000건 이상의 형사 기소를 시작하고 800건의 유죄 판결을 받았습니다. 찰스 키팅(Charles Keating)과 마이클 밀켄(Michael Milken)은 감옥에갔습니다. 정부는 S&L 위기에 대해 옳은 일을 했습니다. 2001
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/07-1971-to-present-financialization-bailouts-free-money.translation.json
+- chapter_id: `07-1971-to-present-financialization-bailouts-free-money`
+- entry_index: `25`
+- node_path: `/html[1]/body[1]/p[23]`
+- tag: `p`
+- matches:
+  - LTCM(Long Term Capital Management)
+
+```text
+나는 90년대 후반 벤처캐피탈 투자자로서 시스코시스템즈, 넷스케이프 등 인터넷 붐의 선두에 선 기업들의 폭발적인 성장을 지켜본 기억이 난다. 1998년 여름, 주식 시장은 이러한 "인터넷 퍼즐 조각"에 대한 낙관론에 힘입어 급등했습니다. 그러나 8월에 러시아에서 금융 위기가 발생하여 빠르게 전 세계로 퍼졌습니다. 미국에서는 전직 월스트리트 인사들이 운영하는 명문 헤지펀드 LTCM(Long Term Capital Management)이 폭발했다. 그들은 높은 레버리지를 갖고 있었고 채권 가격 수렴 게임을 플레이했습니다. 그들의 실패는 심각했습니다. LTCM의 규모와 주요 월스트리트 거래 회사와의 얽힘으로 인해 금융 시장이 완전히 붕괴될 위험이 있었습니다.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/07-1971-to-present-financialization-bailouts-free-money.translation.json
+- chapter_id: `07-1971-to-present-financialization-bailouts-free-money`
+- entry_index: `55`
+- node_path: `/html[1]/body[1]/p[52]`
+- tag: `p`
+- matches:
+  - Countrywide Mortgage, New Century, Ameriquest, Fremont General
+
+```text
+월스트리트와 Countrywide Mortgage, New Century, Ameriquest, Fremont General과 같은 서브프라임 주택 금융 회사들은 주택 붐에 자금을 조달함으로써 많은 돈을 벌 수 있다는 것을 깨달았습니다. 이러한 금융 약탈자들은 상환 능력이 거의 없는 차용인을 포함하여 서명하려는 모든 사람에게 공격적으로 신용을 발행했으며, 악명 높은 "NINJA" 대출은 소득도 없고 직업도 없고 자산도 없는 사람들에게 대출을 제공합니다.__INLINE_1____INLINE_2__
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/07-1971-to-present-financialization-bailouts-free-money.translation.json
+- chapter_id: `07-1971-to-present-financialization-bailouts-free-money`
+- entry_index: `86`
+- node_path: `/html[1]/body[1]/p[82]`
+- tag: `p`
+- matches:
+  - ToysRUs, Claire's, Linens'n Things, Hertz Corporation, Hostess Brands, Nine West Holdings, General Nutrition Centers(GNC)
+
+```text
+이러한 현대 금융 재벌의 부상은 Gretchen Morgenson의 저서 __INLINE_1__에 훌륭하게 기록되어 있습니다. 그녀는 금융 운영자가 ZIRP를 활용하여 일반적으로 직원, 고객 및 주주를 희생시키면서 __INLINE_2__ 회사를 활용하고 구조 조정하는 방법을 밝힙니다. 이야기는 복잡하지만 방법은 틀림이 없습니다. 사모펀드 회사와 차입매수(LBO) 사업자는 회사를 인수하고 부채를 짊어지고 막대한 배당금을 뽑아내며 종종 파산하게 됩니다. ToysRUs, Claire's, Linens'n Things, Hertz Corporation, Hostess Brands, Nine West Holdings, General Nutrition Centers(GNC) 및 Caesars Entertainment와
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/07-1971-to-present-financialization-bailouts-free-money.translation.json
+- chapter_id: `07-1971-to-present-financialization-bailouts-free-money`
+- entry_index: `94`
+- node_path: `/html[1]/body[1]/p[90]`
+- tag: `p`
+- matches:
+  - Blackstone CEO Steve Schwarzman
+
+```text
+그리고 정치인들이 이자세 허점과 같이 이들 기업이 벌어들인 이익에 대해 더 높은 세금을 제안하자 사모펀드는 맹렬하게 반발했습니다. 사모 펀드(PE) 커뮤니티는 일반 시민처럼 세금을 부과받는 것에 큰 분노를 느낄 정도로 자신의 권리를 믿었습니다. 좋은 예가 Blackstone CEO Steve Schwarzman의 반응입니다. Morgenson은 이 세금 제안을 듣고 다음과 같이 지적합니다.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/08-the-federal-reserve.translation.json
+- chapter_id: `08-the-federal-reserve`
+- entry_index: `29`
+- node_path: `/html[1]/body[1]/p[27]`
+- tag: `p`
+- matches:
+  - BTFP(Bank Term Funding Program)
+
+```text
+연준과 미국 재무부는 또한 BTFP(Bank Term Funding Program)라는 새 프로그램__INLINE_1____INLINE_2__을 만들었습니다. 이 프로그램은 수중 손실 상태의 투자대출이나 자산을 보유한 은행들이 그것들을 액면가 100센트__INLINE_3____INLINE_4__로 연준에 맡길 수 있게 했고, 장차 이 거래를 되돌릴 것이라는 모호한 보장만 덧붙였습니다. 현실적으로 이런 상환이 실제로 일어날 가능성은 낮습니다. 연준과 재무부는 이것이 어디까지나 대출이기 때문에 구제금융도 아니고 돈 찍기도 아니라고 주장했지만, 둘 다 사실이 아닙니다. 오늘날에도 BTFP는 은행 자산 1,080억 달러를 보유하고 있으며, 이는 최고치였던 1,640억 달러에서 약간 줄어든 수준일 뿐입니다. 은행가들
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/08-the-federal-reserve.translation.json
+- chapter_id: `08-the-federal-reserve`
+- entry_index: `85`
+- node_path: `/html[1]/body[1]/p[80]`
+- tag: `p`
+- matches:
+  - Bloomberg Finance LP, Haver Analytics, Deutsche Bank,
+  - Bloomberg Finance LP, Haver Analytics, Deutsche Bank)
+
+```text
+Bloomberg Finance LP, Haver Analytics, Deutsche Bank, "연방기금 금리, 위기 관련 주석." (Bloomberg Finance LP, Haver Analytics, Deutsche Bank)
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/09-keynesians-and-modern-monetary-theory-mmt.translation.json
+- chapter_id: `09-keynesians-and-modern-monetary-theory-mmt`
+- entry_index: `26`
+- node_path: `/html[1]/body[1]/p[24]`
+- tag: `p`
+- matches:
+  - Warren Mosler, Randall Wray, Stephanie Kelton
+
+```text
+그러나 좀비 경제 이론처럼 이러한 아이디어는 Warren Mosler, Randall Wray, Stephanie Kelton을 포함한 수많은 경제학자들에 의해 부활되었습니다. 그들은 Chartalism의 어리석고 쓸모없는 개념을 MMT로 재포장했습니다. 경제 문제에 대한 해결책으로서의 공격적인 돈 찍기라는 그들의 견해는 사회주의자와 좌파 정책 입안자들 사이에서 열성적인 청중을 확보했습니다.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/11-nothing-stops-this-train.translation.json
+- chapter_id: `11-nothing-stops-this-train`
+- entry_index: `7`
+- node_path: `/html[1]/body[1]/p[7]`
+- tag: `p`
+- matches:
+  - The Staggering Pace of New Debt",
+
+```text
+Heritage Foundation, "The Staggering Pace of New Debt", 미국 재무부 데이터. (__INLINE_1__)
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/13-bitcoin-fixes-this.translation.json
+- chapter_id: `13-bitcoin-fixes-this`
+- entry_index: `54`
+- node_path: `/html[1]/body[1]/p[43]`
+- tag: `p`
+- matches:
+  - University of Michigan Quad)
+
+```text
+1970년대 초 미시간 주 앤아버에서 십대를 보냈던 나는 베트남 전쟁과 그것이 미국에 미친 영향을 생생하게 기억합니다. 미시간 대학교 쿼드(University of Michigan Quad)에서는 반전 시위가 정기적으로 일어났고, 우리 동네 나이 많은 남자들은 징집되어 베트남으로 보내졌습니다. 젊은 사람들이 복권 초안 번호를 받고 있었는데, 저는 그 시스템을 1년 정도 놓쳤습니다. 1970년, 방위군이 학생 시위자 4명을 사살한 켄트 주 총격 사건 직후, __INLINE_1____INLINE_2__ 제가 징집되면 어떻게 되는지 아버지께 물었던 기억이 납니다. 믿을 수 없을 정도로 현명하신 아버지는 나를 바라보시며 "래리야, 이 전쟁은 끝났다. 미국 국민이 방위군이 학생들을 살해하도록 놔둘 수는 없다. 그들은
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/14-skepticism.translation.json
+- chapter_id: `14-skepticism`
+- entry_index: `23`
+- node_path: `/html[1]/body[1]/p[18]`
+- tag: `p`
+- matches:
+  - Stevens Institute of Technology)
+
+```text
+스티븐스 공과대학(Stevens Institute of Technology) 총장 헨리 모튼(Henry Morton)
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/14-skepticism.translation.json
+- chapter_id: `14-skepticism`
+- entry_index: `49`
+- node_path: `/html[1]/body[1]/p[44]`
+- tag: `p`
+- matches:
+  - Ken Olsen, Digital Equipment Corporation
+
+```text
+— Ken Olsen, Digital Equipment Corporation의 창립자 겸 CEO
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/14-skepticism.translation.json
+- chapter_id: `14-skepticism`
+- entry_index: `58`
+- node_path: `/html[1]/body[1]/p[53]`
+- tag: `p`
+- matches:
+  - David Pogue, New York Times
+
+```text
+— David Pogue, New York Times의 기술 편집자
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/14-skepticism.translation.json
+- chapter_id: `14-skepticism`
+- entry_index: `80`
+- node_path: `/html[1]/body[1]/p[74]`
+- tag: `p`
+- matches:
+  - Lucas Bazemore, Township Ventures,
+
+```text
+Lucas Bazemore, Township Ventures, “비트코인이 S-Curve의 성장 단계에 진입했습니다.”
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/15-why-we-will-be-saved-decentralization.translation.json
+- chapter_id: `15-why-we-will-be-saved-decentralization`
+- entry_index: `49`
+- node_path: `/html[1]/body[1]/p[37]`
+- tag: `p`
+- matches:
+  - IBM, DEC, Data General
+
+```text
+1980년대 중반까지도 벤처 캐피탈 업계의 동료들은 소프트웨어 투자에 대해 깊은 회의적인 태도를 유지했습니다. “소프트웨어는 헛소리다”라고 그들은 말합니다. "만질 수 없습니다. 느낄 수 없습니다. 단지 코드일 뿐입니다." 대신 기술 투자 비용은 디스크 드라이브 및 __INLINE_1__ 메모리 칩과 함께 IBM, DEC, Data General 및 Prime에서 판매하는 컴퓨터 하드웨어로 유입되었습니다. 소프트웨어는 일시적이고 가치가 없는 것으로 여겨졌습니다. (비트코인과의 비교를 알고 계시나요?)
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/16-how-this-unfolds.translation.json
+- chapter_id: `16-how-this-unfolds`
+- entry_index: `16`
+- node_path: `/html[1]/body[1]/p[11]`
+- tag: `p`
+- matches:
+  - Dan Oliver, Myrmikan Capital,
+
+```text
+Dan Oliver, Myrmikan Capital, "바이마르 초인플레이션: 금 성과 및 금 변동성."
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/18-greshams-law-inflation-hyperinflation.translation.json
+- chapter_id: `18-greshams-law-inflation-hyperinflation`
+- entry_index: `34`
+- node_path: `/html[1]/body[1]/p[31]`
+- tag: `p`
+- matches:
+  - Wo n't Back Down"
+
+```text
+제가 가장 좋아하는 노래 중 하나는 Tom Petty의 "I Wo n't Back Down"입니다. 2015년 12월, 나는 지옥의 문을 바라보고 있었습니다. 그러나 나는 내가 할 수 있는 모든 결심을 고수했습니다. 나는 그때도 물러서지 않았고 지금도 그러지 않을 것이다.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/19-investment-implications-traditional-assets.translation.json
+- chapter_id: `19-investment-implications-traditional-assets`
+- entry_index: `34`
+- node_path: `/html[1]/body[1]/p[30]`
+- tag: `p`
+- matches:
+  - Barron's Gold Mining Index(BGMI)
+
+```text
+그러나 높은 인플레이션 환경에서 주식은 어떻게 작동합니까? 좋지 않습니다. 1970년부터 1980년까지 S&P 500은 85.02로 10년을 시작하여 129.02라는 압도적인 수익률로 끝났습니다. 이는 장기 평균보다 훨씬 낮은 4.25%의 연평균 수익률에 불과한 수치입니다. 여기에는 1973년에서 1974년 사이의 잔혹한 37% 하락장이 포함됩니다. 실제 성장을 달성하기 어렵기 때문에 인플레이션 환경에서 주식은 저조한 성과를 냅니다. 인플레이션은 일반적으로 이윤을 압박하며, 고수익 채권이 더 나은 대안을 제공하는 경우도 있습니다. 이로 인해 PE 배수가 하락하고 밸류에이션이 낮아집니다. 같은 10년 동안 금 가격은 온스당 35달러에서 온스당 800달러(22배)로 상승했습니다. 1970년부터 1981년 정점까
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/19-investment-implications-traditional-assets.translation.json
+- chapter_id: `19-investment-implications-traditional-assets`
+- entry_index: `42`
+- node_path: `/html[1]/body[1]/p[38]`
+- tag: `p`
+- matches:
+  - Poors, John Hussman, Hussman Strategic Advisors,
+
+```text
+데이터: Federal Reserve Z.1 자금 흐름, Standard & Poors, John Hussman, Hussman Strategic Advisors, 2024.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/19-investment-implications-traditional-assets.translation.json
+- chapter_id: `19-investment-implications-traditional-assets`
+- entry_index: `79`
+- node_path: `/html[1]/body[1]/p[74]`
+- tag: `p`
+- matches:
+  - Paradox and the Gold Standard
+
+```text
+카빌, 클린턴, 그리고 경제 고문 래리 서머스와 로버트 루빈은 인플레이션이 경제 성장을 좋아 보이게 만든다는 점을 잘 알고 있었다. 하지만 그들은 채권 시장과 금 가격이 인플레이션 탄광의 카나리아라는 점도 이해했다. 클린턴의 경제팀은 영리했다. 그들은 인플레이션을 흘려보내되 시장에는 그것을 숨길 수 있다고 봤다. 그렇게 하면 자신들이 유능해 보일 것이고, 두 번째 임기의 가능성도 높아질 터였다. 클린턴은 운이 좋았다. 그 일을 해낼 사람들이 바로 서머스와 루빈이었기 때문이다. 래리 서머스는 “Gibson’s Paradox and the Gold Standard”__INLINE_1____INLINE_2__라는 논문을 써서, 금 가격이 인플레이션의 선행 지표이며 그것이 억눌리면 시장은 인플레이션의 존재를 감지하
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/19-investment-implications-traditional-assets.translation.json
+- chapter_id: `19-investment-implications-traditional-assets`
+- entry_index: `104`
+- node_path: `/html[1]/body[1]/p[96]`
+- tag: `p`
+- matches:
+  - Great and Powerful Oz)
+
+```text
+바이메탈리즘의 역사는 매혹적입니다. 19세기 포퓰리즘 운동은 인플레이션이 더 심했기 때문에 은을 선호했습니다. 포퓰리스트이자 대통령 후보인 윌리엄 제닝스 브라이언(William Jennings Bryan)이 "당신은 인류를 금 십자가에 못 박을 수 없습니다"라는 천둥 같은 선언을 했을 때, 그는 건전 화폐의 디플레이션 효과로 고통받고 있다고 믿었던 빚진 농부들을 대신하여 __INLINE_1__집회를 하고 있었습니다. L. Frank Baum의 __INLINE_2____INLINE_3____INLINE_4__은 도덕극이었고 도로시의 슬리퍼는 원래 은으로 만들어졌다고 합니다. 나는 위대하고 강력한 오즈(Great and Powerful Oz)가 연방준비제도(Federal Reserve)에 딱 맞는 우화이기 때문
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/20-investment-implications-bitcoin.translation.json
+- chapter_id: `20-investment-implications-bitcoin`
+- entry_index: `52`
+- node_path: `/html[1]/body[1]/ol[1]/li[1]/p[1]`
+- tag: `p`
+- matches:
+  - Digicash, E-cash, E-gold, B-Money, Bit Gold
+
+```text
+__INLINE_1__. 과거 실패한 디지털 화폐의 유령(Digicash, E-cash, E-gold,__INLINE_2____INLINE_3__ B-Money, Bit Gold 등)은 처음에는 비트코인의 기술적 기반에 대한 우려를 불러일으켰습니다. 디지털 화폐에 대한 이러한 이전 실험은 기술적 결함이나 보안 부족으로 인해 실패했습니다. 16년 넘게 운영 건전성을 유지해온 비트코인의 네트워크는 중단 없이 880,000개 이상의 블록을 처리하면서 탄력성과 보안이 입증되었습니다.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/extra-13-acknowledgements.translation.json
+- chapter_id: `extra-13-acknowledgements`
+- entry_index: `4`
+- node_path: `/html[1]/body[1]/p[4]`
+- tag: `p`
+- matches:
+  - The New Orleans Investment Conference
+
+```text
+이 아이디어들을 세상에 전달하는 과정은 팟캐스트 커뮤니티 덕분에 헤아릴 수 없을 만큼 풍성해졌다. 맥 카이저, 스테이시 허버트, 마티 벤트, 피터 맥코맥, 크리스 아이언스, 로버트 브리드러브, 내털리 브루넬, 다니엘라 캄보네, 니코 모런, 톰 브로더릭스는 뜻깊은 대화를 나눌 수 있도록 자신의 플랫폼을 내어 주었고, 말 그대로 내가 내 목소리를 찾는 데 도움을 주었다. 브라이언 런딘 역시 2021년과 2024년에 열린 The New Orleans Investment Conference에 나를 친절히 초대해 주었고, 덕분에 세련된 청중 앞에서 이 아이디어들을 시험해 볼 특별한 기회를 얻었다.
+```
+
+## bundle — books/the-big-print/translated_epub/bundles/extra-13-acknowledgements.translation.json
+- chapter_id: `extra-13-acknowledgements`
+- entry_index: `9`
+- node_path: `/html[1]/body[1]/p[9]`
+- tag: `p`
+- matches:
+  - The Human Rights Foundation
+  - The Satoshi Action Fund
+
+```text
+더 나은 금융의 미래를 위해 싸우는 이들을 기리며, 이 책의 수익 10%는 Alex Gladstein(@gladstein)이 이끄는 The Human Rights Foundation과 Dennis Porter(@Dennis_Porter_)가 이끄는 The Satoshi Action Fund에 절반씩 기부될 것이다. 그들의 활동은 건전 화폐가 단지 수익의 문제가 아니라 자유의 문제임을 보여 준다.
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0002.xhtml
+- matches:
+  - What Happened To America
+  - and How Sound Money Will Fix It
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<title>part0002</title>
+</head>
+<body class="class-4">
+<p class="class_s12">THE BIG PRINT</p>
+<p class="class_s14">What Happened To America<br/>and How Sound Money Will Fix It</p>
+<p class="class_s16">Edition I<br/>December 2024<br/></p>
+</body>
+</html>
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0003.xhtml
+- matches:
+  - No part of this book may be reproduced or transmitted in any form by electronic or mechanical means now known, or to be invented, including photocopying, recording, or information storage and retrieval systems, without permission in writing from the author and publisher, except by
+  - reviewer who may quote brief passages in
+  - Cataloging-in-Publication data on file with the Library of Congress
+  - Cover Design: Jennifer Barton
+  - Interior Design: Konsensus Network
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<title>part0003</title>
+</head>
+<body class="class-0">
+<hr class="class_s1D"/>
+<p id="page_4" class="class_s1F-0">Copyright © by Lawrence W. Lepard</p>
+<p class="class_sM-0">All Rights Reserved. No part of this book may be reproduced or transmitted in any form by electronic or mechanical means now known, or to be invented, including photocopying, recording, or information storage and retrieval systems, without permission in writing from the author and publisher, except by a reviewer who may quote brief passages in a review.</p>
+<p class="class_sM-0">Cataloging-in-Publication data on file with the Library of Congress.</p>
+<
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0004.xhtml
+- matches:
+  - Army, Korean Theatre, signal intelligence
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0004</title>
+</head>
+<body class="class-0">
+<p class="class_s21">헌정</p>
+<p class="class_sM-0">내 아버지, 해럴드 존 “잭” 레퍼드 주니어께 바친다.<span id="a2W8" /><a href="part0004.xhtml#a34R" epub:type="noteref" class="class_s2T8">1</a> 2005년에 73세로 세상을 떠나신, 내가 이제껏 알았던 최고의 분이었다.</p>
+<p class="class_sM-0">아내와 아이들, 나의 진정한 부에게.</p>
+<p class="class_sM-0">그리고 인플레이션과 불공정한 시스템으로 고통받으면서도, 매일 아침 일어나 정직하게 일하는 세상의 사람들에게.</p>
+<hr class="class_s26" />
+<aside id="a34R" epub:type="footnote" class="class_s28"><a href="part0004.xhtml#a2W8">1</a>. U.S. Army, Korean Theatre, signal intelligence.</aside
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0007.xhtml
+- matches:
+  - The story of the
+  - and the deeper, more insidious rot at the heart of our financial system
+  - needed to be told, not through the lens of those who profited from the chaos but from inside our country
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0007</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">오프닝 장면</h2>
+<p class="class_s2H-0">뉴잉글랜드의 어느 아름다운 가을날이었다. 미국에서 가장 뛰어난 비즈니스 두뇌와 산업계의 거물들을 대표하는 참석자 300명이 기대에 찬 채 앉아 있었다. 각자의 분야를 이끄는 리더가 된 하버드 경영대학원 졸업생들이 특별 행사를 위해 모교로 돌아온 자리였다.<span id="a2Y8" /><a href="part0011.xhtml#a337" epub:type="noteref" class="class_s2T8">1</a> 무대 위에는 실로 범상치 않은 세 인물이 서 있었다. 래리 서머스, 행크 폴슨, 그리고 팀 가이트너였다. 이들은 2008년 금융위기에 대한 미국의 대응을 설계한 인물들이었다<span id="a38P" /><a href="part0011.xhtml#a338" epub:type="noteref" class="class_s2T8">2</a></p>
+<p class="class_sM-0">때는 2018년, 월가의 
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0009.xhtml
+- matches:
+  - What We Do In This Life, Echoes In Eternity
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0009</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">핵심 논지</h2>
+<p class="class_s2H-0">우리 시대의 가장 큰 문제는 망가진 통화 시스템이다. 이 시스템은 특정 시민 집단에 부당한 이점을 주기 때문에 막대한 부의 불평등을 낳는다. 또한 정부에 과도한 권력을 부여했고, 그 결과 영구전 같은 많은 나쁜 정책이 나왔다. 이 시스템을 운영하는 사람들은 미국을 건국의 아버지들이 제시한 이상에서 벗어난 비도덕적 껍데기로 만들어 버렸다. 우리를 이끄는 사람들도 잘못되었고(로비스트들의 영향까지 받은), 승리하고 있는 사람들도 잘못되었다. 현재 시스템에 반대하며 목소리를 높이는 사람들이 분노하고 반응하는 이유는, 이 시스템이 불공정하다는 감각 때문이다. 다만 그 이유를 정확히 짚어내지 못할 뿐이다.</p>
+<p class="class_sM-0">미국에서 잘못된 것은 “레드팀”의 문제도 “블루팀”의 문제도 아니다. 여기서 잘못된 것은 “건전 화폐(sound money)”의 문제다. 좌파의 많은 이들은 자본주의를 탓하며 진보적 
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0010.xhtml
+- matches:
+  - They changed the rules
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0010</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">저자의 이야기</h2>
+<p class="class_s2H-0">여러분이 이제 읽게 될 이야기는 연방준비제도가 인플레이션을 통해 무모한 통화정책으로 어떻게 미국이라는 나라의 조직을 망가뜨렸는지에 대한 기록이다. 나는 이것을 직접 겪은 사람으로서 말한다. 지난 100년 동안 세 차례에 걸쳐 우리 가족은 연준의 파괴적 힘에 직격탄을 맞았다. 첫 번째는 1920년대였다. 연준의 느슨한 통화정책이 만들어낸 인위적 호황은 미시간주 앤아버에서 최고 가구 소매업체를 운영하던 내 할아버지에게 잘못된 신호를 보냈다. 그는 부채를 사용해 사업을 확장했고, 1929년 붕괴가 닥쳤을 때 할아버지와 할머니는 다음 10년 동안 <span class="class_s2T7">successfully</span>은행이 담보권을 실행하지 않도록 애원하며 버텨야 했다. 그 경험은 두 분에게 깊은 상처를 남겼다. (자세한 내용은 부록 A—레파드 가문의 개인적 배경 참조).</p>
+<p class="class_sM-0"
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0011.xhtml
+- matches:
+  - The Tenth Anniversary of the Global Financial Crisis,
+  - Treasury Secretary in the Bush Administration
+  - Treasury Secretary in the Clinton Administration
+  - Timothy Geithner was President of the
+  - When discussing the Great Financial Crisis of
+  - GFC), many take the position that the government had no choice; it had to bail out the banks to keep the economy functioning and the ATMs working
+  - They believe the banker propaganda
+  - An alternative view, my view, is discussed in Chapter
+  - few people in that auditorium knew
+  - As one of my brightest investor friends once said to me:
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0011</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">이 책을 읽는 법</h2>
+<p class="class_s2H-0">이 책은 크게 두 부분으로 나뉜다. 하나는 문제를 이해하는 부분이고, 다른 하나는 해결책을 찾는 부분이다. 내용은 포괄적이지만 핵심을 파악하기 위해 모든 장을 다 읽을 필요는 없다. 자신의 이해에 가장 중요한 부분에 집중하라. 아래가 여러분을 위한 로드맵이다.</p>
+<h3 id="id__798_43_" class="heading_s61">제1부: 문제</h3>
+<p class="class_s4P-0">필수 읽기(6~10장): 현재 위기의 핵심 설명.</p>
+<p class="class_sM-0">역사적 맥락(11~14장): 연준의 역할과 경쟁하는 통화 사상 학파를 포함해, 우리가 현재의 도전에 이르기까지 걸어온 200년의 여정이다. 일부 테스트 독자들은 11장과 12장에 제시된 자세한 역사가 부담스럽다고 느꼈다. 책의 전체 메시지를 놓치지 않고도 이 장들은 건너뛸 수 있다.</p>
+<p class="class_s
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0013.xhtml
+- matches:
+  - National Election Studies, Gallup, ABC
+  - New York Times, CNN Polls, via Pew Research Center
+  - Multiple Cause of Death
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0013</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">미국은 망가졌다</h2>
+<p class="class_s2H-0">이 책이 충분히 설명하겠지만, 미국 금융 시스템은 인플레이션을 필요로 하도록 짜여 있다.</p>
+<p>그렇다면 인플레이션이란 무엇인가? 많은 미국인에게 물어보면 “물가가 오르는 것”이라고 답할 것이고, 그들은 그것이 지극히 정상이라고 학습되어 있다. 정치인에게 물어보면 그들은 자신들이 악마화하고 싶은 집단, 이를테면 “탐욕스러운 기업”을 가리킬 것이다. 앞으로 장들에서 우리는 인플레이션을 훨씬 더 깊이 파헤칠 것이다. 지금 핵심은 인플레이션 때문에 이 나라의 부 분배가 인구 상위 1%, 이른바 “엘리트”에게 크게 기울었다는 점이다. 금융 행위자와 부자들은 시스템을 어떻게 이용해야 하는지 안다. 그들은 자산을 보유하고 대출과 자본에 쉽게 접근함으로써 인플레이션을 자신들에게 유리하게 만들 수 있다. 자산 가격 상승 덕분에 그들은 국가 부의 점점 더 큰 몫을 차지하게 되었다.</p>
+<h3 id="id__798_45_" 
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0015.xhtml
+- matches:
+  - double coincidence of wants)
+  - Stated simply, money is
+  - unit of account, and
+  - let it be done,
+  - Gold: The Once and Future Money:
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0015</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">화폐: 건전 화폐와 법정화폐</h2>
+<p class="class_s2H-0">사회가 부족 단위의 자급자족을 넘어 발전하면서, 교역의 복잡성은 물물교환보다 더 나은 해법을 요구했다. 교환 매개로서의 화폐는 욕구의 이중적 일치(double coincidence of wants)<span id="a2V7" /><a href="part0023.xhtml#a2TD" epub:type="noteref" class="class_s2T8">13</a> 문제를 해결하기 위해 등장했다. 물물교환에서는 두 사람이 서로가 원하는 것을 정확히 가지고 있을 가능성이 드물었다.</p>
+<p class="class_sM-0"><span class="class_s2WG-0">Stated simply, money is a medium of exchange, a unit of account, and a store of value</span>. 경제 안의 재화와 서비스에는 “화폐” 가격이 붙는다. 역사 전반에 걸쳐
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0016.xhtml
+- matches:
+  - The Wall Street Journal
+  - Good As Gold: How to Unleash the Power of Sound Money
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0016</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">건전 화폐는 도덕의 문제다</h2>
+<p class="class_s2H-0">화폐가 등장한 이래 파렴치한 사람들은 시스템을 속여 아무 대가 없이 무언가를 얻을 방법을 찾아왔다. 이 오래된 관행은 위조, 통화 희석, 도량형 속임수로 나타났다. 인간은 불완전하고, 어떤 사람들은 속인다. 필요가 커지면 돈을 만들어내 하려는 충동을 억누를 수 있는 사람은 많지 않다. 건전 화폐 기준 아래 번영의 정점에 올랐던 고귀한 로마 제국조차도 늘어나는 부채와 경제 압박을 덜기 위해 화폐인 데나리우스의 은 함량을 깎고 희석했다. 시간이 흐르며 데나리우스에는 은이 사라졌고, 그저 철로 된 법정화폐 비슷한 것으로 전락했다. 로마의 몰락이 화폐 가치 훼손과 나란히 진행된 것은 놀라운 일이 아니다.</p>
+<p class="class_sM-0">오늘날의 화폐 가치 훼손은 역사적 패턴을 되풀이하며, 해 아래 새것이 없다는 성경의 가르침과도 맞닿아 있다. 성경의 저자들은 이익을 얻기 위해 화폐를 주무르려는 유혹
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0017.xhtml
+- matches:
+  - The goal is efficiency and productivity, not growth
+  - The way that capital is allocated within
+  - society is the primary driver of productivity growth and economic efficiency
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0017</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">고전경제학</h2>
+<p class="class_s2H-0">전고전주의 경제학자 데이비드 흄의 영향을 받아, 고전경제학은 18세기 말과 19세기 초 애덤 스미스, 데이비드 리카도, 장바티스트 세, 존 스튜어트 밀 등의 저작을 통해 등장했다. 고전경제학자들은 오늘날까지 경제사상을 형성하는 근본 원리를 세웠다. 그 핵심에서 고전경제학은 자유시장과 개인의 사익 추구가 경제 번영을 이끌며, 정부 개입은 최소여야 한다고 본다. 이 이론은 저축과 자본 형성이 어떻게 생산성 향상과 경제 발전을 밀어 올리는지 강조한다. 사람들이 소비를 미루고 더 나은 도구와 방법에 투자하면 사회는 더 효율적이고 더 번영하게 된다. 이 시스템은 수요와 공급이 정한 가격이 경제 행위를 이끄는 신호를 제공하는 자유시장 메커니즘을 통해 작동한다. 고전경제학은 애덤 스미스의 “보이지 않는 손” 같은 핵심 개념을 제시하는데,<span id="a311" /><a href="part0023.xhtml#a31E" epub:ty
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0018.xhtml
+- matches:
+  - Rather, deflation is the natural condition of
+  - World Gold Charts goldchartsrus
+  - FFTT(Forest For The Trees)
+  - Right now, in peacetime, we have
+  - higher debt-to-GDP ratio than we had in the immediate aftermath of World War II
+  - Gold Price Per Ounce
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0018</title>
+</head>
+<body>
+<h2 class="heading_s3K-1">순수한 법정화폐로 가는 길: 1789-1971</h2>
+<p class="class_s2H-1">1789년 우리 국가가 탄생한 이래, 은행업, 특히 중앙은행을 둘러싼 싸움은 반복적이면서도 격렬한 쟁점이었다. 당시의 두 인용문이 이 투쟁의 틀을 잡아 준다:</p>
+<p class="class_sM-1">세기를 타고 내려온, 그리고 언젠가는 싸워야 할 문제는 국민 대 은행이다.</p>
+<p class="class_sM-1">— 로드 액턴(1834-1902)<span id="a2UH" /><a href="part0023.xhtml#a2Y3" epub:type="noteref" class="class_s2T8">31</a></p>
+<p class="class_sM-1">한 나라의 화폐 공급을 내가 통제하게 해 다오. 누가 그 나라의 법을 만드는지는 나는 상관하지 않겠다.<span id="a31B" /><a href="part0023.xhtml#a3AA" epub:type="noteref" class="class_s2
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0019.xhtml
+- matches:
+  - CCC(Civilian Conservation Corps), PWA(Public Works Administration), NIRA(National Industrial Recovery Act)
+  - Inside Job: The Looting of America
+  - Lincoln Savings and Loan
+  - new, important metric to manage
+  - LTCM(Long Term Capital Management)
+  - Countrywide Mortgage, New Century, Ameriquest, Fremont General
+  - This allowed banks, corporations, and creditworthy borrowers to borrow at zero cost and then use the proceeds to purchase assets that produced
+  - These Are The Plunderers
+  - ToysRUs, Claire's, Linens'n Things, Hertz Corporation, Hostess Brands, Nine West Holdings, General Nutrition Centers(GNC)
+  - Blackstone CEO Steve Schwarzman
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0019</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">1971년부터 현재까지: 금융화,<br />구제금융, 공짜 돈</h2>
+<p class="class_s2H-0">미국 건국 이후 우리는 금융 엘리트가 구제금융을 받거나 유익한 규칙 변화(부자를 위한 사회주의)에 의해 보호되는 이중 시스템을 만들어 부자에게 유리한 통화 시스템으로 느리지만 확실하게 표류해 왔으며, 반면 일반 시민은 험난한 자본주의의 가혹한 현실과 싸워야 합니다. 이러한 격차는 우리 경제 문제/문제의 핵심입니다.</p>
+<p class="class_sM-0">1971년 미국이 브레튼 우즈 국제 금 교환 표준을 포기한 이후 "건전 화폐"에서 멀어지는 경향이 가속화되었습니다. 그 과정에서 점진적인 움직임으로 인해 우리는 신용의 금융화를 더욱 확대하게 되었습니다. 1975년에는 금융 부문이 경제의 15%를 차지했습니다. 오늘날 그 수치는 21%입니다. <span id="a36M" /><a href="part0023.xhtml#a39S" epub:type="noteref" c
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0020.xhtml
+- matches:
+  - less than six hours later on that same Sunday evening
+  - Exactly what Dodd-Frank had prohibited
+  - BTFP(Bank Term Funding Program)
+  - The Lords of Easy Money
+  - The New York Times, The Wall Street Journal, The Washington Post, The Financial Times
+  - Bloomberg Finance LP, Haver Analytics, Deutsche Bank,
+  - Bloomberg Finance LP, Haver Analytics, Deutsche Bank)
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0020</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">연방준비제도</h2>
+<p class="class_s2H-0">연방준비제도(Fed)는 그 자체로 고유한 하나의 특별한 권한을 가지고 있습니다. 그것은 허공에서 돈을 창출하는 것을 가능하게 합니다. 때로는 양이 많을 때도 있고 적을 때도 있지만 항상 재량에 따라 결정됩니다. Ron Paul이 지적했듯이 "연준을 종료하는 것은 미국의 번영과 자유를 회복하고 둘 다 미래를 보장하기 위해 취할 수 있는 가장 큰 조치가 될 것입니다."</p>
+<p class="class_sM-0">이 시점에서는 우리 정부와 경제 구조에서 연방준비은행(Fed)의 역할을 더 깊이 검토하는 것이 도움이 됩니다. 우리는 창립 이래 연준의 조치 일정에 대해 논의했지만, 연준이 적용되는 실제 규칙을 더 자세히 조사할 필요가 있습니다.</p>
+<p class="class_sM-0">연준의 영향력을 완전히 파악하려면 경제 체제에서 연준의 독특한 위치를 조사해야 합니다. 개인 소유이면서 정부와 관련된 하이브리드 조직인 연
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0021.xhtml
+- matches:
+  - The General Theory of Employment Interest and Money
+  - The final conclusion to be drawn from our experience at the end of the last war is inescapable
+  - were the war to end suddenly within the next six months, were we again painlessly to wind up our war effort in the greatest haste, to demobilize our armed forces, to liquidate price controls, to shift from astronomical deficits to even the larger deficits of the thirties
+  - then there would be ushered in the greatest period of unemployment and industrial dislocation which any economy has ever faced
+  - economy witnessed an extraordinary boom during these years
+  - Of course, he was
+  - favorite of government ministers because Keynes
+  - policy prescription increased their influence and power
+  - Warren Mosler, Randall Wray, Stephanie Kelton
+  - The Theory of Money and Credit
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0021</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">케인즈주의자들과<br />현대통화이론(MMT)</h2>
+<p class="class_s8H-0">미국 통화 역사를 여행하면서 우리는 경제가 어떻게 작동해야 하는지에 대한 경쟁적인 비전으로 형성된 풍경을 조사했습니다. 앞으로 다가올 일에 착수하기 전에 우리는 전 세계 중앙 은행과 재무 부서의 대리석 홀에서 이루어지는 모든 결정에 계속해서 영향을 미치는 아이디어를 가진 지적 거물들을 이해해야 합니다. 이러한 경제 이론을 세상을 보는 다른 렌즈로 생각하십시오. 각각은 근본적인 질문에 대한 고유한 관점을 제공합니다. 정부가 시장에 개입해야 할까요, 아니면 시장이 자유롭게 운영되도록 허용해야 할까요? 저축은 선한 것인가, 해로운 것인가? 번영은 인쇄될 수 있는가? 이러한 질문에 대한 답은 우리의 미래에 깊은 영향을 미칩니다.</p>
+<h3 id="id__798_73_" class="heading_s78-0">고전경제학</h3>
+<p class="class_sXY-0">다시 한번 말씀드리자면
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0023.xhtml
+- matches:
+  - The Staggering Pace of New Debt",
+  - occurred when the Ancien
+  - gime of Louis XVI and the ruling elites refused to reform
+  - corrupt system, and the people took matters into their own hands
+  - good example of this type of behavior is the CEO
+  - HBS graduate) of what in
+  - was the second-largest Fortune
+  - decline in the company
+  - net worth of over
+  - stock options and salary) while his employees
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0023</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">아무것도 이 열차를 멈추지 못한다</h2>
+<p class="class_s2H-0">브레이크 없이 선로를 질주하는 기차를 상상해보세요. 이것이 미국의 현재 재정 궤적입니다. 뛰어난 엔지니어이자 투자 분석가인 Lyn Alden은 "아무 것도 이 열차를 막지 못합니다."라는 적절한 표현을 사용했습니다. 그녀는 우리가 금융 시스템에서 돌아갈 수 없는 지점인 루비콘 강을 건넜다고 믿고 있고 나도 그녀의 말에 동의합니다. 미국의 재정 열차가 운명적인 전환을 향해 달려가는 가운데, 멈출 수 없는 부채 모멘텀으로 인한 시스템 붕괴 또는 고통스럽지만 의도적인 경제 재편을 향한 예리한 각도가 앞에 놓여 있습니다. 차장의 손이 레버 위로 움직이지만, 이 속도에서는 두 트랙 모두 변형으로 끝납니다. 유일한 선택은 우리가 변화를 주도할 것인지, 아니면 물리학이 결정하도록 할 것인지입니다.</p>
+<figure class="figure_sG9-0"><img src="image_rsrc3D0.jpg" al
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0025.xhtml
+- matches:
+  - The Price of Tomorrow
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0025</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">디플레이션을 받아들여라</h2>
+<p class="class_s8H-0">케인즈주의 경제학자들과 오스트리아 학파 경제학자들을 제외한 거의 모든 사람들이 저지르는 근본적인 오류는 디플레이션이 본질적으로 나쁘다는 믿음입니다.</p>
+<h3 id="id__798_82_" class="heading_s78-0">오류</h3>
+<p class="class_s4P-0">한 세기가 넘도록 중앙은행가들과 주류 경제학자들은 디플레이션에 대한 비합리적인 두려움을 품어왔습니다. 그들은 가격 하락으로 인해 소비자들이 미래에 더 낮은 가격을 기대하여 구매를 연기하게 될 것이라고 주장합니다. 그들은 이러한 지출 부족으로 인해 총수요가 감소하고 경기 침체로 이어질 것이라고 주장합니다. 2009년 Janet Yellen이 캘리포니아 커먼웰스 클럽에 보낸 경고를 생각해 보세요.</p>
+<p class="class_sM-0">이처럼 매우 낮은 인플레이션이 완전한 디플레이션으로 바뀔 수 있다고는 생각할 수 없습니다
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0026.xhtml
+- matches:
+  - form of money that is fixed in supply is literally
+  - they architected perfect, immutable, verifiable digital scarcity
+  - Check Your Financial Privilege
+  - The New York Tribune
+  - University of Michigan Quad)
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0026</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">비트코인이 이 문제를 해결했습니다.</h2>
+<p class="class_s8H-0">비트코인은 시간과 공간을 넘어 디지털 가치(돈)를 전송하는 안전한 디지털 네트워크입니다. 비트코인은 우리가 돈을 생각하고 사용하는 방식의 패러다임 변화를 나타냅니다. 이는 단지 또 다른 암호화폐나 투자 수단이 아닙니다. 이는 우리의 금융 미래를 재편할 근본적인 기술 혁신입니다.</p>
+<h3 id="id__798_84_" class="heading_s78-0">비트코인의 탄생</h3>
+<p class="class_s4P-0">비트코인에 익숙하지 않은 독자들을 위해 비트코인의 역사를 소개합니다. 2008년 10월 31일, 익명의 기술자(또는 여러 명이 협력)가 사토시 나카모토라는 가명으로 P2P 전자 현금 시스템의 청사진을 제시하는 비트코인 ​​백서 <span id="a36C" /><a href="part0042.xhtml#a308" epub:type="noteref" class="class_s2T
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0027.xhtml
+- matches:
+  - The Price of Tomorrow
+  - Stevens Institute of Technology)
+  - Ken Olsen, Digital Equipment Corporation
+  - David Pogue, New York Times
+  - Lucas Bazemore, Township Ventures,
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0027</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">회의론</h2>
+<p class="class_s8H-0">제가 비트코인을 옹호할 때 흔히 공통적인 반응, 즉 오해로 인한 회의론에 직면합니다. 대부분의 사람들은 본능적으로 비트코인을 수천 개의 다른 암호화폐와 그룹화하고 비트코인의 혁명적인 특성을 그리워합니다. 이 장에서는 비트코인이 홀로 존재하는 이유를 탐구하고, 회의론이 비록 자연스럽기는 하지만 우리 주변의 세상을 변화시키는 혁신적인 혁신에 대해 어떻게 우리를 눈멀게 하는지 살펴봅니다.</p>
+<h3 id="id__798_90_" class="heading_s78-0">비트코인은 암호화폐가 아니다</h3>
+<p class="class_s4P-0">비트코인이 암호화폐라는 것은 맞지만, 비트코인과 같은 암호화폐는 없습니다. 알고 보니 암호화폐를 만드는 것은 특별히 어려운 일이 아닙니다. 유능한 프로그래머라면 누구나 코드를 작성할 수 있습니다. 세상에는 "펌프 앤 덤프(pump and dump)" 코인을 홍보하는 단시간에 부자가 되는
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0028.xhtml
+- matches:
+  - IBM, DEC, Data General
+  - Why are we doing this
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0028</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">우리가 구원받을 이유:<br />분권화</h2>
+<p class="class_s8H-0">오늘날 세상이 망가지고 역기능을 하고 있는 것처럼, 나는 여전히 매우 낙관적입니다. 이러한 낙관주의는 기술 발전과 그것이 전 세계적으로 인류 사회를 개선할 수 있는 잠재력에 대한 명확한 이해에서 비롯됩니다. 저를 가장 흥분시키는 것은 우리 세상을 더 나은 방향으로 재편할 것을 약속하는 탈중앙화를 향한 멈출 수 없는 추세입니다.</p>
+<h3 id="id__798_93_" class="heading_s78-0">중앙집중화의 부상: 미국의 산업 권력 초창기</h3>
+<p class="class_sXY-0">분산화를 향한 우리의 궤적을 이해하기 위해 먼저 우리가 어떻게 중앙집중화되었는지 살펴보겠습니다. 이야기는 분권화가 자연스러운 상태였던 초기 미국에서 시작됩니다.</p>
+<h4 id="id__798_133_" class="heading_s1FH">자립의 씨앗</h4>
+<p class="class_
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0029.xhtml
+- matches:
+  - Dan Oliver, Myrmikan Capital,
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0029</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">이것이 어떻게 전개되는가</h2>
+<p class="class_s2H-0">41년간의 직접 투자 경험을 통해 나는 우리 중 누구도 정확한 재무 결과를 예측할 수 없다는 것을 배웠습니다. 변수가 너무 많습니다. 하지만 우리는 패턴을 분석하고, 시나리오를 매핑하고, 확률을 평가하여 현명한 결론을 내릴 수 있습니다.</p>
+<p class="class_sM-0">우리가 확립한 대로 현재의 부채 기반 법정화폐 시스템은 금융 최후의 심판 기계처럼 작동합니다. 슈타인의 법칙은 진짜입니다. 우리는 부채의 궁극적인 붕괴나 부채를 갚기 위해 돈을 인쇄하는 데 따른 인플레이션/초인플레이션에 직면하지 않고서는 GDP 성장을 초과하는 부채를 계속 감당할 수 없습니다.</p>
+<p class="class_sM-0">현재 상황은 통화 당국, 특히 연준이 재정 긴축보다는 통화 완화를 계속 선택할 것임을 강력히 시사합니다. 나는 이것에 대해 틀릴 수 있습니다. 그러나 정책 입안자들은 항상 금융 붕괴 위험보다 
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0031.xhtml
+- matches:
+  - The Economics of Inflation
+  - they can never stop printing money
+  - Wo n't Back Down"
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0031</title>
+</head>
+<body>
+<h2 class="heading_s3K-1">그레샴의 법칙,<br />인플레이션, 초인플레이션</h2>
+<p class="class_s8H-1">화폐 시스템은 신뢰를 기반으로 하며 신뢰가 약화되면 예측 가능한 패턴이 나타납니다. "나쁜 돈이 좋은 것을 몰아낸다"는 원칙인 그레샴의 법칙은 사람들이 어떻게 자연스럽게 안정적인 통화를 축적하고 악화되는 통화를 소비하는지를 보여줍니다. 이러한 행동은 종종 심각한 인플레이션 기간 이전에 발생하는 금전적 스트레스에 대한 조기 경고 시스템 역할을 합니다. 통화에 대한 신뢰가 약해짐에 따라 이러한 축적 본능이 가속화되어 잠재적으로 초인플레이션으로 알려진 파괴적인 사이클을 촉발할 수 있습니다. 이러한 통화 붕괴로 인해 가격은 매달 50% 이상 상승하여 저축이 파괴되고 잠재적으로 사회 구조 자체가 붕괴됩니다.</p>
+<h3 id="id__798_103_" class="heading_s78-1">그레샴의 법칙: 화폐 신뢰 게임</h3>
+<p class="class_s4P-1">두 가지 형태의 돈이 공존하는 세상에서 하나는 
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0032.xhtml
+- matches:
+  - Gee, we should make
+  - times our money here
+  - Barron's Gold Mining Index(BGMI)
+  - amp; Poors, John Hussman, Hussman Strategic Advisors,
+  - amp;P Commodity Producer Index
+  - Paradox and the Gold Standard
+  - Gold Composition By Category
+  - Silver Usage By Category
+  - The Wizard of Oz
+  - Great and Powerful Oz)
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0032</title>
+</head>
+<body>
+<h2 class="heading_s3K-1">투자 시사점<br />– 전통 자산</h2>
+<p class="class_s2H-1">제가 26세였을 때, 벤처 캐피털 업계의 첫 상사는 Continental Illinois Bank의 Venture Capital Group을 운영하는 친절하고 나이 많은 신사였습니다. 그는 Sequoia Ventures의 Don Valentine과 우정을 쌓았고, Valentine은 내 상사의 은행을 Apple Computer의 초기 투자자로 초대했습니다. 초기에 은행은 Apple에 약 500,000달러를 투자했는데, 제가 Continental에 입사할 무렵에는 약 4,500만 달러가 되었습니다.<span id="a2TB" /><a href="part0042.xhtml#a36A" epub:type="noteref" class="class_s2T8">44</a> 그래서 제 상사는 은행 내에서 많은 재량권을 가졌습니다.<span id="a2Z8" /><a href="part0042.xhtml#a36B" epub:type="not
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0033.xhtml
+- matches:
+  - first perfectly inelastic commodity
+  - What could go wrong
+  - El Salvador Leads the Way:
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:ns2="http://www.w3.org/2000/svg" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0033</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">투자에 미치는 영향 – 비트코인</h2>
+<p class="class_s2H-0">위에서 말했듯이 비트코인은 내가 본 것 중 가장 비대칭적인 상승 여력이 있는 투자 기회입니다. 이유를 설명하겠습니다.</p>
+<p class="class_sM-0">첫째, 나는 비트코인을 “디지털 금”의 한 형태로 봅니다. 즉, 공급량이 고정되어 있고 감사 가능한 투명성이 있으며 상대방 위험이 없는 분산형 디지털 자산입니다.<span id="a304" /><a href="part0042.xhtml#a31R" epub:type="noteref" class="class_s2T8">69</a> Michael Saylor는 이를 "순수한 디지털 자본"이라고 설명하며 저도 이에 동의합니다. 이는 비트코인을 다른 암호화폐의 바다와 차별화시킵니다. 대부분의 암호화폐에는 비트코인의 엄격하게 설계된 "작업증명"이 부족하고 대신 공급을 제어하지 않는
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0034.xhtml
+- matches:
+  - Some will call this radical
+  - They will warn of disaster
+  - tell you, the true disaster would be to cling to
+  - broken system that robs us of opportunity and binds us to debt
+  - make any Thing but gold and silver Coin
+  - Tender in Payment of Debts,
+  - The New York Times
+  - The Lords of Easy Money
+  - The New York Times
+  - he Wall Street Journal
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0034</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">정책 대응</h2>
+<p class="class_s2H-0">나는 명확한 대안을 제시하지 않은 채 우리 통화 시스템과 연준에 대해 불평했다는 점에서 비판을 받아왔습니다. 새로운 그림을 그려보겠습니다. 케네디의 영감을 주는 우아함과 레이건의 위엄 있는 존재감을 결합한 비전 있는 대통령이 미국의 금융 미래를 재편하기 위해 앞으로 나아갑니다. 유역의 순간이 어떻게 전개될 수 있는지는 다음과 같습니다.</p>
+<p class="class_s21">신사 숙녀 여러분, 동료 미국인 여러분,</p>
+<p class="class_sM-0">오늘 밤 저는 우리나라의 번영과 약속의 핵심, 즉 우리 경제 시스템의 기초에 영향을 미치는 것에 대해 이야기하기 위해 여러분 앞에 왔습니다. 너무 오랫동안 우리는 선의의 의도는 있지만 깨진 아이디어로 포장된 길을 걸어왔습니다. 우리는 부채를 짊어지고 확인되지 않는 성장을 추구하는 결함이 있는 케인지안 경제 모델에 의존해 왔습니다. 우리에게는 성장이 필요하지 않
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0038.xhtml
+- matches:
+  - The Price of Tomorrow
+  - The New Orleans Investment Conference
+  - The Human Rights Foundation
+  - The Satoshi Action Fund
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0038</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">감사의 말</h2>
+<p class="class_s2H-0">나는 분석가다. 나는 시스템 분석과 패턴 인식 능력을 스스로 훈련해 왔고, 그 능력은 미국이 왜, 그리고 어떻게 현재의 곤경에 처하게 되었는지에 대한 이 이론을 발전시키는 데 도움을 주었다. 여기서 제시하는 많은 진술과 결론이 내 독창적 성과라고 주장하지는 않는다. 독자에게 내 견해가 울림을 준다면, 그것은 오스트리안 경제학자들과 아래에 공을 돌린 현대 사상가들을 포함한 지적 거인들의 어깨 위에 서서 쌓아 올린 것임을 알아주기 바란다.</p>
+<p class="class_sM-0">내가 바라는 것은 이 책이 이러한 관점들을 명확하고 포괄적이며 쉽게 소화할 수 있는 형식으로 종합해 가치를 더하는 것이다. 금융 배경지식이 전혀 없는 사람에게도 이 내용을 단순하게 전달하는 것이 내 목표다. 금융 업계는 너무 오랫동안 이런 문제들을 의도적으로 지나치게 복잡하게 만들어 왔다. 그것은 우연이 아니다.</p>
+<p class="class_sM-0">복잡한 통화 문제에 대한 나의 이해는 수많은 뛰어난 지성들에
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0040.xhtml
+- matches:
+  - The Price of Tomorrow
+  - The Lords of Easy Money
+  - The Creature From Jekyll Island
+  - Check Your Financial Privilege
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0040</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">추가 추천 도서</h2>
+<p class="class_s2H-0"><span class="class_s2T7">End The Fed</span>, 론 폴</p>
+<p class="class_sM-0"><span class="class_s2T7">The Bitcoin Standard</span>, 사이페딘 아모스</p>
+<p class="class_sM-0"><span class="class_s2T7">The Price of Tomorrow</span>, 제프 부스</p>
+<p class="class_sM-0"><span class="class_s2T7">Broken Money</span>, 린 알든</p>
+<p class="class_sM-0"><span class="class_s2T7">The Fourth Turning</span>, 하우와 스트라우스</p>
+<p class="class_sM-0"><span class="class_s2T7">The Lords of Easy Money</span>, 크리스토퍼 레너드</p>
+<p class="class_s
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0041.xhtml
+- matches:
+  - The Arsenal of Democracy
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0041</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">부록 A:<br /></h2>
+<p class="class_s2H-0">나는 특별한 시대, 특별한 장소에서 성장할 수 있었던 매우 큰 행운을 누렸다.</p>
+<p class="class_sM-0">1950년대, 1960년대, 그리고 1970년대 초반의 미국 중서부는 미국의 강하고 건강한 일부였다. 오늘날 러스트 벨트의 일부가 된 디트로이트와 클리블랜드 같은 도시들은 한때 미국 경제의 심장부였다. 어떤 의미에서는 그 시대의 실리콘밸리였다. 헨리 포드가 자동차를 발명하고 1913년에 조립라인을 상업적으로 발전시킨 것은 미국의 제2차 산업혁명의 시동을 걸었다. 수십 년 동안 디트로이트와 그 주변 지역은 세계 자동차 생산을 이끌었고, 제2차 세계대전에서 연합국의 승리에 결정적 역할을 했다. 전쟁 중 디트로이트는 민주주의의 병기창이라 불렸는데, 이는 FDR과 다른 이들이 전쟁에서 이기려면 미국이 독일보다 더 많이 생산해야 한다는 사실을 깨달았기 때문이다. 디트로이트는 실제로 그 일을 해냈고, 이는 높이 평가받을 만하다. 이 주제를 다룬 아주 흥미로운 책 <span
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0042.xhtml
+- matches:
+  - presentation to the Commonwealth Club of California, San Francisco, California, June
+  - Deflating the Deflation Myth,
+  - Andrew Atkeson and Patrick
+  - Deflation and Depression: Is There an Empirical Link
+  - The American Economic Review
+  - Measuring prices and wages in
+  - terms involves subtracting the inflation rate from the nominal rate
+  - For example, if the nominal interest rate is
+  - but inflation is running at
+  - then the real rate of interest is
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0042</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s2BV">부록</h2>
+<h3 id="id__798_130_" class="heading_s78-0">내 크로스핏 코치가 가장 좋아하는 연설:</h3>
+<p class="class_s2BY">투기장 안의 인간</p>
+<p class="class_sM-0">중요한 것은 비평가가 아니다. 강한 사람이 어디서 비틀거리는지, 혹은 행동하는 사람이 어디서 더 잘할 수 있었는지를 지적하는 사람이 아니다.</p>
+<p class="class_sM-0">공은 실제로 투기장 안에 있는 사람에게 돌아간다. 그의 얼굴은 먼지와 땀과 피로 얼룩져 있고, 그는 용감하게 분투한다. 그는 실수하고, 거듭 부족함을 드러낸다. 오류와 결함 없는 노력은 없기 때문이다. 그러나 그는 실제로 그 행동을 이루기 위해 애쓴다. 그는 위대한 열정과 큰 헌신을 알고, 가치 있는 대의를 위해 자신을 바친다. 최선의 경우 그는 마침내 높은 성취의 승리를 맛보고, 최악의 경우 실패하더라도 적어도 대담하게 도전하다 실패한다. 그래서 그의 자
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0043.xhtml
+- matches:
+  - FOREWORD BY MAX KEISER
+  - HOW TO READ THIS BOOK
+  - INFLATION IS THE CAUSE
+  - MONEY: SOUND AND FIAT
+  - THE PATH TO PURE FIAT:
+  - TO PRESENT: FINANCIALIZATION, BAILOUTS, FREE MONEY
+  - KEYNESIANS AND MODERN MONETARY THEORY
+  - NOTHING STOPS THIS TRAIN
+  - PART II THE SOLUTION
+  - WHY WE WILL BE SAVED: DECENTRALIZATION
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<title>part0043</title>
+</head>
+<body class="class-0">
+<h1 class="heading_s2GB">Table of Contents</h1>
+<ol class="class_s2K4"><li><p class="class_s2GD"><a href="part0000.xhtml">COVER</a></p></li><li><p class="class_s9G"><a href="part0001.xhtml">REVIEWS</a> </p><ol><li><p class="class_s2GD"><a href="part0004.xhtml">DEDICATION</a></p></li><li><p class="class_s2GD"><a href="part0005.xhtml">FOREWORD BY MAX KEISER</a></p></li></ol></li><li><p class="class_s9G"><a href="part0006.xhtml">INTRODUCTION</a> </p><ol><li><p class="class_s2GD"><a href="part0007.xhtml">OPENING SCENE</a></p></li><li><p class="class_s2GD"><a href="part0008
+```

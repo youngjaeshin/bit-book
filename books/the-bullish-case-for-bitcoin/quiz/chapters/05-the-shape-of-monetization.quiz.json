@@ -1,0 +1,20 @@
+{
+  "chapter_id": "05-the-shape-of-monetization",
+  "question_en": "How is Bitcoin’s monetization described?",
+  "choices_en": [
+    "As instant state adoption",
+    "As a one-time repricing event",
+    "As savings shifting from weaker stores of value",
+    "As dividend growth in equities"
+  ],
+  "question_ko": "비트코인의 화폐화는 어떻게 설명되는가?",
+  "choices_ko": [
+    "국가의 즉각적 채택",
+    "한 번의 가격 재평가",
+    "더 약한 가치 저장 수단에서 저축이 이동하는 과정",
+    "주식 배당 성장"
+  ],
+  "answer_index": 2,
+  "explanation_en": "The chapter frames monetization as a migration of savings from inferior assets into Bitcoin.",
+  "explanation_ko": "이 장은 화폐화를 열등한 자산에서 비트코인으로 저축이 이동하는 과정으로 설명한다."
+}

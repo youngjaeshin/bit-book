@@ -1,0 +1,20 @@
+{
+  "chapter_id": "03-monetary-metals",
+  "answer_index": 0,
+  "question_en": "Why did gold and silver rise as money, according to this unit?",
+  "choices_en": [
+    "Because their physical properties fit monetary use",
+    "Because states forced them into circulation",
+    "Because they were easy to create rapidly",
+    "Because they required no production cost"
+  ],
+  "question_ko": "이 단위에 따르면 왜 금과 은이 화폐로 부상했는가?",
+  "choices_ko": [
+    "그 물리적 성질이 화폐의 요구에 맞았기 때문에",
+    "국가가 강제로 유통시켰기 때문에",
+    "빠르게 대량 생산할 수 있었기 때문에",
+    "생산 비용이 거의 없었기 때문에"
+  ],
+  "explanation_en": "Gold and silver are presented as winners because their traits fit the monetary task.",
+  "explanation_ko": "금과 은은 화폐의 요구에 잘 맞는 성질을 지녔기 때문에 선택되었다고 설명된다."
+}

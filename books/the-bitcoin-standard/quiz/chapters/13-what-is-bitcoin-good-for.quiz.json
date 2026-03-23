@@ -1,0 +1,20 @@
+{
+  "chapter_id": "13-what-is-bitcoin-good-for",
+  "answer_index": 2,
+  "question_en": "What primary role does this unit assign to Bitcoin?",
+  "choices_en": [
+    "Cheap retail payments first",
+    "A corporate loyalty system",
+    "A nonsovereign store of value",
+    "A replacement for all banking overnight"
+  ],
+  "question_ko": "이 단위는 비트코인에 어떤 1차적 역할을 부여하는가?",
+  "choices_ko": [
+    "값싼 소매 결제를 우선으로",
+    "기업 보상 시스템으로",
+    "비국가적 가치 저장 수단으로",
+    "하룻밤 사이 모든 은행의 대체물로"
+  ],
+  "explanation_en": "Bitcoin is primarily presented as a nonsovereign store of value.",
+  "explanation_ko": "비트코인은 1차적으로 비국가적 가치 저장 수단으로 제시된다."
+}

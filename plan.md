@@ -1,5 +1,30 @@
 # plan.md
 
+## Current Execution Status
+
+- Active lane: `bitcoin_essentials_bookshelf_live`
+- Local milestone reached: **비트코인 필수 12권** 모두 `source / content(en, ko) / quiz / site` 산출물 생성 완료
+- Local verification reached: library-site 기준 **12권 ready**
+- Remaining local tidy-up: 문서 최신화 + 로컬 커밋
+- External next step: 사용자가 원할 때 Git push / Vercel 재배포
+
+## Current Bookshelf Completion
+
+| Seq | Slug | Status | Notes |
+|---|---|---|---|
+| 1 | `bitcoin-for-everyone` | done | 12 web units |
+| 2 | `blind-robbery` | done | 11 web units |
+| 3 | `the-bitcoin-standard` | done | 16 web units |
+| 4 | `21-lessons` | done | 8 web units |
+| 5 | `the-fiat-standard` | done | 15 web units |
+| 6 | `the-bullish-case-for-bitcoin` | done | 8 web units |
+| 7 | `layered-money` | done | 10 web units |
+| 8 | `bitcoin-diploma` | done | 8 web units |
+| 9 | `bitcoin-whitepaper-guide` | done | 10 web units |
+| 10 | `bitcoin-user-guide` | done | 29 web units (PDF) |
+| 11 | `the-blocksize-war` | done | 12 web units |
+| 12 | `bitcoin-handbook` | done | 11 web units |
+
 ## Coordination Contract
 
 새 에이전트는 작업 전에 반드시 아래 순서로 읽는다.

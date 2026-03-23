@@ -1,0 +1,165 @@
+{
+  "book_slug": "bitcoin-diploma",
+  "selection_rule": "Use the Korean EPUB as source of truth and merge the 13 TOC entries into 8 web-summary units.",
+  "part_groups": [
+    {
+      "part_number": 1,
+      "part_slug": "main",
+      "title": "Main Web Summary Units",
+      "toc_index": 1,
+      "included_chapter_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "included_chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "01-why-we-need-money",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 1,
+      "title": "왜 우리는 돈이 필요한가",
+      "source_toc_indices": [
+        1,
+        2
+      ],
+      "src": "Text/Section0001.xhtml",
+      "source_markdown_path": "books/bitcoin-diploma/source/chapters/01-why-we-need-money.md",
+      "english_markdown_path": "books/bitcoin-diploma/content/en/chapters/01-why-we-need-money.md",
+      "korean_markdown_path": "books/bitcoin-diploma/content/ko/chapters/01-why-we-need-money.md",
+      "quiz_path": "books/bitcoin-diploma/quiz/chapters/01-why-we-need-money.quiz.json",
+      "html_path": "books/bitcoin-diploma/site/chapters/01-why-we-need-money.html"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "02-history-of-money-and-fiat-control",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 3,
+      "title": "돈의 역사와 명목화폐의 통제",
+      "source_toc_indices": [
+        3,
+        4
+      ],
+      "src": "Text/Section0003.xhtml",
+      "source_markdown_path": "books/bitcoin-diploma/source/chapters/02-history-of-money-and-fiat-control.md",
+      "english_markdown_path": "books/bitcoin-diploma/content/en/chapters/02-history-of-money-and-fiat-control.md",
+      "korean_markdown_path": "books/bitcoin-diploma/content/ko/chapters/02-history-of-money-and-fiat-control.md",
+      "quiz_path": "books/bitcoin-diploma/quiz/chapters/02-history-of-money-and-fiat-control.quiz.json",
+      "html_path": "books/bitcoin-diploma/site/chapters/02-history-of-money-and-fiat-control.html"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "03-how-to-solve-the-problem",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 5,
+      "title": "문제를 어떻게 해결할 것인가",
+      "source_toc_indices": [
+        5
+      ],
+      "src": "Text/Section0005.xhtml",
+      "source_markdown_path": "books/bitcoin-diploma/source/chapters/03-how-to-solve-the-problem.md",
+      "english_markdown_path": "books/bitcoin-diploma/content/en/chapters/03-how-to-solve-the-problem.md",
+      "korean_markdown_path": "books/bitcoin-diploma/content/ko/chapters/03-how-to-solve-the-problem.md",
+      "quiz_path": "books/bitcoin-diploma/quiz/chapters/03-how-to-solve-the-problem.quiz.json",
+      "html_path": "books/bitcoin-diploma/site/chapters/03-how-to-solve-the-problem.html"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "04-introducing-bitcoin",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 6,
+      "title": "비트코인 소개",
+      "source_toc_indices": [
+        6
+      ],
+      "src": "Text/Section0006.xhtml",
+      "source_markdown_path": "books/bitcoin-diploma/source/chapters/04-introducing-bitcoin.md",
+      "english_markdown_path": "books/bitcoin-diploma/content/en/chapters/04-introducing-bitcoin.md",
+      "korean_markdown_path": "books/bitcoin-diploma/content/ko/chapters/04-introducing-bitcoin.md",
+      "quiz_path": "books/bitcoin-diploma/quiz/chapters/04-introducing-bitcoin.quiz.json",
+      "html_path": "books/bitcoin-diploma/site/chapters/04-introducing-bitcoin.html"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "05-how-to-use-bitcoin",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 7,
+      "title": "비트코인 사용법과 라이트닝",
+      "source_toc_indices": [
+        7,
+        8
+      ],
+      "src": "Text/Section0007.xhtml",
+      "source_markdown_path": "books/bitcoin-diploma/source/chapters/05-how-to-use-bitcoin.md",
+      "english_markdown_path": "books/bitcoin-diploma/content/en/chapters/05-how-to-use-bitcoin.md",
+      "korean_markdown_path": "books/bitcoin-diploma/content/ko/chapters/05-how-to-use-bitcoin.md",
+      "quiz_path": "books/bitcoin-diploma/quiz/chapters/05-how-to-use-bitcoin.quiz.json",
+      "html_path": "books/bitcoin-diploma/site/chapters/05-how-to-use-bitcoin.html"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "06-understanding-bitcoin-technology",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 9,
+      "title": "비트코인 기술 이해",
+      "source_toc_indices": [
+        9
+      ],
+      "src": "Text/Section0009.xhtml",
+      "source_markdown_path": "books/bitcoin-diploma/source/chapters/06-understanding-bitcoin-technology.md",
+      "english_markdown_path": "books/bitcoin-diploma/content/en/chapters/06-understanding-bitcoin-technology.md",
+      "korean_markdown_path": "books/bitcoin-diploma/content/ko/chapters/06-understanding-bitcoin-technology.md",
+      "quiz_path": "books/bitcoin-diploma/quiz/chapters/06-understanding-bitcoin-technology.quiz.json",
+      "html_path": "books/bitcoin-diploma/site/chapters/06-understanding-bitcoin-technology.html"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "07-why-bitcoin",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 10,
+      "title": "왜 비트코인인가",
+      "source_toc_indices": [
+        10
+      ],
+      "src": "Text/Section0010.xhtml",
+      "source_markdown_path": "books/bitcoin-diploma/source/chapters/07-why-bitcoin.md",
+      "english_markdown_path": "books/bitcoin-diploma/content/en/chapters/07-why-bitcoin.md",
+      "korean_markdown_path": "books/bitcoin-diploma/content/ko/chapters/07-why-bitcoin.md",
+      "quiz_path": "books/bitcoin-diploma/quiz/chapters/07-why-bitcoin.quiz.json",
+      "html_path": "books/bitcoin-diploma/site/chapters/07-why-bitcoin.html"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "08-resources-and-glossary",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 11,
+      "title": "추가 자료와 핵심 개념",
+      "source_toc_indices": [
+        11,
+        12,
+        13
+      ],
+      "src": "Text/Section0011.xhtml",
+      "source_markdown_path": "books/bitcoin-diploma/source/chapters/08-resources-and-glossary.md",
+      "english_markdown_path": "books/bitcoin-diploma/content/en/chapters/08-resources-and-glossary.md",
+      "korean_markdown_path": "books/bitcoin-diploma/content/ko/chapters/08-resources-and-glossary.md",
+      "quiz_path": "books/bitcoin-diploma/quiz/chapters/08-resources-and-glossary.quiz.json",
+      "html_path": "books/bitcoin-diploma/site/chapters/08-resources-and-glossary.html"
+    }
+  ]
+}

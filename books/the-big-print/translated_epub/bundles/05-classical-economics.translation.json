@@ -1,0 +1,378 @@
+{
+  "chapter_id": "05-classical-economics",
+  "title": "CLASSICAL ECONOMICS",
+  "src": "part0017.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0017.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "CLASSICAL ECONOMICS",
+      "translated_text": "고전경제학",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "Inspired by the pre-Classical Economist David Hume, Classical Economics emerged in the late 18th and early 19th centuries through the writings of Adam Smith, David Ricardo, Jean-Baptiste Say, and John Stuart Mill, among others. Classical Economists established fundamental principles that still shape economic thought today. At its core, Classical Economics argues that free markets and individual self-interest drive economic prosperity, with minimal government intervention needed. The theory emphasizes how savings and capital formation fuel productivity gains and economic advancement. When people defer consumption to invest in better tools and methods, society becomes more efficient and prosperous. This system operates through free market mechanisms where prices, set by supply and demand, provide signals that guide economic behavior. Classical Economics introduces key concepts like Adam Smith’s “invisible hand,”__INLINE_1____INLINE_2__ which explains how individuals pursuing their own interests often benefit society as a whole, and the importance of specialization and trade in creating wealth.",
+      "translated_text": "전고전주의 경제학자 데이비드 흄의 영향을 받아, 고전경제학은 18세기 말과 19세기 초 애덤 스미스, 데이비드 리카도, 장바티스트 세, 존 스튜어트 밀 등의 저작을 통해 등장했다. 고전경제학자들은 오늘날까지 경제사상을 형성하는 근본 원리를 세웠다. 그 핵심에서 고전경제학은 자유시장과 개인의 사익 추구가 경제 번영을 이끌며, 정부 개입은 최소여야 한다고 본다. 이 이론은 저축과 자본 형성이 어떻게 생산성 향상과 경제 발전을 밀어 올리는지 강조한다. 사람들이 소비를 미루고 더 나은 도구와 방법에 투자하면 사회는 더 효율적이고 더 번영하게 된다. 이 시스템은 수요와 공급이 정한 가격이 경제 행위를 이끄는 신호를 제공하는 자유시장 메커니즘을 통해 작동한다. 고전경제학은 애덤 스미스의 “보이지 않는 손” 같은 핵심 개념을 제시하는데,__INLINE_1____INLINE_2__ 이는 각자가 자신의 이익을 추구하는 과정이 종종 사회 전체에 이익이 됨을 설명하며, 부를 만드는 데 있어 분업과 교역의 중요성도 강조한다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a311\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a31E\" ns1:type=\"noteref\" class=\"class_s2T8\">26</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "Capitalism, as an extension of Classical Economics, grew out of the concept that the production of goods and services could be enhanced through the process of saving or __INLINE_1__. In its simplest form, the accumulation of capital enhances future production and/or efficiency. A basic example is holding back a portion of an agricultural harvest so that you have seeds to plant next season. From this sprang the concept of “not consuming your seed corn.” Seed corn represents capital or savings. The same principle applies to animal husbandry. One could consume all of one’s chickens or eggs, but doing so would literally lead to zero chicken dinners and omelets in the future. __INLINE_2__Further, if one can defer consumption and allow some eggs to become chicks, the rate of future egg production can grow. In this case, the chicks represent capital or savings. The important takeaway is that savings precede increased future production.",
+      "translated_text": "고전경제학의 확장으로서 자본주의는 재화와 서비스의 생산이 저축 또는 __INLINE_1__ 과정을 통해 향상될 수 있다는 개념에서 자라났다. 가장 단순한 형태에서 자본의 축적은 미래의 생산과/또는 효율을 향상시킨다. 쉬운 예는 농작물 수확의 일부를 남겨 다음 철에 심을 씨앗으로 쓰는 것이다. 여기서 “씨앗 곡식을 먹어 치우지 말라”는 개념이 나왔다. 씨앗 곡식은 자본 또는 저축을 뜻한다. 같은 원리는 축산에도 적용된다. 사람이 닭이나 달걀을 전부 먹어버릴 수도 있겠지만, 그렇게 하면 미래의 치킨 저녁도, 오믈렛도 문자 그대로 0이 된다. __INLINE_2__ 더 나아가 소비를 미루고 일부 달걀을 병아리로 키울 수 있다면 미래의 달걀 생산량은 늘어난다. 이 경우 병아리가 자본 또는 저축이다. 중요한 요점은 저축이 미래 생산 증가에 선행한다는 것이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">capital formation</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_57\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "The analogy also extends to capital goods. Take the fisherman who catches only a few fish per day with a spear. He needs that daily catch to survive. However, if his neighbor has stockpiled corn meal (savings), he might be able to live off the corn meal while he forgoes fishing to build a boat and a hemp fishing net. Once completed, these new tools allow him to catch far more fish than before. Savings (the stored corn that he used to feed himself while working on the boat and net) allowed him to invest in productivity-enhancing tools that created more wealth (fish) for him and his neighbor. These simple examples illustrate how, over time, savings (consuming less than you produce, e.g., accumulating capital) enhance economic productivity and well-being.",
+      "translated_text": "이 비유는 자본재에도 그대로 적용된다. 하루에 몇 마리 물고기만 창으로 잡는 어부를 생각해 보라. 그는 생존을 위해 그날그날 잡은 고기에 의존한다. 하지만 이웃이 옥수수가루를 비축해 두었다면(저축), 그는 배와 삼베 그물을 만드는 동안 낚시를 쉬고도 그 옥수수가루로 버틸 수 있다. 새 도구가 완성되면 그는 이전보다 훨씬 더 많은 물고기를 잡을 수 있다. 저축(배와 그물을 만드는 동안 자신을 먹여 살리는 데 쓴 저장 옥수수)이 그로 하여금 생산성을 높이는 도구에 투자하게 했고, 그 결과 자신과 이웃을 위해 더 많은 부(물고기)를 창출했다. 이 단순한 예들은 시간이 지남에 따라 저축(생산한 것보다 적게 소비하는 것, 즉 자본 축적)이 경제 생산성과 복지를 향상시킨다는 점을 보여준다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "Although these economic principles might seem abstract, they hold timeless wisdom about how societies create lasting prosperity. In thinking of ways to make these concepts more engaging, a fellow Bitcoiner suggested this parable from a remote coastal village, where three siblings learned the fundamental relationship between savings, investment, and future abundance.",
+      "translated_text": "이런 경제 원리들이 추상적으로 보일 수 있지만, 사회가 지속적인 번영을 어떻게 창출하는지에 대한 시대를 초월한 지혜를 담고 있다. 이 개념들을 더 흥미롭게 전달할 방법을 고민하던 중 한 비트코이너 동료가, 저축과 투자, 미래의 풍요 사이의 근본 관계를 세 남매가 배운 외딴 해안 마을의 우화를 제안했다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "The Tale Of Three Invisible Hands",
+      "translated_text": "세 개의 보이지 않는 손 이야기",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "In a coastal village, three siblings inherited different resources. Sara received a small farm, Maya got a chicken coop, and Jack inherited a fishing spear. Each faced hard choices between immediate consumption and future growth.",
+      "translated_text": "한 해안 마을에서 세 남매가 서로 다른 자원을 상속받았다. 사라는 작은 농장을, 마야는 닭장을, 잭은 어창을 물려받았다. 각자는 즉각적 소비와 미래 성장 사이에서 어려운 선택을 마주했다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "Sara’s first harvest was meager, but she resisted eating all her corn, saving the best kernels for spring planting. Her sacrifice through winter yielded fields that produced twice as much the following year. Meanwhile, Maya faced daily temptation to feast on chicken dinners or sell every egg at market. Instead, she kept her best hens and let many eggs hatch into chicks. Within a year, her small flock had tripled in size.",
+      "translated_text": "사라의 첫 수확은 빈약했지만, 그녀는 옥수수를 모두 먹지 않고 가장 좋은 낟알을 봄 파종용으로 남겨두었다. 겨울 내내의 희생은 이듬해 두 배의 수확을 내는 밭으로 돌아왔다. 한편 마야는 닭고기 만찬을 즐기거나 모든 달걀을 시장에 팔아버리고 싶은 일상의 유혹을 마주했다. 하지만 그녀는 가장 좋은 암탉을 남겨두고 많은 달걀을 부화시켜 병아리로 키웠다. 1년 안에 그녀의 작은 닭 무리는 세 배로 늘어났다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "Watching his sisters’ success taught Jack about patience. He proposed a deal: if they shared their corn and eggs with him for two months, he would build something to help them all. While they fed him, Jack crafted a boat and wove a large fishing net. His new tools turned out to be revolutionary, catching more fish in one morning than a week of spearing.",
+      "translated_text": "자매들의 성공을 지켜보며 잭은 인내를 배웠다. 그는 거래를 제안했다. 두 달 동안 자신에게 옥수수와 달걀을 나눠 주면 모두를 돕는 무언가를 만들겠다는 것이었다. 자매들이 그를 먹여 살리는 동안 잭은 배를 만들고 큰 그물을 엮었다. 그의 새 도구는 혁명적이었다. 창으로 일주일 내내 잡는 것보다 많은 물고기를 단 하루 아침에 잡아냈다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "By the following season, the village flourished. Sara’s granary overflowed, Maya’s chickens numbered in the hundreds, and Jack’s daily catches fed everyone. Their willingness to sacrifice today’s comforts for tomorrow’s abundance had transformed not just their own lives but their entire community’s future.",
+      "translated_text": "다음 철이 되자 마을은 번성했다. 사라의 곡물창고는 넘쳐났고, 마야의 닭은 수백 마리로 불어났으며, 잭의 하루 조업량은 모두를 먹여 살렸다. 오늘의 안락을 희생해 내일의 풍요를 택한 그들의 선택은 자신들의 삶뿐 아니라 공동체 전체의 미래를 바꿔 놓았다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "To honor the three siblings, the villagers passed down this simple wisdom:",
+      "translated_text": "세 남매를 기리기 위해 마을 사람들은 이 단순한 지혜를 대대로 전했다:",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "Three siblings taught us that wealth grows from what we save, not what we spend. Don’t eat your seed corn, don’t fry your laying hens, and sometimes you must work together while building your net. A meal fills your belly for a day, but saving fills your storehouse for life.",
+      "translated_text": "세 남매는 우리에게 부가 우리가 쓰는 것에서가 아니라 우리가 저축하는 것에서 자란다는 사실을 가르쳐 주었다. 씨앗 곡식을 먹어 치우지 말고, 알 낳는 암탉을 튀겨 먹지 말고, 때로는 그물을 만드는 동안 함께 버텨야 한다. 한 끼 식사는 하루 동안 배를 채우지만, 저축은 평생 창고를 채운다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "The well-fed villagers discovered what Adam Smith and his contemporaries would later formalize — that deferring consumption (saving) enables investment in productivity-enhancing capital, whether seeds for next year’s harvest, __INLINE_1__breeding stock for future flocks, or tools that multiply our productive capacity.",
+      "translated_text": "배불리 먹은 마을 사람들은 애덤 스미스와 동시대인들이 나중에 공식화한 것을 발견했다. 즉, 소비를 미루는 것(저축)은 내년 수확을 위한 씨앗이든, __INLINE_1__미래의 가축 떼를 위한 종자 가축이든, 우리의 생산 능력을 증폭시키는 도구든, 생산성을 높이는 자본에 대한 투자를 가능하게 한다는 점이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_59\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "Imagine a world where every dollar saved becomes a seed for future prosperity. This isn’t just economic theory — it’s the secret engine behind human progress. This is an incredibly important point. Savings fuel economic well-being when invested in productivity-enhancing investments. __INLINE_1__. Take the cotton gin, an invention driven by savings and capital investment. Before its invention, workers toiled to produce five pounds of cotton lint daily. Enter the cotton gin, and suddenly that output skyrocketed to 50 pounds per day. This ten-fold increase wasn’t magic. It was the fruit of using savings to build a better mousetrap. A strategic investment.",
+      "translated_text": "저축된 모든 달러가 미래 번영의 씨앗이 되는 세상을 상상해 보라. 이것은 단지 경제 이론이 아니다. 인간 진보를 떠받치는 비밀 엔진이다. 이는 믿기 어려울 만큼 중요한 포인트다. 저축은 생산성을 높이는 투자에 투입될 때 경제적 복지를 밀어 올린다. __INLINE_1__. 저축과 자본 투자에 의해 가능해진 발명인 조면기를 보라. 그 발명 이전에는 노동자들이 하루에 다섯 파운드의 솜을 생산하기 위해 고된 일을 했다. 그러나 조면기가 등장하자 생산량은 하루 50파운드로 치솟았다. 이 10배 증가는 마법이 아니었다. 저축을 써서 더 나은 쥐덫을 만든 결과였다. 전략적 투자였던 것이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">목표는 성장이 아니라 효율성과 생산성이다</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "Here’s the key: economic well-being isn’t about endless growth. It’s about efficiency and productivity. Savings, when strategically deployed, become the catalyst for game-changing innovations.__INLINE_1____INLINE_2__ They provide the capital to turn ideas into reality, transforming industries and lives. This is the simple premise behind capitalism. It is why capitalist societies have generated unprecedented wealth and societal well-being for billions of people – outcomes unimaginable by the ancients. Although this may sound obvious, many elites and academics miss it. For society and economic well-being to improve (productivity and efficiency growth), humans must make productivity-enhancing discoveries and investments. Generally speaking, these cannot occur without savings. Living within your means and saving for a rainy day are more than just well-worn phrases. They are critical to the economic advancement of society.",
+      "translated_text": "핵심은 이것이다. 경제적 복지는 끝없는 성장 자체에 있지 않다. 효율성과 생산성에 있다. 저축은 전략적으로 배치될 때 게임 체인저 혁신의 촉매가 된다.__INLINE_1____INLINE_2__ 저축은 아이디어를 현실로 바꾸는 자본을 제공해 산업과 삶을 바꾼다. 이것이 자본주의의 단순한 전제다. 자본주의 사회가 고대인들이 상상할 수 없었던 수준의 부와 사회적 복지를 수십억 명에게 창출해 온 이유다. 이것은 자명하게 들릴지 몰라도 많은 엘리트와 학자들은 이 점을 놓친다. 사회와 경제적 복지(생산성과 효율의 성장)가 개선되려면 인간은 생산성을 높이는 발견과 투자를 해야 한다. 일반적으로 저축 없이는 그런 일이 일어나기 어렵다. 수입 범위 안에서 살며 비상시에 대비해 저축하라는 말은 진부한 격언 이상이다. 그것은 사회의 경제 발전에 결정적이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2YH\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a30C\" ns1:type=\"noteref\" class=\"class_s2T8\">27</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "When savings occur, capital accumulates. The capital can then remain sterile or can be deployed in an effort to earn a return. Businesses and capitalists exist to take that savings or capital and enhance productivity by producing goods and services. They do not do this as a charitable act. The effort aligns with their own self-interest. The marketplace will judge their efforts, rewarding them with profits if they add value or punishing them with losses if they fail.",
+      "translated_text": "저축이 일어나면 자본이 축적된다. 그 자본은 멈춰 있을 수도 있고 수익을 얻기 위해 배치될 수도 있다. 기업과 자본가는 그 저축 또는 자본을 가져다가 재화와 서비스를 생산함으로써 생산성을 높이는 존재다. 그들은 이것을 자선으로 하지 않는다. 그 노력은 자신의 사익과 정렬된다. 시장은 그들의 노력을 평가해, 가치를 더하면 이익으로 보상하고 실패하면 손실로 벌한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "In Classical Economic theory, savings precede investment. Think back to the examples above, no savings, no productivity growth.",
+      "translated_text": "고전경제학 이론에서 저축은 투자에 선행한다. 위 예들을 떠올려 보라. 저축이 없으면 생산성 성장도 없다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "With its underpinnings in Classical Economics, capitalism emphasizes the accumulation of savings and its strategic deployment to increase the well-being of mankind. Ludwig von Mises said it best:",
+      "translated_text": "고전경제학에 뿌리를 둔 자본주의는 저축의 축적과 그 전략적 배치를 통해 인류의 복지를 높이는 데 방점을 찍는다. 루트비히 폰 미제스가 가장 잘 말했다:",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[18]",
+      "tag": "p",
+      "source_text": "The characteristic mark of economic history under capitalism is unceasing economic progress, a steady increase in the quantity of capital goods available, and a continuous trend toward an improvement in the general standard of living.",
+      "translated_text": "자본주의 아래 경제사의 특징적 표지는 끊임없는 경제 진보, 이용 가능한 자본재 수량의 꾸준한 증가, 그리고 일반 생활수준의 지속적인 향상 추세다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[19]",
+      "tag": "p",
+      "source_text": "Capitalism is essentially a system of mass production for the satisfaction of the needs of the masses. It pours a horn of plenty upon the common man. It has raised the average standard of living to a height never dreamed of in earlier ages. It has made accessible to millions of people enjoyments which a few generations ago were only within the reach of a small élite.",
+      "translated_text": "자본주의는 본질적으로 대중의 필요를 충족시키기 위한 대량생산 시스템이다. 그것은 평범한 사람에게 풍요의 뿔을 쏟아붓는다. 자본주의는 평균 생활수준을 과거 시대에는 꿈꾸지 못한 높이로 끌어올렸고, 몇 세대 전만 해도 소수 엘리트만 누릴 수 있었던 즐거움을 수백만 명이 누릴 수 있게 했다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[20]",
+      "tag": "p",
+      "source_text": "He also noted that capitalism looked much different from the system we have today:",
+      "translated_text": "그는 또한 자본주의가 오늘날 우리가 가진 시스템과는 매우 달라 보였다고 지적했다:",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[21]",
+      "tag": "p",
+      "source_text": "The early industrialists were for the most part men, who had their origin in the same social strata from which their workers came. They lived very modestly, spent only a fraction of their earnings for their households and put the rest back into the business.",
+      "translated_text": "초기의 산업자본가들은 대체로 자기 노동자들과 같은 사회적 층에서 나온 사람들이었다. 그들은 매우 검소하게 살았고, 수입의 일부만 가정에 쓰고 나머지는 다시 사업에 투입했다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[22]",
+      "tag": "p",
+      "source_text": "— Ludwig von Mises",
+      "translated_text": "— 루트비히 폰 미제스",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[23]",
+      "tag": "p",
+      "source_text": "That last quote by von Mises is almost quaint. Compare that description of the early capitalists with the system we have today. It leaves me scratching my head.",
+      "translated_text": "미제스의 마지막 인용은 거의 소박하게 느껴진다. 초기 자본가에 대한 그 묘사를 오늘날 시스템과 비교해 보라. 나는 고개를 갸웃하게 된다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[24]",
+      "tag": "p",
+      "source_text": "An important part of the capitalist model is allowing the free market to set prices. As we learned in Microeconomics 101, market prices are set at the point where supply is balanced by demand. Prices act as information or signals, telling market participants what to do. For example, if a shortage develops, the price will go up, signaling producers to add capacity because higher profits are available. Ultimately, the price will return to the marginal cost of production plus a return on deployed capital.",
+      "translated_text": "자본주의 모델의 중요한 한 부분은 자유시장이 가격을 정하도록 허용하는 것이다. 미시경제학 101에서 배웠듯 시장가격은 공급과 수요가 균형을 이루는 지점에서 정해진다. 가격은 정보이자 신호로 작용하며, 시장 참여자에게 무엇을 해야 하는지 알려 준다. 예를 들어 부족이 생기면 가격이 오르고, 이는 더 높은 이익이 가능하다는 신호가 되어 생산자에게 설비 확충을 유도한다. 궁극적으로 가격은 생산의 한계비용에 투입 자본 수익을 더한 수준으로 돌아간다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[25]",
+      "tag": "p",
+      "source_text": "Instinctively, I think most people understand that price fixing does not work. If prices are set too high, overproduction occurs; if set too low, there is no incentive to produce, and shortages will occur.",
+      "translated_text": "대부분의 사람은 본능적으로 가격 통제가 작동하지 않는다는 것을 이해한다고 나는 생각한다. 가격을 너무 높게 정하면 과잉생산이 일어나고, 너무 낮게 정하면 생산 유인이 사라져 부족이 발생한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[26]",
+      "tag": "p",
+      "source_text": "With a few notable exceptions, the United States has operated without wage and price controls. During World War II, the government implemented rationing, and price controls were used to support the war efforts. Nixon also instituted a 90-day freeze on prices when he abandoned the gold standard in 1971. And, during the inflation of the 1970s, President Gerald Ford __INLINE_1__attempted to jawbone lower prices with his Whip Inflation Now (WIN) program, which unsurprisingly did not work.",
+      "translated_text": "몇 가지 눈에 띄는 예외를 빼면 미국은 임금 및 가격 통제 없이 운영되어 왔다. 제2차 세계대전 동안 정부는 배급제를 시행했고 전쟁 수행을 지원하기 위해 가격 통제를 사용했다. 닉슨도 1971년 금본위를 포기할 때 가격을 90일간 동결했다. 그리고 1970년대 인플레이션 시기 제럴드 포드 대통령은 __INLINE_1__ WIN(Whip Inflation Now) 프로그램으로 가격 인하를 말로 압박하려 했지만, 예상대로 효과가 없었다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_62\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[27]",
+      "tag": "p",
+      "source_text": "For capitalism to work, a free and open market is essential for determining the prices of goods and services. This information informs the actions of all economic actors to produce the right amount of what the market wants. Now, let’s introduce a new concept: If the cost of using money over time is called the interest rate, the interest rate is, therefore, the price of money. Can you see where I am going with this? Why shouldn’t the price of money be set by supply and demand? Let’s cover this next.",
+      "translated_text": "자본주의가 작동하려면 자유롭고 개방된 시장이 재화와 서비스의 가격을 결정하는 것이 필수다. 이 정보가 모든 경제 행위자에게 시장이 원하는 적정량을 생산하도록 알려 준다. 이제 새로운 개념을 도입하자. 시간에 걸친 돈 사용의 비용을 이자율이라 부른다면, 이자율은 곧 돈의 가격이다. 내가 어디로 가는지 보이는가? 왜 돈의 가격은 수요와 공급이 정하지 않아야 하는가? 이제 이를 다루자.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "TIME PREFERENCE & INTEREST",
+      "translated_text": "시간선호와 이자",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[28]",
+      "tag": "p",
+      "source_text": "We’ve established that savings equals capital. The choice to save versus consume is defined by an individual’s needs and time preference. Humans live moment-to-moment. When resources are scarce and no cost is involved, they prefer immediate gratification to future gratification. For instance, ten steak dinners a month from now may seem more appealing than one steak dinner tonight, but if you’re starving now, the future becomes irrelevant. This natural inclination toward immediate satisfaction gave rise to the capitalist theory of interest rates, which rewards individuals who save or postpone consumption. If you are starving now and you have no capital or savings to purchase food, you may borrow someone else’s money, assuming you are deemed credit worthy. But this privilege comes at a cost: you must pay the lender interest to use their savings.",
+      "translated_text": "우리는 저축이 곧 자본이라는 점을 확립했다. 저축할지 소비할지는 개인의 필요와 시간선호로 정의된다. 인간은 순간순간 살아간다. 자원이 부족하고 비용이 없다면 사람은 미래의 만족보다 즉각적 만족을 선호한다. 예컨대 한 달 뒤의 스테이크 열 끼가 오늘 밤 스테이크 한 끼보다 매력적으로 보일 수 있지만, 지금 굶고 있다면 미래는 무의미해진다. 즉각적 만족을 향한 이런 자연스러운 경향이 자본주의의 이자율 이론을 낳았고, 이는 저축하거나 소비를 미루는 개인에게 보상을 준다. 만약 지금 굶고 있고 음식을 살 자본이나 저축이 없다면, 신용이 충분하다고 판단될 경우 다른 사람의 돈을 빌릴 수 있다. 하지만 이 특권에는 대가가 따른다. 그들의 저축을 쓰기 위해 대주에게 이자를 지급해야 한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[29]",
+      "tag": "p",
+      "source_text": "An interest rate functions as a price, much like the price of eggs or meat. It reflects the price of using savings/capital over time. __INLINE_1__Of course, it also reflects the borrower’s creditworthiness, but we’ll set that aside for now. In classical economic theory, the price paid for interest is the price to use savings, and it should be calibrated to a level that will balance the supply of savings with the demand for the use of money. You heard that correctly — interest rates represent the price of capital.",
+      "translated_text": "이자율은 달걀 가격이나 고기 가격처럼 가격으로 기능한다. 그것은 시간에 걸친 저축/자본 사용의 가격을 반영한다. __INLINE_1__ 물론 차입자의 신용도도 반영하지만, 지금은 그 부분을 제쳐두자. 고전경제학 이론에서 이자에 지불하는 가격은 저축을 사용하는 대가이며, 저축 공급과 돈에 대한 수요가 균형을 이루는 수준으로 조정되어야 한다. 맞다. 이자율은 자본의 가격이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_63\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[30]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ I would argue that correctly setting the interest rate is the most important thing a society can do. The proper way to do this is to let the marketplace decide. Borrowers have needs; savers have capital. Let the marketplace determine what interest rate balances supply and demand. Compare this to what we have now. The Federal Reserve has, at times, set the rate of interest as high as 20% and as low as zero. These artificial rates imposed by the Fed have led to inefficient capital allocation and thereby inferior economic outcomes.",
+      "translated_text": "__INLINE_1__ 내 생각에 이자율을 올바르게 설정하는 것은 사회가 할 수 있는 가장 중요한 일이다. 올바른 방식은 시장이 결정하게 두는 것이다. 차입자에게는 필요가 있고, 저축가에게는 자본이 있다. 시장이 수요와 공급을 균형시키는 이자율을 정하게 하라. 이것을 지금 우리가 가진 것과 비교해 보라. 연준은 때로 이자율을 20%까지 올렸고, 때로는 0까지 내렸다. 연준이 강요한 이러한 인위적 금리는 비효율적인 자본 배분을 초래했고, 그 결과 경제 성과도 열등해졌다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2WG-0\">사회 안에서 자본이 배분되는 방식은 a 생산성 증가와 경제적 효율성의 주된 동인이다 (or human well-being).</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[31]",
+      "tag": "p",
+      "source_text": "As Judy Shelton points out, letting governments set the rate of interest is a form of central planning reminiscent of the Soviet Union’s command-and-control economic model. We all know the consequences of that system. By 1991, the Soviet Union collapsed into hyperinflation as its centrally planned economy failed, fragmenting into 15 distinct republics.",
+      "translated_text": "주디 셸턴이 지적하듯, 정부가 이자율을 정하게 하는 것은 소련의 명령통제 경제모델을 연상시키는 중앙계획의 한 형태다. 우리는 모두 그 시스템의 결과를 안다. 1991년 중앙계획 경제가 실패하면서 소련은 초인플레이션 속에 붕괴했고, 15개의 독립 공화국으로 쪼개졌다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[32]",
+      "tag": "p",
+      "source_text": "When interest rates are set correctly, economic actors such as capitalists and businesspeople can more accurately calculate capital investment allocations.",
+      "translated_text": "이자율이 올바르게 설정되면 자본가와 사업가 같은 경제 행위자들은 자본 투자 배분을 더 정확히 계산할 수 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[33]",
+      "tag": "p",
+      "source_text": "Consider a businessperson evaluating whether to take on debt to purchase a machine that will enhance productivity. If the borrowing cost is 5% per year and the estimated return on __INLINE_1__the investment is 15%, the investment becomes an attractive opportunity, as the significant margin of safety supports the decision and provides a buffer if the borrower makes faulty assumptions. The productivity growth not only liquidates the debt but also yields a net efficiency gain for society. More output for less input.",
+      "translated_text": "생산성을 높여 줄 기계를 사기 위해 빚을 질지 평가하는 사업가를 생각해 보자. 차입 비용이 연 5%이고 __INLINE_1__그 투자 예상 수익률이 15%라면, 충분한 안전마진이 결정과 가정 오류에 대한 완충 역할을 해 주므로 매력적인 기회가 된다. 생산성 성장은 부채를 상환할 뿐 아니라 사회에 순효율 증가도 안겨 준다. 더 적은 투입으로 더 많은 산출을 얻는 것이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_64\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[34]",
+      "tag": "p",
+      "source_text": "Conversely, if the calculated return is only 8% with a market interest rate of 5%, the businessperson quite prudently may determine that the 3% margin of safety is insufficient to justify the investment.",
+      "translated_text": "반대로 계산된 수익률이 8%이고 시장금리가 5%라면, 사업가는 그 3% 안전마진만으로는 투자를 정당화하기에 충분치 않다고 매우 신중하게 판단할 수 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[35]",
+      "tag": "p",
+      "source_text": "The beauty of this system is that it directs capital to the best projects through market-based pricing of money. If capital is priced appropriately, “malinvestments”__INLINE_1____INLINE_2__ don’t plague the economy.",
+      "translated_text": "이 시스템의 아름다움은 시장에 기반한 돈의 가격 책정을 통해 자본을 최선의 프로젝트로 유도한다는 점이다. 자본 가격이 적절하다면 “오투자”__INLINE_1____INLINE_2__가 경제를 괴롭히지 않는다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2US\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a376\" ns1:type=\"noteref\" class=\"class_s2T8\">28</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[36]",
+      "tag": "p",
+      "source_text": "For the sake of argument, assume that your central bank is pursuing a “zero interest rate policy” (ZIRP) — as the Fed did from 2008-2015 and again from 2019-2022. This policy allowed large, powerful financial interests to borrow from the Central Bank at 0.25% or 25 bps__INLINE_1____INLINE_2__ per year. Can you see how this will distort the market for capital allocation? Do you see how these preferred borrowers gain advantage over you and me, who must pay 20+% to borrow from the credit card companies?",
+      "translated_text": "논의를 위해, 당신의 중앙은행이 “제로금리정책”(ZIRP)을 추구하고 있다고 가정해 보자. 실제로 연준은 2008-2015년, 그리고 2019-2022년에 그렇게 했다. 이 정책은 거대하고 강력한 금융 이해관계자들이 중앙은행에서 연 0.25%, 즉 25bp__INLINE_1____INLINE_2__로 돈을 빌리도록 허용했다. 이것이 자본 배분 시장을 어떻게 왜곡할지 보이는가? 당신과 내가 신용카드 회사에 20% 넘는 금리를 내야 하는 반면, 이 특권적 차입자들이 어떤 이점을 얻는지 보이는가?",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a31Y\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a346\" ns1:type=\"noteref\" class=\"class_s2T8\">29</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[37]",
+      "tag": "p",
+      "source_text": "Hell, if you and I were allowed to borrow money at 0.25% and invest in businesses and projects that yield between 5 and 20% per year, we’d be billionaires, too. Oops. System error. We can’t borrow at those rates; only large corporations and Wall Street players can. Ah, there’s the rub and where the inherent unfairness lies. The large players have tilted the game board in their favor. And yet, it is even worse. They not only get access to cheap capital, which is not available to the average citizen, but __INLINE_1__THEY ALSO GET BAILED OUT WHEN THEIR BETS DON’T WORK!",
+      "translated_text": "젠장, 당신과 내가 0.25%로 돈을 빌려 연 5~20% 수익을 내는 사업과 프로젝트에 투자할 수 있다면 우리도 억만장자가 됐을 것이다. 아차, 시스템 오류다. 우리는 그런 금리로 빌릴 수 없다. 대기업과 월가 플레이어만 가능하다. 바로 거기에 문제와 내재된 불공정이 있다. 큰 플레이어들이 게임판을 자기들에게 유리하게 기울여 놓았다. 그런데 더 나쁘다. 그들은 평균 시민에게는 없는 싼 자본에 접근할 뿐 아니라, __INLINE_1__그들의 베팅이 실패해도 구제금융을 받는다!",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_65\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[38]",
+      "tag": "p",
+      "source_text": "The classic example of this is the Great Financial Crisis of 2008 (GFC), when all of the Wall Street banks used mispriced credit to blow an enormous housing market bubble. When the bubble burst and left Wall Street and investment banks effectively bankrupt, they convinced the government, and by extension the taxpayers, to backstop their losses and bail them out. They reaped profits by making risky bets that funneled billions into bankers’ pockets. When their scheme blew up, Wall Street persuaded the government to save them so they could live to do it another day. None of them had to forfeit their fraudulently obtained profits. In fact, in the very same year that the banks were bailed out, they paid over $20 billion in executive bonuses! Business as usual.",
+      "translated_text": "그 전형적인 사례가 2008년 글로벌 금융위기(GFC)다. 월가의 모든 은행은 잘못 가격 매겨진 신용을 이용해 엄청난 주택 버블을 키웠다. 버블이 터져 월가와 투자은행들이 사실상 파산 상태가 되자, 그들은 정부와 결국 납세자를 설득해 자기 손실을 떠받치고 구제금융을 받았다. 그들은 위험한 베팅으로 이익을 챙기며 수십억 달러를 은행가들 주머니에 넣었다. 그 계획이 폭발하자 월가는 정부를 설득해 자신들을 살려 또 한 번 같은 짓을 할 수 있게 했다. 그 누구도 사기적으로 취한 이익을 몰수당하지 않았다. 실제로 은행들이 구제된 바로 그해, 그들은 경영진 보너스로 200억 달러 이상을 지급했다. 늘 그렇듯 비즈니스 애즈 유주얼이었다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[39]",
+      "tag": "p",
+      "source_text": "Meanwhile, when the housing bubble burst, countless innocent taxpayers were devastated. Homeowners lost trillions in home equity, and some even lost their homes. On top of that, they faced large stock market losses (the S&P 500 was down 57%) wiping out many retirement accounts, and job losses led to record unemployment (peaking at 10.0% in October 2009). The average American took a hard blow when the housing bubble collapsed. No one funneled billions into their pockets. As Morgan Housel__INLINE_1____INLINE_2__ observed:",
+      "translated_text": "한편 주택 버블이 터졌을 때 수많은 무고한 납세자들은 큰 타격을 입었다. 주택 소유자들은 수조 달러의 주택 자본을 잃었고, 어떤 사람들은 집까지 잃었다. 거기에 더해 큰 주식시장 손실(S&P 500은 57% 하락)로 많은 은퇴 계좌가 증발했고, 일자리 상실은 기록적인 실업(2009년 10월 10.0% 정점)으로 이어졌다. 주택 버블 붕괴는 평범한 미국인에게 혹독한 타격이었다. 누구도 그들 주머니에 수십억 달러를 넣어주지 않았다. 모건 하우절__INLINE_1____INLINE_2__이 관찰했듯:",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2VC\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2XM\" ns1:type=\"noteref\" class=\"class_s2T8\">30</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[40]",
+      "tag": "p",
+      "source_text": "The implosion of the Dotcom bubble in the early 2000s reduced household wealth by $6.2 trillion. The end of the housing bubble cut away more than $8 trillion.",
+      "translated_text": "2000년대 초 닷컴 버블 붕괴는 가계 부를 6.2조 달러 줄였다. 주택 버블의 종말은 8조 달러가 넘는 부를 깎아냈다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[41]",
+      "tag": "p",
+      "source_text": "It is hard to overstate how devastating financial bubbles can be.",
+      "translated_text": "금융 버블이 얼마나 파괴적일 수 있는지는 아무리 강조해도 지나치지 않다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[42]",
+      "tag": "p",
+      "source_text": "__INLINE_1__.",
+      "translated_text": "__INLINE_1__.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">They ruin lives</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[43]",
+      "tag": "p",
+      "source_text": "— Morgan Housel",
+      "translated_text": "— 모건 하우절",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[44]",
+      "tag": "p",
+      "source_text": "We had socialism for the bankers, but rugged capitalism for all the home purchasers, who were sucked into the bubble that Wall Street created, then foreclosed upon when they could not sell or make their payments as the economy collapsed. This perversion of capitalism, the rot in the system, turns capitalism into “crony capitalism.” It’s not a free market. It’s rigged by the powerful. Wall Street CEOs, famous investors, and others armed with insider knowledge that a bailout was coming positioned themselves perfectly. They loaded up on investments and granted themselves stock options just before the government rescue locked in their fortunes. It wasn’t a gamble for them — it was a guaranteed win bought with inside knowledge while millions of Americans lost everything. And this is just the tip of the iceberg.",
+      "translated_text": "은행가들에게는 사회주의가 적용됐고, 월가가 만든 버블에 빨려 들어갔다가 경제 붕괴 속에서 팔 수도, 대출금을 갚을 수도 없어 결국 압류당한 주택 구매자들에게는 가혹한 자본주의가 적용됐다. 자본주의의 이런 왜곡, 시스템의 썩음은 자본주의를 “연고 자본주의”로 바꾼다. 그것은 자유시장이 아니다. 강자들에 의해 조작된 시장이다. 월가 CEO와 유명 투자자, 그리고 곧 구제금융이 올 것이라는 내부정보를 가진 이들은 완벽하게 포지션을 잡았다. 그들은 정부 구제가 자신의 부를 확정하기 직전에 투자 규모를 키우고 스톡옵션을 챙겼다. 그들에게 그것은 도박이 아니었다. 수백만 미국인이 모든 것을 잃는 동안 내부정보로 산 보장된 승리였다. 그리고 이것은 빙산의 일각에 불과하다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[45]",
+      "tag": "p",
+      "source_text": "People in America — and by extension worldwide — need to understand that inflation stems from the government’s habit of printing money to bail out corrupt bankers and corporations. Ordinary citizens foot the bill for the salvation of bankers and politicians through future inflation and higher prices. It is wrong.",
+      "translated_text": "미국인들, 더 나아가 전 세계 사람들은 인플레이션이 부패한 은행과 기업을 구제하기 위해 정부가 돈을 찍는 습관에서 비롯된다는 점을 이해해야 한다. 평범한 시민은 미래의 인플레이션과 더 높은 물가를 통해 은행가와 정치인의 구원 비용을 떠안는다. 그것은 잘못이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[46]",
+      "tag": "p",
+      "source_text": "So, you might ask yourself, well, how did we get here? The gateway crime was abandoning the system of sound money provided by the gold standard. But the story is much longer, with the evolution of money, credit, and banking leading up to that pivotal moment in 1971. Let’s examine those now.",
+      "translated_text": "그래서 이렇게 자문할 수도 있다. 도대체 우리는 어떻게 여기까지 왔는가? 관문 범죄는 금본위가 제공하던 건전 화폐 시스템을 포기한 것이었다. 하지만 이야기는 훨씬 길고, 그 결정적 순간인 1971년에 이르기까지 화폐·신용·은행의 진화가 이어졌다. 이제 그것을 살펴보자.",
+      "inline_tokens": {}
+    }
+  ]
+}

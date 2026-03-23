@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "required": [
+    "chapter_id",
+    "question_en",
+    "choices_en",
+    "question_ko",
+    "choices_ko",
+    "answer_index",
+    "explanation_en",
+    "explanation_ko"
+  ]
+}

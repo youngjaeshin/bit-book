@@ -1,0 +1,62 @@
+# Translation residue report
+
+- Findings: 3
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0002.xhtml
+- matches:
+  - What Happened To America
+  - and How Sound Money Will Fix It
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+<title>part0002</title>
+</head>
+<body class="class-4">
+<p class="class_s12">THE BIG PRINT</p>
+<p class="class_s14">What Happened To America<br/>and How Sound Money Will Fix It</p>
+<p class="class_s16">Edition I<br/>December 2024<br/></p>
+</body>
+</html>
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0023.xhtml
+- matches:
+  - Drew Armstrong, Robert Breedlove, Gideon Powell, Maximilian Roszko, Jimmy Song, Derek Waltchack
+  - Sriya Anbil, Mark Carlson, Christopher Hanes, David
+  - McCain, Glenn, Cranston, Reigle, DeConcini)
+  - David Autor, David Cho, Leland
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0023</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s3K-0">아무것도 이 열차를 멈추지 못한다</h2>
+<p class="class_s2H-0">브레이크 없이 선로를 질주하는 기차를 상상해보세요. 이것이 미국의 현재 재정 궤적입니다. 뛰어난 엔지니어이자 투자 분석가인 린 올든은 "아무 것도 이 열차를 막지 못합니다."라는 적절한 표현을 사용했습니다. 그녀는 우리가 금융 시스템에서 돌아갈 수 없는 지점인 루비콘 강을 건넜다고 믿고 있고 나도 그녀의 말에 동의합니다. 미국의 재정 열차가 운명적인 전환을 향해 달려가는 가운데, 멈출 수 없는 부채 모멘텀으로 인한 시스템 붕괴 또는 고통스럽지만 의도적인 경제 재편을 향한 예리한 각도가 앞에 놓여 있습니다. 차장의 손이 레버 위로 움직이지만, 이 속도에서는 두 트랙 모두 변형으로 끝납니다. 유일한 선택은 우리가 변화를 주도할 것인지, 아니면 물리학이 결정하도록 할 것인지입니다.</p>
+<figure class="figure_sG9-0"><img src="image_rsrc3D0.jpg" alt="" 
+```
+
+## xhtml — books/the-big-print/translated_epub/work/source/OEBPS/part0042.xhtml
+- matches:
+  - Crowley, Chris, and Henry
+
+```text
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="ko" lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+<title>part0042</title>
+</head>
+<body class="class-0">
+<h2 class="heading_s2BV">부록</h2>
+<h3 id="id__798_130_" class="heading_s78-0">내 크로스핏 코치가 가장 좋아하는 연설:</h3>
+<p class="class_s2BY">투기장 안의 인간</p>
+<p class="class_sM-0">중요한 것은 비평가가 아니다. 강한 사람이 어디서 비틀거리는지, 혹은 행동하는 사람이 어디서 더 잘할 수 있었는지를 지적하는 사람이 아니다.</p>
+<p class="class_sM-0">공은 실제로 투기장 안에 있는 사람에게 돌아간다. 그의 얼굴은 먼지와 땀과 피로 얼룩져 있고, 그는 용감하게 분투한다. 그는 실수하고, 거듭 부족함을 드러낸다. 오류와 결함 없는 노력은 없기 때문이다. 그러나 그는 실제로 그 행동을 이루기 위해 애쓴다. 그는 위대한 열정과 큰 헌신을 알고, 가치 있는 대의를 위해 자신을 바친다. 최선의 경우 그는 마침내 높은 성취의 승리를 맛보고, 최악의 경우 실패하더라도 적어도 대담하게 도전하다 실패한다. 그래서 그의 자
+```

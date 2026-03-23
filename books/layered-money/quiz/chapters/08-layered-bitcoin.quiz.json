@@ -1,0 +1,20 @@
+{
+  "chapter_id": "08-layered-bitcoin",
+  "answer_index": 3,
+  "question_en": "What does layered bitcoin mean in this book?",
+  "choices_en": [
+    "Bitcoin eliminates all monetary layers",
+    "Bitcoin becomes a purely state-run ledger",
+    "Bitcoin is only a retail payments app",
+    "Bitcoin reorganizes monetary layering around a harder base asset"
+  ],
+  "question_ko": "이 책에서 레이어드 비트코인은 무엇을 뜻하는가?",
+  "choices_ko": [
+    "비트코인이 모든 통화 레이어를 없앤다는 뜻",
+    "비트코인이 순수 국가 원장이 된다는 뜻",
+    "비트코인이 소매 결제 앱에 불과하다는 뜻",
+    "비트코인이 더 하드한 기반 자산 주위로 통화 레이어를 재조직한다는 뜻"
+  ],
+  "explanation_en": "The chapter argues that Bitcoin preserves layering but changes it by giving it a harder base layer.",
+  "explanation_ko": "이 장은 비트코인이 레이어 구조를 없애지 않고 더 하드한 기반 위로 다시 짠다고 본다."
+}

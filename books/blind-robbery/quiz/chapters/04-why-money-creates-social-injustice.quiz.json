@@ -1,0 +1,20 @@
+{
+  "chapter_id": "04-why-money-creates-social-injustice",
+  "answer_index": 3,
+  "question_en": "Why is new money socially unjust in this account?",
+  "choices_en": [
+    "Because it lowers all prices equally",
+    "Because it reaches everyone at the same time",
+    "Because it eliminates asset inequality",
+    "Because it benefits early recipients before later recipients adjust"
+  ],
+  "question_ko": "이 설명에 따르면 새 돈은 왜 사회적으로 불의한가?",
+  "choices_ko": [
+    "모든 가격을 똑같이 낮추기 때문에",
+    "모두에게 동시에 도달하기 때문에",
+    "자산 불평등을 없애기 때문에",
+    "초기 수혜자에게 먼저 이익을 주고 나머지는 나중에 조정 비용을 떠안기 때문에"
+  ],
+  "explanation_en": "The chapter emphasizes that money enters unevenly, benefiting those closest to its creation first.",
+  "explanation_ko": "이 장은 새 돈이 불균등하게 들어오기 때문에 처음 받는 쪽이 먼저 이익을 본다고 강조한다."
+}

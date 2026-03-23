@@ -1,0 +1,20 @@
+{
+  "chapter_id": "03-how-to-solve-the-problem",
+  "answer_index": 0,
+  "question_en": "What kind of solution does this chapter say is needed?",
+  "choices_en": [
+    "A fundamentally different monetary architecture",
+    "Slightly better management of fiat",
+    "Stronger inflation targets",
+    "More centralized monetary oversight"
+  ],
+  "question_ko": "이 장은 어떤 종류의 해법이 필요하다고 보는가?",
+  "choices_ko": [
+    "근본적으로 다른 통화 구조",
+    "피아트의 약간 더 나은 관리",
+    "더 강한 물가 목표",
+    "더 중앙집중적인 통화 감독"
+  ],
+  "explanation_en": "The chapter argues that structural fiat problems require a different architecture, not minor fixes.",
+  "explanation_ko": "이 장은 피아트의 구조적 문제는 작은 보완이 아니라 완전히 다른 구조를 필요로 한다고 본다."
+}

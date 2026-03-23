@@ -1,0 +1,112 @@
+{
+  "chapter_id": "extra-15-suggested-further-reading",
+  "title": "SUGGESTED FURTHER READING",
+  "src": "part0040.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0040.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "SUGGESTED FURTHER READING",
+      "translated_text": "추가 추천 도서",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, Ron Paul",
+      "translated_text": "__INLINE_1__, 론 폴",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">End The Fed</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, Saifedean Ammous",
+      "translated_text": "__INLINE_1__, 사이페딘 아모스",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">The Bitcoin Standard</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, Jeff Booth",
+      "translated_text": "__INLINE_1__, 제프 부스",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">내일의 가격</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, Lyn Alden",
+      "translated_text": "__INLINE_1__, 린 알든",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Broken Money</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, Howe and Strauss",
+      "translated_text": "__INLINE_1__, 하우와 스트라우스",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">The Fourth Turning</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, Christopher Leonard",
+      "translated_text": "__INLINE_1__, 크리스토퍼 레너드",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">쉬운 돈의 군주들</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, G. Edward Griffin",
+      "translated_text": "__INLINE_1__, G. 에드워드 그리핀",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">제킬 섬에서 온 괴물</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, Danielle DiMartino Booth",
+      "translated_text": "__INLINE_1__, 대니엘 디마티노 부스",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Fed Up</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, Alex Gladstein",
+      "translated_text": "__INLINE_1__, 알렉스 글래드스타인",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">당신의 금융 특권을 점검하라</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, William Fleckenstein",
+      "translated_text": "__INLINE_1__, 윌리엄 플레컨스타인",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Greenspan’s Bubbles</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "I also recommend that you watch an outstanding documentary that fully explains Bitcoin. Produced by Brian and Kelly Estes, it can be found by searching “God Bless Bitcoin: Documentary” or visiting:",
+      "translated_text": "또한 비트코인을 완전히 설명해 주는 뛰어난 다큐멘터리도 보기를 권한다. 브라이언과 켈리 에스테스가 제작했으며, “God Bless Bitcoin: Documentary”를 검색하거나 다음 주소를 방문하면 찾을 수 있다:",
+      "inline_tokens": {}
+    }
+  ]
+}

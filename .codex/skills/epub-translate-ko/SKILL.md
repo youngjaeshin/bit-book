@@ -35,6 +35,9 @@ description: Use when converting an English EPUB in this repo into a Korean EPUB
 4. metadata/manifest/spine/toc 유효성 유지
 5. `.ko.epub`로 재패키징
 
+Inline placeholder에는 **태그만 보존**하고, 뒤따르는 영문 tail prose는 포함하지 않는다.
+그렇지 않으면 영어 문장이 번역문 중간에 다시 끼어드는 버그가 발생할 수 있다.
+
 ## Translation policy
 
 한국어 번역은 다음 원칙을 따른다.
@@ -70,9 +73,17 @@ description: Use when converting an English EPUB in this repo into a Korean EPUB
 
 1. XHTML에서 본문 노드만 추출
 2. 제목, 문단, 리스트, 인용문 단위로 번역
-3. 각주 링크, anchor id, href는 유지
-4. 이미지/캡션/figure 구조는 최대한 유지
-5. 번역 결과를 XHTML에 다시 삽입
+3. 볼드/기울임/강조 span 안의 visible text도 고유명사·인명·기관명·고정 표기가 아니면 번역
+4. 각주 링크, anchor id, href는 유지
+5. 이미지/캡션/figure 구조는 최대한 유지
+6. 번역 결과를 XHTML에 다시 삽입
+
+번역 번들을 다시 뽑아야 할 때는:
+
+- `scripts/refresh_translation_bundles.py`
+
+를 사용해 기존 `translated_text`를 node_path 기준으로 복원하면서
+깨끗한 bundle을 재생성한다.
 
 ### Phase 4. Reassemble
 
@@ -128,6 +139,8 @@ description: Use when converting an English EPUB in this repo into a Korean EPUB
 
 - `scripts/unpack_epub.py`
 - `scripts/translate_epub_xhtml.py`
+- `scripts/refresh_translation_bundles.py`
+- `scripts/find_translation_residue.py`
 - `scripts/repack_epub.py`
 - `scripts/validate_epub.py`
 

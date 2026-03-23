@@ -1,0 +1,20 @@
+{
+  "chapter_id": "04-the-evolution-of-money",
+  "question_en": "Which role comes before medium of exchange in the chapter’s sequence?",
+  "choices_en": [
+    "Unit of account",
+    "Store of value",
+    "Tax standard",
+    "Credit instrument"
+  ],
+  "question_ko": "이 장의 순서에서 교환 매개보다 먼저 오는 역할은 무엇인가?",
+  "choices_ko": [
+    "회계 단위",
+    "가치 저장 수단",
+    "조세 기준",
+    "신용 수단"
+  ],
+  "answer_index": 1,
+  "explanation_en": "The chapter says money is first adopted as a store of value before becoming a medium of exchange.",
+  "explanation_ko": "이 장은 돈이 먼저 가치 저장 수단으로 채택된 뒤 교환 매개가 된다고 본다."
+}

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "03-the-attributes-of-a-good-store-of-value",
+  "question_en": "What is identified as Bitcoin’s main weakness relative to gold?",
+  "choices_en": [
+    "Its low divisibility",
+    "Its weak portability",
+    "Its central issuer",
+    "Its short history"
+  ],
+  "question_ko": "금에 비해 비트코인의 주된 약점으로 지목되는 것은 무엇인가?",
+  "choices_ko": [
+    "낮은 분할 가능성",
+    "약한 휴대성",
+    "중앙 발행자",
+    "짧은 역사"
+  ],
+  "answer_index": 3,
+  "explanation_en": "Bitcoin is portrayed as strong on monetary properties but still lacking gold’s long-established legitimacy.",
+  "explanation_ko": "비트코인은 화폐적 속성에서는 강하지만 금이 가진 오랜 역사적 정당성은 아직 부족하다고 설명된다."
+}

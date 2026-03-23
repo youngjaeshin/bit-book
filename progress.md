@@ -2,11 +2,11 @@
 
 ## Current Status
 
-- Date: 2026-03-20
-- Phase: big_print_published_next_book_initialized
-- Current top unblocked task: `EPUB-004`
+- Date: 2026-03-23
+- Phase: bitcoin_essentials_bookshelf_live
+- Current top unblocked task: `BITCOIN-ESSENTIALS-001` — 6번 `비트코인 낙관론` books 스캐폴드 + 챕터 추출 시작
 - Blockers: 없음
-- Recommended next role: `explore` 또는 `executor`
+- Recommended next role: `executor`
 
 ---
 
@@ -178,3 +178,165 @@
 - 2026-03-20 13:04 KST | executor | completed | 새 스킬 설계 완료: `.codex/skills/epub-translate-ko/`에 영어 EPUB → 한국어 EPUB 변환 워크플로우, 파이프라인, 재조립 품질 기준 문서화
 
 - 2026-03-20 13:10 KST | executor | completed | epub-translate-ko 기본 스크립트 구현 및 샘플 round-trip 검증(unpack/export/repack/validate) 완료
+
+- 2026-03-20 13:18 KST | executor | started | The Big Print 한국어 EPUB 생성 시작: unpack/export/번역/재조립 workflow 실행
+
+- 2026-03-20 13:24 KST | executor | completed | The Big Print 번역 번들 적용, 한국어 TOC 반영, `.ko.epub` 생성 및 구조 검증 완료
+
+- 2026-03-20 13:30 KST | executor | completed | The Big Print 한국어 EPUB 생성 성공: 번역 적용 버그 수정 후 `.ko.epub` 재생성 및 검증 통과
+
+- 2026-03-20 13:36 KST | executor | started | Big Print 완전 번역판 확장: excluded/front/back matter 번역 bundle 생성 완료
+
+- 2026-03-20 13:42 KST | executor | started | 사용자 피드백 대응: 생성 EPUB 내부 실제 한글 반영 여부 재점검 및 완전 번역판 재생성 준비
+
+- 2026-03-20 13:48 KST | executor | completed | Big Print 완전 번역판 재생성 완료: 제목 메타데이터는 영어 유지, front/back matter 포함 `.full.ko.epub` 생성 및 검증 통과
+
+- 2026-03-20 13:56 KST | executor | completed | Books 호환성 보정판 생성: 영어 제목 유지, ko 언어 메타데이터, 고유 identifier, TOC placeholder 제거를 반영한 `.full.ko.safe.epub` 생성
+
+- 2026-03-20 14:02 KST | executor | started | 완전 번역판 정리 단계 시작: translated_text 내부에 남은 영어 문장 잔재 탐지 및 정제 작업 시작
+
+- 2026-03-20 14:09 KST | executor | completed | 영어 잔재 탐지 스크립트 추가 및 The Big Print 번역 산출물에 대한 residue report 생성 완료
+
+- 2026-03-20 14:14 KST | executor | started | 영어 잔재 2차 정리 패스 시작: 보고서 경로 점검 후 재번역 대상 선별
+
+- 2026-03-20 14:18 KST | executor | started | refresh 실패 원인 점검: 원본/작업본 XHTML 파싱 상태 확인
+
+- 2026-03-20 14:30 KST | executor | started | 사용자 제보 영어 잔재 직접 수정 패스 시작: 실제 예시 문장 기준으로 잔재 위치 추적 및 정리
+
+- 2026-03-20 14:36 KST | executor | completed | 사용자 제보 잔재 문장(Opening Scene/Author's Story) 수정 반영 후 Big Print 안전판 EPUB 재생성
+
+- 2026-03-20 14:50 KST | executor | completed | 번역 정책 강화: 인용문/볼드/기울임 등 inline 강조 텍스트도 고유명사가 아니면 한국어로 번역하도록 스킬 규칙 업데이트
+
+- 2026-03-20 15:05 KST | executor | started | 다국어 오염 정리 패스 시작: 영어 잔재뿐 아니라 힌디어/기타 외국 문자 오염도 함께 탐지 및 수정
+
+- 2026-03-20 15:18 KST | executor | completed | 최신 잔재 수정 반영 후 Big Print 안전판 EPUB 재생성 및 residue report-current 갱신
+
+- 2026-03-20 15:30 KST | executor | completed | 남은 기관명/제목류 잔재 정리 반영 후 Big Print 안전판 EPUB 재생성 및 residue report-current 재갱신
+
+- 2026-03-20 15:42 KST | executor | completed | 대규모 잔재 치환 패스 반영 후 Big Print 안전판 EPUB 재생성 및 residue report-current 재갱신
+
+- 2026-03-20 16:05 KST | executor | completed | XML parse 오류 원인 확인 및 수정: part0032의 잘못된 ampersand(S&S&P) 보정, 전체 XHTML 파싱 재점검
+
+- 2026-03-23 09:33 KST | executor | completed | `epub/비트코인 필수/` 소스 묶음 확인: 1~12 책 목록을 EPUB/PDF, EN+KO 쌍 여부 기준으로 분류 완료
+
+- 2026-03-23 09:41 KST | executor | completed | `library-site` 메인 UI를 비트코인 필수 1~12 서가형 홈으로 재설계: 번호 배지, 표지 카드, 책 상세 진입 페이지 구조 반영
+
+- 2026-03-23 09:49 KST | executor | completed | `screenshot/` 직접 촬영 표지를 library cover로 우선 사용하도록 빌드 로직 반영 및 비트코인 필수 12권 상세 placeholder 페이지 생성
+
+- 2026-03-23 10:11 KST | executor | completed | 표지 스크린샷 자동 crop 적용: 12장 전체를 점검해 균일한 외곽 여백을 보수적으로 제거하고 library-site 재빌드 완료
+
+- 2026-03-23 10:18 KST | executor | completed | 상단 브랜드를 `btc-book`으로 변경하고 카테고리 탭(`비트코인 필수`, `자유주의 필수`, `비트코인 일반`) 추가: 현재는 비트코인 필수만 활성화
+
+- 2026-03-23 10:19 KST | executor | completed | 비트코인 필수 서가형 홈을 production 재배포: https://bit-book-library.vercel.app
+
+- 2026-03-23 10:42 KST | executor | completed | 12권 전체 웹 챕터맵 초안 v1 저장: `memory/2026-03-23-web-chapter-map-v1.md` (원서 기준, KO-only 예외, 책별 착수 전 점검 원칙 확정)
+
+- 2026-03-23 11:05 KST | executor | completed | 6번 `비트코인 낙관론` 착수: `books/the-bullish-case-for-bitcoin/` 스캐폴드, 원서 TOC/메타데이터 추출, 8개 웹 단위 chapter-map v1 작성, spine-range 추출로 source chapter markdown 8개 생성
+
+- 2026-03-23 11:32 KST | executor | completed | 6번 `비트코인 낙관론` digest/quiz 단계 완료: EN digest 8개, KO digest 8개, 퀴즈 8개 생성 후 책 사이트 빌드 및 통합 library-site 재빌드(로컬 검증 완료)
+
+- 2026-03-23 11:58 KST | executor | completed | 요약 원칙 보정: 책 전체와 웹 단위 분량에 비례해 digest 길이를 늘리고, 고정된 짧은 분량으로 압축하지 않기로 확정(향후 전 책 공통 적용)
+
+- 2026-03-23 12:14 KST | executor | completed | 6번 `비트코인 낙관론` digest 재작성: 웹 단위 분량에 비례해 EN/KO 요약을 더 길고 촘촘하게 보강하고 챕터 이전/다음 네비게이션까지 반영
+
+- 2026-03-23 12:32 KST | executor | completed | UI/quiz 원칙 보정: 퀴즈 정답 길이 편향 제거, KO가 있으면 한국어를 기본 탭으로 사용, 챕터 목록/이전다음 네비게이션도 한국어 제목을 우선 표시하도록 확정
+
+- 2026-03-23 12:45 KST | executor | started | 로컬 전용 연속 작업 모드 전환: 사용자 검수 대기 없이 1번부터 12번까지 순차 진행, 각 책 완료 후 자체검수 수행
+
+- 2026-03-23 12:55 KST | executor | started | 1번 `모두를 위한 비트코인` 착수: KO 원본 기준 스캐폴드/메타데이터 보정/TOC 정리/12개 웹 단위 chapter-map v1 작성 및 source markdown 12개 추출 완료
+
+- 2026-03-23 18:05 KST | executor | started | Ralph continue: The Big Print 한국어 EPUB 최종 점검 재개 — XML 파싱 오류와 본문 영어 잔재를 다시 전수 점검 후 재조립
+
+- 2026-03-23 13:10 KST | executor | completed | 1번 `모두를 위한 비트코인` digest/quiz 단계 완료: KO 원본 기준 12개 웹 단위에 대해 EN digest 12개, KO digest 12개, 퀴즈 12개 생성 후 책 사이트 및 library-site 로컬 빌드/자체검수 완료
+
+- 2026-03-23 13:12 KST | executor | started | 2번 `왜 그들만 부자가 되는가` 착수: EN 원서 기준으로 TOC/메타데이터/웹 챕터맵 점검 시작
+
+- 2026-03-23 13:25 KST | executor | completed | 2번 `왜 그들만 부자가 되는가` 구조 점검 완료: EN 원서 기준 스캐폴드/메타데이터/TOC 정리, 11개 웹 단위 chapter-map v1 작성 및 source markdown 11개 추출 완료
+- 2026-03-23 18:42 KST | executor | completed | The Big Print 한국어 EPUB 정리 패스 진행: 본문/강조문/다수 각주 영어 잔재를 추가 번역하고 `.full.ko.safe.epub` 재패키징 및 XML/EPUB 검증 통과
+
+- 2026-03-23 13:45 KST | executor | completed | 2번 `왜 그들만 부자가 되는가` digest/quiz 단계 완료: EN 원서 기준 11개 웹 단위에 대해 EN digest 11개, KO digest 11개, 퀴즈 11개 생성 후 책 사이트 및 library-site 로컬 빌드/자체검수 완료
+
+- 2026-03-23 13:47 KST | executor | started | 3번 `달러는 왜 비트코인을 싫어하는가` 착수: EN 원서 기준 TOC/웹 단위 분할 상세 설계 시작
+
+- 2026-03-23 14:10 KST | executor | completed | 3번 `달러는 왜 비트코인을 싫어하는가` 구조 점검 완료: EN 원서 기준 스캐폴드/메타데이터/TOC 정리, fragment-aware 분할을 활용한 16개 웹 단위 chapter-map v1 작성 및 source markdown 16개 추출 완료
+- 2026-03-23 19:14 KST | executor | completed | The Big Print EPUB 잔재 정리 추가 패스: 설명형 영어 각주 다수 한국어화. 현재 residue report는 표지 영어 제목 + 일부 citation/저자명/책제목 위주로 축소됨.
+- 2026-03-23 19:26 KST | executor | completed | The Big Print EPUB 잔재 보고서 축소: 현재 남은 residue는 표지 영어 제목(`What Happened To America...`)과 citation 저자명 위주로 정리됨. `.full.ko.safe.epub` 재패키징/검증 통과.
+- 2026-03-23 19:34 KST | executor | completed | The Big Print 한국어 EPUB 최종 정리 완료: `.full.ko.safe.epub` 재패키징/검증 통과, residue report는 표지 영어 제목과 인명/저자명만 남음.
+- 2026-03-23 19:38 KST | executor | started | 4번 `21가지 교훈` 착수: 원서 파일 탐색 및 스캐폴드/메타데이터/TOC 점검 시작
+
+- 2026-03-23 14:32 KST | executor | completed | 3번 `달러는 왜 비트코인을 싫어하는가` digest/quiz 단계 완료: EN 원서 기준 16개 웹 단위에 대해 EN digest 16개, KO digest 16개, 퀴즈 16개 생성 후 책 사이트 및 library-site 로컬 빌드/자체검수 완료
+
+- 2026-03-23 14:34 KST | executor | started | 4번 `21가지 교훈` 착수: EN 원서 기준 구조 점검 및 웹 단위 설계 시작
+- 2026-03-23 19:42 KST | executor | completed | 4번 `21가지 교훈` 스캐폴드/메타데이터/TOC 추출 완료: `books/21-lessons/` 생성, EN 원서 메타데이터 및 TOC 25개 항목 정리
+- 2026-03-23 19:44 KST | executor | completed | 4번 `21가지 교훈` 구조 점검 완료: 8개 웹 단위 chapter-map v1 작성 및 source markdown 8개 추출
+
+- 2026-03-23 14:55 KST | executor | completed | 4번 `21가지 교훈` 구조 점검 완료: EN 원서 기준 스캐폴드/메타데이터/TOC 정리, 8개 웹 단위 chapter-map v1 작성 및 source markdown 8개 추출 완료
+- 2026-03-23 19:46 KST | executor | started | 4번 `21가지 교훈` digest/quiz 단계 시작: 8개 웹 단위 EN/KO 요약과 장당 퀴즈 생성
+- 2026-03-23 19:52 KST | executor | completed | 4번 `21가지 교훈` digest/quiz 단계 완료: 8개 웹 단위 EN digest 8개, KO digest 8개, 퀴즈 8개 생성
+- 2026-03-23 19:53 KST | executor | completed | 4번 `21가지 교훈` 책 사이트 및 library-site 로컬 빌드 완료
+
+- 2026-03-23 15:18 KST | executor | completed | 4번 `21가지 교훈` digest/quiz 단계 완료: EN 원서 기준 8개 웹 단위에 대해 EN digest 8개, KO digest 8개, 퀴즈 8개 생성 후 책 사이트 및 library-site 로컬 빌드/자체검수 완료
+
+- 2026-03-23 15:20 KST | executor | started | 5번 `피아트 스탠다드` 착수: EN 원서 기준 구조 점검 및 대형 파트 분할 설계 시작
+- 2026-03-23 20:02 KST | executor | completed | 4번 `21가지 교훈` 최종 정리 완료: chapter-map/source/content/quiz/site를 8개 웹 단위로 통일, library-site 재빌드 완료
+- 2026-03-23 20:03 KST | executor | started | 5번 `피아트 스탠다드` 착수: 원서 파일 점검 및 스캐폴드/메타데이터/TOC 추출 시작
+- 2026-03-23 20:08 KST | executor | completed | 5번 `피아트 스탠다드` 구조 점검 완료: 15개 웹 단위 chapter-map v1 작성 및 source markdown 15개 추출
+- 2026-03-23 20:10 KST | executor | started | 5번 `피아트 스탠다드` digest/quiz 단계 시작: 15개 웹 단위 EN/KO 요약과 장당 퀴즈 생성
+
+- 2026-03-23 15:36 KST | executor | completed | 5번 `피아트 스탠다드` 구조 점검 완료: EN 원서 기준 스캐폴드/메타데이터/TOC 정리, 15개 웹 단위 chapter-map v1 작성 및 source markdown 15개 추출 완료
+- 2026-03-23 20:18 KST | executor | completed | 5번 `피아트 스탠다드` digest/quiz 단계 완료: 15개 웹 단위 EN digest 15개, KO digest 15개, 퀴즈 15개 생성
+- 2026-03-23 20:19 KST | executor | completed | 5번 `피아트 스탠다드` 책 사이트 및 library-site 로컬 빌드 완료
+- 2026-03-23 20:21 KST | executor | started | 7번 `레이어드 머니` 착수: 원서 파일 점검 및 스캐폴드/메타데이터/TOC 추출 시작
+- 2026-03-23 20:24 KST | executor | completed | 7번 `레이어드 머니` 스캐폴드/메타데이터/TOC 추출 완료
+- 2026-03-23 20:26 KST | executor | completed | 7번 `레이어드 머니` 구조 점검 완료: 10개 웹 단위 chapter-map v1 작성 및 source markdown 10개 추출
+- 2026-03-23 20:28 KST | executor | completed | 7번 `레이어드 머니` source 추출 정상화: src 경로 보정 후 10개 웹 단위 source markdown 생성 완료
+- 2026-03-23 20:30 KST | executor | started | 7번 `레이어드 머니` digest/quiz 단계 시작: 10개 웹 단위 EN/KO 요약과 장당 퀴즈 생성
+
+- 2026-03-23 16:05 KST | executor | completed | 5번 `피아트 스탠다드` digest/quiz 단계 완료: EN 원서 기준 15개 웹 단위에 대해 EN digest 15개, KO digest 15개, 퀴즈 15개 생성 후 chapter-map/file-name 정리와 로컬 빌드/자체검수 완료
+
+- 2026-03-23 16:07 KST | executor | started | 7번 `레이어드 머니` 착수: EN 원서 기준 구조 점검 및 웹 단위 설계 시작
+- 2026-03-23 20:36 KST | executor | completed | 7번 `레이어드 머니` digest/quiz 단계 완료: 10개 웹 단위 EN digest 10개, KO digest 10개, 퀴즈 10개 생성
+- 2026-03-23 20:37 KST | executor | completed | 7번 `레이어드 머니` 책 사이트 및 library-site 로컬 빌드 완료
+- 2026-03-23 20:40 KST | executor | started | 12번 `비트코인 핸드북` 착수: 원서 파일 점검 및 스캐폴드/메타데이터/TOC 추출 시작
+- 2026-03-23 20:42 KST | executor | completed | 12번 `비트코인 핸드북` 스캐폴드/메타데이터/TOC 추출 완료
+- 2026-03-23 20:45 KST | executor | completed | 12번 `비트코인 핸드북` 구조 점검 완료: 11개 웹 단위 chapter-map v1 작성 및 source markdown 11개 추출
+- 2026-03-23 20:47 KST | executor | started | 12번 `비트코인 핸드북` digest/quiz 단계 시작: 11개 웹 단위 EN/KO 요약과 장당 퀴즈 생성
+- 2026-03-23 20:53 KST | executor | completed | 12번 `비트코인 핸드북` digest/quiz 단계 완료: 11개 웹 단위 EN digest 11개, KO digest 11개, 퀴즈 11개 생성
+- 2026-03-23 20:54 KST | executor | completed | 12번 `비트코인 핸드북` 책 사이트 및 library-site 로컬 빌드 완료
+- 2026-03-23 20:56 KST | executor | started | 11번 `비트코인 블록사이즈 전쟁` 착수: 원서 파일 점검 및 스캐폴드/메타데이터/TOC 추출 시작
+
+- 2026-03-23 16:42 KST | executor | completed | 7번 `레이어드 머니` digest/quiz 단계 완료: EN 원서 기준 10개 웹 단위에 대해 EN digest 10개, KO digest 10개, 퀴즈 10개 생성 후 파일 정리/로컬 빌드/자체검수 완료
+
+- 2026-03-23 16:44 KST | executor | started | 8번 `비트코인 디플로마` 착수: KO 원본 기준 구조 점검 및 웹 단위 설계 시작
+- 2026-03-23 20:58 KST | executor | completed | 11번 `비트코인 블록사이즈 전쟁` 스캐폴드/메타데이터/TOC 추출 완료
+- 2026-03-23 21:00 KST | executor | completed | 11번 `비트코인 블록사이즈 전쟁` 구조 점검 완료: 12개 웹 단위 chapter-map v1 작성 및 source markdown 12개 추출
+- 2026-03-23 21:02 KST | executor | started | 11번 `비트코인 블록사이즈 전쟁` digest/quiz 단계 시작: 12개 웹 단위 EN/KO 요약과 장당 퀴즈 생성
+
+- 2026-03-23 17:05 KST | executor | completed | 8번 `비트코인 디플로마` 구조 점검 완료: KO 원본 기준 스캐폴드/메타데이터 보정/TOC 정리, 8개 웹 단위 chapter-map v1 작성 및 source markdown 8개 추출 완료
+- 2026-03-23 21:08 KST | executor | completed | 11번 `비트코인 블록사이즈 전쟁` digest/quiz 단계 완료: 12개 웹 단위 EN digest 12개, KO digest 12개, 퀴즈 12개 생성
+- 2026-03-23 21:09 KST | executor | completed | 11번 `비트코인 블록사이즈 전쟁` 책 사이트 및 library-site 로컬 빌드 완료
+- 2026-03-23 21:11 KST | executor | started | 9번 `비트코인 백서 해설` 착수: KO 원본 파일 점검 및 스캐폴드/메타데이터/TOC 추출 시작
+- 2026-03-23 21:14 KST | executor | completed | 9번 `비트코인 백서 해설` 스캐폴드/메타데이터/TOC 추출 완료
+
+- 2026-03-23 17:28 KST | executor | completed | 8번 `비트코인 디플로마` digest/quiz 단계 완료: KO 원본 기준 8개 웹 단위에 대해 EN digest 8개, KO digest 8개, 퀴즈 8개 생성 후 책 사이트 및 library-site 로컬 빌드/자체검수 완료
+
+- 2026-03-23 17:30 KST | executor | started | 9번 `비트코인 백서 해설` 착수: KO 원본 기준 spine/실제 본문 구조 분석 및 재분할 설계 시작
+- 2026-03-23 21:18 KST | executor | completed | 9번 `비트코인 백서 해설` 구조 점검 완료: 단일 XHTML을 10개 웹 단위로 수동 분할한 chapter-map/source markdown 생성
+- 2026-03-23 21:20 KST | executor | completed | 9번 `비트코인 백서 해설` source 분할 보정: section marker 기반 10개 웹 단위 source markdown 재생성
+- 2026-03-23 21:22 KST | executor | started | 9번 `비트코인 백서 해설` digest/quiz 단계 시작: 10개 웹 단위 EN/KO 요약과 장당 퀴즈 생성
+- 2026-03-23 21:28 KST | executor | completed | 9번 `비트코인 백서 해설` digest/quiz 단계 완료: 10개 웹 단위 EN digest 10개, KO digest 10개, 퀴즈 10개 생성
+- 2026-03-23 21:29 KST | executor | completed | 9번 `비트코인 백서 해설` 책 사이트 및 library-site 로컬 빌드 완료
+- 2026-03-23 21:31 KST | executor | started | 8번 `비트코인 디플로마` 착수: KO 원본 파일 점검 및 스캐폴드/메타데이터/TOC 추출 시작
+- 2026-03-23 21:33 KST | executor | started | 10번 `비트코인 사용 가이드(PDF)` 착수: PDF 기반 구조/분할 상태 점검 시작
+- 2026-03-23 21:37 KST | executor | completed | 10번 `비트코인 사용 가이드(PDF)` 스캐폴드 초기화: 29개 웹 단위 provisional chapter-map과 메타데이터/분할 규칙 초안 생성
+- 2026-03-23 21:40 KST | executor | started | 10번 `비트코인 사용 가이드(PDF)` 실제 추출 단계 시작: PDF 텍스트/목차 구조를 파악해 29개 웹 단위 source를 생성
+- 2026-03-23 21:45 KST | executor | completed | 10번 `비트코인 사용 가이드(PDF)` source 생성: page-range 기반 29개 웹 단위 source markdown 생성 완료
+
+- 2026-03-23 17:55 KST | executor | completed | 9번 `비트코인 백서 해설` digest/quiz 단계 완료: KO 원본 기준 10개 웹 단위에 대해 EN digest 10개, KO digest 10개, 퀴즈 10개 생성 후 파일 정리/로컬 빌드/자체검수 완료
+
+- 2026-03-23 17:57 KST | executor | started | 10번 `비트코인 사용 가이드` 착수: KO PDF 원본 기준 파트/세부 단위 분할과 로컬용 처리 계획 수립 시작
+- 2026-03-23 21:52 KST | executor | completed | 10번 `비트코인 사용 가이드(PDF)` digest/quiz 단계 완료: 29개 웹 단위 EN/KO 요약 초안과 퀴즈 생성
+- 2026-03-23 21:53 KST | executor | completed | 10번 `비트코인 사용 가이드(PDF)` 책 사이트 및 library-site 로컬 빌드 완료
+- 2026-03-23 21:56 KST | executor | completed | 비트코인 필수 12권 로컬 자체검수 완료: 12권 모두 source/content/quiz/site 산출물 존재, curated library-site 로컬 빌드 기준 12권 published 확인
+- 2026-03-23 21:58 KST | executor | completed | `레이어드 머니` source 정합성 보정: chapter-map 기준 10개 source markdown 재추출 완료
+- 2026-03-23 22:00 KST | executor | completed | 비트코인 필수 12권 최종 재검증: 12권 모두 source/content/quiz/site 개수 일치, library-site ready 카드 12개 확인

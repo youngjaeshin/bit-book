@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-foreword-and-introduction",
+  "answer_index": 1,
+  "question_en": "How is Bitcoin first positioned in the opening unit?",
+  "choices_en": [
+    "As a state-managed rescue tool",
+    "As a response to broken money and hidden extraction",
+    "As a faster consumer payment app",
+    "As a replacement for journalism itself"
+  ],
+  "question_ko": "서두에서 비트코인은 무엇에 대한 대응으로 먼저 자리 잡는가?",
+  "choices_ko": [
+    "국가가 관리하는 구제 수단",
+    "고장 난 돈과 보이지 않는 가치 추출에 대한 대응",
+    "더 빠른 소비자 결제 앱",
+    "저널리즘 자체를 대체하는 수단"
+  ],
+  "explanation_en": "The opening frames Bitcoin as a response to broken money that quietly extracts value from ordinary people.",
+  "explanation_ko": "서두는 비트코인을 평범한 사람들의 가치를 조용히 빼앗아 가는 고장 난 돈에 대한 대응으로 제시한다."
+}

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "07-why-bitcoin",
+  "answer_index": 0,
+  "question_en": "What combination makes Bitcoin important in the final argumentative unit?",
+  "choices_en": [
+    "Decentralization, fixed issuance, sovereignty, and censorship resistance",
+    "Fast retail payments only",
+    "Government backing and flexibility",
+    "Unlimited issuance with privacy"
+  ],
+  "question_ko": "마지막 논증 단위에서 비트코인을 중요하게 만드는 결합은 무엇인가?",
+  "choices_ko": [
+    "탈중앙화, 고정 발행, 주권, 검열 저항성",
+    "빠른 소매 결제만",
+    "정부의 뒷받침과 유연성",
+    "무제한 발행과 프라이버시"
+  ],
+  "explanation_en": "The chapter stresses Bitcoin’s importance as the conjunction of decentralization, fixed issuance, sovereignty, and censorship resistance.",
+  "explanation_ko": "이 장은 탈중앙화, 고정 발행, 주권, 검열 저항성이 결합된 점을 비트코인의 핵심으로 본다."
+}

@@ -1,0 +1,1 @@
+PDF source detected; full chapter extraction pending detailed heading/page parsing.

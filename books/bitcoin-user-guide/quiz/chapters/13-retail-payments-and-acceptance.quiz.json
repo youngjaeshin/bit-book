@@ -1,0 +1,20 @@
+{
+  "chapter_id": "13-retail-payments-and-acceptance",
+  "question_en": "What is the main role of the unit \"13 Retail Payments And Acceptance\"?",
+  "choices_en": [
+    "To provide a hands-on guide for that workflow stage",
+    "To argue Bitcoin should never be used directly",
+    "To replace self-custody with institutional control",
+    "To avoid any practical verification"
+  ],
+  "question_ko": "\"오프라인/온라인 매장 결제받기\" 단위의 핵심 역할은 무엇인가?",
+  "choices_ko": [
+    "해당 단계에 대한 실전 사용 가이드를 제공하는 것",
+    "비트코인을 직접 쓰지 말라고 주장하는 것",
+    "셀프 커스터디를 기관 통제로 대체하는 것",
+    "실제 검증을 피하는 것"
+  ],
+  "answer_index": 0,
+  "explanation_en": "This guide unit is structured as a practical, execution-oriented step in a larger Bitcoin self-sovereignty workflow.",
+  "explanation_ko": "이 단위는 더 큰 비트코인 자기주권 워크플로우 안에서 실제 실행을 돕는 실전형 단계로 구성되어 있다."
+}

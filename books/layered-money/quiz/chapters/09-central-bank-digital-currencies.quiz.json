@@ -1,0 +1,20 @@
+{
+  "chapter_id": "09-central-bank-digital-currencies",
+  "answer_index": 1,
+  "question_en": "How are CBDCs framed in relation to Bitcoin?",
+  "choices_en": [
+    "As a decentralized copy of Bitcoin",
+    "As a centralizing state response to Bitcoin’s challenge",
+    "As a guarantee of monetary neutrality",
+    "As proof that all digital money is the same"
+  ],
+  "question_ko": "CBDC는 비트코인과의 관계에서 어떻게 제시되는가?",
+  "choices_ko": [
+    "비트코인의 탈중앙 복제물로",
+    "비트코인의 도전에 대한 국가의 중앙집중적 대응으로",
+    "통화 중립성의 보증으로",
+    "모든 디지털 돈이 같다는 증거로"
+  ],
+  "explanation_en": "The chapter frames CBDCs as the state’s digital response that deepens, not removes, central control.",
+  "explanation_ko": "이 장은 CBDC를 중앙 통제를 없애는 것이 아니라 심화하는 국가의 디지털 대응으로 본다."
+}

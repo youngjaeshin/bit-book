@@ -1,0 +1,72 @@
+[
+  {
+    "toc_index": 1,
+    "title": "Preface",
+    "src": "Text/preface.xhtml"
+  },
+  {
+    "toc_index": 2,
+    "title": "1. Fiorino d’Oro (Florin of Gold)",
+    "src": "Text/chapter001.xhtml"
+  },
+  {
+    "toc_index": 3,
+    "title": "2. The Emergence of Layered Money",
+    "src": "Text/chapter002.xhtml"
+  },
+  {
+    "toc_index": 4,
+    "title": "3. Central Banking",
+    "src": "Text/chapter003.xhtml"
+  },
+  {
+    "toc_index": 5,
+    "title": "4. Federal Reserve System",
+    "src": "Text/chapter004.xhtml"
+  },
+  {
+    "toc_index": 6,
+    "title": "5. Retiring Gold",
+    "src": "Text/chapter005.xhtml"
+  },
+  {
+    "toc_index": 7,
+    "title": "6. Dollar in Disrepair",
+    "src": "Text/chapter006.xhtml"
+  },
+  {
+    "toc_index": 8,
+    "title": "7. A Renaissance of Money",
+    "src": "Text/chapter007.xhtml"
+  },
+  {
+    "toc_index": 9,
+    "title": "8. Layered Bitcoin",
+    "src": "Text/chapter008.xhtml"
+  },
+  {
+    "toc_index": 10,
+    "title": "9. Central Bank Digital Currencies",
+    "src": "Text/chapter009.xhtml"
+  },
+  {
+    "toc_index": 11,
+    "title": "10. Freedom of Currency Denomination",
+    "src": "Text/chapter010.xhtml"
+  },
+  {
+    "toc_index": 12,
+    "title": "Acknowledgements",
+    "src": "Text/ackn.xhtml"
+  },
+  {
+    "toc_index": 13,
+    "title": "References",
+    "src": "Text/books.xhtml"
+  },
+  {
+    "toc_index": 14,
+    "title": "About the Author",
+    "src": "Text/about.xhtml"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "09-energy-matters",
+  "answer_index": 1,
+  "question_en": "Why is energy use defended in this unit?",
+  "choices_en": [
+    "Because all digital systems should consume more power",
+    "Because it helps anchor Bitcoin to real-world cost and security",
+    "Because it guarantees low transaction fees",
+    "Because it makes central banking easier"
+  ],
+  "question_ko": "이 단위는 왜 에너지 사용을 옹호하는가?",
+  "choices_ko": [
+    "모든 디지털 시스템은 더 많은 전력을 써야 하기 때문에",
+    "비트코인을 현실 비용과 보안에 닻내리게 하기 때문에",
+    "거래 수수료를 낮춰 주기 때문에",
+    "중앙은행 운영을 쉽게 만들기 때문에"
+  ],
+  "explanation_en": "Energy expenditure is justified as part of proof-of-work security and the real-world cost behind hard money.",
+  "explanation_ko": "에너지 지출은 작업증명 보안과 하드한 돈 뒤에 놓인 현실 비용의 일부로 정당화된다."
+}

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "05-economics-c",
+  "question_en": "Why is Bitcoin linked to sound money here?",
+  "choices_en": [
+    "Because it allows unlimited credit creation",
+    "Because it replaces human discretion with enforceable rules",
+    "Because it eliminates prices",
+    "Because it depends on central-bank rescue"
+  ],
+  "question_ko": "여기서 비트코인이 건전 화폐와 연결되는 이유는 무엇인가?",
+  "choices_ko": [
+    "무제한 신용 창조를 허용하기 때문에",
+    "인간의 재량을 강제 가능한 규칙으로 대체하기 때문에",
+    "가격을 없애기 때문에",
+    "중앙은행 구제에 의존하기 때문에"
+  ],
+  "answer_index": 1,
+  "explanation_en": "Bitcoin is presented as sound money because issuance is constrained by rules rather than discretionary intervention.",
+  "explanation_ko": "비트코인은 재량적 개입이 아니라 규칙에 의해 발행이 제약되기 때문에 건전 화폐로 제시된다."
+}

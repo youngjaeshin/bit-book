@@ -1,0 +1,20 @@
+{
+  "chapter_id": "04-economics-b",
+  "question_en": "What is the central contrast in the history-of-money discussion?",
+  "choices_en": [
+    "Art versus science",
+    "Commodity/representative anchors versus fiat decree",
+    "Mining versus coding",
+    "Privacy versus transparency"
+  ],
+  "question_ko": "화폐의 역사 논의에서 중심 대비는 무엇인가?",
+  "choices_ko": [
+    "예술과 과학",
+    "상품/대표 화폐의 닻과 법정화폐의 선언",
+    "채굴과 코딩",
+    "프라이버시와 투명성"
+  ],
+  "answer_index": 1,
+  "explanation_en": "The chapter contrasts money anchored in scarce reality with money maintained by political decree.",
+  "explanation_ko": "이 장은 희소한 현실에 닻을 둔 화폐와 정치적 선언으로 유지되는 화폐를 대비한다."
+}

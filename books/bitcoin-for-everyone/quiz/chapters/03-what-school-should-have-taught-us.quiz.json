@@ -1,0 +1,20 @@
+{
+  "chapter_id": "03-what-school-should-have-taught-us",
+  "answer_index": 0,
+  "question_en": "How is long-term money supply expansion described here?",
+  "choices_en": [
+    "As a structural process built into the system",
+    "As a harmless accounting detail",
+    "As a rare emergency exception",
+    "As a neutral way to improve savings"
+  ],
+  "question_ko": "이 장은 장기적 통화 공급 확대를 어떻게 설명하는가?",
+  "choices_ko": [
+    "시스템에 내장된 구조적 과정으로",
+    "무해한 회계적 세부사항으로",
+    "드문 비상 예외로",
+    "저축을 개선하는 중립적 수단으로"
+  ],
+  "explanation_en": "Money supply growth is presented as a structural feature that steadily dilutes purchasing power.",
+  "explanation_ko": "통화 공급 확대는 구매력을 꾸준히 희석하는 구조적 특징으로 제시된다."
+}

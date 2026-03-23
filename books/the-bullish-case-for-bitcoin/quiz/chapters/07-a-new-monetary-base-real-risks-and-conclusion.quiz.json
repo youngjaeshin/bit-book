@@ -1,0 +1,20 @@
+{
+  "chapter_id": "07-a-new-monetary-base-real-risks-and-conclusion",
+  "question_en": "Which threat is treated as the most immediate political danger?",
+  "choices_en": [
+    "Falling phone sales",
+    "State attack",
+    "Lower venture funding",
+    "Merchant oversupply"
+  ],
+  "question_ko": "가장 직접적인 정치적 위험으로 다뤄지는 것은 무엇인가?",
+  "choices_ko": [
+    "스마트폰 판매 감소",
+    "국가의 공격",
+    "벤처 자금 축소",
+    "가맹점 과잉"
+  ],
+  "answer_index": 1,
+  "explanation_en": "Among the major risks, hostile state action is treated as the most immediate political threat.",
+  "explanation_ko": "주요 위험 가운데 적대적인 국가 개입이 가장 직접적인 정치적 위협으로 제시된다."
+}

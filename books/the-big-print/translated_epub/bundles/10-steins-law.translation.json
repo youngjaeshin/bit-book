@@ -1,0 +1,141 @@
+{
+  "chapter_id": "10-steins-law",
+  "title": "STEIN’S LAW",
+  "src": "part0022.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0022.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "STEIN’S LAW",
+      "translated_text": "스타인의 법칙",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "During President Nixon’s Administration, one of his key economic advisors was Herbert Stein, a prominent economist who served as the Chairman of the White House Council of Economic Advisors. He is best remembered for saying what later became known as Stein’s Law:",
+      "translated_text": "닉슨 대통령 행정부 시절, 그의 주요 경제 고문 중 한 명은 백악관 경제자문위원회 의장을 역임한 저명한 경제학자 허버트 스타인이었습니다. 그는 나중에 스타인의 법칙(Stein's Law)으로 알려지게 된 다음과 같은 말을 한 것으로 가장 잘 기억됩니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "If something cannot go on forever, it will end.",
+      "translated_text": "영원히 지속될 수 없는 일은 끝나게 마련이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "Growing debt faster than production, and printing money to do so, exemplifies Stein’s Law. Where does it end? Consider the next chart:",
+      "translated_text": "생산보다 부채가 더 빨리 늘어나고 이를 위해 돈을 인쇄하는 것은 스타인의 법칙을 예시합니다. 어디에서 끝나나요? 다음 차트를 고려해보세요.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "Board of Governors of the Federal Reserve System, “U.S. National GDP and All Sector Debt: 1947-2024,” FRED, 2024.",
+      "translated_text": "연방준비제도 이사회, \"미국 국내 GDP 및 모든 부문 부채: 1947-2024\", FRED, 2024.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "The bottom line, U.S. National GDP, generates the income necessary to pay the interest on the top line, all-sector debt. First, notice the size of the advance in debt post-1971. Over 53 years, while GDP has grown steadily, total debt has skyrocketed __INLINE_1__from under $1 trillion to an astounding $100 trillion. These aren’t just numbers on a chart. They are a warning signal.",
+      "translated_text": "핵심은 이렇습니다. 미국의 국민 GDP라는 아래 선이, 위 선에 놓인 전 부문 부채의 이자를 갚는 데 필요한 소득을 만들어냅니다. 먼저 1971년 이후 부채가 얼마나 급증했는지 보십시오. 지난 53년 동안 GDP는 꾸준히 성장했지만 총부채는 1조 달러 미만에서 무려 100조 달러로 __INLINE_1__치솟았습니다. 이것은 단지 차트 위 숫자가 아닙니다. 경고 신호입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_179\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "Now notice how the top line has expanded at a more rapid rate than the bottom line. If this trend continues (it’s been going strong and accelerating since 1971), eventually, the GDP will be unable to support the debt. Or said another way, the debt becomes unpayable. This is the very definition of a debt crisis.__INLINE_1____INLINE_2__",
+      "translated_text": "이제 상위선이 하위선보다 어떻게 더 빠른 속도로 확장되었는지 확인하세요. 이러한 추세가 계속된다면(1971년 이후 강력해지고 가속화됨) 결국 GDP는 부채를 감당할 수 없게 될 것입니다. 혹은 다른 말로 하면, 빚을 갚을 수 없게 됩니다. 이것이 바로 부채 위기의 정의입니다.__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a303\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a37A\" ns1:type=\"noteref\" class=\"class_s2T8\">136</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "Recall GDP is the economic engine that generates the income needed to service our debt. But when debt grows faster than the engine powering it, the path becomes unsustainable. The Keynesian notion of using debt to create the holy grail of GDP growth worked initially, but its effectiveness diminished like any tool used too often. We’ve reached a point where the marginal value of each additional dollar of debt decreases over time, and eventually, new debt is needed just to support old debt. This is a classic “credit bubble,” as defined by the Austrian economists. Von Mises had it right when he cautioned:",
+      "translated_text": "GDP는 부채를 상환하는 데 필요한 소득을 창출하는 경제 엔진임을 기억하십시오. 그러나 부채가 부채를 구동하는 엔진보다 빠르게 증가하면 경로는 지속 불가능해집니다. GDP 성장의 성배를 만들기 위해 부채를 사용한다는 케인스주의 개념은 처음에는 효과가 있었지만 너무 자주 사용되는 도구와 마찬가지로 그 효과도 감소했습니다. 우리는 시간이 지남에 따라 추가 부채 1달러의 한계 가치가 감소하는 지점에 도달했으며, 결국 오래된 부채를 지원하기 위해 새로운 부채가 필요합니다. 이것은 오스트리아 학파 경제학자들이 정의한 고전적인 “신용 거품”입니다. Von Mises가 다음과 같이 경고한 것은 옳았습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "“Credit expansion can bring about a temporary boom. But such a fictitious prosperity must end in a general depression of trade, a slump.”",
+      "translated_text": "\"신용 확대는 일시적인 호황을 가져올 수 있습니다. 그러나 그러한 가상의 번영은 결국 전반적인 무역 불황, 불황으로 끝날 것입니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "People have asked me, “How can you be so certain we are headed toward a train wreck?” My answer is simple: “It’s just math.” Take two series of numbers. Grow one at a compound annual rate of 8.1% and the other at 5.6%. Over time, the two will diverge significantly. This is exactly what has happened with debt growth and GDP growth in the U.S. over the past 53 years. Debt brings consumption forward. Unlike savings, it is like eating your seed corn. When there is a surplus to be eaten, it is possible. But if the debt-based consumption __INLINE_1__outstrips the productive capacity of the system it draws from, mathematically, it must end badly. Pretty simple.",
+      "translated_text": "사람들은 나에게 \"우리가 열차 사고로 향하고 있다고 어떻게 확신할 수 있습니까?\"라고 묻습니다. 내 대답은 간단하다. “그냥 수학일 뿐이에요.” 두 개의 일련의 숫자를 사용하십시오. 하나는 연평균 8.1%, 다른 하나는 5.6%로 성장합니다. 시간이 지남에 따라 둘은 크게 갈라질 것입니다. 이것이 바로 지난 53년 동안 미국의 부채 증가와 GDP 성장에서 일어난 일입니다. 부채는 소비를 앞당깁니다. 저축과는 달리 종자옥수수를 먹는 것과 같습니다. 먹을 것이 남으면 가능합니다. 그러나 부채 기반 소비 __INLINE_1__가 그것이 기반으로 하는 시스템의 생산 능력을 수학적으로 초과한다면 그것은 나쁘게 끝날 것입니다. 꽤 간단합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_180\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "How does this end? History points to three possible scenarios:",
+      "translated_text": "이게 어떻게 끝나나요? 역사는 세 가지 가능한 시나리오를 가리킵니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[1]/p[1]",
+      "tag": "p",
+      "source_text": "The Hard Stop: Halt debt growth and let GDP catch up (unlikely and very recessionary);",
+      "translated_text": "어려운 조치: 부채 증가를 중단하고 GDP가 따라잡도록 합니다(가능성이 낮고 매우 경기 침체적임).",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[2]/p[1]",
+      "tag": "p",
+      "source_text": "The Crash: Allow debt to default (possible but a depression results, see 1929); or",
+      "translated_text": "붕괴: 부채를 불이행하도록 허용합니다(가능하지만 불황이 초래됨, 1929 참조). 또는",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[3]/p[1]",
+      "tag": "p",
+      "source_text": "The Inflation Solution: Print money faster than debt grows (a temporary fix with long-term, high-inflation consequences).",
+      "translated_text": "인플레이션 해결책: 부채가 증가하는 것보다 더 빨리 돈을 인쇄합니다(장기적이고 높은 인플레이션 결과를 초래하는 임시 해결책).",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "The market history of the 19th and 20th centuries has been one long cycle of credit booms and busts. Throughout, the losers have been the average American men and women who are disadvantaged versus those who can make these boom/bust cycles work for them. Remember the Jefferson quote about inflation and deflation from earlier in the book,",
+      "translated_text": "19세기와 20세기의 시장 역사는 신용 붐과 불황의 긴 사이클이었습니다. 전반적으로 패자는 이러한 호황/불황 사이클을 자신에게 맞게 만들 수 있는 사람들에 비해 불리한 상황에 있는 평균적인 미국 남성과 여성이었습니다. 책 앞부분에서 인플레이션과 디플레이션에 관해 제퍼슨이 인용한 것을 기억하세요.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "If the American people ever allow private banks to control the issue of their currency, first by inflation, then by deflation, the banks and corporations that will grow up around them will deprive the people of all property until their children wake up homeless on the continent their Fathers conquered.",
+      "translated_text": "미국 국민이 민간 은행이 처음에는 인플레이션으로, 다음에는 디플레이션으로 통화 발행을 통제하도록 허용한다면, 그들 주변에서 성장할 은행과 기업은 그들의 아버지가 정복한 대륙에서 그들의 아이들이 깨어날 때까지 사람들의 모든 재산을 박탈할 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "— Thomas Jefferson",
+      "translated_text": "— 토머스 제퍼슨",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "Stein’s Law is a reality check. Our current path of exponential debt growth must eventually meet its logical conclusion. The real question isn’t whether this ends but how we choose to handle the inevitable correction.",
+      "translated_text": "스타인의 법칙은 현실 점검입니다. 현재의 기하급수적인 부채 증가 경로는 결국 논리적 결론에 도달해야 합니다. 진짜 질문은 이것이 끝날지 여부가 아니라 불가피한 수정 사항을 처리하기 위해 우리가 어떻게 선택하는지입니다.",
+      "inline_tokens": {}
+    }
+  ]
+}

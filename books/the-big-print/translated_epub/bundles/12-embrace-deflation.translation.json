@@ -1,0 +1,159 @@
+{
+  "chapter_id": "12-embrace-deflation",
+  "title": "EMBRACE DEFLATION",
+  "src": "part0025.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0025.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "EMBRACE DEFLATION",
+      "translated_text": "디플레이션을 받아들여라",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "The fundamental error made by Keynesian economists, and nearly everyone except Austrian Economists, is the belief that deflation is inherently bad.",
+      "translated_text": "케인즈주의 경제학자들과 오스트리아 학파 경제학자들을 제외한 거의 모든 사람들이 저지르는 근본적인 오류는 디플레이션이 본질적으로 나쁘다는 믿음입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "THE ERROR",
+      "translated_text": "오류",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "For over a century, central bankers and mainstream economists have harbored an irrational fear of deflation. They argue that falling prices will cause consumers to delay purchases in anticipation of lower prices in the future. This lack of spending, they claim, will thereby decrease aggregate demand and lead to a downward economic spiral. Consider Janet Yellen’s 2009 warning to the Commonwealth Club of California:",
+      "translated_text": "한 세기가 넘도록 중앙은행가들과 주류 경제학자들은 디플레이션에 대한 비합리적인 두려움을 품어왔습니다. 그들은 가격 하락으로 인해 소비자들이 미래에 더 낮은 가격을 기대하여 구매를 연기하게 될 것이라고 주장합니다. 그들은 이러한 지출 부족으로 인해 총수요가 감소하고 경기 침체로 이어질 것이라고 주장합니다. 2009년 Janet Yellen이 캘리포니아 커먼웰스 클럽에 보낸 경고를 생각해 보세요.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "t is conceivable that this very low inflation could turn into outright deflation. Worse still, If deflation were to intensify, we could find ourselves in a devastating spiral in which prices fall at an ever-faster pace and economic activity sinks more and more.__INLINE_1____INLINE_2__",
+      "translated_text": "이처럼 매우 낮은 인플레이션이 완전한 디플레이션으로 바뀔 수 있다고는 생각할 수 없습니다. 더 나쁜 것은 디플레이션이 심화되면 물가가 더욱 빠른 속도로 하락하고 경제 활동이 더욱 위축되는 파괴적인 악순환에 빠질 수 있다는 것입니다. __INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a36Z\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a30Y\" ns1:type=\"noteref\" class=\"class_s2T8\">1</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "This common view, however, overlooks important historical evidence and human behavior patterns.",
+      "translated_text": "그러나 이러한 일반적인 견해는 중요한 역사적 증거와 인간 행동 패턴을 간과하고 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "There is an error in this line of reasoning. The notion that the mere anticipation of lower future prices will halt spending is absurd. Humans have specific needs and desires that drive consumption, regardless of price expectations. I know the TV I purchase today will be cheaper in five years, but that does not stop me from buying one. After all, I want to watch football today. Immediate needs and wants often outweigh the potential savings of waiting, ensuring that spending continues despite expectations of future price reductions.",
+      "translated_text": "이 추론에는 오류가 있습니다. 단순히 미래 가격이 하락할 것이라는 기대만으로 지출이 중단될 것이라는 생각은 터무니없습니다. 인간은 가격 기대와 관계없이 소비를 촉진하는 특정한 요구와 욕구를 가지고 있습니다. 나는 오늘 구입한 TV가 5년 후에는 더 저렴해질 것이라는 것을 알고 있지만 그렇다고 해서 구입을 중단하지는 않습니다. 결국 나는 오늘 축구를 보고 싶다. 즉각적인 필요와 욕구가 대기로 인한 잠재적 절약보다 더 큰 경우가 많으며, 이는 향후 가격 인하 기대에도 불구하고 지출이 계속되도록 보장합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "Historical evidence further challenges the anti-deflation narrative. The 19th century saw two remarkable periods where prices fell nearly 50%. In “Deflating the Deflation Myth,”__INLINE_1____INLINE_2__ Christopher Casey noted that this century witnessed one of history’s most dramatic improvements in living standards rather than economic catastrophe.",
+      "translated_text": "역사적 증거는 디플레이션 방지 서술에 더욱 도전하고 있습니다. 19세기에는 가격이 거의 50% 하락한 두 번의 놀라운 시기가 있었습니다. __INLINE_1____INLINE_2__ 크리스토퍼 케이시(Christopher Casey)는 \"디플레이션 신화 축소\"에서 금세기가 경제적 재앙보다는 생활 수준이 역사상 가장 극적인 개선을 목격했다고 언급했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a327\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a31C\" ns1:type=\"noteref\" class=\"class_s2T8\">2</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "Found in Casey’s “Deflating the Deflation Myth,” “U.S. Consumer Price Level: 1800-1900,” __INLINE_1__, 2014.",
+      "translated_text": "Casey의 \"디플레이션 신화 축소\", \"미국 소비자 물가 수준: 1800-1900\", __INLINE_1__, 2014에서 발견되었습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Mises Daily</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "Modern Keynesians like Bernanke, Krugman, and Yellen consistently point to the Great Depression as evidence of deflation’s dangers. This is an oversimplification, a “catch-all” to argue that deflation is bad. The Great Depression was a unique event caused by the collapse of the largest credit bubble in history. Using this singular event to condemn all deflationary periods ignores broader historical evidence. Even two former Federal Reserve economists acknowledge this limitation:",
+      "translated_text": "버냉키, 크루그먼, 옐런 같은 현대 케인스주의자들은 대공황을 디플레이션 위험의 증거로 일관되게 지적합니다. 이는 디플레이션이 나쁘다고 주장하는 “포괄적”인 지나치게 단순화된 표현입니다. 대공황은 역사상 가장 큰 신용 거품의 붕괴로 인해 발생한 독특한 사건이었습니다. 모든 디플레이션 기간을 비난하기 위해 이 특이한 사건을 사용하는 것은 더 광범위한 역사적 증거를 무시하는 것입니다. 전직 연방준비제도이사회(FRB) 경제학자 두 명도 이러한 한계를 인정했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "he only episode in which we find evidence of a link between deflation and depression is the Great Depression (1929-1934). We find virtually no evidence of such a link in any other period…. What is striking is that nearly 90% of the episodes with deflation did not have a depression. In a broad historical context, beyond the Great Depression, the notion that deflation and depression are linked virtually disappears.__INLINE_1____INLINE_2__",
+      "translated_text": "디플레이션과 불황 사이의 연관성에 대한 증거를 찾을 수 있는 유일한 에피소드는 대공황(1929-1934)입니다. 우리는 다른 어느 시대에도 그러한 연관성에 대한 증거를 사실상 찾지 못했습니다… 놀라운 점은 디플레이션이 발생한 사례 중 거의 90%가 우울증이 없었다는 것입니다. 광범위한 역사적 맥락에서 대공황을 넘어 디플레이션과 불황이 연결되어 있다는 개념은 사실상 사라졌습니다.__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a388\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a397\" ns1:type=\"noteref\" class=\"class_s2T8\">3</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[2]",
+      "tag": "h3",
+      "source_text": "DEFLATION",
+      "translated_text": "수축",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "Deflation refers to a general decrease in prices, driven either by a decrease in the money available or by increased productivity. Keynesians insist that inflation and nominal growth are essential for economies to thrive. This is not true.",
+      "translated_text": "디플레이션은 가용 화폐의 감소나 생산성 증가로 인해 발생하는 전반적인 가격 하락을 의미합니다. 케인즈주의자들은 경제가 번영하려면 인플레이션과 명목 성장이 필수적이라고 주장합니다. 이것은 사실이 아닙니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "In a properly managed economy, deflation naturally results from increased productivity and efficiency–often driven by technological innovation. We can do more with less, causing prices to fall. Workers, in particular, see an increase in real wages__INLINE_1____INLINE_2__ because wages typically don’t fall as quickly as prices, effectively increasing their purchasing power. This type of deflation is bad news for financial institutions and governments (debtors) because as prices fall, debts become harder to repay. Predictably, our current system was designed to avoid this natural deflationary mechanism, prioritizing their interests over those of the general citizen.",
+      "translated_text": "적절하게 관리되는 경제에서는 디플레이션이 생산성과 효율성의 향상, 흔히 기술 혁신이 이끄는 발전의 결과로 자연스럽게 나타납니다. 우리는 더 적은 투입으로 더 많은 것을 해낼 수 있고, 그 결과 가격은 내려갑니다. 특히 노동자들은 실질임금이 __INLINE_1____INLINE_2__ 상승하는데, 보통 임금은 가격만큼 빨리 떨어지지 않기 때문에 실질 구매력이 커지기 때문입니다. 이런 유형의 디플레이션은 가격이 하락할수록 부채 상환이 더 어려워지므로 금융기관과 정부(채무자)에는 나쁜 소식입니다. 예상할 수 있듯이, 우리의 현재 시스템은 이런 자연스러운 디플레이션 메커니즘을 피하도록 설계되었고, 일반 시민보다 그들의 이해관계를 우선시합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a364\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a39M\" ns1:type=\"noteref\" class=\"class_s2T8\">4</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "As we saw earlier, periods in the 19th century were generally deflationary, yet huge strides were made in productivity and real growth. Who would not like deflation? If the cost of things goes down, what is bad about that? As Jeff Booth expertly advances in __INLINE_1__, we live in an inherently deflationary world. Productivity enhancements should make goods cheaper over time.",
+      "translated_text": "앞서 살펴보았듯이 19세기는 일반적으로 디플레이션 시대였지만 생산성과 실질 성장 측면에서 큰 진전이 이루어졌습니다. 디플레이션을 좋아하지 않는 사람이 어디 있겠습니까? 물건의 가격이 낮아지면 그게 뭐가 나쁜가요? Jeff Booth가 __INLINE_1__에서 전문적으로 발전함에 따라 우리는 본질적으로 디플레이션 세계에 살고 있습니다. 생산성 향상을 통해 시간이 지남에 따라 상품 가격이 더 저렴해져야 합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">내일의 가격</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "As productivity and technological advancements are integrated into our economy, goods and services should become more abundant and cheaper. That is what we have observed. Evidence surrounds us. The cost of telephone calls, TVs, cell phones, computers, etc., has decreased relentlessly while their quality and functionality have improved, giving consumers more __INLINE_1__for less. Even in the commodities world, technical advances have allowed us to produce more goods at lower cost per unit. Looking ahead, continued technological advances will only deepen this trend. Human ingenuity is undefeated.",
+      "translated_text": "생산성과 기술 발전이 우리 경제에 통합됨에 따라 상품과 서비스는 더욱 풍부해지고 저렴해져야 합니다. 그것이 우리가 관찰한 것입니다. 증거가 우리를 둘러싸고 있습니다. 전화 통화, TV, 휴대폰, 컴퓨터 등의 비용은 끊임없이 감소하고 품질과 기능은 향상되어 소비자에게 더 적은 비용으로 더 많은 __INLINE_1__를 제공합니다. 상품 세계에서도 기술의 발전으로 우리는 더 낮은 단위당 비용으로 더 많은 상품을 생산할 수 있게 되었습니다. 앞으로도 지속적인 기술 발전은 이러한 추세를 더욱 심화시킬 것입니다. 인간의 독창성은 무패입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_224\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "Two groups, however, fear deflation: financial actors and debtors. Financiers who rely heavily on debt shudder at the prospect of repaying loans with more valuable money. But for the average citizen, deflation, particularly the kind driven by productivity gains, is a good thing.",
+      "translated_text": "그러나 디플레이션을 두려워하는 두 그룹은 금융 행위자와 채무자입니다. 부채에 크게 의존하는 금융가들은 더 가치 있는 돈으로 대출금을 상환할 수 있다는 전망에 몸서리를 칩니다. 그러나 일반 시민에게는 디플레이션, 특히 생산성 향상으로 인한 디플레이션은 좋은 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "Booth’s most brilliant insight zeros-in on the modern monetary conflict. We operate an inflationary monetary system in an increasingly deflationary world. This fundamental misalignment creates ongoing tension between our monetary policy and technological reality. It just does not work. A solution to this conflict exists, but first, we must recognize that our current monetary system actively works against what we want to achieve in the economy — greater prosperity through increased productivity and efficiency.",
+      "translated_text": "부스의 가장 뛰어난 통찰력은 현대 화폐 갈등에 초점을 맞추고 있습니다. 우리는 점점 더 디플레이션이 심해지는 세계에서 인플레이션 통화 시스템을 운영하고 있습니다. 이러한 근본적인 불일치는 통화 정책과 기술 현실 사이에 지속적인 긴장을 조성합니다. 그것은 단지 작동하지 않습니다. 이 갈등에 대한 해결책이 존재합니다. 하지만 먼저 우리는 현재의 통화 시스템이 우리가 경제에서 달성하고자 하는 것, 즉 생산성과 효율성 증가를 통한 더 큰 번영이라는 목표에 적극적으로 반대한다는 점을 인식해야 합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "Stay tuned. There is a solution.",
+      "translated_text": "계속 지켜봐 주시기 바랍니다. 해결책이 있습니다.",
+      "inline_tokens": {}
+    }
+  ]
+}

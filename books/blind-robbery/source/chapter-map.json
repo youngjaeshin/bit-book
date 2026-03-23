@@ -1,0 +1,221 @@
+{
+  "book_slug": "blind-robbery",
+  "selection_rule": "Use the English original EPUB as source of truth; merge front matter and closing matter, keep numbered chapters as the main web units.",
+  "part_groups": [
+    {
+      "part_number": 1,
+      "part_slug": "main",
+      "title": "Main Web Summary Units",
+      "toc_index": 1,
+      "included_chapter_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "included_chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "01-front-matter-and-introduction",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 1,
+      "title": "Front Matter & Introduction",
+      "source_toc_indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "src": "text/part0000.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/01-front-matter-and-introduction.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/01-front-matter-and-introduction.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/01-front-matter-and-introduction.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/01-front-matter-and-introduction.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/01-front-matter-and-introduction.html"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "02-why-money-does-not-need-the-state",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 8,
+      "title": "Why Money Does Not Need the State",
+      "source_toc_indices": [
+        8
+      ],
+      "src": "text/part0007.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/02-why-money-does-not-need-the-state.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/02-why-money-does-not-need-the-state.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/02-why-money-does-not-need-the-state.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/02-why-money-does-not-need-the-state.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/02-why-money-does-not-need-the-state.html"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "03-who-is-allowed-to-create-money",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 9,
+      "title": "Who Is Allowed to Create Money and Who Is Not",
+      "source_toc_indices": [
+        9
+      ],
+      "src": "text/part0008.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/03-who-is-allowed-to-create-money.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/03-who-is-allowed-to-create-money.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/03-who-is-allowed-to-create-money.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/03-who-is-allowed-to-create-money.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/03-who-is-allowed-to-create-money.html"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "04-why-money-creates-social-injustice",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 10,
+      "title": "Why Our Current Money Creates Social Injustice",
+      "source_toc_indices": [
+        10
+      ],
+      "src": "text/part0009.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/04-why-money-creates-social-injustice.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/04-why-money-creates-social-injustice.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/04-why-money-creates-social-injustice.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/04-why-money-creates-social-injustice.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/04-why-money-creates-social-injustice.html"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "05-why-government-money-ruins-us",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 11,
+      "title": "Why Government Money Ruins Us Economically",
+      "source_toc_indices": [
+        11
+      ],
+      "src": "text/part0010.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/05-why-government-money-ruins-us.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/05-why-government-money-ruins-us.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/05-why-government-money-ruins-us.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/05-why-government-money-ruins-us.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/05-why-government-money-ruins-us.html"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "06-how-the-state-exploits-you-with-inflation",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 12,
+      "title": "How the State Exploits You with Inflation",
+      "source_toc_indices": [
+        12
+      ],
+      "src": "text/part0011.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/06-how-the-state-exploits-you-with-inflation.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/06-how-the-state-exploits-you-with-inflation.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/06-how-the-state-exploits-you-with-inflation.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/06-how-the-state-exploits-you-with-inflation.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/06-how-the-state-exploits-you-with-inflation.html"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "07-what-inflation-does-to-people",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 13,
+      "title": "What Inflation Does to People",
+      "source_toc_indices": [
+        13
+      ],
+      "src": "text/part0012.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/07-what-inflation-does-to-people.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/07-what-inflation-does-to-people.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/07-what-inflation-does-to-people.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/07-what-inflation-does-to-people.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/07-what-inflation-does-to-people.html"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "08-what-state-intervention-does",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 14,
+      "title": "What Happens When the State Intervenes in Everything",
+      "source_toc_indices": [
+        14
+      ],
+      "src": "text/part0013.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/08-what-state-intervention-does.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/08-what-state-intervention-does.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/08-what-state-intervention-does.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/08-what-state-intervention-does.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/08-what-state-intervention-does.html"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_id": "09-how-it-will-all-end",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 15,
+      "title": "How It Will All End",
+      "source_toc_indices": [
+        15
+      ],
+      "src": "text/part0014.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/09-how-it-will-all-end.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/09-how-it-will-all-end.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/09-how-it-will-all-end.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/09-how-it-will-all-end.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/09-how-it-will-all-end.html"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_id": "10-why-you-have-not-heard-of-this-before",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 16,
+      "title": "Why You Have Not Heard of This Before",
+      "source_toc_indices": [
+        16
+      ],
+      "src": "text/part0015.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/10-why-you-have-not-heard-of-this-before.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/10-why-you-have-not-heard-of-this-before.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/10-why-you-have-not-heard-of-this-before.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/10-why-you-have-not-heard-of-this-before.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/10-why-you-have-not-heard-of-this-before.html"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_id": "11-references-and-authors",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 17,
+      "title": "References & About the Authors",
+      "source_toc_indices": [
+        17,
+        18
+      ],
+      "src": "text/part0016.html",
+      "source_markdown_path": "books/blind-robbery/source/chapters/11-references-and-authors.md",
+      "english_markdown_path": "books/blind-robbery/content/en/chapters/11-references-and-authors.md",
+      "korean_markdown_path": "books/blind-robbery/content/ko/chapters/11-references-and-authors.md",
+      "quiz_path": "books/blind-robbery/quiz/chapters/11-references-and-authors.quiz.json",
+      "html_path": "books/blind-robbery/site/chapters/11-references-and-authors.html"
+    }
+  ]
+}

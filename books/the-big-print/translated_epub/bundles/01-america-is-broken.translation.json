@@ -1,0 +1,167 @@
+{
+  "chapter_id": "01-america-is-broken",
+  "title": "AMERICA IS BROKEN",
+  "src": "part0013.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0013.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "AMERICA IS BROKEN",
+      "translated_text": "미국은 망가졌다",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "As this book will fully explain, the U.S. financial system is structured to require inflation.",
+      "translated_text": "이 책이 충분히 설명하겠지만, 미국 금융 시스템은 인플레이션을 필요로 하도록 짜여 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "But what is inflation? If you ask many Americans, they’ll tell you it is “prices going up,” and they are conditioned to believe this is perfectly normal. If you ask a politician, they will point at some segment of the population they want to demonize, like “greedy corporations.” We will explore inflation in great depth in the coming chapters. For now, the critical point is that because of inflation, the distribution of wealth in this country has tilted heavily toward the top 1% of the population, or the so-called “elites.” Financial actors and wealthy people know how to game the system. They can make inflation work for them by owning assets and having easy access to loans and capital. The appreciation of their assets has allowed them to gain an ever-increasing share of the nation’s wealth.",
+      "translated_text": "그렇다면 인플레이션이란 무엇인가? 많은 미국인에게 물어보면 “물가가 오르는 것”이라고 답할 것이고, 그들은 그것이 지극히 정상이라고 학습되어 있다. 정치인에게 물어보면 그들은 자신들이 악마화하고 싶은 집단, 이를테면 “탐욕스러운 기업”을 가리킬 것이다. 앞으로 장들에서 우리는 인플레이션을 훨씬 더 깊이 파헤칠 것이다. 지금 핵심은 인플레이션 때문에 이 나라의 부 분배가 인구 상위 1%, 이른바 “엘리트”에게 크게 기울었다는 점이다. 금융 행위자와 부자들은 시스템을 어떻게 이용해야 하는지 안다. 그들은 자산을 보유하고 대출과 자본에 쉽게 접근함으로써 인플레이션을 자신들에게 유리하게 만들 수 있다. 자산 가격 상승 덕분에 그들은 국가 부의 점점 더 큰 몫을 차지하게 되었다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "RECORD WEALTH INEQUALITY",
+      "translated_text": "사상 최고 수준의 부의 불평등",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "This next schedule is shocking. The top 1% of the population (top line) has seen their share of national wealth increase by over 10x since 1990.",
+      "translated_text": "다음 도표는 충격적이다. 인구 상위 1%(위 선)는 1990년 이후 국가 부에서 차지하는 비중이 10배 넘게 증가했다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "Board of Governors of the Federal Reserve System (US), “Total Net Worth Held by the Top 1% (99th to 100th Wealth Percentiles),” FRED, Federal Reserve Bank of St. Louis.",
+      "translated_text": "미국 연방준비제도 이사회, “상위 1%(부 백분위 99~100%)가 보유한 총 순자산,” FRED, 세인트루이스 연방준비은행.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "The top 1% now control over $46 trillion (or 92%) of the nation’s wealth. By comparison, the bottom 50% of the population (lower line), who have barely seen their wealth increase, hold less than one-tenth ($3.8 trillion) of the wealth held by the top 1%. The poor are getting poorer. This is French Revolution kind of stuff.__INLINE_1____INLINE_2__",
+      "translated_text": "이제 상위 1%는 국가 부의 46조 달러 이상(무려 92%)을 통제한다. 반면 부가 거의 늘지 않은 하위 50%(아래 선)는 상위 1%가 보유한 부의 10분의 1에도 못 미치는 3.8조 달러만 보유하고 있다. 가난한 사람들은 더 가난해지고 있다. 이것은 프랑스혁명 급의 일이다.__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a367\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2YG\" ns1:type=\"noteref\" class=\"class_s2T8\">1</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "To be fair, some of the wealth gap has also been created by technology, offshoring strategies, and productivity efficiencies that have suppressed wage growth. In my opinion, however, the asset inflation caused by mispriced capital is a much larger issue.",
+      "translated_text": "공정하게 말하면, 기술 발전, 오프쇼어링 전략, 임금 상승을 억누른 생산성 효율화도 빈부격차를 키운 일부 원인이다. 그러나 내 생각에 훨씬 더 큰 문제는 잘못 가격이 매겨진 자본이 만들어낸 자산 인플레이션이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "This concentration of wealth is politically destabilizing and has created anger, populism, and dysfunction at all levels of society. Understandably so. Humans are programmed to want a fair system, and we do not have one.",
+      "translated_text": "이러한 부의 집중은 정치적 불안정을 낳았고, 사회 모든 층위에 분노와 포퓰리즘, 기능 부전을 만들어냈다. 당연한 일이다. 인간은 공정한 시스템을 원하도록 프로그래밍되어 있지만, 우리에겐 그런 시스템이 없다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[2]",
+      "tag": "h3",
+      "source_text": "LOSS OF FAITH IN THE GOVERNMENT/ SYSTEM",
+      "translated_text": "정부/체제에 대한 신뢰 상실",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "The next chart captures another clear indicator that our system is broken: the percentage of Americans who say they trust the government always or most of the time. In 1960, over 75% of the U.S. population trusted the government always or most of the time. Look at the steadily eroding trend in that trust. Today, fewer than 20% of Americans still maintain the same level of trust. This statistic is embarrassing, particularly when 15% of the population works for the government at some level (federal, state, local), likely skewing their views more favorably.",
+      "translated_text": "다음 차트는 우리 시스템이 망가졌다는 또 다른 분명한 지표를 보여준다. 항상 혹은 대부분의 시간에 정부를 신뢰한다고 말하는 미국인의 비율이다. 1960년에는 미국 인구의 75% 이상이 정부를 항상 또는 대체로 신뢰했다. 그 신뢰가 꾸준히 침식되는 추세를 보라. 오늘날 같은 수준의 신뢰를 유지하는 미국인은 20%도 되지 않는다. 특히 인구의 15%가 어떤 형태로든 정부(연방, 주, 지방)에서 일하고 있어 자신의 시각이 더 호의적으로 기울 가능성이 크다는 점을 생각하면 이 수치는 부끄러운 수준이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "“Percentage of Americans Who Say They Trust the Government Always or Most of the Time.” Data sourced from Pew Research Center, National Election Studies, Gallup, ABC/Washington Post, CBS/New York Times, and CNN Polls, via the Pew Research Center.",
+      "translated_text": "“정부를 항상 혹은 대부분의 시간에 신뢰한다고 말하는 미국인의 비율.” 자료 출처: 퓨리서치센터, 전국 선거 연구, 갤럽, ABC/워싱턴포스트, CBS/뉴욕타임스, CNN 여론조사, 퓨리서치센터 재인용.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "You would have to be very obtuse to not realize that the current American system is not working for most people, and they rightly blame the government. The government is supposed to operate with the consent of the governed. Polls show that over 80% of voters support term limits, yet the topic is rarely even discussed. In a representative democracy, when 80% of the people want something that is seldom discussed, let alone enacted, the system is broken.",
+      "translated_text": "오늘의 미국 시스템이 대다수 사람에게 제대로 작동하지 않는다는 사실을 깨닫지 못하려면 정말 둔감해야 한다. 그리고 사람들은 정부를 탓하는 것이 맞다. 정부는 피치자의 동의에 따라 운영되어야 한다. 여론조사를 보면 유권자의 80% 이상이 임기 제한을 지지하지만, 이 주제는 거의 논의조차 되지 않는다. 대의민주주의에서 국민의 80%가 원하는 것이 좀처럼 논의되지도, 더구나 시행되지도 않는다면, 그 시스템은 망가진 것이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[3]",
+      "tag": "h3",
+      "source_text": "POOR HEALTH OUTCOMES",
+      "translated_text": "열악한 건강 성과",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "The United States’ healthcare spending is nearly twice the per capita rate of other developed nations. Yet, we are getting sicker, fatter, and dying younger. Life expectancy in America has fallen for the first time in several generations. Medical care and insurance costs ravage many families. Medical expenses are the country’s leading cause of bankruptcy (66%), with over 500,000 families declaring bankruptcy annually as a result.",
+      "translated_text": "미국의 의료 지출은 다른 선진국보다 1인당 거의 두 배다. 그런데도 우리는 더 병들고, 더 뚱뚱해지고, 더 일찍 죽고 있다. 미국의 기대수명은 여러 세대 만에 처음으로 하락했다. 의료비와 보험료는 수많은 가정을 파괴한다. 의료비는 미국 파산의 주된 원인(66%)이며, 그 결과로 매년 50만 가구 이상이 파산을 신청한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "It is not just the healthcare system. When financial and business interests pushed to admit China into the World Trade Organization (WTO) in 2000, they effectively hollowed out the majority of our manufacturing base, much of which flourished in the Midwest where I grew up. Corporations seeking lower labor costs offshored millions of high-paying jobs to Chinese workers who earned less than $5 per day. By outsourcing production overseas, corporations increased earnings, inflated __INLINE_1__share prices, and enriched executives through record-breaking compensation packages and stock options — all of which widened the wealth gap.__INLINE_2____INLINE_3__ In 1950, the average S&P 500 CEO made 20 times the average employee salary. By 1989, “the average chief executive made 69 times the average worker’s pay; by 2021, that CEO was making 324 times that average.”__INLINE_4____INLINE_5__ No wonder people are angry at corporate leadership and the system. The unfairness is glaring.",
+      "translated_text": "문제는 의료 시스템만이 아니다. 금융계와 기업 이익집단이 2000년 중국의 세계무역기구(WTO) 가입을 밀어붙였을 때, 그들은 사실상 미국 제조업 기반의 상당 부분을 껍데기만 남겨 버렸다. 그중 많은 부분이 내가 자란 중서부에서 번성하던 산업이었다. 더 낮은 노동비를 찾아 나선 기업들은 하루 5달러도 못 버는 중국 노동자들에게 수백만 개의 고임금 일자리를 오프쇼어링했다. 생산을 해외에 외주화함으로써 기업들은 수익을 늘리고, __INLINE_1__주가를 부풀리고, 기록적인 보상 패키지와 스톡옵션으로 경영진을 더 부유하게 만들었다. 그 모든 것이 빈부격차를 더 벌렸다.__INLINE_2____INLINE_3__ 1950년 S&P 500 기업 CEO의 평균 보수는 평균 직원 급여의 20배였다. 1989년에는 “평균 최고경영자가 평균 노동자 임금의 69배를 벌었고, 2021년에는 그 CEO가 평균의 324배를 벌었다.”__INLINE_4____INLINE_5__ 사람들이 기업 경영진과 시스템에 분노하는 것도 당연하다. 불공정함이 너무도 뚜렷하다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_30\" />",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a34D\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a317\" ns1:type=\"noteref\" class=\"class_s2T8\">2</html:a>",
+        "__INLINE_4__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2YC\" />",
+        "__INLINE_5__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a318\" ns1:type=\"noteref\" class=\"class_s2T8\">3</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "This began a somber trend that some have labeled “deaths of despair.” Characterized by rising rates of suicide, drug overdose, and alcohol-related deaths, the lives of displaced workers were turned upside down, struggling to adapt to economic upheaval. It is tragic.",
+      "translated_text": "이로써 일부가 “절망의 죽음”이라 부르는 음울한 추세가 시작됐다. 자살, 약물 과다복용, 알코올 관련 사망이 증가하는 가운데, 일자리를 잃은 노동자들의 삶은 뒤집혔고 경제적 격변에 적응하느라 몸부림쳤다. 비극적인 일이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "Consider these charts:",
+      "translated_text": "다음 차트들을 보라:",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "Joint Economic Committee, “Deaths of Despair and Its Components, 1900-2017, Crude Rates,” Social Capital Project analyses of CDC data, 2019, __INLINE_1____INLINE_2__.",
+      "translated_text": "합동경제위원회, “절망의 죽음과 그 구성요소, 1900-2017, 조정 전 비율,” Social Capital Project의 CDC 데이터 분석, 2019, __INLINE_1____INLINE_2__.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_31\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"https://www.jec.senate.gov/public/index.cfm/republicans/analysis/?id=B29A7E54-0E13-4C4D-83AA-6A49105F0F43\">jec.senate.gov/public/index.cfm/republicans/analysis/?id=B29A7E54-0E13-4C4D-83AA-6A49105F0F43</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "These trends are not good. Something is fundamentally wrong.",
+      "translated_text": "이런 추세는 좋지 않다. 뭔가가 근본적으로 잘못되어 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "Source: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death 1999-2022 on CDC WONDER Online Database, released 4/2024",
+      "translated_text": "출처: 질병통제예방센터(CDC) 국립보건통계센터. CDC WONDER 온라인 데이터베이스의 「복수 사망 원인, 1999-2022」, 2024년 4월 공개",
+      "inline_tokens": {}
+    }
+  ]
+}

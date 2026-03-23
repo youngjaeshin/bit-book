@@ -1,0 +1,20 @@
+{
+  "chapter_id": "03-economics-a",
+  "question_en": "How does the book characterize inflation in this section?",
+  "choices_en": [
+    "As neutral accounting noise",
+    "As a redistribution of purchasing power",
+    "As proof that money is unnecessary",
+    "As a harmless short-term stimulus only"
+  ],
+  "question_ko": "이 부분에서 책은 인플레이션을 어떻게 규정하는가?",
+  "choices_ko": [
+    "중립적인 회계 잡음으로",
+    "구매력을 재분배하는 메커니즘으로",
+    "화폐가 불필요하다는 증거로",
+    "무해한 단기 부양책으로만"
+  ],
+  "answer_index": 1,
+  "explanation_en": "New money is presented as shifting value away from holders of the diluting currency rather than creating real wealth.",
+  "explanation_ko": "새로운 돈은 진짜 부를 만드는 것이 아니라 희석되는 통화 보유자로부터 가치를 옮기는 것으로 제시된다."
+}

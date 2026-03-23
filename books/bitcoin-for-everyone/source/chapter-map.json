@@ -1,0 +1,241 @@
+{
+  "book_slug": "bitcoin-for-everyone",
+  "selection_rule": "Use the Korean EPUB as source of truth and merge adjacent TOC entries into 12 web-summary units.",
+  "part_groups": [
+    {
+      "part_number": 1,
+      "part_slug": "main",
+      "title": "Main Web Summary Units",
+      "toc_index": 1,
+      "included_chapter_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "included_chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "01-foreword-and-introduction",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 1,
+      "title": "서문과 들어가는 글",
+      "source_toc_indices": [
+        1,
+        2
+      ],
+      "src": "Text/Section0002.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/01-foreword-and-introduction.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/01-foreword-and-introduction.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/01-foreword-and-introduction.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/01-foreword-and-introduction.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/01-foreword-and-introduction.html"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "02-everyone-sees-the-problem",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 3,
+      "title": "모두가 문제를 체감하는 단계",
+      "source_toc_indices": [
+        3,
+        4
+      ],
+      "src": "Text/Section0004.xhtml#sigil_toc_id_1",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/02-everyone-sees-the-problem.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/02-everyone-sees-the-problem.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/02-everyone-sees-the-problem.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/02-everyone-sees-the-problem.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/02-everyone-sees-the-problem.html"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "03-what-school-should-have-taught-us",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 5,
+      "title": "학교에서 배웠어야 할 돈의 기본",
+      "source_toc_indices": [
+        5,
+        6
+      ],
+      "src": "Text/Section0008.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/03-what-school-should-have-taught-us.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/03-what-school-should-have-taught-us.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/03-what-school-should-have-taught-us.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/03-what-school-should-have-taught-us.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/03-what-school-should-have-taught-us.html"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "04-why-everyone-needs-money",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 7,
+      "title": "모두가 돈을 필요로 하는 이유",
+      "source_toc_indices": [
+        7,
+        8
+      ],
+      "src": "Text/5.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/04-why-everyone-needs-money.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/04-why-everyone-needs-money.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/04-why-everyone-needs-money.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/04-why-everyone-needs-money.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/04-why-everyone-needs-money.html"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "05-why-everyone-wants-dollars",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 9,
+      "title": "달러를 욕망하는 체제의 작동 방식",
+      "source_toc_indices": [
+        9,
+        10
+      ],
+      "src": "Text/7.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/05-why-everyone-wants-dollars.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/05-why-everyone-wants-dollars.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/05-why-everyone-wants-dollars.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/05-why-everyone-wants-dollars.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/05-why-everyone-wants-dollars.html"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "06-everyone-paid-the-price",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 11,
+      "title": "모두가 대가를 치르는 구조",
+      "source_toc_indices": [
+        11
+      ],
+      "src": "Text/9.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/06-everyone-paid-the-price.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/06-everyone-paid-the-price.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/06-everyone-paid-the-price.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/06-everyone-paid-the-price.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/06-everyone-paid-the-price.html"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "07-what-bitcoin-is",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 12,
+      "title": "비트코인은 무엇인가",
+      "source_toc_indices": [
+        12
+      ],
+      "src": "Text/10.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/07-what-bitcoin-is.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/07-what-bitcoin-is.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/07-what-bitcoin-is.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/07-what-bitcoin-is.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/07-what-bitcoin-is.html"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "08-everyone-can-verify-the-code",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 13,
+      "title": "누구나 코드를 검증할 수 있다",
+      "source_toc_indices": [
+        13
+      ],
+      "src": "Text/11.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/08-everyone-can-verify-the-code.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/08-everyone-can-verify-the-code.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/08-everyone-can-verify-the-code.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/08-everyone-can-verify-the-code.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/08-everyone-can-verify-the-code.html"
+    },
+    {
+      "chapter_number": 9,
+      "chapter_id": "09-energy-matters",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 14,
+      "title": "에너지가 핵심인 이유",
+      "source_toc_indices": [
+        14
+      ],
+      "src": "Text/12.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/09-energy-matters.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/09-energy-matters.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/09-energy-matters.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/09-energy-matters.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/09-energy-matters.html"
+    },
+    {
+      "chapter_number": 10,
+      "chapter_id": "10-the-internet-of-money",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 15,
+      "title": "돈의 인터넷에 접속하는 법",
+      "source_toc_indices": [
+        15
+      ],
+      "src": "Text/13.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/10-the-internet-of-money.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/10-the-internet-of-money.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/10-the-internet-of-money.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/10-the-internet-of-money.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/10-the-internet-of-money.html"
+    },
+    {
+      "chapter_number": 11,
+      "chapter_id": "11-why-everyone-needs-hope",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 16,
+      "title": "희망과 자기은행 되기",
+      "source_toc_indices": [
+        16,
+        17
+      ],
+      "src": "Text/14.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/11-why-everyone-needs-hope.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/11-why-everyone-needs-hope.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/11-why-everyone-needs-hope.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/11-why-everyone-needs-hope.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/11-why-everyone-needs-hope.html"
+    },
+    {
+      "chapter_number": 12,
+      "chapter_id": "12-what-makes-life-worthwhile",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 18,
+      "title": "가치 있는 삶과 마무리",
+      "source_toc_indices": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "src": "Text/16.xhtml",
+      "source_markdown_path": "books/bitcoin-for-everyone/source/chapters/12-what-makes-life-worthwhile.md",
+      "english_markdown_path": "books/bitcoin-for-everyone/content/en/chapters/12-what-makes-life-worthwhile.md",
+      "korean_markdown_path": "books/bitcoin-for-everyone/content/ko/chapters/12-what-makes-life-worthwhile.md",
+      "quiz_path": "books/bitcoin-for-everyone/quiz/chapters/12-what-makes-life-worthwhile.quiz.json",
+      "html_path": "books/bitcoin-for-everyone/site/chapters/12-what-makes-life-worthwhile.html"
+    }
+  ]
+}

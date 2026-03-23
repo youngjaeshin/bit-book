@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-preface-and-florin",
+  "answer_index": 1,
+  "question_en": "What does the opening claim money fundamentally is?",
+  "choices_en": [
+    "A flat set of interchangeable tokens",
+    "A layered hierarchy with base settlement and higher claims",
+    "Only a collection of coins in circulation",
+    "A system that becomes simpler over time"
+  ],
+  "question_ko": "서두는 돈을 근본적으로 무엇이라고 보는가?",
+  "choices_ko": [
+    "완전히 평평한 토큰 집합",
+    "기반 정산과 상위 청구권을 가진 레이어 위계",
+    "유통 중인 동전들의 모음일 뿐인 것",
+    "시간이 갈수록 단순해지는 시스템"
+  ],
+  "explanation_en": "The opening introduces money as a layered hierarchy of settlement assets and claims.",
+  "explanation_ko": "서두는 돈을 정산 자산과 청구권이 층위를 이루는 레이어 구조로 소개한다."
+}

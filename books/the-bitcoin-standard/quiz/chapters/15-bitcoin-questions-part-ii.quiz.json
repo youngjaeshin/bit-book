@@ -1,0 +1,20 @@
+{
+  "chapter_id": "15-bitcoin-questions-part-ii",
+  "answer_index": 1,
+  "question_en": "Why does Bitcoin stand apart from generic blockchain projects in this unit?",
+  "choices_en": [
+    "Because it has no costs",
+    "Because its architecture matches a real monetary use case",
+    "Because all blockchains are equally good money",
+    "Because criminals cannot use it"
+  ],
+  "question_ko": "이 단위에서 비트코인이 일반적인 블록체인 프로젝트와 구별되는 이유는 무엇인가?",
+  "choices_ko": [
+    "비용이 전혀 없기 때문에",
+    "그 구조가 실제 화폐적 용도와 맞아떨어지기 때문에",
+    "모든 블록체인이 똑같이 좋은 돈이기 때문에",
+    "범죄자가 사용할 수 없기 때문에"
+  ],
+  "explanation_en": "Bitcoin stands out because its costly architecture is justified by a real monetary problem it solves.",
+  "explanation_ko": "비트코인은 비용이 드는 구조가 실제 화폐 문제 해결과 맞물려 있기 때문에 두드러진다."
+}

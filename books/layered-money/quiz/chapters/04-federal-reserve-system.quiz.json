@@ -1,0 +1,20 @@
+{
+  "chapter_id": "04-federal-reserve-system",
+  "answer_index": 3,
+  "question_en": "What does the Federal Reserve represent in the layered framework?",
+  "choices_en": [
+    "A disappearing lower layer",
+    "A private coin standard",
+    "A noninstitutional market process",
+    "A central upper layer shaping reserves and credit"
+  ],
+  "question_ko": "레이어드 머니 틀에서 연준은 무엇을 대표하는가?",
+  "choices_ko": [
+    "사라져 가는 하위 레이어",
+    "사적 동전 표준",
+    "비제도적 시장 과정",
+    "준비금과 신용을 조정하는 중앙 상위 레이어"
+  ],
+  "explanation_en": "The Fed is presented as a central upper layer that conditions lower layers through reserve and policy power.",
+  "explanation_ko": "연준은 준비금과 정책 권력을 통해 하위 레이어를 조정하는 중앙 상층 레이어로 제시된다."
+}

@@ -1,0 +1,52 @@
+{
+  "chapter_id": "extra-14-keep-in-touch",
+  "title": "KEEP IN TOUCH",
+  "src": "part0039.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0039.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "KEEP IN TOUCH",
+      "translated_text": "계속 연락해 주세요",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "If you found this book interesting or helpful you can follow me on X/Twitter: @LawrenceLepard",
+      "translated_text": "이 책이 흥미롭거나 도움이 되었다면 X/Twitter에서 나를 팔로우할 수 있다: @LawrenceLepard",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "If you don’t have one already, I highly recommend getting X /Twitter /NOSTR accounts and following many of the people listed above. There is a lot of real-time information, or “signal,” to be discovered there.",
+      "translated_text": "아직 계정이 없다면, 나는 X/Twitter/NOSTR 계정을 만들고 위에 언급한 많은 사람들을 팔로우할 것을 강력히 권한다. 그곳에는 실시간 정보, 즉 진짜 “시그널”이 많이 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "David Foley, my business Partner, and I write a quarterly macro newsletter that discusses sound money issues. It is free. You can sign up at: __INLINE_1__. We will never spam you, and you can remove yourself from the list at any time. Several years of historical newsletters are also available on our website if you would like to look at our commentary over time.",
+      "translated_text": "내 비즈니스 파트너인 데이비드 폴리와 나는 건전 화폐 이슈를 다루는 분기별 거시 뉴스레터를 쓰고 있다. 무료다. 여기에서 신청할 수 있다: __INLINE_1__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"http://www.ema2.com\">www.ema2.com</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "Furthermore, in partnership with David Foley, James Lavish, Greg Foss, and Mark Moss, I am an Advisory Partner and Co-Founder of the Bitcoin Opportunity Fund, which pursues public and private investments in Bitcoin-related businesses. Accredited investors can participate in this fund.",
+      "translated_text": "또한 데이비드 폴리, 제임스 래비시, 그레그 포스, 마크 모스와의 파트너십을 통해, 나는 비트코인 관련 기업에 대한 상장 및 비상장 투자를 추구하는 Bitcoin Opportunity Fund의 자문 파트너이자 공동 창립자다. 적격 투자자는 이 펀드에 참여할 수 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "Additional information and updates on this book will be posted at: www.thebigprintbook.com",
+      "translated_text": "이 책에 관한 추가 정보와 업데이트는 다음 사이트에 게시될 것이다: www.thebigprintbook.com",
+      "inline_tokens": {}
+    }
+  ]
+}

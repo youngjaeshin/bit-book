@@ -1,0 +1,20 @@
+{
+  "chapter_id": "08-what-state-intervention-does",
+  "answer_index": 3,
+  "question_en": "What pattern of intervention is described here?",
+  "choices_en": [
+    "Intervention always reduces complexity",
+    "Intervention permanently restores market clarity",
+    "Intervention eliminates the need for money creation",
+    "Intervention creates secondary distortions that justify more intervention"
+  ],
+  "question_ko": "이 장은 국가 개입의 어떤 패턴을 설명하는가?",
+  "choices_ko": [
+    "개입은 언제나 복잡성을 줄인다",
+    "개입은 시장의 명료함을 영구히 회복한다",
+    "개입은 화폐 창조의 필요를 없앤다",
+    "개입이 2차 왜곡을 만들고 더 많은 개입을 정당화한다"
+  ],
+  "explanation_en": "The chapter presents interventionism as self-reinforcing: one distortion creates the rationale for another.",
+  "explanation_ko": "이 장은 개입주의를 자기강화적 구조로 본다. 하나의 왜곡이 다음 개입의 구실을 만든다는 것이다."
+}

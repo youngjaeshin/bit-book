@@ -1,0 +1,2013 @@
+[
+  {
+    "format": "EPUB",
+    "filename": "01_모두를 위한 비트코인(완성).epub",
+    "title": "[제목을 넣으세요]",
+    "author": "",
+    "language": "en",
+    "text_chars": 185330,
+    "toc_source": "ncx",
+    "toc_top_count": 21,
+    "sections": [
+      {
+        "label": "서문",
+        "href": "Text/Section0002.xhtml",
+        "chars": 2254
+      },
+      {
+        "label": "들어가는 글",
+        "href": "Text/Section0003.xhtml",
+        "chars": 6719
+      },
+      {
+        "label": "1장 모두 문제를 느낀다",
+        "href": "Text/Section0004.xhtml#sigil_toc_id_1",
+        "chars": 6063
+      },
+      {
+        "label": "2장 모두 더 열심히 일할수록 더 가난해진다",
+        "href": "Text/Section0006.xhtml#sigil_toc_id_2",
+        "chars": 7919
+      },
+      {
+        "label": "3장 모두 학교에서 배웠어야 할 것들",
+        "href": "Text/Section0008.xhtml",
+        "chars": 7760
+      },
+      {
+        "label": "4장 모두 돈 찍어내기의 영향을 받는다",
+        "href": "Text/Section0010.xhtml",
+        "chars": 11166
+      },
+      {
+        "label": "5장 모두 돈을 필요로 한다",
+        "href": "Text/5.xhtml",
+        "chars": 7927
+      },
+      {
+        "label": "6장 모두 신뢰하는 시스템",
+        "href": "Text/6.xhtml",
+        "chars": 9575
+      },
+      {
+        "label": "7장 모두 달러를 원한다",
+        "href": "Text/7.xhtml",
+        "chars": 5761
+      },
+      {
+        "label": "8장 모두 영향을 받는다",
+        "href": "Text/8.xhtml",
+        "chars": 10649
+      },
+      {
+        "label": "9장 모두 대가를 치렀다",
+        "href": "Text/9.xhtml",
+        "chars": 9440
+      },
+      {
+        "label": "10장 모두 묻는다\"비트코인은 대체 무엇인가?\"",
+        "href": "Text/10.xhtml",
+        "chars": 12464
+      },
+      {
+        "label": "11장 모두 비트코인 코드를 검증할 수 있다",
+        "href": "Text/11.xhtml",
+        "chars": 15812
+      },
+      {
+        "label": "12장 모두 에너지가 필요하다",
+        "href": "Text/12.xhtml",
+        "chars": 12152
+      },
+      {
+        "label": "13장 모두 돈의 인터넷에 접속할 수 있다",
+        "href": "Text/13.xhtml",
+        "chars": 11270
+      },
+      {
+        "label": "14장 모두 희망이 필요하다",
+        "href": "Text/14.xhtml",
+        "chars": 13422
+      },
+      {
+        "label": "15장 모두 자신의 은행이 될 수 있다",
+        "href": "Text/15.xhtml",
+        "chars": 10439
+      },
+      {
+        "label": "16장 모두 가치 있는 삶을 원한다",
+        "href": "Text/16.xhtml",
+        "chars": 7237
+      },
+      {
+        "label": "맺음말",
+        "href": "Text/17.xhtml",
+        "chars": 1741
+      },
+      {
+        "label": "감사의 글",
+        "href": "Text/18.xhtml",
+        "chars": 3322
+      },
+      {
+        "label": "용어 해설",
+        "href": "Text/19.xhtml",
+        "chars": 11877
+      }
+    ],
+    "order": 1
+  },
+  {
+    "format": "EPUB",
+    "filename": "02_Blind Robbery!.epub",
+    "title": "Blind Robbery!: How the Fed, Banks and Government Steal Our Money",
+    "author": "Philipp Bagus",
+    "language": "en",
+    "text_chars": 302515,
+    "toc_source": "ncx",
+    "toc_top_count": 18,
+    "sections": [
+      {
+        "label": "Title",
+        "href": "text/part0000.html",
+        "chars": 0
+      },
+      {
+        "label": "Imprint",
+        "href": "text/part0001.html",
+        "chars": 1230
+      },
+      {
+        "label": "Acknowledgements",
+        "href": "text/part0002.html#x9783862489084_Marquart_Blind_Robbery-3",
+        "chars": 154
+      },
+      {
+        "label": "Inscription",
+        "href": "text/part0003.html#x9783862489084_Marquart_Blind_Robbery-4",
+        "chars": 21
+      },
+      {
+        "label": "Contents",
+        "href": "text/part0004.html#x9783862489084_Marquart_Blind_Robbery-5",
+        "chars": 543
+      },
+      {
+        "label": "Preface",
+        "href": "text/part0005.html",
+        "chars": 2812
+      },
+      {
+        "label": "Introduction: Why this book is so explosive",
+        "href": "text/part0006.html",
+        "chars": 8793
+      },
+      {
+        "label": "1. Why money does not need the state",
+        "href": "text/part0007.html",
+        "chars": 23191
+      },
+      {
+        "label": "2. Who is allowed to create money and who is not",
+        "href": "text/part0008.html",
+        "chars": 30896
+      },
+      {
+        "label": "3. Why our current money creates social injustice",
+        "href": "text/part0009.html",
+        "chars": 34673
+      },
+      {
+        "label": "4. Why government money ruins us economically",
+        "href": "text/part0010.html",
+        "chars": 33617
+      },
+      {
+        "label": "5. How the state exploits you with inflation",
+        "href": "text/part0011.html",
+        "chars": 35370
+      },
+      {
+        "label": "6. What inflation does to people",
+        "href": "text/part0012.html",
+        "chars": 34772
+      },
+      {
+        "label": "7. What happens when the state intervenes in everything",
+        "href": "text/part0013.html",
+        "chars": 37986
+      },
+      {
+        "label": "8. How it will all end",
+        "href": "text/part0014.html",
+        "chars": 28967
+      },
+      {
+        "label": "9. Why you have not heard of this before",
+        "href": "text/part0015.html",
+        "chars": 26207
+      },
+      {
+        "label": "References",
+        "href": "text/part0016.html",
+        "chars": 2334
+      },
+      {
+        "label": "About the authors",
+        "href": "text/part0017.html",
+        "chars": 949
+      }
+    ],
+    "order": 2
+  },
+  {
+    "format": "EPUB",
+    "filename": "02_왜 그들만 부자가 되는가.epub",
+    "title": "Blind Robbery!: How the Fed, Banks and Government Steal Our Money",
+    "author": "Philipp Bagus",
+    "language": "en",
+    "text_chars": 156838,
+    "toc_source": "ncx",
+    "toc_top_count": 18,
+    "sections": [
+      {
+        "label": "Title",
+        "href": "text/part0000.html",
+        "chars": 0
+      },
+      {
+        "label": "Imprint",
+        "href": "text/part0001.html",
+        "chars": 1228
+      },
+      {
+        "label": "Acknowledgements",
+        "href": "text/part0002.html#x9783862489084_Marquart_Blind_Robbery-3",
+        "chars": 61
+      },
+      {
+        "label": "Inscription",
+        "href": "text/part0003.html#x9783862489084_Marquart_Blind_Robbery-4",
+        "chars": 13
+      },
+      {
+        "label": "Contents",
+        "href": "text/part0004.html#x9783862489084_Marquart_Blind_Robbery-5",
+        "chars": 229
+      },
+      {
+        "label": "Preface",
+        "href": "text/part0005.html",
+        "chars": 1371
+      },
+      {
+        "label": "Introduction: Why this book is so explosive",
+        "href": "text/part0006.html",
+        "chars": 4483
+      },
+      {
+        "label": "1. Why money does not need the state",
+        "href": "text/part0007.html",
+        "chars": 11735
+      },
+      {
+        "label": "2. Who is allowed to create money and who is not",
+        "href": "text/part0008.html",
+        "chars": 15557
+      },
+      {
+        "label": "3. Why our current money creates social injustice",
+        "href": "text/part0009.html",
+        "chars": 18363
+      },
+      {
+        "label": "4. Why government money ruins us economically",
+        "href": "text/part0010.html",
+        "chars": 16224
+      },
+      {
+        "label": "5. How the state exploits you with inflation",
+        "href": "text/part0011.html",
+        "chars": 17748
+      },
+      {
+        "label": "6. What inflation does to people",
+        "href": "text/part0012.html",
+        "chars": 18285
+      },
+      {
+        "label": "7. What happens when the state intervenes in everything",
+        "href": "text/part0013.html",
+        "chars": 19773
+      },
+      {
+        "label": "8. How it will all end",
+        "href": "text/part0014.html",
+        "chars": 14640
+      },
+      {
+        "label": "9. Why you have not heard of this before",
+        "href": "text/part0015.html",
+        "chars": 14310
+      },
+      {
+        "label": "References",
+        "href": "text/part0016.html",
+        "chars": 2305
+      },
+      {
+        "label": "About the authors",
+        "href": "text/part0017.html",
+        "chars": 513
+      }
+    ],
+    "order": 2
+  },
+  {
+    "format": "EPUB",
+    "filename": "03. The Bitcoin Standard.epub",
+    "title": "The Bitcoin Standard",
+    "author": "Saifedean Ammous",
+    "language": "en-US",
+    "text_chars": 651704,
+    "toc_source": "nav",
+    "toc_top_count": 21,
+    "sections": [
+      {
+        "label": "Cover",
+        "href": "cover.xhtml",
+        "chars": 5167
+      },
+      {
+        "label": "Title Page",
+        "href": "title.xhtml",
+        "chars": 2904
+      },
+      {
+        "label": "About the Author",
+        "href": "fbetw01.xhtml",
+        "chars": 241
+      },
+      {
+        "label": "Foreword",
+        "href": "fbetw02.xhtml",
+        "chars": 3405
+      },
+      {
+        "label": "Prologue",
+        "href": "flast.xhtml",
+        "chars": 8183
+      },
+      {
+        "label": "Chapter 1: Money",
+        "href": "c01.xhtml",
+        "chars": 22137
+      },
+      {
+        "label": "Chapter 2: Primitive Moneys",
+        "href": "c02.xhtml",
+        "chars": 12550
+      },
+      {
+        "label": "Chapter 3: Monetary Metals",
+        "href": "c03.xhtml",
+        "chars": 51582
+      },
+      {
+        "label": "Chapter 4: Government Money",
+        "href": "c04.xhtml",
+        "chars": 71353
+      },
+      {
+        "label": "Chapter 5: Money and Time Preference",
+        "href": "c05.xhtml",
+        "chars": 69541
+      },
+      {
+        "label": "Chapter 6: Capitalism's Information System",
+        "href": "c06.xhtml",
+        "chars": 67140
+      },
+      {
+        "label": "Chapter 7: Sound Money and Individual Freedom",
+        "href": "c07.xhtml",
+        "chars": 74310
+      },
+      {
+        "label": "Chapter 8: Digital Money",
+        "href": "c08.xhtml",
+        "chars": 52623
+      },
+      {
+        "label": "Chapter 9: What Is Bitcoin Good For?",
+        "href": "c09.xhtml",
+        "chars": 54860
+      },
+      {
+        "label": "Chapter 10: Bitcoin Questions",
+        "href": "c10.xhtml",
+        "chars": 135421
+      },
+      {
+        "label": "Acknowledgements",
+        "href": "back.xhtml",
+        "chars": 2205
+      },
+      {
+        "label": "Bibliography",
+        "href": "bref.xhtml",
+        "chars": 11252
+      },
+      {
+        "label": "List of Figures",
+        "href": "both01.xhtml",
+        "chars": 1614
+      },
+      {
+        "label": "List of Tables",
+        "href": "both02.xhtml",
+        "chars": 795
+      },
+      {
+        "label": "Index",
+        "href": "bindex.xhtml",
+        "chars": 4330
+      },
+      {
+        "label": "End User License Agreement",
+        "href": "eula.xhtml",
+        "chars": 91
+      }
+    ],
+    "order": 3
+  },
+  {
+    "format": "EPUB",
+    "filename": "03. 달러는 왜 비트코인을 싫어하는가.epub",
+    "title": "2. 달러는 왜 비트코인을 싫어하는가",
+    "author": "사이페딘 아모스",
+    "language": "en",
+    "text_chars": 310851,
+    "toc_source": "ncx",
+    "toc_top_count": 1,
+    "sections": [
+      {
+        "label": "시작",
+        "href": "titlepage.xhtml",
+        "chars": 310851
+      }
+    ],
+    "order": 3
+  },
+  {
+    "format": "EPUB",
+    "filename": "04. 21 Lessons.epub",
+    "title": "21 Lessons: What I've Learned From Falling Down the Bitcoin Rabbit Hole",
+    "author": "Gigi",
+    "language": "en",
+    "text_chars": 139766,
+    "toc_source": "ncx",
+    "toc_top_count": 4,
+    "sections": [
+      {
+        "label": "I Philosophy",
+        "href": "OEBPS/part0012.xhtml#a1NR",
+        "chars": 15218
+      },
+      {
+        "label": "II Economics",
+        "href": "OEBPS/part0022.xhtml#a1NZ",
+        "chars": 41693
+      },
+      {
+        "label": "III Technology",
+        "href": "OEBPS/part0037.xhtml#a1P7",
+        "chars": 37481
+      },
+      {
+        "label": "III Final Thoughts",
+        "href": "OEBPS/part0047.xhtml#a1PF",
+        "chars": 31756
+      }
+    ],
+    "order": 4
+  },
+  {
+    "format": "EPUB",
+    "filename": "04. 21가지 교훈.epub",
+    "title": "21 Lessons: What I've Learned From Falling Down the Bitcoin Rabbit Hole",
+    "author": "Gigi",
+    "language": "en",
+    "text_chars": 82653,
+    "toc_source": "ncx",
+    "toc_top_count": 4,
+    "sections": [
+      {
+        "label": "I Philosophy",
+        "href": "OEBPS/part0012.xhtml#a1NR",
+        "chars": 7979
+      },
+      {
+        "label": "II Economics",
+        "href": "OEBPS/part0022.xhtml#a1NZ",
+        "chars": 20327
+      },
+      {
+        "label": "III Technology",
+        "href": "OEBPS/part0037.xhtml#a1P7",
+        "chars": 18958
+      },
+      {
+        "label": "III Final Thoughts",
+        "href": "OEBPS/part0047.xhtml#a1PF",
+        "chars": 28118
+      }
+    ],
+    "order": 4
+  },
+  {
+    "format": "EPUB",
+    "filename": "05. The Fiat Standard.epub",
+    "title": "The Fiat Standard",
+    "author": "Saifedean Ammous",
+    "language": "en",
+    "text_chars": 719874,
+    "toc_source": "ncx",
+    "toc_top_count": 10,
+    "sections": [
+      {
+        "label": "About the Author",
+        "href": "index_split_004.html",
+        "chars": 501
+      },
+      {
+        "label": "Supporters",
+        "href": "index_split_005.html",
+        "chars": 8090
+      },
+      {
+        "label": "Foreword by Ross Stevens",
+        "href": "index_split_006.html",
+        "chars": 7699
+      },
+      {
+        "label": "Part I. Fiat Money",
+        "href": "index_split_008.html#filepos34860",
+        "chars": 183562
+      },
+      {
+        "label": "Part II. Fiat Life",
+        "href": "index_split_015.html#filepos251021",
+        "chars": 255297
+      },
+      {
+        "label": "Part III. The Fiat Liquidator",
+        "href": "index_split_022.html#filepos554539",
+        "chars": 218884
+      },
+      {
+        "label": "Acknowledgments",
+        "href": "index_split_029.html",
+        "chars": 3856
+      },
+      {
+        "label": "Bibliography",
+        "href": "index_split_030.html",
+        "chars": 17416
+      },
+      {
+        "label": "List of Figures",
+        "href": "index_split_031.html",
+        "chars": 4288
+      },
+      {
+        "label": "Notes",
+        "href": "index_split_032.html",
+        "chars": 17707
+      }
+    ],
+    "order": 5
+  },
+  {
+    "format": "EPUB",
+    "filename": "05. fixed_피아트 스탠다드.epub",
+    "title": "The Fiat Standard",
+    "author": "Saifedean Ammous",
+    "language": "en",
+    "text_chars": 343087,
+    "toc_source": "ncx",
+    "toc_top_count": 10,
+    "sections": [
+      {
+        "label": "About the Author",
+        "href": "index_split_004.html",
+        "chars": null
+      },
+      {
+        "label": "Supporters",
+        "href": "index_split_005.html",
+        "chars": null
+      },
+      {
+        "label": "Foreword by Ross Stevens",
+        "href": "index_split_006.html",
+        "chars": null
+      },
+      {
+        "label": "Part I. Fiat Money",
+        "href": "index_split_008.html#filepos34860",
+        "chars": 84837
+      },
+      {
+        "label": "Part II. Fiat Life",
+        "href": "index_split_015.html#filepos251021",
+        "chars": 120111
+      },
+      {
+        "label": "Part III. The Fiat Liquidator",
+        "href": "index_split_022.html#filepos554539",
+        "chars": 101128
+      },
+      {
+        "label": "Acknowledgments",
+        "href": "index_split_029.html",
+        "chars": 1888
+      },
+      {
+        "label": "Bibliography",
+        "href": "index_split_030.html",
+        "chars": 34797
+      },
+      {
+        "label": "List of Figures",
+        "href": "index_split_031.html",
+        "chars": null
+      },
+      {
+        "label": "Notes",
+        "href": "index_split_032.html",
+        "chars": 17389
+      }
+    ],
+    "order": 5
+  },
+  {
+    "format": "EPUB",
+    "filename": "06. The Bullish Case for Bitcoin.epub",
+    "title": "The Bullish Case for Bitcoin",
+    "author": "Vijay Boyapati",
+    "language": "en",
+    "text_chars": 136825,
+    "toc_source": "ncx",
+    "toc_top_count": 11,
+    "sections": [
+      {
+        "label": "Foreword",
+        "href": "text/part0003.html#2RHM0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 5446
+      },
+      {
+        "label": "Prologue",
+        "href": "text/part0005.html#4OIQ0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 11440
+      },
+      {
+        "label": "1. Genesis and the Origins of Money",
+        "href": "text/part0007.html#6LJU0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 7737
+      },
+      {
+        "label": "2. The Attributes of a Good Store of Value",
+        "href": "text/part0009.html#8IL20-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 12578
+      },
+      {
+        "label": "3. The Evolution of Money",
+        "href": "text/part0011.html#AFM60-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 9719
+      },
+      {
+        "label": "4. The Shape of Monetization",
+        "href": "text/part0013.html#CCNA0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 22044
+      },
+      {
+        "label": "5. A New Monetary Base",
+        "href": "text/part0015.html#E9OE0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 47982
+      },
+      {
+        "label": "Epilogue",
+        "href": "text/part0017.html#G6PI0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 11246
+      },
+      {
+        "label": "Acknowledgments",
+        "href": "text/part0019.html#I3QM0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 2062
+      },
+      {
+        "label": "Disclaimer",
+        "href": "text/part0020.html#J2B80-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 223
+      },
+      {
+        "label": "About the Author",
+        "href": "text/part0021_split_000.html#K0RQ0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 4419
+      }
+    ],
+    "order": 6
+  },
+  {
+    "format": "EPUB",
+    "filename": "06. 비트코인 낙관론.epub",
+    "title": "The Bullish Case for Bitcoin",
+    "author": "Vijay Boyapati",
+    "language": "en",
+    "text_chars": 63037,
+    "toc_source": "ncx",
+    "toc_top_count": 11,
+    "sections": [
+      {
+        "label": "Foreword",
+        "href": "text/part0003.html#2RHM0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 2475
+      },
+      {
+        "label": "Prologue",
+        "href": "text/part0005.html#4OIQ0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 5173
+      },
+      {
+        "label": "1. Genesis and the Origins of Money",
+        "href": "text/part0007.html#6LJU0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 3480
+      },
+      {
+        "label": "2. The Attributes of a Good Store of Value",
+        "href": "text/part0009.html#8IL20-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 5154
+      },
+      {
+        "label": "3. The Evolution of Money",
+        "href": "text/part0011.html#AFM60-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 4427
+      },
+      {
+        "label": "4. The Shape of Monetization",
+        "href": "text/part0013.html#CCNA0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 9663
+      },
+      {
+        "label": "5. A New Monetary Base",
+        "href": "text/part0015.html#E9OE0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 21071
+      },
+      {
+        "label": "Epilogue",
+        "href": "text/part0017.html#G6PI0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 5338
+      },
+      {
+        "label": "Acknowledgments",
+        "href": "text/part0019.html#I3QM0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 1209
+      },
+      {
+        "label": "Disclaimer",
+        "href": "text/part0020.html#J2B80-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 110
+      },
+      {
+        "label": "About the Author",
+        "href": "text/part0021_split_000.html#K0RQ0-a0ba76e649554092a63ebf0e62dbbf4e",
+        "chars": 3735
+      }
+    ],
+    "order": 6
+  },
+  {
+    "format": "EPUB",
+    "filename": "07. Layered Money.epub",
+    "title": "Layered Money. From Gold and Dollars to Bitcoin and Central Bank Digital Currencies",
+    "author": "Nik Bhatia",
+    "language": "en",
+    "text_chars": 223915,
+    "toc_source": "ncx",
+    "toc_top_count": 14,
+    "sections": [
+      {
+        "label": "Preface",
+        "href": "Text/preface.xhtml",
+        "chars": 5579
+      },
+      {
+        "label": "1. Fiorino d’Oro (Florin of Gold)",
+        "href": "Text/chapter001.xhtml",
+        "chars": 14225
+      },
+      {
+        "label": "2. The Emergence of Layered Money",
+        "href": "Text/chapter002.xhtml",
+        "chars": 21862
+      },
+      {
+        "label": "3. Central Banking",
+        "href": "Text/chapter003.xhtml",
+        "chars": 22682
+      },
+      {
+        "label": "4. Federal Reserve System",
+        "href": "Text/chapter004.xhtml",
+        "chars": 13731
+      },
+      {
+        "label": "5. Retiring Gold",
+        "href": "Text/chapter005.xhtml",
+        "chars": 17204
+      },
+      {
+        "label": "6. Dollar in Disrepair",
+        "href": "Text/chapter006.xhtml",
+        "chars": 29062
+      },
+      {
+        "label": "7. A Renaissance of Money",
+        "href": "Text/chapter007.xhtml",
+        "chars": 30098
+      },
+      {
+        "label": "8. Layered Bitcoin",
+        "href": "Text/chapter008.xhtml",
+        "chars": 26078
+      },
+      {
+        "label": "9. Central Bank Digital Currencies",
+        "href": "Text/chapter009.xhtml",
+        "chars": 18336
+      },
+      {
+        "label": "10. Freedom of Currency Denomination",
+        "href": "Text/chapter010.xhtml",
+        "chars": 6382
+      },
+      {
+        "label": "Acknowledgements",
+        "href": "Text/ackn.xhtml",
+        "chars": 1144
+      },
+      {
+        "label": "References",
+        "href": "Text/books.xhtml",
+        "chars": 12802
+      },
+      {
+        "label": "About the Author",
+        "href": "Text/about.xhtml",
+        "chars": 3786
+      }
+    ],
+    "order": 7
+  },
+  {
+    "format": "EPUB",
+    "filename": "07. 레이어드 머니.epub",
+    "title": "Layered Money. From Gold and Dollars to Bitcoin and Central Bank Digital Currencies",
+    "author": "Nik Bhatia",
+    "language": "en",
+    "text_chars": 122962,
+    "toc_source": "ncx",
+    "toc_top_count": 14,
+    "sections": [
+      {
+        "label": "Preface",
+        "href": "Text/preface.xhtml",
+        "chars": 2507
+      },
+      {
+        "label": "1. Fiorino d’Oro (Florin of Gold)",
+        "href": "Text/chapter001.xhtml",
+        "chars": 6540
+      },
+      {
+        "label": "2. The Emergence of Layered Money",
+        "href": "Text/chapter002.xhtml",
+        "chars": 11332
+      },
+      {
+        "label": "3. Central Banking",
+        "href": "Text/chapter003.xhtml",
+        "chars": 12321
+      },
+      {
+        "label": "4. Federal Reserve System",
+        "href": "Text/chapter004.xhtml",
+        "chars": 6586
+      },
+      {
+        "label": "5. Retiring Gold",
+        "href": "Text/chapter005.xhtml",
+        "chars": 8011
+      },
+      {
+        "label": "6. Dollar in Disrepair",
+        "href": "Text/chapter006.xhtml",
+        "chars": 15717
+      },
+      {
+        "label": "7. A Renaissance of Money",
+        "href": "Text/chapter007.xhtml",
+        "chars": 15463
+      },
+      {
+        "label": "8. Layered Bitcoin",
+        "href": "Text/chapter008.xhtml",
+        "chars": 13424
+      },
+      {
+        "label": "9. Central Bank Digital Currencies",
+        "href": "Text/chapter009.xhtml",
+        "chars": 9473
+      },
+      {
+        "label": "10. Freedom of Currency Denomination",
+        "href": "Text/chapter010.xhtml",
+        "chars": 3133
+      },
+      {
+        "label": "Acknowledgements",
+        "href": "Text/ackn.xhtml",
+        "chars": 1133
+      },
+      {
+        "label": "References",
+        "href": "Text/books.xhtml",
+        "chars": 12796
+      },
+      {
+        "label": "About the Author",
+        "href": "Text/about.xhtml",
+        "chars": 3776
+      }
+    ],
+    "order": 7
+  },
+  {
+    "format": "EPUB",
+    "filename": "08. 비트코인 디플로마.epub",
+    "title": "[메인 제목을 넣으세요]",
+    "author": "",
+    "language": "en",
+    "text_chars": 105760,
+    "toc_source": "nav",
+    "toc_top_count": 13,
+    "sections": [
+      {
+        "label": "제1장. 왜 우리는 돈이 필요한가?",
+        "href": "Section0001.xhtml",
+        "chars": 611
+      },
+      {
+        "label": "제2장. 돈이란 무엇인가?",
+        "href": "Section0002.xhtml",
+        "chars": 8182
+      },
+      {
+        "label": "제3장. 돈의 역사",
+        "href": "Section0003.xhtml",
+        "chars": 5869
+      },
+      {
+        "label": "제4장. 명목화폐란 무엇이며, 누가 통제하는가?",
+        "href": "Section0004.xhtml",
+        "chars": 10794
+      },
+      {
+        "label": "제5장. 문제를 어떻게 해결해야 하는가?",
+        "href": "Section0005.xhtml",
+        "chars": 13905
+      },
+      {
+        "label": "제6장. 비트코인 소개",
+        "href": "Section0006.xhtml",
+        "chars": 11958
+      },
+      {
+        "label": "제7장. 비트코인 사용법",
+        "href": "Section0007.xhtml",
+        "chars": 10747
+      },
+      {
+        "label": "제8장. 라이트닝 네트워크: 일상에서 비트코인 사용하기",
+        "href": "Section0008.xhtml",
+        "chars": 8541
+      },
+      {
+        "label": "제9장. 비트코인 기술 이해",
+        "href": "Section0009.xhtml",
+        "chars": 18871
+      },
+      {
+        "label": "제10장. 왜 비트코인인가?",
+        "href": "Section0010.xhtml",
+        "chars": 5681
+      },
+      {
+        "label": "추가 자료",
+        "href": "Section0011.xhtml",
+        "chars": 1124
+      },
+      {
+        "label": "핵심 개념",
+        "href": "Section0012.xhtml",
+        "chars": 3076
+      },
+      {
+        "label": "용어집",
+        "href": "Section0013.xhtml",
+        "chars": 6196
+      }
+    ],
+    "order": 8
+  },
+  {
+    "format": "EPUB",
+    "filename": "09. 비트코인 백서 해설.epub",
+    "title": "비트코인백서(완성)",
+    "author": "-",
+    "language": "ko",
+    "text_chars": 599612,
+    "toc_source": "nav",
+    "toc_top_count": 1,
+    "sections": [
+      {
+        "label": "챕터 1",
+        "href": "chapter-1.xhtml",
+        "chars": 599612
+      }
+    ],
+    "order": 9
+  },
+  {
+    "format": "PDF",
+    "filename": "10_비트코인 사용 가이드.pdf",
+    "title": "비트코인 사용 가이드",
+    "author": "",
+    "pages": 1379,
+    "toc_top_count": 8,
+    "sections": [
+      {
+        "label": "서문",
+        "start_page": 7,
+        "end_page": 11,
+        "pages": 5
+      },
+      {
+        "label": "감수의 글",
+        "start_page": 12,
+        "end_page": 25,
+        "pages": 14
+      },
+      {
+        "label": "1부. 셀프 커스터디 가이드",
+        "start_page": 26,
+        "end_page": 523,
+        "pages": 498
+      },
+      {
+        "label": "2부. 비트코인 스탠다드 가이드",
+        "start_page": 524,
+        "end_page": 573,
+        "pages": 50
+      },
+      {
+        "label": "3부. 풀 노드 운영 가이드",
+        "start_page": 574,
+        "end_page": 841,
+        "pages": 268
+      },
+      {
+        "label": "4부. 라이트닝 노드 운영 가이드",
+        "start_page": 842,
+        "end_page": 1037,
+        "pages": 196
+      },
+      {
+        "label": "5부. 노스터 가이드",
+        "start_page": 1038,
+        "end_page": 1135,
+        "pages": 98
+      },
+      {
+        "label": "6부. 홈 채굴 가이드",
+        "start_page": 1136,
+        "end_page": 1379,
+        "pages": 244
+      }
+    ],
+    "order": 10
+  },
+  {
+    "format": "EPUB",
+    "filename": "11. The Blocksize War.epub",
+    "title": "The Blocksize War: The battle for control over Bitcoin’s protocol rules",
+    "author": "Jonathan Bier",
+    "language": "en",
+    "text_chars": 390718,
+    "toc_source": "ncx",
+    "toc_top_count": 21,
+    "sections": [
+      {
+        "label": "1 First Strike",
+        "href": "text/part0003_split_000.html",
+        "chars": 27147
+      },
+      {
+        "label": "2 March To War",
+        "href": "text/part0004_split_000.html",
+        "chars": 39120
+      },
+      {
+        "label": "3 Scaling I - Montreal",
+        "href": "text/part0005_split_000.html",
+        "chars": 16774
+      },
+      {
+        "label": "4 Scaling II - Hong Kong",
+        "href": "text/part0006_split_000.html",
+        "chars": 17512
+      },
+      {
+        "label": "5 SegWit",
+        "href": "text/part0007_split_000.html",
+        "chars": 13842
+      },
+      {
+        "label": "6 Lightning Network",
+        "href": "text/part0008_split_000.html",
+        "chars": 9055
+      },
+      {
+        "label": "7 Bitcoin Classic",
+        "href": "text/part0009_split_000.html",
+        "chars": 33503
+      },
+      {
+        "label": "8 Hong Kong Roundtable",
+        "href": "text/part0010_split_000.html",
+        "chars": 14608
+      },
+      {
+        "label": "9 Faketoshi",
+        "href": "text/part0011_split_000.html",
+        "chars": 10274
+      },
+      {
+        "label": "10 The DAO",
+        "href": "text/part0012_split_000.html",
+        "chars": 21002
+      },
+      {
+        "label": "11 Scaling III - Milan",
+        "href": "text/part0013_split_000.html",
+        "chars": 7547
+      },
+      {
+        "label": "12 Bitcoin Unlimited",
+        "href": "text/part0014_split_000.html",
+        "chars": 20672
+      },
+      {
+        "label": "13 Exchanges",
+        "href": "text/part0015_split_000.html",
+        "chars": 7842
+      },
+      {
+        "label": "14 ASICBoost",
+        "href": "text/part0016_split_000.html",
+        "chars": 13434
+      },
+      {
+        "label": "15 Dragons ’ Den",
+        "href": "text/part0017_split_000.html",
+        "chars": 4446
+      },
+      {
+        "label": "16 Litecoin",
+        "href": "text/part0018_split_000.html",
+        "chars": 9397
+      },
+      {
+        "label": "17 User - Activated Softfork",
+        "href": "text/part0019_split_000.html",
+        "chars": 22662
+      },
+      {
+        "label": "18 New York Agreement",
+        "href": "text/part0020_split_000.html",
+        "chars": 25073
+      },
+      {
+        "label": "19 Bitcoin Cash",
+        "href": "text/part0021_split_000.html",
+        "chars": 19298
+      },
+      {
+        "label": "20 SegWit2x",
+        "href": "text/part0022_split_000.html",
+        "chars": 24660
+      },
+      {
+        "label": "21 Victory",
+        "href": "text/part0023_split_000.html",
+        "chars": 30740
+      }
+    ],
+    "order": 11
+  },
+  {
+    "format": "EPUB",
+    "filename": "11. 블록사이즈 전쟁.epub",
+    "title": "The Blocksize War: The battle for control over Bitcoin’s protocol rules",
+    "author": "Jonathan Bier",
+    "language": "en",
+    "text_chars": 198064,
+    "toc_source": "ncx",
+    "toc_top_count": 21,
+    "sections": [
+      {
+        "label": "1 First Strike",
+        "href": "text/part0003_split_000.html",
+        "chars": 13804
+      },
+      {
+        "label": "2 March To War",
+        "href": "text/part0004_split_000.html",
+        "chars": 20183
+      },
+      {
+        "label": "3 Scaling I - Montreal",
+        "href": "text/part0005_split_000.html",
+        "chars": 8049
+      },
+      {
+        "label": "4 Scaling II - Hong Kong",
+        "href": "text/part0006_split_000.html",
+        "chars": 7730
+      },
+      {
+        "label": "5 SegWit",
+        "href": "text/part0007_split_000.html",
+        "chars": 6735
+      },
+      {
+        "label": "6 Lightning Network",
+        "href": "text/part0008_split_000.html",
+        "chars": 4986
+      },
+      {
+        "label": "7 Bitcoin Classic",
+        "href": "text/part0009_split_000.html",
+        "chars": 17520
+      },
+      {
+        "label": "8 Hong Kong Roundtable",
+        "href": "text/part0010_split_000.html",
+        "chars": 6653
+      },
+      {
+        "label": "9 Faketoshi",
+        "href": "text/part0011_split_000.html",
+        "chars": 5117
+      },
+      {
+        "label": "10 The DAO",
+        "href": "text/part0012_split_000.html",
+        "chars": 10429
+      },
+      {
+        "label": "11 Scaling III - Milan",
+        "href": "text/part0013_split_000.html",
+        "chars": 3374
+      },
+      {
+        "label": "12 Bitcoin Unlimited",
+        "href": "text/part0014_split_000.html",
+        "chars": 9485
+      },
+      {
+        "label": "13 Exchanges",
+        "href": "text/part0015_split_000.html",
+        "chars": 3400
+      },
+      {
+        "label": "14 ASICBoost",
+        "href": "text/part0016_split_000.html",
+        "chars": 6484
+      },
+      {
+        "label": "15 Dragons ’ Den",
+        "href": "text/part0017_split_000.html",
+        "chars": 2002
+      },
+      {
+        "label": "16 Litecoin",
+        "href": "text/part0018_split_000.html",
+        "chars": 4770
+      },
+      {
+        "label": "17 User - Activated Softfork",
+        "href": "text/part0019_split_000.html",
+        "chars": 11248
+      },
+      {
+        "label": "18 New York Agreement",
+        "href": "text/part0020_split_000.html",
+        "chars": 11964
+      },
+      {
+        "label": "19 Bitcoin Cash",
+        "href": "text/part0021_split_000.html",
+        "chars": 8991
+      },
+      {
+        "label": "20 SegWit2x",
+        "href": "text/part0022_split_000.html",
+        "chars": 12100
+      },
+      {
+        "label": "21 Victory",
+        "href": "text/part0023_split_000.html",
+        "chars": 21782
+      }
+    ],
+    "order": 11
+  },
+  {
+    "format": "EPUB",
+    "filename": "12. Bitcoin Handbook.epub",
+    "title": "The Bitcoin Handbook",
+    "author": "Anil Patel",
+    "language": "en-US",
+    "text_chars": 79217,
+    "toc_source": "nav",
+    "toc_top_count": 64,
+    "sections": [
+      {
+        "label": "Testimonials",
+        "href": "xhtml/xhtml-0-4.xhtml#aid_96",
+        "chars": 1750
+      },
+      {
+        "label": "Table of Contents",
+        "href": "xhtml/xhtml-0-5.xhtml#aid_2",
+        "chars": 1270
+      },
+      {
+        "label": "PREFACE",
+        "href": "xhtml/xhtml-0-6.xhtml#aid_118",
+        "chars": 649
+      },
+      {
+        "label": "FOREWORD",
+        "href": "xhtml/xhtml-0-7.xhtml#aid_81",
+        "chars": 1939
+      },
+      {
+        "label": "Part I: ECONOMICS",
+        "href": "xhtml/xhtml-0-8.xhtml#aid_88",
+        "chars": 18
+      },
+      {
+        "label": "Scarcity",
+        "href": "xhtml/xhtml-0-9.xhtml#aid_80",
+        "chars": 1319
+      },
+      {
+        "label": "Monetary Premium",
+        "href": "xhtml/xhtml-0-10.xhtml#aid_70",
+        "chars": 739
+      },
+      {
+        "label": "Gresham’s Law",
+        "href": "xhtml/xhtml-0-11.xhtml#aid_86",
+        "chars": 1623
+      },
+      {
+        "label": "Thier’s Law",
+        "href": "xhtml/xhtml-0-12.xhtml#aid_97",
+        "chars": 487
+      },
+      {
+        "label": "Cantillon Effect",
+        "href": "xhtml/xhtml-0-13.xhtml#aid_99",
+        "chars": 1778
+      },
+      {
+        "label": "Schelling Point",
+        "href": "xhtml/xhtml-0-14.xhtml#aid_75",
+        "chars": 1812
+      },
+      {
+        "label": "Opportunity Cost",
+        "href": "xhtml/xhtml-0-15.xhtml#aid_93",
+        "chars": 1138
+      },
+      {
+        "label": "Time Preference",
+        "href": "xhtml/xhtml-0-16.xhtml#aid_65",
+        "chars": 1242
+      },
+      {
+        "label": "Impossible Trinity",
+        "href": "xhtml/xhtml-0-17.xhtml#aid_82",
+        "chars": 1358
+      },
+      {
+        "label": "Jevons Paradox",
+        "href": "xhtml/xhtml-0-18.xhtml#aid_107",
+        "chars": 2365
+      },
+      {
+        "label": "Power Laws",
+        "href": "xhtml/xhtml-0-19.xhtml#aid_128",
+        "chars": 1023
+      },
+      {
+        "label": "Winner-Takes-All Effects",
+        "href": "xhtml/xhtml-0-20.xhtml#aid_79",
+        "chars": 1055
+      },
+      {
+        "label": "Unit Bias",
+        "href": "xhtml/xhtml-0-21.xhtml#aid_109",
+        "chars": 1182
+      },
+      {
+        "label": "Veblen Good",
+        "href": "xhtml/xhtml-0-22.xhtml#aid_71",
+        "chars": 1139
+      },
+      {
+        "label": "Malinvestment",
+        "href": "xhtml/xhtml-0-23.xhtml#aid_123",
+        "chars": 1138
+      },
+      {
+        "label": "Asymmetric Payoff",
+        "href": "xhtml/xhtml-0-24.xhtml#aid_76",
+        "chars": 1291
+      },
+      {
+        "label": "Ansoff Matrix",
+        "href": "xhtml/xhtml-0-25.xhtml#aid_87",
+        "chars": 2253
+      },
+      {
+        "label": "Part II: TECHNOLOGY & SYSTEMS",
+        "href": "xhtml/xhtml-0-26.xhtml#aid_120",
+        "chars": 30
+      },
+      {
+        "label": "Orders of Magnitude",
+        "href": "xhtml/xhtml-0-27.xhtml#aid_110",
+        "chars": 922
+      },
+      {
+        "label": "10x Improvement Rule",
+        "href": "xhtml/xhtml-0-28.xhtml#aid_98",
+        "chars": 900
+      },
+      {
+        "label": "Network Effects",
+        "href": "xhtml/xhtml-0-29.xhtml#aid_66",
+        "chars": 1523
+      },
+      {
+        "label": "Churn",
+        "href": "xhtml/xhtml-0-30.xhtml#aid_100",
+        "chars": 742
+      },
+      {
+        "label": "Friction",
+        "href": "xhtml/xhtml-0-31.xhtml#aid_105",
+        "chars": 1979
+      },
+      {
+        "label": "Accelerating Returns",
+        "href": "xhtml/xhtml-0-32.xhtml#aid_67",
+        "chars": 1308
+      },
+      {
+        "label": "Higher Order Effects",
+        "href": "xhtml/xhtml-0-33.xhtml#aid_124",
+        "chars": 999
+      },
+      {
+        "label": "Creative Destruction",
+        "href": "xhtml/xhtml-0-34.xhtml#aid_94",
+        "chars": 1804
+      },
+      {
+        "label": "Feedback Loops",
+        "href": "xhtml/xhtml-0-35.xhtml#aid_126",
+        "chars": 1562
+      },
+      {
+        "label": "Reflexivity",
+        "href": "xhtml/xhtml-0-36.xhtml#aid_125",
+        "chars": 1025
+      },
+      {
+        "label": "Relativity",
+        "href": "xhtml/xhtml-0-37.xhtml#aid_108",
+        "chars": 1234
+      },
+      {
+        "label": "Thermodynamics: 1st Law",
+        "href": "xhtml/xhtml-0-38.xhtml#aid_101",
+        "chars": 2360
+      },
+      {
+        "label": "Thermodynamics: 2nd Law",
+        "href": "xhtml/xhtml-0-39.xhtml#aid_114",
+        "chars": 1133
+      },
+      {
+        "label": "Arrow of Time",
+        "href": "xhtml/xhtml-0-40.xhtml#aid_83",
+        "chars": 987
+      },
+      {
+        "label": "Information Theory",
+        "href": "xhtml/xhtml-0-41.xhtml#aid_92",
+        "chars": 864
+      },
+      {
+        "label": "Moore’s Law",
+        "href": "xhtml/xhtml-0-42.xhtml#aid_117",
+        "chars": 2005
+      },
+      {
+        "label": "Antifragility",
+        "href": "xhtml/xhtml-0-43.xhtml#aid_122",
+        "chars": 1273
+      },
+      {
+        "label": "Gall’s Law",
+        "href": "xhtml/xhtml-0-44.xhtml#aid_111",
+        "chars": 1393
+      },
+      {
+        "label": "Attack Surface",
+        "href": "xhtml/xhtml-0-45.xhtml#aid_78",
+        "chars": 980
+      },
+      {
+        "label": "Catalysts",
+        "href": "xhtml/xhtml-0-46.xhtml#aid_115",
+        "chars": 1207
+      },
+      {
+        "label": "Part III: PSYCHOLOGY",
+        "href": "xhtml/xhtml-0-47.xhtml#aid_77",
+        "chars": 21
+      },
+      {
+        "label": "Prisoner’s Dilemma",
+        "href": "xhtml/xhtml-0-48.xhtml#aid_72",
+        "chars": 1524
+      },
+      {
+        "label": "Jurisdictional Arbitrage",
+        "href": "xhtml/xhtml-0-49.xhtml#aid_73",
+        "chars": 653
+      },
+      {
+        "label": "Social Proof",
+        "href": "xhtml/xhtml-0-50.xhtml#aid_89",
+        "chars": 1118
+      },
+      {
+        "label": "Mimetic Theory",
+        "href": "xhtml/xhtml-0-51.xhtml#aid_119",
+        "chars": 795
+      },
+      {
+        "label": "First Conclusion Bias",
+        "href": "xhtml/xhtml-0-52.xhtml#aid_116",
+        "chars": 1121
+      },
+      {
+        "label": "Circle of Competence",
+        "href": "xhtml/xhtml-0-53.xhtml#aid_68",
+        "chars": 1445
+      },
+      {
+        "label": "Dunning-Kruger Effect",
+        "href": "xhtml/xhtml-0-54.xhtml#aid_104",
+        "chars": 667
+      },
+      {
+        "label": "Category Error",
+        "href": "xhtml/xhtml-0-55.xhtml#aid_84",
+        "chars": 896
+      },
+      {
+        "label": "Gartner Hype Cycle",
+        "href": "xhtml/xhtml-0-56.xhtml#aid_113",
+        "chars": 922
+      },
+      {
+        "label": "Amara’s Law",
+        "href": "xhtml/xhtml-0-57.xhtml#aid_103",
+        "chars": 1005
+      },
+      {
+        "label": "Intransigent Minority",
+        "href": "xhtml/xhtml-0-58.xhtml#aid_74",
+        "chars": 1024
+      },
+      {
+        "label": "Inequivalence Theorem",
+        "href": "xhtml/xhtml-0-59.xhtml#aid_121",
+        "chars": 1075
+      },
+      {
+        "label": "Gell-Mann Amnesia",
+        "href": "xhtml/xhtml-0-60.xhtml#aid_85",
+        "chars": 1034
+      },
+      {
+        "label": "Lindy Effect",
+        "href": "xhtml/xhtml-0-61.xhtml#aid_127",
+        "chars": 1200
+      },
+      {
+        "label": "Emergence",
+        "href": "xhtml/xhtml-0-62.xhtml#aid_69",
+        "chars": 1467
+      },
+      {
+        "label": "Streisand Effect",
+        "href": "xhtml/xhtml-0-63.xhtml#aid_91",
+        "chars": 1092
+      },
+      {
+        "label": "Moral Hazard",
+        "href": "xhtml/xhtml-0-64.xhtml#aid_95",
+        "chars": 1223
+      },
+      {
+        "label": "Counterparty Risk",
+        "href": "xhtml/xhtml-0-65.xhtml#aid_102",
+        "chars": 1406
+      },
+      {
+        "label": "Further Reading",
+        "href": "xhtml/xhtml-0-66.xhtml#aid_90",
+        "chars": 4159
+      },
+      {
+        "label": "Acknowledgements",
+        "href": "xhtml/xhtml-0-67.xhtml#aid_106",
+        "chars": 173
+      }
+    ],
+    "order": 12
+  },
+  {
+    "format": "EPUB",
+    "filename": "12. 비트코인 핸드북.epub",
+    "title": "The Bitcoin Handbook",
+    "author": "Anil Patel",
+    "language": "en-US",
+    "text_chars": 41320,
+    "toc_source": "nav",
+    "toc_top_count": 64,
+    "sections": [
+      {
+        "label": "추천사",
+        "href": "xhtml/xhtml-0-4.xhtml#aid_96",
+        "chars": 1044
+      },
+      {
+        "label": "목차",
+        "href": "xhtml/xhtml-0-5.xhtml#aid_2",
+        "chars": 674
+      },
+      {
+        "label": "머리말",
+        "href": "xhtml/xhtml-0-6.xhtml#aid_118",
+        "chars": 371
+      },
+      {
+        "label": "서문",
+        "href": "xhtml/xhtml-0-7.xhtml#aid_81",
+        "chars": 1013
+      },
+      {
+        "label": "I. 경제학",
+        "href": "xhtml/xhtml-0-8.xhtml#aid_88",
+        "chars": 12
+      },
+      {
+        "label": "희소성",
+        "href": "xhtml/xhtml-0-9.xhtml#aid_80",
+        "chars": 622
+      },
+      {
+        "label": "금전적 프리미엄",
+        "href": "xhtml/xhtml-0-10.xhtml#aid_70",
+        "chars": 410
+      },
+      {
+        "label": "그레샴의 법칙",
+        "href": "xhtml/xhtml-0-11.xhtml#aid_86",
+        "chars": 803
+      },
+      {
+        "label": "티어의 법칙",
+        "href": "xhtml/xhtml-0-12.xhtml#aid_97",
+        "chars": 209
+      },
+      {
+        "label": "캔틸런 효과",
+        "href": "xhtml/xhtml-0-13.xhtml#aid_99",
+        "chars": 838
+      },
+      {
+        "label": "셸링 포인트",
+        "href": "xhtml/xhtml-0-14.xhtml#aid_75",
+        "chars": 687
+      },
+      {
+        "label": "기회 비용",
+        "href": "xhtml/xhtml-0-15.xhtml#aid_93",
+        "chars": 553
+      },
+      {
+        "label": "시간 선호도",
+        "href": "xhtml/xhtml-0-16.xhtml#aid_65",
+        "chars": 646
+      },
+      {
+        "label": "불가능한 삼위일체",
+        "href": "xhtml/xhtml-0-17.xhtml#aid_82",
+        "chars": 606
+      },
+      {
+        "label": "제본스의 역설",
+        "href": "xhtml/xhtml-0-18.xhtml#aid_107",
+        "chars": 1182
+      },
+      {
+        "label": "힘의 법칙",
+        "href": "xhtml/xhtml-0-19.xhtml#aid_128",
+        "chars": 491
+      },
+      {
+        "label": "승자독식 효과",
+        "href": "xhtml/xhtml-0-20.xhtml#aid_79",
+        "chars": 529
+      },
+      {
+        "label": "단위 편향",
+        "href": "xhtml/xhtml-0-21.xhtml#aid_109",
+        "chars": 547
+      },
+      {
+        "label": "배블런 재화",
+        "href": "xhtml/xhtml-0-22.xhtml#aid_71",
+        "chars": 618
+      },
+      {
+        "label": "잘못된 투자",
+        "href": "xhtml/xhtml-0-23.xhtml#aid_123",
+        "chars": 503
+      },
+      {
+        "label": "비대칭 보수",
+        "href": "xhtml/xhtml-0-24.xhtml#aid_76",
+        "chars": 573
+      },
+      {
+        "label": "앤소프 매트릭스",
+        "href": "xhtml/xhtml-0-25.xhtml#aid_87",
+        "chars": 1009
+      },
+      {
+        "label": "II. 기술 & 시스템",
+        "href": "xhtml/xhtml-0-26.xhtml#aid_120",
+        "chars": 18
+      },
+      {
+        "label": "규모의 순서",
+        "href": "xhtml/xhtml-0-27.xhtml#aid_110",
+        "chars": 403
+      },
+      {
+        "label": "10배 개선 규칙",
+        "href": "xhtml/xhtml-0-28.xhtml#aid_98",
+        "chars": 408
+      },
+      {
+        "label": "네트워크 효과",
+        "href": "xhtml/xhtml-0-29.xhtml#aid_66",
+        "chars": 779
+      },
+      {
+        "label": "이탈률",
+        "href": "xhtml/xhtml-0-30.xhtml#aid_100",
+        "chars": 374
+      },
+      {
+        "label": "마찰",
+        "href": "xhtml/xhtml-0-31.xhtml#aid_105",
+        "chars": 908
+      },
+      {
+        "label": "수익률 가속화",
+        "href": "xhtml/xhtml-0-32.xhtml#aid_67",
+        "chars": 578
+      },
+      {
+        "label": "고차 효과",
+        "href": "xhtml/xhtml-0-33.xhtml#aid_124",
+        "chars": 508
+      },
+      {
+        "label": "창의적 파괴",
+        "href": "xhtml/xhtml-0-34.xhtml#aid_94",
+        "chars": 815
+      },
+      {
+        "label": "피드백 루프",
+        "href": "xhtml/xhtml-0-35.xhtml#aid_126",
+        "chars": 799
+      },
+      {
+        "label": "다양성",
+        "href": "xhtml/xhtml-0-36.xhtml#aid_125",
+        "chars": 505
+      },
+      {
+        "label": "상대성",
+        "href": "xhtml/xhtml-0-37.xhtml#aid_108",
+        "chars": 638
+      },
+      {
+        "label": "열역학: 제1법칙",
+        "href": "xhtml/xhtml-0-38.xhtml#aid_101",
+        "chars": 1192
+      },
+      {
+        "label": "열역학: 제2법칙",
+        "href": "xhtml/xhtml-0-39.xhtml#aid_114",
+        "chars": 542
+      },
+      {
+        "label": "시간의 화살",
+        "href": "xhtml/xhtml-0-40.xhtml#aid_83",
+        "chars": 454
+      },
+      {
+        "label": "정보이론",
+        "href": "xhtml/xhtml-0-41.xhtml#aid_92",
+        "chars": 396
+      },
+      {
+        "label": "무어의 법칙",
+        "href": "xhtml/xhtml-0-42.xhtml#aid_117",
+        "chars": 994
+      },
+      {
+        "label": "안티프래질",
+        "href": "xhtml/xhtml-0-43.xhtml#aid_122",
+        "chars": 677
+      },
+      {
+        "label": "갤의 법칙",
+        "href": "xhtml/xhtml-0-44.xhtml#aid_111",
+        "chars": 751
+      },
+      {
+        "label": "공격 표면",
+        "href": "xhtml/xhtml-0-45.xhtml#aid_78",
+        "chars": 497
+      },
+      {
+        "label": "촉매제",
+        "href": "xhtml/xhtml-0-46.xhtml#aid_115",
+        "chars": 610
+      },
+      {
+        "label": "III. 심리학",
+        "href": "xhtml/xhtml-0-47.xhtml#aid_77",
+        "chars": 14
+      },
+      {
+        "label": "죄수의 딜레마",
+        "href": "xhtml/xhtml-0-48.xhtml#aid_72",
+        "chars": 788
+      },
+      {
+        "label": "관할권 차익거래",
+        "href": "xhtml/xhtml-0-49.xhtml#aid_73",
+        "chars": 316
+      },
+      {
+        "label": "사회적 증명",
+        "href": "xhtml/xhtml-0-50.xhtml#aid_89",
+        "chars": 552
+      },
+      {
+        "label": "모방 이론",
+        "href": "xhtml/xhtml-0-51.xhtml#aid_119",
+        "chars": 410
+      },
+      {
+        "label": "첫번째 결론 편향",
+        "href": "xhtml/xhtml-0-52.xhtml#aid_116",
+        "chars": 598
+      },
+      {
+        "label": "능력 범위",
+        "href": "xhtml/xhtml-0-53.xhtml#aid_68",
+        "chars": 715
+      },
+      {
+        "label": "더닝 크루거 효과",
+        "href": "xhtml/xhtml-0-54.xhtml#aid_104",
+        "chars": 299
+      },
+      {
+        "label": "범주 오류",
+        "href": "xhtml/xhtml-0-55.xhtml#aid_84",
+        "chars": 448
+      },
+      {
+        "label": "가트너 하이프 사이클",
+        "href": "xhtml/xhtml-0-56.xhtml#aid_113",
+        "chars": 435
+      },
+      {
+        "label": "아마라의 법칙",
+        "href": "xhtml/xhtml-0-57.xhtml#aid_103",
+        "chars": 495
+      },
+      {
+        "label": "비타협적인 소수",
+        "href": "xhtml/xhtml-0-58.xhtml#aid_74",
+        "chars": 491
+      },
+      {
+        "label": "대등 정리",
+        "href": "xhtml/xhtml-0-59.xhtml#aid_121",
+        "chars": 555
+      },
+      {
+        "label": "겔만 기억상실 효과",
+        "href": "xhtml/xhtml-0-60.xhtml#aid_85",
+        "chars": 578
+      },
+      {
+        "label": "린디 효과",
+        "href": "xhtml/xhtml-0-61.xhtml#aid_127",
+        "chars": 657
+      },
+      {
+        "label": "응급 상황",
+        "href": "xhtml/xhtml-0-62.xhtml#aid_69",
+        "chars": 748
+      },
+      {
+        "label": "스트라이샌드 효과",
+        "href": "xhtml/xhtml-0-63.xhtml#aid_91",
+        "chars": 573
+      },
+      {
+        "label": "모럴 해저드",
+        "href": "xhtml/xhtml-0-64.xhtml#aid_95",
+        "chars": 632
+      },
+      {
+        "label": "거래 상대방 위험",
+        "href": "xhtml/xhtml-0-65.xhtml#aid_102",
+        "chars": 606
+      },
+      {
+        "label": "추가 자료",
+        "href": "xhtml/xhtml-0-66.xhtml#aid_90",
+        "chars": 4149
+      },
+      {
+        "label": "감사의 글",
+        "href": "xhtml/xhtml-0-67.xhtml#aid_106",
+        "chars": 162
+      }
+    ],
+    "order": 12
+  }
+]

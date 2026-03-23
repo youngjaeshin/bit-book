@@ -1,0 +1,20 @@
+{
+  "chapter_id": "08-resources-and-glossary",
+  "answer_index": 1,
+  "question_en": "What is the role of the closing resources and glossary?",
+  "choices_en": [
+    "To end the learning process",
+    "To extend learning into community, practice, and vocabulary",
+    "To replace all future study",
+    "To reduce Bitcoin to a small set of slogans"
+  ],
+  "question_ko": "마지막 자료와 용어집의 역할은 무엇인가?",
+  "choices_ko": [
+    "학습 과정을 끝내는 것",
+    "학습을 공동체, 실천, 어휘로 확장하는 것",
+    "앞으로의 공부를 모두 대체하는 것",
+    "비트코인을 몇 개의 구호로 축소하는 것"
+  ],
+  "explanation_en": "The closing materials are meant to continue education through further resources, vocabulary, and participation.",
+  "explanation_ko": "마지막 자료는 더 많은 자료와 어휘, 참여를 통해 학습을 계속 이어가도록 하기 위한 것이다."
+}

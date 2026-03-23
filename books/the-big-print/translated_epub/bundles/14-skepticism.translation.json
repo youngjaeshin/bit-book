@@ -1,0 +1,633 @@
+{
+  "chapter_id": "14-skepticism",
+  "title": "SKEPTICISM",
+  "src": "part0027.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0027.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "SKEPTICISM",
+      "translated_text": "회의론",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "When I advocate for Bitcoin, I often encounter a common reaction — skepticism fueled by misconceptions. Most people instinctively group Bitcoin with thousands of other cryptocurrencies and miss its revolutionary qualities. This chapter explores why Bitcoin stands alone and examines how skepticism, though natural, often blinds us to transformative innovations even as they change the world around us.",
+      "translated_text": "제가 비트코인을 옹호할 때 흔히 공통적인 반응, 즉 오해로 인한 회의론에 직면합니다. 대부분의 사람들은 본능적으로 비트코인을 수천 개의 다른 암호화폐와 그룹화하고 비트코인의 혁명적인 특성을 그리워합니다. 이 장에서는 비트코인이 홀로 존재하는 이유를 탐구하고, 회의론이 비록 자연스럽기는 하지만 우리 주변의 세상을 변화시키는 혁신적인 혁신에 대해 어떻게 우리를 눈멀게 하는지 살펴봅니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "Bitcoin is not crypto",
+      "translated_text": "비트코인은 암호화폐가 아니다",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "It is correct that Bitcoin is a cryptocurrency, but no other cryptocurrency is like Bitcoin. As it turns out, creating a cryptocurrency isn’t particularly challenging. Any competent programmer can write the code. The world is not lacking for financial promoters and scam artists who want to sell get-rich-quick schemes that promote “pump and dump” coins. What’s hard is creating something truly revolutionary, something that solves problems that have puzzled computer scientists for decades.",
+      "translated_text": "비트코인이 암호화폐라는 것은 맞지만, 비트코인과 같은 암호화폐는 없습니다. 알고 보니 암호화폐를 만드는 것은 특별히 어려운 일이 아닙니다. 유능한 프로그래머라면 누구나 코드를 작성할 수 있습니다. 세상에는 \"펌프 앤 덤프(pump and dump)\" 코인을 홍보하는 단시간에 부자가 되는 계획을 판매하려는 금융 프로모터와 사기꾼이 부족하지 않습니다. 어려운 것은 진정으로 혁명적인 무언가, 즉 수십 년 동안 컴퓨터 과학자들을 곤혹스럽게 만들었던 문제를 해결하는 무언가를 만드는 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "Bitcoin’s uniqueness stems from three critical factors:",
+      "translated_text": "비트코인의 독창성은 세 가지 중요한 요소에서 비롯됩니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[1]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__: Bitcoin’s issuance schedule, requiring a large expenditure of energy for proof-of-work, is what keeps the ledger secure. It cannot be altered or manipulated. Unlike other cryptocurrencies using proof-of-stake, where large stakeholders can change the rules, Bitcoin’s fundamental properties are not subject to change. Compare this to Ethereum, which has modified its issuance schedule over seven times, an indicator of centralized control.",
+      "translated_text": "__INLINE_1__: 작업 증명을 위해 많은 에너지를 소비해야 하는 비트코인의 발행 일정은 원장을 안전하게 유지하는 것입니다. 변경하거나 조작할 수 없습니다. 대규모 이해관계자가 규칙을 변경할 수 있는 지분 증명을 사용하는 다른 암호화폐와 달리 비트코인의 기본 속성은 변경되지 않습니다. 이를 중앙집권적 통제의 지표인 발행 일정을 7차례에 걸쳐 수정한 이더리움과 비교해 보세요.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">불변적 설계</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[2]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__: Bitcoin’s developers solved the Byzantine General’s Problem,__INLINE_2____INLINE_3__ a challenge that had confounded computer scientists for years. Previous attempts at digital currencies failed because they couldn’t overcome this fundamental obstacle.__INLINE_4____INLINE_5__ Bitcoin’s solution ensures trustless consensus, a breakthrough that makes true decentralization possible.",
+      "translated_text": "__INLINE_1__: 비트코인 ​​개발자들은 수년간 컴퓨터 과학자들을 혼란스럽게 했던 비잔틴 장군의 문제 __INLINE_2____INLINE_3__를 해결했습니다. 디지털 통화에 대한 이전 시도는 이러한 근본적인 장애물을 극복하지 못했기 때문에 실패했습니다. __INLINE_4____INLINE_5__ 비트코인의 솔루션은 진정한 탈중앙화를 가능하게 하는 돌파구인 무신뢰 합의를 보장합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">기술 혁신</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a334\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a37U\" ns1:type=\"noteref\" class=\"class_s2T8\">22</html:a>",
+        "__INLINE_4__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a33H\" />",
+        "__INLINE_5__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a37V\" ns1:type=\"noteref\" class=\"class_s2T8\">23</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[3]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__: As Jeff Booth eloquently explains, cryptocurrency designers face an impossible trinity. They must balance between security, decentralization, and scalability. Bitcoin’s creators prioritized the first two, recognizing that an immutable, decentralized foundation matters more than immediate convenience and speed. Interestingly, the Lightning Network now offers a scalable Layer 2 solution without compromising these principles.__INLINE_2____INLINE_3__",
+      "translated_text": "__INLINE_1__: Jeff Booth가 설득력 있게 설명했듯이 암호화폐 설계자는 불가능한 삼위일체에 직면합니다. 보안, 분산화, 확장성 사이의 균형을 유지해야 합니다. 비트코인 창시자들은 불변의 분산 기반이 즉각적인 편리함과 속도보다 더 중요하다는 것을 인식하면서 처음 두 가지를 우선시했습니다. 흥미롭게도 라이트닝 네트워크는 이제 이러한 원칙을 훼손하지 않고 확장 가능한 레이어 2 솔루션을 제공합니다.__INLINE_2____INLINE_3__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">설계 우선순위</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a3AH\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2VN\" ns1:type=\"noteref\" class=\"class_s2T8\">24</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "Jeff Booth, author of __INLINE_1__, analyzes the trade-offs inherent in cryptocurrency design. He uses a powerful graphic to illustrate that, due to engineering limitations, a cryptocurrency can only optimize for two of the following three attributes:",
+      "translated_text": "__INLINE_1__의 저자인 Jeff Booth는 암호화폐 설계에 내재된 장단점을 분석합니다. 그는 강력한 그래픽을 사용하여 엔지니어링 한계로 인해 암호화폐가 다음 세 가지 속성 중 두 가지에 대해서만 최적화할 수 있음을 설명합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">내일의 가격</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "Jeff Booth, “Finding Signal in a Noisy World,” 2022 __INLINE_1__.",
+      "translated_text": "제프 부스, “시끄러운 세상에서 신호 찾기”, 2022 __INLINE_1__.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"https://www.jeffbooth.ca/post/finding-signal-in-a-noisy-world\">(https://www.jeffbooth.ca/post/finding-signal-in-a-noisy-world)</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "The designers of Bitcoin prioritized security and decentralization. They sacrificed scalability (speed and low cost) because they believed that having an immutable record was more important than having a cheap and fast payment solution.",
+      "translated_text": "비트코인 설계자들은 보안과 분산화를 우선시했습니다. 그들은 저렴하고 빠른 결제 솔루션을 갖는 것보다 불변의 기록을 갖는 것이 더 중요하다고 믿었기 때문에 확장성(속도 및 저비용)을 희생했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "Today over 10,000 cryptocurrencies are quoted on __INLINE_1__, creating a noisy backdrop that often drowns out Bitcoin’s message. Most of these projects are, frankly, useless. Take Dogecoin (the symbol is a dog), which started as a joke yet somehow still has a $58 billion market cap. This circus-like atmosphere provides a perfect breeding ground for exchanges and many pump-and-dump coins that have since failed, including large examples like FTX and Terra/Luna, as well as hundreds of smaller examples.",
+      "translated_text": "오늘날 __INLINE_1__에서는 10,000개 이상의 암호화폐가 인용되어 종종 비트코인의 메시지를 압도하는 시끄러운 배경을 만들고 있습니다. 솔직히 말해서 이러한 프로젝트의 대부분은 쓸모가 없습니다. 농담으로 시작했지만 여전히 시가총액이 580억 달러에 달하는 Dogecoin(기호는 개)을 예로 들어보겠습니다. 이 서커스와 같은 분위기는 교환을 위한 완벽한 온상을 제공하며 FTX 및 Terra/Luna와 같은 대규모 사례와 수백 개의 작은 사례를 포함하여 이후 실패한 많은 펌프 앤 덤프 코인을 제공합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"https://www.coinmarketcap.com\">coinmarketcap.com</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "The FTX/Sam Bankman-Fried (SBF) bankruptcy saga highlights why the cryptocurrency industry has a credibility __INLINE_1__problem. FTX was the name of SBF’s crypto exchange, and his FTX token was worth $11 billion on paper at one point. When I discuss the merits of Bitcoin with friends and potential investors, many instantly use the simple mental heuristic that all crypto is fraud and cite the fraudster, SBF. As Bitcoiners, we saw through his facade from the early days. We watched with growing concern as he appeared on the stage at early Bitcoin conferences, while several prominent community members even warned the SEC. We knew he was a fraud. He claimed to be worth $6 billion, but he was running an elaborate Ponzi scheme using customer funds to prop up the value of his token. Despite numerous warnings, his FTX empire continued to expand unchecked until its inevitable collapse during a “run on the bank.” In November 2022, it imploded, erasing $11 billion in artificial value overnight. The company filed for bankruptcy, and SBF was convicted of fraud, conspiracy, money laundering, and campaign finance law violations, resulting in a 25-year prison sentence. It marked a stunning fall from grace for the supposed boy-genius billionaire who once shared conference stages with Bill Clinton and Tony Blair. He was also a huge donor to the Democratic Party, and some claim this is why regulators looked the other way at his overtly fraudulent behavior.",
+      "translated_text": "FTX/Sam Bankman-Fried(SBF) 파산 사건은 암호화폐 업계가 신뢰성 __INLINE_1__문제를 갖고 있는 이유를 강조합니다. FTX는 SBF의 암호화폐 거래소 이름이었고, 그의 FTX 토큰은 한때 종이상으로 110억 달러의 가치가 있었습니다. 내가 친구 및 잠재 투자자와 비트코인의 장점에 대해 논의할 때 많은 사람들은 즉시 모든 암호화폐가 사기라는 단순한 정신적 경험을 사용하고 사기꾼인 SBF를 인용합니다. Bitcoiners로서 우리는 초기부터 그의 외관을 꿰뚫어 보았습니다. 우리는 그가 초기 비트코인 ​​컨퍼런스 무대에 등장하는 것을 점점 더 우려하며 지켜봤고 몇몇 저명한 커뮤니티 회원들은 SEC에 경고까지 했습니다. 우리는 그가 사기꾼이라는 것을 알고 있었습니다. 그는 60억 달러의 가치가 있다고 주장했지만, 토큰의 가치를 유지하기 위해 고객 자금을 사용하여 정교한 폰지 사기를 운영하고 있었습니다. 수많은 경고에도 불구하고 그의 FTX 제국은 \"은행 위기\" 동안 불가피하게 붕괴될 때까지 계속 확장되었습니다. 2022년 11월에는 붕괴되어 하룻밤 사이에 110억 달러의 인위적인 가치가 사라졌습니다. 회사는 파산 신청을 했고, SBF는 사기, 음모, 돈세탁, 선거자금법 위반 혐의로 유죄판결을 받아 25년 징역형을 선고받았다. 한때 빌 클린턴, 토니 블레어와 컨퍼런스 무대를 공유했던 소년천재 억만장자에게는 충격적인 추락을 의미했다. 그는 또한 민주당에 막대한 기부자였으며 일부 사람들은 이것이 규제 당국이 그의 명백한 사기 행위를 다른 방향으로 바라보는 이유라고 주장합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_244\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "SBF and his ilk are cautionary tales that must be separated from one’s understanding of Bitcoin. The inherently fraudulent business model of the broader cryptocurrency industry (excluding Bitcoin) has been a huge misleading distraction. It has scared people away from taking the time to understand why Bitcoin is different and is indeed a true technological breakthrough. Even so, it’s important to recognize that not all technological breakthroughs are immediately understood or rapidly adopted. Things take time. Innovations often undergo __INLINE_1__a gradual adoption phase until their utility becomes obvious, eventually leading to the “suddenly” phase of widespread acceptance.",
+      "translated_text": "SBF와 그의 동류는 비트코인에 대한 이해와 분리되어야 하는 경고적인 이야기입니다. 더 넓은 암호화폐 산업(비트코인 제외)의 본질적으로 사기성 비즈니스 모델은 엄청난 오해의 소지가 있었습니다. 사람들은 비트코인이 왜 다른지 이해하는 데 시간을 투자하지 못하게 되었고 실제로 진정한 기술적 혁신이 되었습니다. 그럼에도 불구하고 모든 기술적 혁신이 즉시 이해되거나 빠르게 채택되는 것은 아니라는 점을 인식하는 것이 중요합니다. 시간이 걸립니다. 혁신은 유용성이 명백해질 때까지 __INLINE_1__a 점진적인 채택 단계를 거치며 결국에는 광범위한 수용의 \"갑자기\" 단계로 이어집니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_245\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[2]",
+      "tag": "h3",
+      "source_text": "TECHNOLOGY SKEPTICISM",
+      "translated_text": "기술 회의론",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "Skepticism around Bitcoin follows a familiar pattern. Throughout history, mankind has often resisted or been afraid of change, particularly when it threatened the livelihood of an existing class. Consider these fascinating parallels: the Luddites and the Red Flag Act. The Luddites, followers of Ned Lud, an apocryphal weaver in 19th-century Britain, violently opposed automated weaving machines, fearing they would destroy their livelihoods. Their name has become synonymous with technological resistance because during organized raids, Luddites often destroyed the weaving machines that replaced hand weavers.",
+      "translated_text": "비트코인에 대한 회의론은 익숙한 패턴을 따릅니다. 역사를 통틀어 인류는 종종 변화에 저항하거나 두려워해 왔습니다. 특히 변화가 기존 계층의 생계를 위협할 때 더욱 그렇습니다. 러다이트(Luddites)와 레드 플래그 법(Red Flag Act)이라는 매혹적인 유사점을 생각해 보십시오. 19세기 영국의 전설적인 직공 네드 러드(Ned Lud)의 추종자들인 러다이트(Luddites)는 자동화된 직조기가 자신들의 생계를 파괴할 것을 두려워하여 폭력적으로 반대했습니다. 그들의 이름은 기술적 저항의 동의어가 되었습니다. 조직적인 습격 중에 러다이트가 종종 손 직조공을 대체했던 직조기를 파괴했기 때문입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "Perhaps the most striking parallel comes from the 1865 Locomotive Act in Britain. Early automobiles posed such a threat to the railroad and horse-carriage industries that objectors successfully lobbied for laws requiring a man with a red flag to walk 60 yards ahead of any motorized vehicle. The Railroad Lobby, assisted by the Horse Carriage Lobby, effectively limited cars to 4 mph. Regulators passed these laws on the pretext that collisions must be prevented, crippling the British automotive industry for decades until their repeal starting in 1896-1903.",
+      "translated_text": "아마도 가장 눈에 띄는 유사점은 1865년 영국의 기관차법에서 나올 것입니다. 초기 자동차는 철도 및 마차 산업에 큰 위협이 되었기 때문에 반대자들은 빨간 깃발을 든 남자가 자동차보다 60야드 먼저 걸어가도록 요구하는 법안을 위해 성공적으로 로비 활동을 벌였습니다. Horse Carriage Lobby의 도움을 받는 Railroad Lobby는 차량의 속도를 4mph로 효과적으로 제한했습니다. 규제 당국은 충돌을 예방해야 한다는 구실로 이러한 법률을 통과시켰고, 1896~1903년에 폐지되기 전까지 수십 년 동안 영국 자동차 산업을 마비시켰습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "The pattern of experts dismissing revolutionary technologies is remarkably consistent.",
+      "translated_text": "혁신적인 기술을 무시하는 전문가들의 패턴은 놀라울 정도로 일관적입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "The Telephone (1878):",
+      "translated_text": "전화 (1878):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "“The Americans have need of the telephone, but we do not. We have plenty of messenger boys.”",
+      "translated_text": "\"미국인들은 전화가 필요하지만 우리는 그렇지 않습니다. 우리에게는 메신저 소년이 많이 있습니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "William Henry Preece, Chief Engineer of the British Post Office",
+      "translated_text": "영국 우체국 수석 엔지니어 윌리엄 헨리 프리스(William Henry Preece)",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "Light Bulbs (1879):",
+      "translated_text": "전구(1879):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "“Everyone acquainted with the subject will recognize [Thomas Edison’s experiments] as a conspicuous failure, trumpeted as a wonderful success.”",
+      "translated_text": "“이 주제에 대해 잘 아는 사람이라면 누구나 [토마스 에디슨의 실험]이 눈에 띄는 실패였으며 놀라운 성공으로 평가받게 될 것입니다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[18]",
+      "tag": "p",
+      "source_text": "Henry Morton, President of the Stevens Institute of Technology",
+      "translated_text": "스티븐스 공과대학(스티븐스 공과대학) 총장 헨리 모튼(Henry Morton)",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[19]",
+      "tag": "p",
+      "source_text": "The Automobile (1899):",
+      "translated_text": "자동차 (1899):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[20]",
+      "tag": "p",
+      "source_text": "“The ordinary horseless carriage is, at present, a luxury for the wealthy; and although its price will probably fall in the future, it will never, of course, come into as common use as the bicycle.”",
+      "translated_text": "\"보통의 말이 없는 마차는 현재는 부유한 사람들의 사치품이며, 비록 그 가격이 미래에 떨어지더라도 물론 자전거만큼 일반적으로 사용되지는 않을 것입니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[21]",
+      "tag": "p",
+      "source_text": "Literary Digest",
+      "translated_text": "문학 다이제스트",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[22]",
+      "tag": "p",
+      "source_text": "“The dangers [of the automobile] are obvious. Stores of gasoline in the hands of people interested primarily in profit would constitute a fire and explosive hazard of the first rank. Horseless carriages propelled by gasoline might attain speeds of 14 or even 20 miles per hour. The menace to our people of vehicles of this type hurtling through our streets and along our roads and poisoning the atmosphere would call for prompt legislative action even if the military and economic implications were not so overwhelming. [T]he cost of producing [gasoline] is far beyond the financial capacity of private industry. In addition the development of this new power may displace the use of horses, which would wreck our agriculture.”",
+      "translated_text": "\"[자동차의] 위험은 명백합니다. 주로 이익에 관심이 있는 사람들의 손에 휘발유를 저장하는 것은 일류의 화재 및 폭발 위험이 될 것입니다. 휘발유로 추진되는 말이 없는 마차는 시속 14마일 또는 심지어 20마일의 속도에 도달할 수 있습니다. 이러한 유형의 차량이 우리의 거리와 길을 따라 돌진하고 대기를 오염시키는 위협은 군사적, 경제적 영향이 그렇게 압도적이지 않더라도 즉각적인 입법 조치를 요구할 것입니다. [T] [휘발유] 생산은 민간 산업의 재정적 능력을 훨씬 뛰어넘습니다. 또한 이 새로운 힘의 개발은 우리 농업을 망칠 수 있는 말의 사용을 대체할 수 있습니다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[23]",
+      "tag": "p",
+      "source_text": "— The U.S. Congressional Record, 1875",
+      "translated_text": "— 미국 의회 기록, 1875",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[24]",
+      "tag": "p",
+      "source_text": "Airplanes (1911):",
+      "translated_text": "비행기 (1911):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[25]",
+      "tag": "p",
+      "source_text": "“Airplanes are interesting toys but of no military value.”",
+      "translated_text": "\"비행기는 흥미로운 장난감이지만 군사적 가치는 없습니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[26]",
+      "tag": "p",
+      "source_text": "— Marshal Ferdinand Foch, Supreme Commander of the Allied Armies in World War I, 1918–20",
+      "translated_text": "— 페르디난드 포슈(Ferdinand Foch) 원수, 제1차 세계 대전 당시 연합군 최고 사령관, 1918~20년",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[27]",
+      "tag": "p",
+      "source_text": "Sound in films (1928):",
+      "translated_text": "영화의 사운드(1928):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[28]",
+      "tag": "p",
+      "source_text": "“I don’t think people will want talking pictures …. Talking doesn’t belong in pictures.”",
+      "translated_text": "\"사람들이 말하는 사진을 원하지 않을 것 같아요…. 말하는 것은 사진에 속하지 않습니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[29]",
+      "tag": "p",
+      "source_text": "— Joseph M. Schenck, President of United Artists",
+      "translated_text": "— Joseph M. Schenck, United Artists 회장",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[30]",
+      "tag": "p",
+      "source_text": "Nuclear power (1932):",
+      "translated_text": "원자력(1932):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[31]",
+      "tag": "p",
+      "source_text": "“There is not the slightest indication that [nuclear energy] will ever be obtainable.”",
+      "translated_text": "“[원자력]을 얻을 수 있을 것이라는 조짐은 조금도 없습니다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[32]",
+      "tag": "p",
+      "source_text": "— Albert Einstein",
+      "translated_text": "— 알베르트 아인슈타인",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[33]",
+      "tag": "p",
+      "source_text": "Computers (1940’s):",
+      "translated_text": "컴퓨터(1940년대):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[34]",
+      "tag": "p",
+      "source_text": "“I think there is a world market for about five computers.”__INLINE_1____INLINE_2__",
+      "translated_text": "“세계적으로 컴퓨터 5대 정도의 시장이 있다고 생각합니다.”__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2U2\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a380\" ns1:type=\"noteref\" class=\"class_s2T8\">25</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[35]",
+      "tag": "p",
+      "source_text": "— Thomas J. Watson, President, IBM",
+      "translated_text": "— 토마스 J. 왓슨(IBM 사장)",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[36]",
+      "tag": "p",
+      "source_text": "Television (1946):",
+      "translated_text": "텔레비전 (1946):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[37]",
+      "tag": "p",
+      "source_text": "“Television won’t be able to hold on to any market it captures after the first six months. People will soon get tired of staring at a plywood box every night.”",
+      "translated_text": "\"텔레비전은 처음 6개월이 지나면 어떤 시장도 붙잡을 수 없을 것입니다. 사람들은 곧 매일 밤 합판 상자를 쳐다보는 것에 지칠 것입니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[38]",
+      "tag": "p",
+      "source_text": "— Darryl F. Zanuck, Head of 20th Century Fox",
+      "translated_text": "— Darryl F. Zanuck, 20세기 폭스 대표",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[39]",
+      "tag": "p",
+      "source_text": "Satellite communications (1961):",
+      "translated_text": "위성통신(1961):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[40]",
+      "tag": "p",
+      "source_text": "“There is practically no chance communications space satellites will be used to provide better telephone, telegraph, television, or radio service inside the United States.”",
+      "translated_text": "\"미국 내에서 더 나은 전화, 전신, 텔레비전 또는 라디오 서비스를 제공하기 위해 통신 우주 위성이 사용될 가능성은 사실상 없습니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[41]",
+      "tag": "p",
+      "source_text": "— T.A.M. Craven, U.S. Federal Communications Commission",
+      "translated_text": "— T.A.M. 크레이븐, 미국 연방통신위원회",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[42]",
+      "tag": "p",
+      "source_text": "Personal Computers (1977):",
+      "translated_text": "개인용 컴퓨터(1977):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[43]",
+      "tag": "p",
+      "source_text": "“There is no reason for any individual to have a computer in his home.”",
+      "translated_text": "“개인이 집에 컴퓨터를 둘 이유가 없습니다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[44]",
+      "tag": "p",
+      "source_text": "— Ken Olsen, founder and CEO of Digital Equipment Corporation",
+      "translated_text": "— 켄 올슨, 디지털 이큅먼트 코퍼레이션의 창립자 겸 CEO",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[45]",
+      "tag": "p",
+      "source_text": "Laptop PCs (1985):",
+      "translated_text": "노트북 PC(1985):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[46]",
+      "tag": "p",
+      "source_text": "“For the most part, the portable computer is a dream machine for the few…the real future of the laptop computer will remain in the specialized niche markets.”",
+      "translated_text": "\"대부분의 경우 휴대용 컴퓨터는 소수의 사람들을 위한 꿈의 기계입니다. 노트북 컴퓨터의 진정한 미래는 특수한 틈새 시장에 남아 있을 것입니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[47]",
+      "tag": "p",
+      "source_text": "— New York Times",
+      "translated_text": "— 뉴욕 타임즈",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[48]",
+      "tag": "p",
+      "source_text": "The Internet (1998):",
+      "translated_text": "인터넷(1998):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[49]",
+      "tag": "p",
+      "source_text": "“The growth of the Internet will slow drastically, as the flaw in ‘Metcalfe’s law’—which states that the number of potential connections in a network is proportional to the square of the number of participants—becomes apparent: most people have nothing to say to each other! By 2005 or so, it will become clear that the Internet’s impact on the economy has been no greater than the fax machine’s.”",
+      "translated_text": "\"네트워크의 잠재적 연결 수는 참가자 수의 제곱에 비례한다는 '메트칼프의 법칙'의 결함이 명백해지면서 인터넷의 성장은 급격히 둔화될 것입니다. 대부분의 사람들은 서로 할 말이 없습니다. 2005년쯤에는 인터넷이 경제에 미치는 영향이 팩스 기계의 영향보다 크지 않다는 것이 분명해질 것입니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[50]",
+      "tag": "p",
+      "source_text": "— Paul Krugman, 1998, winner of the Nobel Prize in Economics.",
+      "translated_text": "— 폴 크루그먼(Paul Krugman), 1998년, 노벨 경제학상 수상자.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[51]",
+      "tag": "p",
+      "source_text": "The iPhone (2006):",
+      "translated_text": "아이폰(2006):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[52]",
+      "tag": "p",
+      "source_text": "“Everyone’s always asking me when Apple will come out with a cell phone. My answer is, ‘Probably never.’”",
+      "translated_text": "\"사람들은 항상 Apple이 휴대폰을 언제 출시할지 묻습니다. 제 대답은 '아마도 없을 것입니다.'입니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[53]",
+      "tag": "p",
+      "source_text": "— David Pogue, Technology Editor of the New York Times",
+      "translated_text": "— 데이비드 포그, 뉴욕 타임스의 기술 편집자",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[54]",
+      "tag": "p",
+      "source_text": "Bitcoin (2011 to Present):",
+      "translated_text": "비트코인(2011년~현재):",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[55]",
+      "tag": "p",
+      "source_text": "Today’s Bitcoin skeptics echo yesterday’s epic miscalculations",
+      "translated_text": "오늘날의 비트코인 ​​회의론자들은 어제의 엄청난 오산을 반영합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[56]",
+      "tag": "p",
+      "source_text": "“Crypto assets are highly volatile, see Bitcoin, and therefore not really useful as a store of value.",
+      "translated_text": "“암호화폐 자산은 변동성이 매우 높습니다. 비트코인을 참조하세요. 따라서 가치 저장 수단으로는 그다지 유용하지 않습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[57]",
+      "tag": "p",
+      "source_text": "— Jerome Powell, Chairman of the Federal Reserve",
+      "translated_text": "— 제롬 파월(Jerome Powell) 연준 의장",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[58]",
+      "tag": "p",
+      "source_text": "“Bitcoin is the mother of all bubbles.”",
+      "translated_text": "“비트코인은 모든 거품의 어머니이다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[59]",
+      "tag": "p",
+      "source_text": "— Nouriel Roubini",
+      "translated_text": "— 누리엘 루비니",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[60]",
+      "tag": "p",
+      "source_text": "“Bitcoin is a highly speculative asset, which has conducted some funny business and some interesting and totally reprehensible money laundering activity.”",
+      "translated_text": "\"비트코인은 투기성이 매우 높은 자산으로, 재미있는 사업과 흥미롭고 완전히 비난받을 만한 자금세탁 활동을 수행했습니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[61]",
+      "tag": "p",
+      "source_text": "— Christine Lagarde, European Central Bank President",
+      "translated_text": "— 크리스틴 라가르드, 유럽중앙은행 총재",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[62]",
+      "tag": "p",
+      "source_text": "“I don’t like fraud or delusion and the delusion may be larger than the fraud”",
+      "translated_text": "“나는 사기나 망상을 좋아하지 않으며, 사기보다 망상이 더 클 수도 있다”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[63]",
+      "tag": "p",
+      "source_text": "— Charlie Munger, Berkshire Hathaway",
+      "translated_text": "— 찰리 멍거, 버크셔 해서웨이",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[64]",
+      "tag": "p",
+      "source_text": "“Bitcoin is rat poison squared”",
+      "translated_text": "“비트코인은 쥐약의 제곱이다”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[65]",
+      "tag": "p",
+      "source_text": "— Warren Buffett",
+      "translated_text": "— 워렌 버핏",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[66]",
+      "tag": "p",
+      "source_text": "“Bitcoin is a bubble wrapped in techno-mysticism inside a cocoon of libertarian ideology.”",
+      "translated_text": "“비트코인은 자유주의 이데올로기라는 고치 안에 기술 신비주의로 싸인 거품입니다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[67]",
+      "tag": "p",
+      "source_text": "— Paul Krugman, Nobel Prize-winning economist",
+      "translated_text": "— 폴 크루그먼(노벨상 수상 경제학자)",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[68]",
+      "tag": "p",
+      "source_text": "“Bitcoin is a combination of a bubble, a Ponzi scheme, and an environmental disaster.”",
+      "translated_text": "“비트코인은 거품, 폰지 사기, 환경 재앙의 조합입니다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[69]",
+      "tag": "p",
+      "source_text": "— Paul Krugman",
+      "translated_text": "— 폴 크루그먼",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[70]",
+      "tag": "p",
+      "source_text": "“The battle between sovereign money and cryptocurrency is over. Technology does not make for trusted money.”",
+      "translated_text": "\"주권 화폐와 암호화폐 간의 전쟁은 끝났습니다. 기술은 신뢰할 수 있는 돈을 만들어주지 않습니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[71]",
+      "tag": "p",
+      "source_text": "— Augustin Carstens, General Manager, Bank for International Settlements.",
+      "translated_text": "— Augustin Carstens, 국제결제은행 총지배인.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[72]",
+      "tag": "p",
+      "source_text": "Notice how many of these responses were from people whose livelihoods were threatened by the innovation they condemned. As Upton Sinclair astutely observed: “It is difficult to get a man to understand something when his salary depends upon his not understanding it.”",
+      "translated_text": "자신들이 비난한 혁신으로 인해 생계가 위협받는 사람들이 얼마나 많은 응답을 했는지 주목하세요. 업튼 싱클레어(Upton Sinclair)가 예리하게 관찰한 바와 같이, “사람의 월급이 그것을 이해하지 못하는데 달려 있는데, 사람이 어떤 것을 이해하도록 하는 것은 어렵습니다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[3]",
+      "tag": "h3",
+      "source_text": "ADOPTION IS GROWING",
+      "translated_text": "채택이 증가하고 있습니다",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[73]",
+      "tag": "p",
+      "source_text": "Bitcoin currently sits at an exciting point on its adoption curve. Following Malcolm Gladwell’s S-Curve model, Bitcoin is still in the “early adoption” phase. This model suggests that the time required to move from zero penetration to 10% adoption equals the time needed to progress from 10% to 90% adoption. We’re approaching what appears to be an inflection point.",
+      "translated_text": "비트코인은 현재 채택 곡선의 흥미로운 지점에 있습니다. Malcolm Gladwell의 S-Curve 모델에 따라 비트코인은 여전히 ​​\"조기 채택\" 단계에 있습니다. 이 모델은 보급률 0에서 10% 채택으로 이동하는 데 필요한 시간이 10%에서 90% 채택으로 진행하는 데 필요한 시간과 동일함을 시사합니다. 우리는 변곡점으로 보이는 지점에 접근하고 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[74]",
+      "tag": "p",
+      "source_text": "Lucas Bazemore, Township Ventures, “Bitcoin Enters Growth Phase of S-Curve.”",
+      "translated_text": "루카스 베이즈모어, 타운십 벤처스, “비트코인이 S-곡선의 성장 단계에 진입했습니다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[75]",
+      "tag": "p",
+      "source_text": "Many believe we are just turning the corner and entering the steep part of the adoption curve depicted above. Over the next decade, Bitcoin is poised to transform from what skeptics call “magic internet money” into a sound and reliable store of value and, ultimately, a full-fledged currency.",
+      "translated_text": "많은 사람들은 우리가 단지 모퉁이를 돌고 위에 묘사된 채택 곡선의 가파른 부분에 진입하고 있다고 믿습니다. 향후 10년 동안 비트코인은 회의론자들이 \"마법의 인터넷 화폐\"라고 부르는 것에서 건전하고 신뢰할 수 있는 가치 저장 수단, 그리고 궁극적으로 본격적인 통화로 변모할 준비가 되어 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[76]",
+      "tag": "p",
+      "source_text": "As the next chart__INLINE_1____INLINE_2__ shows, the adoption rate of new technologies is accelerating in this digital age.",
+      "translated_text": "다음 차트__INLINE_1____INLINE_2__에서 볼 수 있듯이 디지털 시대에 신기술 채택 속도가 가속화되고 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2YX\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a34B\" ns1:type=\"noteref\" class=\"class_s2T8\">26</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[77]",
+      "tag": "p",
+      "source_text": "Source: Nicholas Felton, The New York Times. (__INLINE_1__)",
+      "translated_text": "출처: 니콜라스 펠튼, 뉴욕타임즈. (__INLINE_1__)",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"https://hbr.org/\">hbr.org/</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[78]",
+      "tag": "p",
+      "source_text": "Note how quickly society has integrated the use of the cell phone and the internet into its daily lives. Some have argued that Bitcoin adoption is faster than internet adoption, although they appear quite similar to me. The next chart shows this:",
+      "translated_text": "사회가 휴대전화와 인터넷 사용을 일상 생활에 얼마나 빨리 통합했는지 주목해 보세요. 어떤 사람들은 비트코인 ​​채택이 인터넷 채택보다 빠르다고 주장했지만, 나와는 상당히 유사해 보입니다. 다음 차트는 다음을 보여줍니다.",
+      "inline_tokens": {}
+    }
+  ]
+}

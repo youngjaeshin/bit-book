@@ -1,0 +1,20 @@
+{
+  "chapter_id": "02-genesis-and-the-origins-of-money",
+  "question_en": "How does the chapter explain the value of monetary goods?",
+  "choices_en": [
+    "By legal tender status alone",
+    "By industrial demand first",
+    "By shared expectations of future acceptability",
+    "By dividend payments"
+  ],
+  "question_ko": "이 장은 화폐적 재화의 가치를 어떻게 설명하는가?",
+  "choices_ko": [
+    "법정통화 지위만으로",
+    "산업 수요를 우선으로",
+    "미래 수용에 대한 공동 기대",
+    "배당 지급으로"
+  ],
+  "answer_index": 2,
+  "explanation_en": "Monetary goods are valued through collective expectations that others will also accept them.",
+  "explanation_ko": "화폐적 재화의 가치는 다른 사람들도 받아들일 것이라는 공동 기대를 통해 형성된다고 본다."
+}

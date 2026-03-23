@@ -12,6 +12,8 @@ Apply mode reads the bundle files back and replaces XHTML block contents using
 from __future__ import annotations
 
 import argparse
+import copy
+import html
 import json
 import os
 import re
@@ -20,6 +22,7 @@ import xml.etree.ElementTree as ET
 
 
 XHTML_NS_URI = "http://www.w3.org/1999/xhtml"
+EPUB_NS_URI = "http://www.idpf.org/2007/ops"
 XHTML_NS = {"x": XHTML_NS_URI}
 TRANSLATABLE_TAGS = {"h1", "h2", "h3", "h4", "h5", "h6", "p", "li", "blockquote", "figcaption"}
 
@@ -68,7 +71,9 @@ def find_by_path(root: ET.Element, path: str) -> ET.Element:
 
 
 def serialize_inline(child: ET.Element) -> str:
-    return ET.tostring(child, encoding="unicode")
+    clone = copy.deepcopy(child)
+    clone.tail = None
+    return ET.tostring(clone, encoding="unicode")
 
 
 def placeholderize_block(elem: ET.Element) -> tuple[str, dict[str, str]]:
@@ -90,6 +95,22 @@ def restore_placeholders(text: str, token_map: dict[str, str]) -> str:
     for token, fragment in token_map.items():
         text = text.replace(token, fragment)
     return text
+
+
+def xml_safe_fragment(text: str, token_map: dict[str, str]) -> str:
+    if not token_map:
+        return html.escape(text)
+    pattern = "(" + "|".join(re.escape(token) for token in token_map.keys()) + ")"
+    parts = re.split(pattern, text)
+    safe_parts: list[str] = []
+    for part in parts:
+        if not part:
+            continue
+        if part in token_map:
+            safe_parts.append(token_map[part])
+        else:
+            safe_parts.append(html.escape(part))
+    return "".join(safe_parts)
 
 
 def set_inner_xml(elem: ET.Element, fragment: str) -> None:
@@ -150,17 +171,21 @@ def export_bundles(workdir: Path, chapter_map_path: Path, bundle_dir: Path) -> N
 
 
 def apply_bundles(workdir: Path, bundle_dir: Path) -> None:
+    ET.register_namespace("", XHTML_NS_URI)
+    ET.register_namespace("epub", EPUB_NS_URI)
     for bundle_path in sorted(bundle_dir.glob("*.translation.json")):
         bundle = json.loads(bundle_path.read_text())
         xhtml_path = Path(bundle["xhtml_path"])
         root = ET.parse(xhtml_path).getroot()
+        root.set("{http://www.w3.org/XML/1998/namespace}lang", "ko")
+        root.set("lang", "ko")
         for entry in bundle["entries"]:
             translated = entry.get("translated_text", "").strip()
             if not translated:
                 continue
             elem = find_by_path(root, entry["node_path"])
-            restored = restore_placeholders(translated, entry.get("inline_tokens", {}))
-            set_inner_xml(elem, restored)
+            fragment = xml_safe_fragment(translated, entry.get("inline_tokens", {}))
+            set_inner_xml(elem, fragment)
         ET.ElementTree(root).write(xhtml_path, encoding="utf-8", xml_declaration=True)
         print(f"Applied translations to {xhtml_path}")
 

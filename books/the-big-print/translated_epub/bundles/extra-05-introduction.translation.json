@@ -1,0 +1,15 @@
+{
+  "chapter_id": "extra-05-introduction",
+  "title": "INTRODUCTION",
+  "src": "part0006.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0006.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h1[1]",
+      "tag": "h1",
+      "source_text": "INTRODUCTION",
+      "translated_text": "들어가며",
+      "inline_tokens": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "02-money-and-primitive-moneys",
+  "answer_index": 2,
+  "question_en": "What property is central to the emergence of money in this unit?",
+  "choices_en": [
+    "Government recognition",
+    "Military backing",
+    "Salability",
+    "Tax enforcement"
+  ],
+  "question_ko": "이 단위에서 돈의 등장에 핵심적인 성질은 무엇인가?",
+  "choices_ko": [
+    "정부의 승인",
+    "군사력의 뒷받침",
+    "판매 가능성",
+    "조세 강제"
+  ],
+  "explanation_en": "The chapter defines money through salability rather than decree.",
+  "explanation_ko": "이 단위는 돈을 명령이 아니라 판매 가능성으로 정의한다."
+}

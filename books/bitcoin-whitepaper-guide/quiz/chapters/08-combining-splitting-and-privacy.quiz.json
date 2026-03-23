@@ -1,0 +1,20 @@
+{
+  "chapter_id": "08-combining-splitting-and-privacy",
+  "answer_index": 3,
+  "question_en": "Why are transaction form and privacy connected here?",
+  "choices_en": [
+    "Because all public records are fully anonymous",
+    "Because transaction size automatically hides ownership",
+    "Because privacy is unrelated to value structure",
+    "Because how value is arranged affects what observers can infer"
+  ],
+  "question_ko": "왜 이 단위에서 거래 형식과 프라이버시가 연결되는가?",
+  "choices_ko": [
+    "모든 공개 기록이 완전히 익명이라서",
+    "거래 크기가 자동으로 소유권을 숨겨 줘서",
+    "프라이버시는 가치 구조와 무관해서",
+    "가치가 배열되는 방식이 바깥의 추론 가능성을 바꾸기 때문에"
+  ],
+  "explanation_en": "The unit links privacy to the structure of inputs, outputs, and address use.",
+  "explanation_ko": "이 단위는 프라이버시를 입력·출력 구조와 주소 사용 방식에 연결한다."
+}

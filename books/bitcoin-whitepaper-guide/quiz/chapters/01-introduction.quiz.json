@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-introduction",
+  "answer_index": 1,
+  "question_en": "How does the opening frame the Bitcoin whitepaper?",
+  "choices_en": [
+    "As a narrow coding note only",
+    "As the starting point of a multi-disciplinary inquiry into money and freedom",
+    "As a legal document detached from philosophy",
+    "As a simple investment pamphlet"
+  ],
+  "question_ko": "서두는 비트코인 백서를 어떻게 위치시하는가?",
+  "choices_ko": [
+    "오직 좁은 코딩 메모로",
+    "돈과 자유에 대한 다학문적 탐구의 출발점으로",
+    "철학과 무관한 법률 문서로",
+    "단순한 투자 팸플릿으로"
+  ],
+  "explanation_en": "The opening treats the whitepaper as the beginning of a broad intellectual inquiry, not merely a technical memo.",
+  "explanation_ko": "서두는 백서를 단순한 기술 메모가 아니라 더 넓은 지적 탐구의 시작으로 본다."
+}

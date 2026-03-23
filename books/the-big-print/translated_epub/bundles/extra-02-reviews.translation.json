@@ -1,0 +1,54 @@
+{
+  "chapter_id": "extra-02-reviews",
+  "title": "REVIEWS",
+  "src": "part0001.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0001.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h1[1]",
+      "tag": "h1",
+      "source_text": "REVIEWS",
+      "translated_text": "추천사",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "Here it is! A straight-talking guide that shows how inflation is squeezing everyday Americans, why it is unfair, and what you can actually do about it. This book provides guidance to all those who yearn for a fairer system. It shows the path forward – highly recommended.",
+      "translated_text": "드디어 나왔다! 인플레이션이 어떻게 평범한 미국인들의 삶을 짓누르고 있는지, 왜 그것이 불공정한지, 그리고 실제로 무엇을 할 수 있는지를 정면으로 보여주는 책이다. 이 책은 더 공정한 시스템을 갈망하는 모든 이들에게 길잡이가 되어 준다. 앞으로 나아갈 길을 제시한다. 강력히 추천한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, CEO of Barefoot Mining",
+      "translated_text": "__INLINE_1__, Barefoot Mining CEO",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Bob Burnett</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "Thoughtful and well researched. This book delivers an unflinching look at the roots of our economic challenges while offering a genuine solution and hope for the future.",
+      "translated_text": "사려 깊고 치밀하게 조사된 책이다. 이 책은 우리 경제적 난관의 뿌리를 가차 없이 들여다보는 동시에, 진정한 해법과 미래에 대한 희망을 제시한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "This book could have a meaningful impact on your financial situation in the years ahead. It is a real eye-opener.",
+      "translated_text": "이 책은 앞으로 몇 년 동안 당신의 재정 상황에 의미 있는 영향을 줄 수 있다. 그야말로 눈을 번쩍 뜨이게 하는 책이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "__INLINE_1__, U.S. Navy Top Gun graduate, artist, and retired airline pilot.",
+      "translated_text": "__INLINE_1__, 미 해군 탑건 수료자, 예술가, 은퇴한 항공사 조종사.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">George Bodine</html:span>"
+      }
+    }
+  ]
+}

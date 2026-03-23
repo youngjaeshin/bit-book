@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" prefix="marc: http://id.loc.gov/vocabulary/">
+  <ns0:metadata>
+    <dc:identifier id="bookid">urn:asin:B0DWKLX9J7-ko-full</dc:identifier>
+    <dc:title>The Big Print: What Happened To America And How Sound Money Will Fix It</dc:title>
+    <dc:creator id="creator0">Lepard, Lawrence</dc:creator>
+    <ns0:meta refines="#creator0" property="role" scheme="marc:relators">aut</ns0:meta>
+    <dc:language>ko</dc:language>
+    <dc:publisher>Amazon</dc:publisher>
+    <dc:date>2025-02-07</dc:date>
+    <ns0:meta property="dcterms:modified">2025-02-17T21:11:18Z</ns0:meta>
+    <ns0:meta name="cover" content="image_rsrc3C5.jpg" />
+  </ns0:metadata>
+  <ns0:manifest>
+    <ns0:item href="image_rsrc3C5.jpg" id="image_rsrc3C5.jpg" media-type="image/jpeg" properties="cover-image" />
+    <ns0:item href="image_rsrc3C6.jpg" id="image_rsrc3C6.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3C7.jpg" id="image_rsrc3C7.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3C8.jpg" id="image_rsrc3C8.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3C9.jpg" id="image_rsrc3C9.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CA.jpg" id="image_rsrc3CA.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CB.jpg" id="image_rsrc3CB.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CC.jpg" id="image_rsrc3CC.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CD.jpg" id="image_rsrc3CD.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CE.jpg" id="image_rsrc3CE.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CF.jpg" id="image_rsrc3CF.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CG.jpg" id="image_rsrc3CG.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CH.jpg" id="image_rsrc3CH.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CJ.jpg" id="image_rsrc3CJ.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CK.jpg" id="image_rsrc3CK.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CM.jpg" id="image_rsrc3CM.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CN.jpg" id="image_rsrc3CN.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CP.jpg" id="image_rsrc3CP.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CR.jpg" id="image_rsrc3CR.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CS.jpg" id="image_rsrc3CS.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CT.jpg" id="image_rsrc3CT.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CU.jpg" id="image_rsrc3CU.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CV.jpg" id="image_rsrc3CV.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CW.jpg" id="image_rsrc3CW.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CX.jpg" id="image_rsrc3CX.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CY.jpg" id="image_rsrc3CY.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3CZ.jpg" id="image_rsrc3CZ.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D0.jpg" id="image_rsrc3D0.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D1.jpg" id="image_rsrc3D1.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D2.jpg" id="image_rsrc3D2.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D3.jpg" id="image_rsrc3D3.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D4.jpg" id="image_rsrc3D4.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D5.jpg" id="image_rsrc3D5.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D6.jpg" id="image_rsrc3D6.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D7.jpg" id="image_rsrc3D7.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D8.jpg" id="image_rsrc3D8.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3D9.jpg" id="image_rsrc3D9.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DA.jpg" id="image_rsrc3DA.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DB.jpg" id="image_rsrc3DB.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DC.jpg" id="image_rsrc3DC.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DD.jpg" id="image_rsrc3DD.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DE.jpg" id="image_rsrc3DE.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DF.jpg" id="image_rsrc3DF.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DG.jpg" id="image_rsrc3DG.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DH.jpg" id="image_rsrc3DH.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DJ.jpg" id="image_rsrc3DJ.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DK.jpg" id="image_rsrc3DK.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DM.jpg" id="image_rsrc3DM.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DN.jpg" id="image_rsrc3DN.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DP.jpg" id="image_rsrc3DP.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DR.jpg" id="image_rsrc3DR.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DS.jpg" id="image_rsrc3DS.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DT.jpg" id="image_rsrc3DT.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DU.jpg" id="image_rsrc3DU.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DV.jpg" id="image_rsrc3DV.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DW.jpg" id="image_rsrc3DW.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DX.jpg" id="image_rsrc3DX.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DY.jpg" id="image_rsrc3DY.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3DZ.jpg" id="image_rsrc3DZ.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E0.jpg" id="image_rsrc3E0.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E1.jpg" id="image_rsrc3E1.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E2.jpg" id="image_rsrc3E2.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E3.jpg" id="image_rsrc3E3.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E4.jpg" id="image_rsrc3E4.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E5.jpg" id="image_rsrc3E5.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E6.jpg" id="image_rsrc3E6.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E7.jpg" id="image_rsrc3E7.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E8.jpg" id="image_rsrc3E8.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3E9.jpg" id="image_rsrc3E9.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3EA.jpg" id="image_rsrc3EA.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3EB.jpg" id="image_rsrc3EB.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3EC.jpg" id="image_rsrc3EC.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3ED.jpg" id="image_rsrc3ED.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3EE.jpg" id="image_rsrc3EE.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3EF.jpg" id="image_rsrc3EF.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3EG.jpg" id="image_rsrc3EG.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3EH.jpg" id="image_rsrc3EH.jpg" media-type="image/jpeg" />
+    <ns0:item href="image_rsrc3EJ.jpg" id="image_rsrc3EJ.jpg" media-type="image/jpeg" />
+    <ns0:item href="nav.xhtml" id="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <ns0:item href="part0000.xhtml" id="part0000.xhtml" media-type="application/xhtml+xml" properties="svg" />
+    <ns0:item href="part0001.xhtml" id="part0001.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0002.xhtml" id="part0002.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0003.xhtml" id="part0003.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0004.xhtml" id="part0004.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0005.xhtml" id="part0005.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0006.xhtml" id="part0006.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0007.xhtml" id="part0007.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0008.xhtml" id="part0008.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0009.xhtml" id="part0009.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0010.xhtml" id="part0010.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0011.xhtml" id="part0011.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0012.xhtml" id="part0012.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0013.xhtml" id="part0013.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0014.xhtml" id="part0014.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0015.xhtml" id="part0015.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0016.xhtml" id="part0016.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0017.xhtml" id="part0017.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0018.xhtml" id="part0018.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0019.xhtml" id="part0019.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0020.xhtml" id="part0020.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0021.xhtml" id="part0021.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0022.xhtml" id="part0022.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0023.xhtml" id="part0023.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0024.xhtml" id="part0024.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0025.xhtml" id="part0025.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0026.xhtml" id="part0026.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0027.xhtml" id="part0027.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0028.xhtml" id="part0028.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0029.xhtml" id="part0029.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0030.xhtml" id="part0030.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0031.xhtml" id="part0031.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0032.xhtml" id="part0032.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0033.xhtml" id="part0033.xhtml" media-type="application/xhtml+xml" properties="svg" />
+    <ns0:item href="part0034.xhtml" id="part0034.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0035.xhtml" id="part0035.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0036.xhtml" id="part0036.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0037.xhtml" id="part0037.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0038.xhtml" id="part0038.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0039.xhtml" id="part0039.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0040.xhtml" id="part0040.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0041.xhtml" id="part0041.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0042.xhtml" id="part0042.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="part0043.xhtml" id="part0043.xhtml" media-type="application/xhtml+xml" />
+    <ns0:item href="stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <ns0:item href="toc.ncx" id="toc.ncx" media-type="application/x-dtbncx+xml" />
+  </ns0:manifest>
+  <ns0:spine toc="toc.ncx">
+    <ns0:itemref idref="part0000.xhtml" />
+    <ns0:itemref idref="part0001.xhtml" />
+    <ns0:itemref idref="part0002.xhtml" />
+    <ns0:itemref idref="part0003.xhtml" />
+    <ns0:itemref idref="part0004.xhtml" />
+    <ns0:itemref idref="part0005.xhtml" />
+    <ns0:itemref idref="part0006.xhtml" />
+    <ns0:itemref idref="part0007.xhtml" />
+    <ns0:itemref idref="part0008.xhtml" />
+    <ns0:itemref idref="part0009.xhtml" />
+    <ns0:itemref idref="part0010.xhtml" />
+    <ns0:itemref idref="part0011.xhtml" />
+    <ns0:itemref idref="part0012.xhtml" />
+    <ns0:itemref idref="part0013.xhtml" />
+    <ns0:itemref idref="part0014.xhtml" />
+    <ns0:itemref idref="part0015.xhtml" />
+    <ns0:itemref idref="part0016.xhtml" />
+    <ns0:itemref idref="part0017.xhtml" />
+    <ns0:itemref idref="part0018.xhtml" />
+    <ns0:itemref idref="part0019.xhtml" />
+    <ns0:itemref idref="part0020.xhtml" />
+    <ns0:itemref idref="part0021.xhtml" />
+    <ns0:itemref idref="part0022.xhtml" />
+    <ns0:itemref idref="part0023.xhtml" />
+    <ns0:itemref idref="part0024.xhtml" />
+    <ns0:itemref idref="part0025.xhtml" />
+    <ns0:itemref idref="part0026.xhtml" />
+    <ns0:itemref idref="part0027.xhtml" />
+    <ns0:itemref idref="part0028.xhtml" />
+    <ns0:itemref idref="part0029.xhtml" />
+    <ns0:itemref idref="part0030.xhtml" />
+    <ns0:itemref idref="part0031.xhtml" />
+    <ns0:itemref idref="part0032.xhtml" />
+    <ns0:itemref idref="part0033.xhtml" />
+    <ns0:itemref idref="part0034.xhtml" />
+    <ns0:itemref idref="part0035.xhtml" />
+    <ns0:itemref idref="part0036.xhtml" />
+    <ns0:itemref idref="part0037.xhtml" />
+    <ns0:itemref idref="part0038.xhtml" />
+    <ns0:itemref idref="part0039.xhtml" />
+    <ns0:itemref idref="part0040.xhtml" />
+    <ns0:itemref idref="part0041.xhtml" />
+    <ns0:itemref idref="part0042.xhtml" />
+    <ns0:itemref idref="part0043.xhtml" />
+  </ns0:spine>
+  <ns0:guide>
+    <ns0:reference type="cover" title="Cover" href="part0000.xhtml" />
+    <ns0:reference type="text" title="Beginning" href="part0005.xhtml" />
+  </ns0:guide>
+</ns0:package>

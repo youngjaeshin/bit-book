@@ -23,6 +23,7 @@
 4. **Translate content nodes**
    - `h1/h2/h3/p/li/blockquote/caption` 위주
    - id/href/src/class/style는 최대한 보존
+   - inline placeholder에는 태그만 넣고 tail prose는 넣지 않는다
 
 5. **Update navigation**
    - 필요 시 nav / ncx title 한글화
@@ -46,6 +47,7 @@
   - paragraphs
   - list items
   - captions
+  - quote text / emphasized inline text / bold-italic span text (unless they are proper nouns or fixed labels)
 - **Preserve**
   - ids
   - href/src
@@ -60,3 +62,25 @@
 - re-authoring layout from scratch
 
 Keep the book readable first.
+
+## Placeholder safety
+
+잘못된 경우:
+- placeholder token 안에 `<span .../>` 뒤의 영어 문장까지 들어감
+
+올바른 경우:
+- placeholder token에는 inline tag만 포함
+- 뒤의 본문 문장은 일반 텍스트로 남김
+
+문제가 생겼다면:
+
+1. fresh export
+2. `refresh_translation_bundles.py`
+3. apply
+4. repack
+
+영어 문장 잔재 점검:
+
+1. `find_translation_residue.py --bundle-dir ...`
+2. 필요 시 `--xhtml-dir ...`까지 함께 검사
+3. report를 보고 잔재가 남은 entry만 다시 번역

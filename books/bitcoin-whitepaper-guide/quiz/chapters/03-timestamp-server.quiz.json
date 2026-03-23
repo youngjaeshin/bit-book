@@ -1,0 +1,20 @@
+{
+  "chapter_id": "03-timestamp-server",
+  "answer_index": 0,
+  "question_en": "What is the timestamp server mainly securing?",
+  "choices_en": [
+    "The order of events in a public record",
+    "The secrecy of every transaction amount",
+    "A fixed exchange rate with fiat",
+    "Government control of block production"
+  ],
+  "question_ko": "타임스탬프 서버가 주로 확보하는 것은 무엇인가?",
+  "choices_ko": [
+    "공개 기록 안의 사건 순서",
+    "모든 거래 금액의 비밀성",
+    "법정화폐와의 고정 환율",
+    "블록 생산에 대한 정부 통제"
+  ],
+  "explanation_en": "The timestamp server secures the ordering of events in a publicly auditable record.",
+  "explanation_ko": "타임스탬프 서버는 공개적으로 검증 가능한 기록 안의 사건 순서를 확보한다."
+}

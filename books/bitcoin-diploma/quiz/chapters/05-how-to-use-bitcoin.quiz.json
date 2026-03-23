@@ -1,0 +1,20 @@
+{
+  "chapter_id": "05-how-to-use-bitcoin",
+  "answer_index": 1,
+  "question_en": "What does this unit emphasize about using Bitcoin?",
+  "choices_en": [
+    "That practice is optional once theory is understood",
+    "That practical literacy is part of monetary sovereignty",
+    "That wallets are unimportant details",
+    "That Lightning replaces Bitcoin’s base layer"
+  ],
+  "question_ko": "이 단위는 비트코인 사용에 대해 무엇을 강조하는가?",
+  "choices_ko": [
+    "이론만 이해하면 실습은 선택 사항이라는 점",
+    "실용적 문해력이 통화 주권의 일부라는 점",
+    "지갑은 중요하지 않은 세부사항이라는 점",
+    "라이트닝이 비트코인의 기반 레이어를 대체한다는 점"
+  ],
+  "explanation_en": "The chapter treats wallets, transactions, and Lightning literacy as part of practical sovereignty.",
+  "explanation_ko": "이 장은 지갑, 거래, 라이트닝 문해력을 실천적 통화 주권의 일부로 본다."
+}

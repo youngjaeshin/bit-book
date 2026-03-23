@@ -1,0 +1,12 @@
+.git/
+.codex/
+.omx/
+.omc/
+__pycache__/
+.venv/
+epub/
+pdf/
+memory/
+screenshot/
+books/*/translated_epub/
+btc-book.png

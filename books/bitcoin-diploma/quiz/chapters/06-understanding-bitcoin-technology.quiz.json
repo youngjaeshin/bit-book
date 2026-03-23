@@ -1,0 +1,20 @@
+{
+  "chapter_id": "06-understanding-bitcoin-technology",
+  "answer_index": 2,
+  "question_en": "What makes Bitcoin transactions trustworthy here?",
+  "choices_en": [
+    "A central institution’s promise",
+    "Government supervision alone",
+    "Rules and verification within a distributed ledger",
+    "The ability to reverse them instantly"
+  ],
+  "question_ko": "이 단위에서 비트코인 거래가 신뢰될 수 있는 이유는 무엇인가?",
+  "choices_ko": [
+    "중앙 기관의 약속",
+    "오직 정부 감독",
+    "분산 원장 안의 규칙과 검증",
+    "즉시 되돌릴 수 있는 능력"
+  ],
+  "explanation_en": "The chapter says transactions are trusted because the system’s rules make them verifiable within a distributed ledger.",
+  "explanation_ko": "이 장은 분산 원장 안의 규칙과 검증 구조 덕분에 거래가 신뢰될 수 있다고 본다."
+}

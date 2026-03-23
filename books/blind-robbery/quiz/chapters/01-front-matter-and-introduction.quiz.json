@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-front-matter-and-introduction",
+  "answer_index": 1,
+  "question_en": "What is the introduction mainly trying to make the reader question?",
+  "choices_en": [
+    "Whether people save too much",
+    "Whether state control of money should be taken for granted",
+    "Whether all monopolies are efficient",
+    "Whether inflation is morally neutral"
+  ],
+  "question_ko": "도입부가 독자에게 가장 먼저 의심하게 만들고자 하는 것은 무엇인가?",
+  "choices_ko": [
+    "사람들이 저축을 너무 많이 하는지 여부",
+    "국가의 화폐 통제를 당연하게 받아들여도 되는지 여부",
+    "모든 독점이 효율적인지 여부",
+    "인플레이션이 도덕적으로 중립적인지 여부"
+  ],
+  "explanation_en": "The introduction invites the reader to question why the state should monopolize money at all.",
+  "explanation_ko": "도입부는 왜 국가가 돈을 독점해야 하는지를 아예 다시 묻도록 만든다."
+}

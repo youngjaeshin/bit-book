@@ -1,0 +1,20 @@
+{
+  "chapter_id": "02-history-of-money-and-fiat-control",
+  "answer_index": 2,
+  "question_en": "What transition does this unit trace?",
+  "choices_en": [
+    "From Bitcoin to gold",
+    "From barter to commodity money to fiat control",
+    "From CBDC to local barter",
+    "From stable money to complete abundance"
+  ],
+  "question_ko": "이 단위는 어떤 전환을 추적하는가?",
+  "choices_ko": [
+    "비트코인에서 금으로",
+    "물물교환에서 상품 화폐를 거쳐 명목화폐 통제로",
+    "CBDC에서 지역 물물교환으로",
+    "안정적 돈에서 완전한 풍요로"
+  ],
+  "explanation_en": "The chapter follows the move from barter to commodity money and then to state-controlled fiat.",
+  "explanation_ko": "이 단위는 물물교환에서 상품 화폐를 거쳐 국가 통제 명목화폐로 이어지는 흐름을 추적한다."
+}

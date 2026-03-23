@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Transactions · Bitcoin Whitepaper Guide</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← Back to index</a>
+      </nav>
+      <header class="hero compact">
+        <p class="eyebrow">Bitcoin Whitepaper Guide</p>
+        <h1>Transactions</h1>
+      </header>
+      <div class="lang-toggle">
+        <button class="lang-btn active" data-lang="en">English</button>
+        <button class="lang-btn" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid">
+        <article class="card lang-panel active" data-lang="en">
+          <div class="digest">
+<h2>Transactions</h2>
+<h3>Chapter Digest</h3>
+<p>The transactions section defines the coin not as an object but as a chain of digital signatures. Ownership is transferred when each holder signs the relevant data over to the next, creating a recordable chain. The problem is that such a chain alone cannot prevent double-spending unless some mechanism exists for agreeing which spend came first.</p>
+<p>The commentary uses this section to show both the elegance and limitation of signature-based money. Digital signatures are enough to establish authorization, but not enough to establish uniqueness in a decentralized setting. The importance of the transaction section lies in showing that Bitcoin begins from a simple definition and immediately runs into the central challenge of digital cash: preventing one unit from being spent twice without relying on a trusted authority.</p>
+<h3>Key Takeaways</h3>
+<ul><li>A coin is defined as a chain of digital signatures.</li><li>Signatures prove authorization, not uniqueness.</li><li>Double-spending is the first major obstacle for digital cash.</li><li>Bitcoin starts from a simple transactional model and then builds outward.</li><li>The section explains why a decentralized sequencing mechanism is necessary.</li></ul>
+<h3>Notable Terms / Claims</h3>
+<ul><li>Chain of signatures</li><li>Authorization versus uniqueness</li><li>Double-spending</li><li>Digital cash model</li><li>Need for sequencing</li></ul>
+</div>
+        </article>
+        <article class="card lang-panel" data-lang="ko">
+          <div class="digest">
+<h2>거래</h2>
+<h3>요약</h3>
+<p>거래 장은 코인을 물리적 물건이 아니라 디지털 서명의 사슬로 정의한다. 각 소유자가 다음 소유자에게 관련 정보를 서명해 넘기면, 소유권은 하나의 연쇄로 기록될 수 있다. 그러나 이런 서명 체인만으로는 같은 코인을 두 번 쓰는 이중지불을 막을 수 없다. 어떤 지출이 먼저 일어났는지에 대한 합의가 없기 때문이다.</p>
+<p>이 해설은 이 지점에서 디지털 서명 기반 화폐의 우아함과 한계를 동시에 보여 준다. 디지털 서명은 누가 정당한 소유자인지를 입증하는 데는 충분하지만, 탈중앙 환경에서 유일성을 보장하는 데는 충분하지 않다. 따라서 거래 장의 중요성은 비트코인이 매우 단순한 정의에서 출발하면서도 곧바로 디지털 현금의 핵심 문제, 즉 신뢰받는 제3자 없이 이중지불을 막는 문제와 마주친다는 점을 드러내는 데 있다.</p>
+<h3>핵심 포인트</h3>
+<ul><li>코인은 디지털 서명의 사슬로 정의된다.</li><li>서명은 권한은 증명하지만 유일성까지 보장하지는 않는다.</li><li>이중지불은 디지털 현금의 첫 번째 큰 장애물이다.</li><li>비트코인은 단순한 거래 모델에서 시작해 바깥으로 확장된다.</li><li>탈중앙적 순서 합의 메커니즘이 왜 필요한지가 드러난다.</li></ul>
+<h3>중요 용어 / 주장</h3>
+<ul><li>서명의 사슬</li><li>권한과 유일성의 차이</li><li>이중지불</li><li>디지털 현금 모델</li><li>순서 합의의 필요</li></ul>
+</div>
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        <div class="quiz-panel active" data-lang="en">
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: A way to prevent double-spending without a trusted third party — Signatures establish authorization, but the system still needs a way to prevent double-spending without trust in a central authority."
+     data-wrong-text="Answer: A way to prevent double-spending without a trusted third party — Signatures establish authorization, but the system still needs a way to prevent double-spending without trust in a central authority.">
+  <h3>What does the transactions section show is still missing after digital signatures?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">A larger block size</button><button class="quiz-option" data-option-index="1">A trusted exchange rate</button><button class="quiz-option" data-option-index="2">A way to prevent double-spending without a trusted third party</button><button class="quiz-option" data-option-index="3">A central bank guarantee</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel" data-lang="ko">
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: 신뢰받는 제3자 없이 이중지불을 막는 방법 — 서명은 권한은 보장하지만, 중앙 권위에 의존하지 않고 이중지불을 막을 방법이 여전히 필요하다."
+     data-wrong-text="Answer: 신뢰받는 제3자 없이 이중지불을 막는 방법 — 서명은 권한은 보장하지만, 중앙 권위에 의존하지 않고 이중지불을 막을 방법이 여전히 필요하다.">
+  <h3>거래 장은 디지털 서명만으로는 무엇이 여전히 부족하다고 보여 주는가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">더 큰 블록 크기</button><button class="quiz-option" data-option-index="1">신뢰할 수 있는 환율</button><button class="quiz-option" data-option-index="2">신뢰받는 제3자 없이 이중지불을 막는 방법</button><button class="quiz-option" data-option-index="3">중앙은행 보증</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

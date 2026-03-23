@@ -1,0 +1,20 @@
+{
+  "chapter_id": "03-central-banking",
+  "answer_index": 0,
+  "question_en": "How is central banking described in this unit?",
+  "choices_en": [
+    "As a concentration of power within the monetary hierarchy",
+    "As a neutral observer outside money",
+    "As the end of layering",
+    "As a purely technical improvement without political meaning"
+  ],
+  "question_ko": "이 단위는 중앙은행을 어떻게 묘사하는가?",
+  "choices_ko": [
+    "통화 위계 안의 권력 집중으로",
+    "돈 바깥의 중립적 관찰자로",
+    "레이어 구조의 종말로",
+    "정치적 의미 없는 순수 기술 개선으로"
+  ],
+  "explanation_en": "The unit portrays central banking as concentrating monetary power within the layered system.",
+  "explanation_ko": "이 단위는 중앙은행을 레이어 구조 안의 통화 권력 집중으로 묘사한다."
+}

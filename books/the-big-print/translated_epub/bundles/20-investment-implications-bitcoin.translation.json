@@ -1,0 +1,675 @@
+{
+  "chapter_id": "20-investment-implications-bitcoin",
+  "title": "INVESTMENT IMPLICATIONS – BITCOIN",
+  "src": "part0033.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0033.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "INVESTMENT IMPLICATIONS – BITCOIN",
+      "translated_text": "투자에 미치는 영향 – 비트코인",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "As I said above, Bitcoin is the most asymmetric upside investment opportunity I have ever seen. Let me explain why.",
+      "translated_text": "위에서 말했듯이 비트코인은 내가 본 것 중 가장 비대칭적인 상승 여력이 있는 투자 기회입니다. 이유를 설명하겠습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "First, I view Bitcoin as a form of “digital gold.” That is, a decentralized digital asset with a fixed supply, auditable transparency, and no counterparty risk.__INLINE_1____INLINE_2__ Michael Saylor describes it as “pristine digital capital,” and I agree. This sets Bitcoin apart from the sea of other cryptocurrencies, most of which lack Bitcoin’s rigorously designed “proof-of-work” and instead have centralizing algorithms that do not control their supply. Bitcoin is far and away the leading digital currency, and because of its design, I expect it to stay in that position.",
+      "translated_text": "첫째, 나는 비트코인을 “디지털 금”의 한 형태로 봅니다. 즉, 공급량이 고정되어 있고 감사 가능한 투명성이 있으며 상대방 위험이 없는 분산형 디지털 자산입니다.__INLINE_1____INLINE_2__ Michael Saylor는 이를 \"순수한 디지털 자본\"이라고 설명하며 저도 이에 동의합니다. 이는 비트코인을 다른 암호화폐의 바다와 차별화시킵니다. 대부분의 암호화폐에는 비트코인의 엄격하게 설계된 \"작업증명\"이 부족하고 대신 공급을 제어하지 않는 중앙 집중식 알고리즘이 있습니다. 비트코인은 단연 최고의 디지털 통화이며, 그 디자인으로 인해 그 위치를 유지할 것으로 기대합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a304\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a31R\" ns1:type=\"noteref\" class=\"class_s2T8\">69</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "My investment case for Bitcoin rests primarily on its fixed supply. Like gold, Bitcoin’s value is intrinsically tied to its scarcity, meaning it, too, will benefit from monetary debasement. And as we have covered above, I firmly believe we have a lot of that in our future. Inflation or monetary debasement will drive up the dollar prices of all scarce assets, and Bitcoin is poised to benefit disproportionately.",
+      "translated_text": "비트코인에 대한 나의 투자 사례는 주로 고정된 공급량에 달려 있습니다. 금과 마찬가지로 비트코인의 가치는 본질적으로 희소성과 연결되어 있습니다. 즉, 비트코인 ​​역시 화폐 가치 하락으로 이익을 얻을 것입니다. 위에서 다루었듯이, 저는 우리의 미래에 그런 일이 많이 있을 것이라고 굳게 믿습니다. 인플레이션이나 화폐 가치 하락은 모든 희소 자산의 달러 가격을 상승시킬 것이며, 비트코인은 불균형적으로 이익을 얻을 준비가 되어 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "But Bitcoin has another asymmetric driver: its adoption curve. Bitcoin is only about 16 years old and is still relatively early in its adoption phase. As an investor in the early days of the internet, I recall the slow and clunky dial-up connections and crude, green-screen user interfaces in 1993 and 1994. It took Windows-based browsers and faster connections, which arrived between 1996 and 2000, to really accelerate its growth. Comparatively, __INLINE_1__Bitcoin today feels like the internet in 1998. It is happening, but there is a lot of growth ahead.",
+      "translated_text": "그러나 비트코인에는 또 하나의 비대칭적 동력이 있다. 바로 채택 곡선이다. 비트코인은 겨우 16년 정도의 역사를 지녔고, 아직도 채택 단계로 보면 비교적 초기다. 인터넷 초창기에 투자했던 사람으로서 나는 1993년과 1994년의 느리고 투박한 전화 접속 연결과 조잡한 녹색 화면 사용자 인터페이스를 기억한다. 인터넷의 성장을 진짜로 가속한 것은 1996년부터 2000년 사이에 등장한 윈도우 기반 브라우저와 더 빠른 연결이었다. 비교하자면, __INLINE_1__오늘날의 비트코인은 1998년의 인터넷처럼 느껴진다. 이미 일이 벌어지고 있지만, 앞으로 남은 성장 폭은 여전히 크다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_326\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "How early are we?",
+      "translated_text": "우리는 얼마나 일찍 왔나요?",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "Investing in Bitcoin means allocating savings or capital away from traditional investments. In this sense, Bitcoin competes against all other investments. Any investment decision begins with evaluating potential returns, and Bitcoin’s historical performance is simply unparalleled.",
+      "translated_text": "비트코인에 투자한다는 것은 전통적인 투자에서 저축이나 자본을 할당하는 것을 의미합니다. 이런 의미에서 비트코인은 다른 모든 투자와 경쟁합니다. 모든 투자 결정은 잠재적 수익을 평가하는 것에서 시작되며, 비트코인의 역사적 성과는 비교할 수 없을 만큼 뛰어납니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "Bitcoin is a very unique financial asset. The SEC classifies it as a commodity, but it is a commodity whose supply does not respond to price. If the price of gold goes up, we will mine more gold, adding supply. If the price of oil goes up, we will drill for more oil. Bitcoin is different. If its price goes up, its supply schedule remains unchanged. __INLINE_1____INLINE_2____INLINE_3____INLINE_4__",
+      "translated_text": "비트코인은 매우 독특한 금융 자산입니다. SEC는 이를 상품으로 분류하지만 공급이 가격에 반응하지 않는 상품이다. 금 가격이 오르면 우리는 더 많은 금을 채굴하여 공급량을 늘릴 것입니다. 석유 가격이 오르면 우리는 더 많은 석유를 채굴할 것입니다. 비트코인은 다릅니다. 가격이 올라가도 공급 일정은 변하지 않습니다. __INLINE_1____INLINE_2____INLINE_3____INLINE_4__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Economists would say that Bitcoin is the world’s 최초의 완전히 비탄력적인 재화.</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2TZ\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a37K\" ns1:type=\"noteref\" class=\"class_s37J\">70</html:a>",
+        "__INLINE_4__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\"> Like I said, very unique.</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "The returns? They speak for themselves.",
+      "translated_text": "반품? 그들은 스스로 말합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "There has never been a financial asset with comparable growth, adoption, or rates of return. Have a look at these next two charts produced and regularly updated by casebitcoin.com:",
+      "translated_text": "비슷한 성장, 채택 또는 수익률을 보이는 금융 자산은 지금까지 없었습니다. Casebitcoin.com에서 생성하고 정기적으로 업데이트하는 다음 두 차트를 살펴보십시오.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "* * * * *",
+      "translated_text": "* * * * *",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "CaseBitcoin, Price data as of 12/17/2024. (__INLINE_1__)",
+      "translated_text": "CaseBitcoin, 2024년 12월 17일 현재 가격 데이터. (__INLINE_1__)",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"https://casebitcoin.com/\">casebitcoin.com</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "This first schedule tracks the return on investment depending on when you first purchased Bitcoin. As you can see, over every time frame, Bitcoin’s performance beats both alternatives, gold and the S&P 500. If you go back far enough, it crushes them. The fact that it is the best-performing financial asset in the history of the world is not to be ignored. Yet many on Wall Street do.",
+      "translated_text": "이 첫 번째 일정은 비트코인을 처음 구매한 시점에 따라 투자 수익을 추적합니다. 보시다시피, 모든 기간에 걸쳐 비트코인의 성과는 금과 S&P 500이라는 대안을 모두 능가합니다. 충분히 과거로 가면 두 대안을 무너뜨립니다. 그것이 세계 역사상 최고의 성과를 낸 금융 자산이라는 사실은 무시할 수 없습니다. 그러나 월스트리트의 많은 사람들이 그렇습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "Below is another view of the same data showing the compound annual growth rate (CAGR) of Bitcoin. Again, note how Bitcoin outpaced the alternatives.",
+      "translated_text": "아래는 비트코인의 연평균 성장률(CAGR)을 보여주는 동일한 데이터의 또 다른 보기입니다. 다시 한 번, 비트코인이 대안을 어떻게 앞섰는지 주목해 보세요.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "CaseBitcoin, Price data as of 12/17/2024. (__INLINE_1__)",
+      "translated_text": "CaseBitcoin, 2024년 12월 17일 현재 가격 데이터. (__INLINE_1__)",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"https://casebitcoin.com/\">casebitcoin.com</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "I believe this outperformance stems from Bitcoin’s design as a perfect form of money. I am hard-pressed to think of what could fundamentally alter its trajectory, though we’ll discuss the risks later in this chapter.",
+      "translated_text": "나는 이러한 뛰어난 성능이 완벽한 화폐 형태로서의 비트코인 ​​설계에서 비롯된다고 믿습니다. 이 장의 뒷부분에서 위험에 대해 논의하겠지만 근본적으로 궤도를 바꿀 수 있는 것이 무엇인지 생각하기가 어렵습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "Another intriguing way to understand Bitcoin’s potential is to examine it through the lens of total addressable market (TAM) and market share. We are aided in this exercise by the insightful Bitcoin market analyst Jesse Myers.",
+      "translated_text": "비트코인의 잠재력을 이해하는 또 다른 흥미로운 방법은 총 주소 지정 가능 시장(TAM)과 시장 점유율이라는 렌즈를 통해 비트코인을 조사하는 것입니다. 우리는 통찰력 있는 비트코인 ​​시장 분석가 Jesse Myers의 도움을 받았습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "Jesse Myers (X: @Croesus_BTC), “Asset Class by Bucket: 2024,” onceinaspecies.com.",
+      "translated_text": "Jesse Myers(X: @Croesus_BTC), “버킷별 자산 클래스: 2024,” Onceinaspecies.com.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[18]",
+      "tag": "p",
+      "source_text": "In this chart, Jesse placed all of the major investment assets into buckets proportionally sized to the capital invested in each. He estimates that globally there are $900 trillion of investment assets. Presently, Bitcoin’s total market capitalization is $2.0 trillion — approximately 2/10s of 1% (0.2%) of the world’s investment assets. This is a trivial amount.",
+      "translated_text": "이 차트에서 Jesse는 모든 주요 투자 자산을 각각에 투자된 자본에 비례하는 크기의 버킷에 배치했습니다. 그는 전 세계적으로 900조 달러의 투자 자산이 있다고 추정합니다. 현재 비트코인의 총 시가총액은 2조 달러로, 전 세계 투자 자산의 약 1%(0.2%)의 2/10에 해당합니다. 이것은 사소한 금액입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[19]",
+      "tag": "p",
+      "source_text": "My belief is that as word spreads about how Bitcoin is non-dilutable, “perfect money,” it’s reasonable to expect capital now stored in those other asset classes to migrate to Bitcoin. It would not take much on a percentage basis to send the price of Bitcoin to multiples of today’s price.",
+      "translated_text": "내 믿음은 비트코인이 어떻게 희석되지 않는 \"완벽한 돈\"인지에 대한 소문이 퍼지면서 이제 다른 자산 클래스에 저장된 자본이 비트코인으로 이전될 것으로 기대하는 것이 합리적이라고 생각합니다. 비트코인 가격을 현재 가격의 배수로 보내는 데는 백분율 기준으로 많은 시간이 걸리지 않습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[20]",
+      "tag": "p",
+      "source_text": "How much higher? I am glad you asked.",
+      "translated_text": "얼마나 더 높나요? 물어봐주셔서 기뻐요.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "Power Law",
+      "translated_text": "멱함수 법칙",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[21]",
+      "tag": "p",
+      "source_text": "Imagine throwing a pebble into a still pond. The ripple starts tiny, but each expanding ring grows exponentially larger than the last. This is the essence of a power law – a mathematical relationship where one quantity varies as a power of another. More simply, small changes in one variable create massive, exponential changes in another. This isn’t just random growth; it’s a fundamental pattern describing how complex systems explode in magnitude.",
+      "translated_text": "고요한 연못에 조약돌을 던지는 것을 상상해 보십시오. 잔물결은 작게 시작되지만 각 확장 고리는 마지막 고리보다 기하급수적으로 커집니다. 이것이 거듭제곱 법칙의 본질입니다. 즉, 한 양이 다른 양의 거듭제곱으로 변하는 수학적 관계입니다. 더 간단히 말하면, 한 변수의 작은 변화가 다른 변수에 엄청난 기하급수적 변화를 가져옵니다. 이것은 단순한 무작위 성장이 아닙니다. 이는 복잡한 시스템이 얼마나 규모가 커지는지 설명하는 기본 패턴입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[22]",
+      "tag": "p",
+      "source_text": "In nature, we see power laws everywhere. The Richter scale for earthquakes is a power law. A magnitude seven quake is 10 times stronger than a magnitude six and 100 times stronger than a magnitude five. In business, it explains why Amazon grew from selling books to dominating global commerce, or how Facebook expanded from a college directory to connecting billions. Each step of growth wasn’t just additive – it was multiplicative.",
+      "translated_text": "자연에서 우리는 어디에서나 거듭제곱의 법칙을 볼 수 있습니다. 지진의 리히터 규모는 거듭제곱의 법칙입니다. 진도 7의 지진은 진도 6보다 10배, 진도 5보다 100배 더 강합니다. 비즈니스에서는 Amazon이 책 판매에서 글로벌 상거래 지배자로 성장한 이유 또는 Facebook이 어떻게 대학 디렉토리에서 수십억 명을 연결하는 곳으로 확장했는지 설명합니다. 성장의 각 단계는 단순한 덧셈이 아니라 곱셈이었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[23]",
+      "tag": "p",
+      "source_text": "The most fascinating application of power laws is in the adoption of revolutionary technologies. When something fundamentally better comes along – be it the printing press, electricity, or the internet – its growth doesn’t follow a neat, linear path. Instead, it explodes in sudden, massive bursts that leave skeptics wondering how they missed what, in hindsight, seems inevitable.",
+      "translated_text": "거듭제곱 법칙의 가장 매력적인 적용은 혁명적인 기술의 채택입니다. 인쇄기, 전기, 인터넷 등 근본적으로 더 나은 것이 등장하더라도 그 성장은 깔끔한 선형 경로를 따르지 않습니다. 대신, 그것은 갑작스럽고 엄청난 폭발로 폭발하여 회의론자들은 돌이켜 보면 불가피해 보이는 것을 어떻게 놓쳤는지 궁금해하게 됩니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[24]",
+      "tag": "p",
+      "source_text": "Enter Bitcoin. If you’re wondering how a “digital currency” could reshape the future of money, understanding power laws is a worthwhile task. Unlike traditional assets that follow more predictable growth patterns, Bitcoin’s adoption curve exhibits classic power law characteristics. Each phase of adoption __INLINE_1__amplifies the next, creating the potential for exponential rather than linear growth. As we’ll explore, this mathematical reality, combined with Bitcoin’s fixed supply, creates an unprecedented investment dynamic.",
+      "translated_text": "비트코인을 입력하세요. “디지털 통화”가 돈의 미래를 어떻게 바꿀 수 있는지 궁금하다면 멱함수 법칙을 이해하는 것이 가치 있는 일입니다. 보다 예측 가능한 성장 패턴을 따르는 기존 자산과 달리 비트코인의 채택 곡선은 고전적인 멱법칙 특성을 나타냅니다. 채택의 각 단계는 __INLINE_1__다음 단계를 증폭시켜 선형적 성장보다는 기하급수적인 성장 가능성을 창출합니다. 앞으로 살펴보겠지만 이러한 수학적 현실은 비트코인의 고정 공급량과 결합하여 전례 없는 투자 역학을 만들어냅니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_331\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[25]",
+      "tag": "p",
+      "source_text": "Recently, the Power Law has been a topic of great discussion in the bitcoin community. Although others have been working with Power Law models to explain bitcoin’s price action for years, Giovanni Santostasi, a PhD in astrophysics, and Fred Krueger, PhD in Mathematics from Stanford, have led the spirited Power Law debate on X. As I was preparing this section, Fred generously offered these two paragraphs describing the Power Law’s applicability to bitcoin:",
+      "translated_text": "최근 비트코인 ​​커뮤니티에서는 멱법칙(Power Law)이 큰 논의 주제가 되었습니다. 다른 사람들은 수년 동안 비트코인의 가격 움직임을 설명하기 위해 멱법칙 모델을 사용해 왔지만, 천체 물리학 박사인 Giovanni Santostasi와 스탠포드의 수학 박사인 Fred Krueger는 X에 대한 활발한 멱법칙 논쟁을 주도했습니다. 제가 이 섹션을 준비하는 동안 Fred는 비트코인에 대한 멱법칙의 적용 가능성을 설명하는 다음 두 단락을 아낌없이 제공했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[26]",
+      "tag": "p",
+      "source_text": "The “Power Law” is an observed statistical relationship between the logarithm of the price of bitcoin measured against the logarithm of time since the genesis block. This relationship implies that the Bitcoin price, while volatile, has followed a very predictable band of growth, starting in 2010 with a price of $.10, all of the way to the recent highs of $70,000.",
+      "translated_text": "\"멱승 법칙\"은 생성 블록 이후 시간의 로그에 대해 측정된 비트코인 ​​가격의 로그 사이에서 관찰된 통계적 관계입니다. 이러한 관계는 비트코인 ​​가격이 변동성이 크긴 하지만 2010년 0.10달러에서 시작하여 최근 최고치인 70,000달러까지 매우 예측 가능한 성장 밴드를 따랐음을 의미합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[27]",
+      "tag": "p",
+      "source_text": "This law has been studied extensively by members of the Bitcoin community, and its parameters have been stable over time. While this doesn’t in any way suggest there will not be massive short-term volatility, it gives a framework for understanding an asset that has a recorded price growth of close to 1,000,000x.",
+      "translated_text": "이 법칙은 비트코인 ​​커뮤니티 구성원에 의해 광범위하게 연구되었으며 그 매개변수는 시간이 지남에 따라 안정적이었습니다. 이는 어떤 식으로든 대규모 단기 변동성이 없을 것임을 시사하는 것은 아니지만 1,000,000배에 가까운 기록적인 가격 상승을 보이는 자산을 이해하기 위한 프레임워크를 제공합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[28]",
+      "tag": "p",
+      "source_text": "Krueger and Santostasi explain that looking backward, the Power Law model accurately predicts the price of Bitcoin with a 97% R-squared correlation. For those familiar with statistics, a model that correlates the movements in data 97% of the time is a useful model. Although it does not predict exact prices on specific dates, the model shows that price fluctuations typically __INLINE_1__fall within two standard deviations above or one standard deviation below the trend line.",
+      "translated_text": "Krueger와 Santostasi는 과거를 돌아보면 파워 법칙 모델이 97%의 R제곱 상관도로 비트코인 가격을 정확하게 설명한다고 말한다. 통계에 익숙한 사람이라면 데이터 움직임을 97%의 시간 동안 따라가는 모델이 유용한 모델이라는 점을 알 것이다. 이 모델은 특정 날짜의 정확한 가격을 예측하지는 않지만, 가격 변동이 일반적으로 __INLINE_1__추세선 위로는 2표준편차, 아래로는 1표준편차 범위 안에 들어온다는 점을 보여준다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_332\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[29]",
+      "tag": "p",
+      "source_text": "The following is a worksheet prepared by Fred and posted on X on July 27, 2024, that details what the Power Law model predicts.",
+      "translated_text": "다음은 Fred가 준비하고 2024년 7월 27일에 X에 게시된 워크시트로, Power Law 모델이 예측하는 내용을 자세히 설명합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[30]",
+      "tag": "p",
+      "source_text": "Tracing the model’s trend line and not accounting for upside surges that often partially retrace, one Bitcoin should be worth $326,000 in five years, $1,100,000 in ten years, and $7,000,000 in 20 years. Some believe that Bitcoin’s performance will exceed those numbers as fiat currencies increasingly fail. I am sympathetic to that view because none of us know exactly how it will develop.",
+      "translated_text": "모델의 추세선을 추적하고 종종 부분적으로 되돌아가는 상승 폭을 고려하지 않으면 비트코인 ​​1개는 5년 후에 326,000달러, 10년 후에 1,100,000달러, 20년 후에 7,000,000달러의 가치가 있어야 합니다. 일부 사람들은 명목화폐가 점점 더 실패함에 따라 비트코인의 성과가 그 수치를 초과할 것이라고 믿습니다. 우리 중 누구도 그것이 어떻게 전개될지 정확히 알지 못하기 때문에 나는 그러한 견해에 공감합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[31]",
+      "tag": "p",
+      "source_text": "Over time, as the prices of other assets increase due to inflation and Bitcoin appreciates even more rapidly, the price of other assets in Bitcoin terms will drop. Take a look at this eye-popping graphic:",
+      "translated_text": "시간이 지남에 따라 인플레이션으로 인해 다른 자산의 가격이 상승하고 비트코인 ​​가격이 더욱 빠르게 상승함에 따라 비트코인 ​​기준으로 다른 자산의 가격은 하락할 것입니다. 이 눈에 띄는 그래픽을 살펴보십시오.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[32]",
+      "tag": "p",
+      "source_text": "I expect this trend to continue.",
+      "translated_text": "나는 이러한 추세가 계속될 것으로 예상한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[2]",
+      "tag": "h3",
+      "source_text": "Investing In Bitcoin – Volatility",
+      "translated_text": "비트코인 투자 – 변동성",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[33]",
+      "tag": "p",
+      "source_text": "Before you begin allocating your savings to Bitcoin, it is important to understand one of its defining features — volatility. As an emerging asset, Bitcoin trades with the unpredictability of a wild animal. In its 15-year lifespan, it has had numerous substantial drawdowns from price peaks, sometimes exceeding 80%, only to recover and achieve new heights, with higher lows on each pullback. Meaning, it has a strong upward bias, as we saw in the performance charts above.",
+      "translated_text": "비트코인에 저축금을 할당하기 전에 비트코인의 정의 기능 중 하나인 변동성을 이해하는 것이 중요합니다. 신흥 자산인 비트코인은 야생동물의 예측 불가능성과 거래됩니다. 15년의 수명 동안 가격 최고점에서 여러 차례 상당한 하락이 있었고 때로는 80%를 초과하기도 했지만 회복되어 새로운 고점을 달성했으며 하락할 때마다 저점이 더 높아졌습니다. 즉, 위의 성과 차트에서 볼 수 있듯이 강한 상승 편향을 가지고 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[34]",
+      "tag": "p",
+      "source_text": "Bitcoin’s volatility is driven by its unique position as a challenger to the fiat monetary system. We’re in the early stages of a seismic shift toward sound money, and the stakes are high. Money is an emotional issue, and Bitcoin’s price can be volatile. People get excited, making euphoric predictions that “Bitcoin is going to the moon,” driving it to new highs. Then buyers get exhausted, suddenly prices fall, and now everyone starts saying, __INLINE_1__“Bitcoin is dead.” One thing you can count on is that these price swings will continue.",
+      "translated_text": "비트코인의 변동성은 명목화폐 시스템에 대한 도전자로서의 독특한 위치에 의해 주도됩니다. 우리는 건전 화폐을 향한 대대적인 전환의 초기 단계에 있으며 위험도 높습니다. 돈은 감정적인 문제이며 비트코인의 가격은 변동이 심할 수 있습니다. 사람들은 “비트코인이 달에 갈 것이다”라는 행복한 예측을 하며 신기록을 세웠습니다. 그런 다음 구매자는 지치고 갑자기 가격이 떨어지며 이제 모두가 __INLINE_1__“비트코인은 죽었습니다.”라고 말하기 시작합니다. 믿을 수 있는 한 가지는 이러한 가격 변동이 계속될 것이라는 점입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_334\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[35]",
+      "tag": "p",
+      "source_text": "What does this mean for someone who wants to get into Bitcoin? You must understand what you are buying, why you are buying it, and what the price is capable of doing. Have a look at the chart below. The right vertical axis shows the percentage drawdown from each new all-time high. Since Bitcoin became more widely traded and used for purchases in 2010,__INLINE_1____INLINE_2__ it has had four substantial drawdowns off a new price high, ranging from 76% to 90%.",
+      "translated_text": "비트코인에 참여하고 싶은 사람에게 이는 무엇을 의미합니까? 무엇을 구매하는지, 왜 구매하는지, 가격이 무엇을 할 수 있는지 이해해야 합니다. 아래 차트를 살펴보세요. 오른쪽 세로축은 각각의 새로운 사상 최고치 대비 하락률을 보여줍니다. 2010년에 비트코인이 더 광범위하게 거래되고 구매에 사용된 이후__INLINE_1____INLINE_2__은 76%에서 90%에 이르는 새로운 최고 가격에서 4번의 상당한 하락을 겪었습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a315\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2X0\" ns1:type=\"noteref\" class=\"class_s2T8\">71</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[36]",
+      "tag": "p",
+      "source_text": "* * * * *",
+      "translated_text": "* * * * *",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[37]",
+      "tag": "p",
+      "source_text": "MaverickEquityResearch, “Bitcoin Drawdown % From Peak,” 2024. __INLINE_1__ _Equity",
+      "translated_text": "MaverickEquityResearch, \"최고점 대비 비트코인 ​​하락률 %,\" 2024. __INLINE_1__ _Equity",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"https://maverickequityresearch.substack.com/\">MaverickEquityResearch.substack.com</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[38]",
+      "tag": "p",
+      "source_text": "I offer this warning because investors often chase new price highs, panic during drawdowns, and then sell at a loss, mistaking volatility for failure. Historically, anyone who has held Bitcoin for more than four years has seen positive returns, even if they bought at a peak. One has to take a long-term view and be prepared to endure drawdowns without selling. This is __INLINE_1__why Bitcoiners say “HODL,” which is an abbreviation for Hold-On-For-Dear-Life. Volatility comes with the asset.",
+      "translated_text": "내가 이런 경고를 하는 이유는 투자자들이 종종 새로운 고점을 쫓아가고, 조정 구간에서는 공포에 빠지며, 결국 변동성을 실패로 오해한 채 손절하기 때문이다. 역사적으로 비트코인을 4년 이상 보유한 사람은, 비록 꼭지에서 샀더라도, 모두 플러스 수익을 경험했다. 장기적 관점을 취하고, 팔지 않은 채 낙폭을 견딜 준비를 해야 한다. 이것이 __INLINE_1__비트코이너들이 “HODL”이라고 말하는 이유다. 이는 Hold-On-For-Dear-Life의 약자다. 변동성은 이 자산에 따라오는 것이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_335\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[39]",
+      "tag": "p",
+      "source_text": "A couple of observations. Position sizing and dollar-cost-averaging are two very important strategies that aid in managing this volatility. Mitigating volatility begins with position size-allocating only a portion of your portfolio to Bitcoin that aligns with your risk tolerance. Additionally, dollar-cost-averaging (DCA), where you invest a fixed amount at regular intervals regardless of price, helps smooth out the impact of volatility. The net effect of DCA is that when prices are low, more units are purchased, and when prices rise, fewer units are purchased. These strategies enable investors to participate in Bitcoin’s long-term growth without overexposing themselves to short-term swings.",
+      "translated_text": "몇 가지 관찰. 포지션 크기 조정과 달러 비용 평균화는 이러한 변동성을 관리하는 데 도움이 되는 두 가지 매우 중요한 전략입니다. 변동성을 완화하는 것은 위험 허용 범위에 맞춰 포트폴리오의 일부만 비트코인에 할당하는 포지션 규모에서 시작됩니다. 또한, 가격에 관계없이 일정한 간격으로 고정 금액을 투자하는 달러 비용 평균(DCA)은 변동성의 영향을 완화하는 데 도움이 됩니다. DCA의 순 효과는 가격이 낮을 때 더 많은 단위를 구매하고, 가격이 오르면 더 적은 단위를 구매한다는 것입니다. 이러한 전략을 통해 투자자는 단기적인 변동에 과도하게 노출되지 않고 비트코인의 장기적인 성장에 참여할 수 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[3]",
+      "tag": "h3",
+      "source_text": "Sharpe Ratio",
+      "translated_text": "샤프비율",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[40]",
+      "tag": "p",
+      "source_text": "When considering investing in a highly volatile asset, it can be helpful to consider the investment’s Sharpe ratio. Developed by Nobel laureate William F. Sharpe, the Sharpe ratio__INLINE_1____INLINE_2__ measures how much excess return an investment generates compared to its risk, with higher ratios indicating better risk-adjusted performance. The formula is straightforward:",
+      "translated_text": "변동성이 높은 자산에 대한 투자를 고려할 때 투자의 샤프 비율을 고려하는 것이 도움이 될 수 있습니다. 노벨상 수상자인 윌리엄 F. 샤프(William F. Sharpe)가 개발한 샤프 비율__INLINE_1____INLINE_2__은 위험에 비해 투자가 얼마나 많은 초과 수익을 창출하는지 측정하며 비율이 높을수록 위험 조정 성과가 더 우수함을 나타냅니다. 공식은 간단합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2YA\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2XK\" ns1:type=\"noteref\" class=\"class_s2T8\">72</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[41]",
+      "tag": "p",
+      "source_text": "The standard deviation measurement captures the volatility, and it is generally assumed that more volatile assets are riskier.",
+      "translated_text": "표준편차 측정은 변동성을 포착하며 일반적으로 변동성이 높은 자산이 더 위험하다고 가정합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[42]",
+      "tag": "p",
+      "source_text": "As a general rule, a Sharpe ratio above 1 is considered good, above 2 is very good, and above 3 is excellent. Presently, the __INLINE_1__Sharpe ratio for Bitcoin is 2.3. So, just because Bitcoin is volatile, it is not fair to say it is too risky. The returns justify the volatility using this measure, as you can see in the following schedule:",
+      "translated_text": "일반적으로 샤프지수가 1 이상이면 좋은 것으로 간주되고, 2 이상이면 매우 좋고, 3 이상이면 매우 좋습니다. 현재 비트코인의 __INLINE_1__Sharpe 비율은 2.3입니다. 따라서 비트코인이 변동성이 크다고 해서 너무 위험하다고 말하는 것은 공정하지 않습니다. 다음 일정에서 볼 수 있듯이 수익률은 이 측정값을 사용하여 변동성을 정당화합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_336\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[43]",
+      "tag": "p",
+      "source_text": "2024 Risk Adjusted Returns of Select Major Assets (Sharpe Ratio), Source: Galaxy Research",
+      "translated_text": "2024년 일부 주요 자산의 위험 조정 수익률(샤프 비율), 출처: Galaxy Research",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[4]",
+      "tag": "h3",
+      "source_text": "Risks of Bitcoin",
+      "translated_text": "비트코인의 위험",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[44]",
+      "tag": "p",
+      "source_text": "One question any smart investor asks when considering an investment is: What could go wrong? How might circumstances change, or what if my assumptions prove to be wrong such that this investment does not work out? I have always asked this of the companies I have invested in and have always been impressed when potential investors in my fund ask this of me. In this spirit, let me address this question first in the context of my broader, sound money thesis and then specifically as it relates to Bitcoin.",
+      "translated_text": "현명한 투자자가 투자를 고려할 때 묻는 질문 중 하나는 다음과 같습니다. 무엇이 잘못될 수 있습니까? 상황은 어떻게 변할 수 있습니까? 또는 내 가정이 잘못되어 이 투자가 성공하지 못하는 것으로 판명되면 어떻게 됩니까? 나는 내가 투자한 회사들에게 항상 이런 질문을 했고, 내 펀드의 잠재 투자자들이 나에게 이런 질문을 할 때마다 항상 깊은 인상을 받았습니다. 이러한 정신으로 먼저 이 질문을 나의 더 광범위하고 건전 화폐 논제의 맥락에서 다루고 그 다음 구체적으로 비트코인과 관련하여 다루겠습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[45]",
+      "tag": "p",
+      "source_text": "I strongly believe that investing in “sound money” assets is the right move at this stage of the sovereign debt cycle. In the past, these debt crises were generally resolved through intervention and inflationary measures. Here is how I could be wrong. If the U.S. federal government were to adopt fiscal austerity, means-test entitlement programs, cut military spending, reduce its overseas military footprint, and balance the federal budget, then the dollar would be sounder, and my thesis (assured monetary debasement) would be less likely. Such measures would generate one hell of a recession and widespread debt defaults, but we would, at some point, recover. What I am describing is a deflationary deleveraging. When I discuss this risk with others in the financial community, they chuckle because, like __INLINE_1__me, they consider the odds of the U.S. government meaningfully curtailing spending to be quite low.__INLINE_2____INLINE_3__ That does not mean it cannot occur.",
+      "translated_text": "나는 국가 부채 주기의 현 단계에서 \"건전 화폐\" 자산에 투자하는 것이 올바른 조치라고 굳게 믿습니다. 과거에는 이러한 부채 위기가 일반적으로 개입과 인플레이션 조치를 통해 해결되었습니다. 내가 틀릴 수 있는 방법은 다음과 같습니다. 미국 연방 정부가 긴축 재정, 자산 테스트 자격 프로그램, 군비 지출 삭감, 해외 군사 활동 규모 축소, 연방 예산 균형 조정을 채택한다면 달러 가치는 더욱 건전해질 것이고 내 주장(통화 가치 하락 보장)은 성공 가능성이 낮아질 것입니다. 그러한 조치는 엄청난 경기 침체와 광범위한 부채 불이행을 초래할 것이지만 어느 시점에서는 회복될 것입니다. 제가 설명하고 있는 것은 디플레이션에 따른 디레버리징입니다. 내가 금융계의 다른 사람들과 이 위험에 대해 논의할 때 그들은 __INLINE_1__나처럼 미국 정부가 지출을 의미 있게 삭감할 가능성이 매우 낮다고 생각하기 때문에 웃습니다.__INLINE_2____INLINE_3__ 그렇다고 그것이 일어날 수 없다는 의미는 아닙니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_337\" />",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a330\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a35G\" ns1:type=\"noteref\" class=\"class_s2T8\">73</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[1]",
+      "tag": "h4",
+      "source_text": "The Four Horsemen of Bitcoin Skepticism",
+      "translated_text": "비트코인 회의론의 네 기수",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[46]",
+      "tag": "p",
+      "source_text": "Turning to Bitcoin, I have repeatedly asked myself, __INLINE_1__ After deep consideration, I have identified four primary risks to Bitcoin.",
+      "translated_text": "비트코인으로 눈을 돌리면서 저는 스스로에게 반복적으로 질문했습니다. __INLINE_1__ 깊이 고려한 끝에 비트코인에 대한 네 가지 주요 위험을 확인했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">“무슨 일이 잘못될 수 있겠는가?”</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[1]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__. The ghost of failed digital currencies past — Digicash, E-cash, E-gold,__INLINE_2____INLINE_3__ B-Money, Bit Gold, and others — initially raised concerns about bitcoin’s technical foundation. These prior experiments in digital currency failed due to technical flaws or insufficient security. After over 16 years of operational soundness, Bitcoin’s network has proven resilient and secure, processing over 880,000 blocks without interruption.",
+      "translated_text": "__INLINE_1__. 과거 실패한 디지털 화폐의 유령(디지캐시, 이-캐시, 이-골드,__INLINE_2____INLINE_3__ 비-머니, 비트 골드 등)은 처음에는 비트코인의 기술적 기반에 대한 우려를 불러일으켰습니다. 디지털 화폐에 대한 이러한 이전 실험은 기술적 결함이나 보안 부족으로 인해 실패했습니다. 16년 넘게 운영 건전성을 유지해온 비트코인의 네트워크는 중단 없이 880,000개 이상의 블록을 처리하면서 탄력성과 보안이 입증되었습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Technical Vulnerability</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a357\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a353\" ns1:type=\"noteref\" class=\"class_s2T8\">74</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[1]/p[2]",
+      "tag": "p",
+      "source_text": "Although the risk of a catastrophic technological failure cannot be completely dismissed, I now view it as minimal. My brilliant friend Greg Foss describes gold as a “credit default swap (CDS) on Bitcoin,” meaning that if Bitcoin were to fail due to some unforeseen technical flaw, gold would once again become the go-to sound money asset.",
+      "translated_text": "비록 치명적인 기술적 실패의 위험을 완전히 무시할 수는 없지만, 이제는 최소한의 위험이라고 생각합니다. 나의 뛰어난 친구 Greg Foss는 금을 \"비트코인의 신용디폴트스왑(CDS)\"이라고 설명합니다. 이는 비트코인이 예상치 못한 기술적 결함으로 인해 실패할 경우 금이 다시 한 번 건전 화폐 자산이 될 것이라는 의미입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[2]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__. The second big concern is the risk of government action. Bitcoin’s decentralization and sound money properties make it a potential competitor to fiat currencies, which could cause some governments to pursue bans, heavy taxation, or regulatory overreach.",
+      "translated_text": "__INLINE_1__. 두 번째 큰 우려는 정부 조치의 위험입니다. 비트코인의 분권화 및 건전 화폐 특성으로 인해 비트코인은 법정화폐의 잠재적인 경쟁자가 되며, 이로 인해 일부 정부는 금지, 무거운 과세 또는 과도한 규제를 추구하게 될 수 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Regulatory Hostility</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[2]/p[2]",
+      "tag": "p",
+      "source_text": "This was a much bigger threat before the Securities and Exchange Commission officially classified Bitcoin as a __INLINE_1__commodity and approved Bitcoin Exchange-Traded Funds (ETFs). These decisions were huge. Before ETF approval, there was talk in some halls about the government banning it. Average individuals and institutions were afraid to own it, not knowing what the government was likely to do. ETF approval changed that; investors can now buy Bitcoin through their brokerage account and do not have to go through the more difficult process of buying a hardware wallet and taking self-custody.__INLINE_2____INLINE_3__ Of course, government views can evolve, and regulatory changes remain a potential risk. This is why Bitcoin owned via self-custody is preferred over ETF ownership.",
+      "translated_text": "이는 증권거래위원회가 공식적으로 비트코인을 __INLINE_1__상품으로 분류하고 비트코인 ​​상장지수펀드(ETF)를 승인하기 전에는 훨씬 더 큰 위협이었습니다. 이러한 결정은 엄청났습니다. ETF 승인 전, 일부 홀에서는 정부가 이를 금지한다는 이야기가 있었습니다. 일반 개인과 기관은 정부가 무엇을 할 것인지 모르고 그것을 소유하는 것을 두려워했습니다. ETF 승인이 이를 바꾸었습니다. 투자자는 이제 중개 계좌를 통해 비트코인을 구매할 수 있으며 하드웨어 지갑을 구매하고 자기 보관을 하는 더 어려운 과정을 거칠 필요가 없습니다.__INLINE_2____INLINE_3__ 물론 정부의 견해가 바뀔 수 있으며 규제 변화는 여전히 잠재적 위험으로 남아 있습니다. 이것이 바로 ETF 소유보다 자기 보관을 통해 소유한 비트코인을 선호하는 이유입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_338\" />",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2W4\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a345\" ns1:type=\"noteref\" class=\"class_s2T8\">75</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[3]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ Bitcoin’s value proposition depends on growing network effects. The risk is that people lose interest and adoption slows. So far, the data is encouraging. Current metrics – wallet numbers, transactions, hash power – show consistent growth across the base and secondary layers. The global hash power__INLINE_2____INLINE_3__ is also growing consistently, which makes the network stronger and more secure. Should any of these trends slow or reverse, that could be worrisome, but I do not expect this to happen. (more in next section)",
+      "translated_text": "__INLINE_1__ 비트코인의 가치 제안은 네트워크 효과의 증가에 따라 달라집니다. 위험은 사람들이 관심을 잃고 채택이 느려진다는 것입니다. 지금까지의 데이터는 고무적이었습니다. 현재 지표(지갑 수, 거래, 해시 파워)는 기본 및 보조 계층 전반에 걸쳐 일관된 성장을 보여줍니다. 글로벌 해시 파워__INLINE_2____INLINE_3__도 지속적으로 증가하고 있으며, 이는 네트워크를 더욱 강력하고 안전하게 만듭니다. 이러한 추세가 둔화되거나 역전된다면 걱정스러울 수 있지만 이런 일이 일어날 것으로 예상하지는 않습니다. (다음 섹션에서 자세히 설명)",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Adoption Stagnation.</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2U3\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a36G\" ns1:type=\"noteref\" class=\"class_s2T8\">76</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[4]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ The final risk, as described by Michael Saylor, concerns potential changes to Bitcoin’s code. It is true that Bitcoin’s decentralized architecture makes unilateral changes virtually impossible; rather, it relies on a global network of nodes and miners to reach consensus. The risk, however small, is that a rogue group of developers could propose and attempt to implement a significant alteration to Bitcoin’s protocol.",
+      "translated_text": "__INLINE_1__ Michael Saylor가 설명한 마지막 위험은 비트코인 ​​코드의 잠재적인 변경과 관련이 있습니다. 비트코인의 분산형 아키텍처가 일방적인 변경을 사실상 불가능하게 만드는 것은 사실입니다. 오히려 합의에 도달하기 위해 노드와 채굴자의 글로벌 네트워크에 의존합니다. 위험은 작기는 하지만 악의적인 개발자 그룹이 비트코인 ​​프로토콜에 대한 상당한 변경을 제안하고 구현하려고 시도할 수 있다는 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Protocol Mutation.</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[4]/p[2]",
+      "tag": "p",
+      "source_text": "I had the opportunity to discuss this concern directly with Michael Saylor at a private event at his house during the Bitcoin 2023 Conference in Miami. Surrounded by Bitcoin enthusiasts, I asked him the same critical question: What is the biggest risk to Bitcoin? His response focused on the human temptation to tinker. Saylor explained that rogue core developers could theoretically propose changes to Bitcoin’s protocol, believing it might “improve” the system. Any significant modification would require consensus from a majority of nodes and miners—a highly improbable scenario—but the risk isn’t zero.",
+      "translated_text": "나는 마이애미에서 열린 비트코인 ​​2023 컨퍼런스 기간 동안 Michael Saylor의 집에서 열린 비공개 행사에서 이 문제에 대해 직접 논의할 기회를 가졌습니다. 비트코인 열광자들에 둘러싸여 나는 그에게 똑같은 중요한 질문을 했습니다. 비트코인의 가장 큰 위험은 무엇입니까? 그의 반응은 인간이 땜질하려는 유혹에 초점을 맞추었습니다. Saylor는 불량 핵심 개발자가 이론적으로 비트코인 ​​프로토콜의 변경을 제안하여 시스템을 \"개선\"할 수 있다고 설명했습니다. 중대한 수정을 하려면 대다수의 노드와 채굴자의 합의가 필요합니다. 이는 매우 불가능한 시나리오이지만 위험은 0이 아닙니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[4]/p[3]",
+      "tag": "p",
+      "source_text": "Fortunately, Bitcoin’s history, including the block size wars__INLINE_1____INLINE_2__ and multiple hard forks,__INLINE_3____INLINE_4__ has underscored the community’s commitment to preserving its core principles. Today, Bitcoin has reached a stage of stability where such proposals are increasingly unlikely, and the network would almost certainly reject any deviation from its foundational sound money ethos.",
+      "translated_text": "다행스럽게도 블록 크기 전쟁__INLINE_1____INLINE_2__ 및 여러 하드 포크__INLINE_3____INLINE_4__을 포함한 비트코인의 역사는 핵심 원칙을 보존하려는 커뮤니티의 헌신을 강조했습니다. 오늘날 비트코인은 그러한 제안이 점점 더 불가능해지는 안정성 단계에 도달했으며 네트워크는 기본적인 건전 화폐 정신에서 벗어나는 모든 것을 거의 확실히 거부할 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a37E\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a343\" ns1:type=\"noteref\" class=\"class_s2T8\">77</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2U1\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a344\" ns1:type=\"noteref\" class=\"class_s2T8\">78</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[5]",
+      "tag": "h3",
+      "source_text": "Adoption or Stagnation",
+      "translated_text": "채택 또는 정체",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[47]",
+      "tag": "p",
+      "source_text": "Of the risks described above, the adoption and stagnation issue is one that I watch closely, and what I see is very encouraging. It is important that more and more dogs keep eating the Bitcoin food.",
+      "translated_text": "위에서 설명한 위험 중 채택 및 정체 문제는 제가 면밀히 관찰하고 있는 문제이며 매우 고무적입니다. 점점 더 많은 개들이 비트코인 ​​음식을 계속 먹는 것이 중요합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[48]",
+      "tag": "p",
+      "source_text": "In the past five years, Bitcoin has morphed from “magic internet money” that most people feared or didn’t understand into an emerging investment asset class with serious institutional and nation-state support. I highlight the following supporting indicators:",
+      "translated_text": "지난 5년 동안 비트코인은 대부분의 사람들이 두려워하거나 이해하지 못했던 \"마법의 인터넷 머니\"에서 진지한 기관 및 국가 지원을 통해 신흥 투자 자산 클래스로 변모했습니다. 나는 다음과 같은 지원 지표를 강조합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[1]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ El Salvador became the first nation-state to adopt Bitcoin as legal tender and announced a plan to purchase and mine Bitcoin as a national asset. Other countries have followed suit. Bhutan is actively mining Bitcoin, and others are believed to be quietly accumulating.",
+      "translated_text": "__INLINE_1__ 엘살바도르는 비트코인을 법정화폐로 채택한 최초의 국가가 되었으며 비트코인을 국가 자산으로 구매하고 채굴할 계획을 발표했습니다. 다른 나라들도 그 뒤를 따랐다. 부탄은 비트코인을 적극적으로 채굴하고 있으며, 다른 사람들도 조용히 축적하고 있는 것으로 여겨집니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">엘살바도르가 길을 열다:</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[2]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ In January 2024, the SEC approved Bitcoin ETF products, making it easier for investors to purchase Bitcoin. These ETFs achieved the most successful launch in history and currently hold over $115 billion in assets.",
+      "translated_text": "__INLINE_1__ 2024년 1월 SEC는 비트코인 ​​ETF 상품을 승인하여 투자자가 비트코인을 더 쉽게 구매할 수 있도록 했습니다. 이들 ETF는 역사상 가장 성공적인 출시를 달성했으며 현재 1,150억 달러 이상의 자산을 보유하고 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Bitcoin ETFs Gain SEC Approval:</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[3]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ Blackrock, the largest institutional asset manager in the United States with $11.5 trillion in assets under management, shifted from skepticism to advocacy. Its Bitcoin ETF is the largest in the world, and CEO Larry Fink, once critical of Bitcoin, now calls it “digital gold.”",
+      "translated_text": "__INLINE_1__ 관리 자산이 11조 5천억 달러에 달하는 미국 최대 기관 자산 관리자인 Blackrock은 회의론에서 옹호론자로 전환했습니다. 비트코인 ETF는 세계 최대 규모이며 한때 비트코인을 비판했던 CEO 래리 핑크(Larry Fink)는 이제 이를 “디지털 금”이라고 부릅니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Blackrock Embraces Bitcoin:</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[4]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ In the 2024 presidential election, candidates Donald Trump and Robert F. Kennedy Jr. openly ran on pro-Bitcoin positions, signaling growing political acceptance.",
+      "translated_text": "__INLINE_1__ 2024년 대통령 선거에서 도널드 트럼프(Donald Trump)와 로버트 F. 케네디 주니어(Robert F. Kennedy Jr.) 후보가 공개적으로 친비트코인 입장에 출마해 정치적 수용이 증가하고 있음을 알렸습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Bitcoin in the Presidential Race:</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[5]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ Senator Cynthia Lummis (WY) introduced legislation to establish a U.S. Bitcoin Strategic Reserve and for the Treasury to purchase Bitcoin for the national balance sheet. It is unclear whether this bill will pass; however, the incoming Treasury Secretary Scott Bessent__INLINE_2____INLINE_3__ is thought to be in favor of a currency reset, and Bitcoin could play a role.",
+      "translated_text": "__INLINE_1__ 신시아 루미스(와이오밍) 상원의원은 미국 비트코인 전략 비축을 설립하고, 재무부가 국가 대차대조표를 위해 비트코인을 매입하도록 하는 법안을 발의했다. 이 법안이 통과될지는 불분명하다. 하지만 차기 재무장관 스콧 베센트__INLINE_2____INLINE_3__는 통화 리셋에 우호적인 것으로 여겨지며, 그 과정에서 비트코인이 일정한 역할을 할 수도 있다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Proposed U.S. Bitcoin Reserve:</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2UX\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2TN\" ns1:type=\"noteref\" class=\"class_s2T8\">79</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[6]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ Public company MicroStrategy (NYSE:MSTR), run by Michael Saylor, adopted a Bitcoin treasury strategy in August 2020, converting its balance sheet assets to Bitcoin. Since then, its market capitalization has soared from $1.78 billion to $100 billion today.",
+      "translated_text": "__INLINE_1__ Michael Saylor가 운영하는 공개 회사 MicroStrategy(NYSE:MSTR)는 2020년 8월에 비트코인 ​​재무 전략을 채택하여 대차대조표 자산을 비트코인으로 전환했습니다. 이후 시가총액은 17억8000만 달러에서 현재 1000억 달러로 급증했다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">MicroStrategy’s Bitcoin Success:</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[7]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ Bitcoin’s global computing power, or hash rate, has grown from 110 exahashes per second (EH/s) in 2020 to 773 EH/s in 2024. ChatGPT estimates that as much as $50 billion has been invested in the network for mining infrastructure. This is a significant sum.",
+      "translated_text": "__INLINE_1__ 비트코인의 글로벌 컴퓨팅 성능, 즉 해시율은 2020년 110EH/s에서 2024년 773EH/s로 증가했습니다. ChatGPT에서는 채굴 인프라를 위한 네트워크에 무려 500억 달러가 투자된 것으로 추산합니다. 이것은 상당한 금액입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Network Growth:</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[49]",
+      "tag": "p",
+      "source_text": "These facts, when combined with user and wallet growth, suggest to me that dogs are indeed eating the Bitcoin food. The adoption trend is accelerating.",
+      "translated_text": "이러한 사실이 사용자 및 지갑의 성장과 결합되면 개가 실제로 비트코인 ​​음식을 먹고 있음을 시사합니다. 채택 추세가 가속화되고 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[6]",
+      "tag": "h3",
+      "source_text": "The Power of Private Keys: Understanding Bitcoin Custody and Key Management",
+      "translated_text": "개인키의 힘: 비트코인 ​​보관 및 키 관리 이해",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[50]",
+      "tag": "p",
+      "source_text": "Owning Bitcoin is unlike owning anything else. You’re not holding physical coins or even a share in a company — you’re claiming your spot on a revolutionary monetary ledger. The Bitcoin blockchain, a decentralized ledger, tracks all issued (today, 19.8 million) bitcoin. Presently, there are over 460 million public addresses outstanding. Obviously, many addresses contain only a fraction of a coin. Think of these addresses as transparent safes: anyone with an internet connection can see what they contain, but only the holder of the private key can open them.",
+      "translated_text": "비트코인을 소유하는 것은 다른 것을 소유하는 것과 다릅니다. 당신은 실제 동전이나 회사의 지분을 보유하고 있는 것이 아니라 혁명적인 금전 원장에서 자신의 자리를 차지하게 됩니다. 분산 원장인 비트코인 ​​블록체인은 발행된 모든 비트코인(현재 1,980만 개)을 추적합니다. 현재 4억 6천만 개가 넘는 공개 주소가 있습니다. 분명히 많은 주소에는 동전의 일부만 포함되어 있습니다. 이러한 주소를 투명한 금고로 생각하십시오. 인터넷에 연결된 사람은 누구나 여기에 포함된 내용을 볼 수 있지만 개인키 소유자만 열 수 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[51]",
+      "tag": "p",
+      "source_text": "Here’s where things get interesting. A private key – the digital password to your Bitcoin — is a 256-character string, a code __INLINE_1__so complex and important that it is comparable to a nuclear launch code. Lose it, and your Bitcoin will be gone forever. If someone else gets hold of it, they can empty your wallet. To make this manageable, developers created a brilliant solution called __INLINE_2__,__INLINE_3____INLINE_4__ which turns these intimidating strings into a human-friendly list of 12 or 24 simple seed words. The responsibility of securing your private key lies squarely with you, the owner. Although private address management presents real risks, proper knowledge and tools like hardware wallets, multisignature setups (multi-sig), and best practices can virtually eliminate these threats.",
+      "translated_text": "여기서 흥미로운 일이 발생합니다. 개인키(비트코인의 디지털 비밀번호)는 256자 문자열로, __INLINE_1__너무 복잡하고 중요해서 핵 발사 코드와 비교할 수 있는 코드입니다. 그것을 잃어버리면 귀하의 비트코인은 영원히 사라질 것입니다. 다른 사람이 손에 넣으면 지갑이 비워질 수 있습니다. 이를 관리 가능하게 만들기 위해 개발자는 이러한 위협적인 문자열을 12~24개의 간단한 시드 단어로 구성된 인간 친화적인 목록으로 바꾸는 __INLINE_2__,__INLINE_3____INLINE_4__라는 훌륭한 솔루션을 만들었습니다. 개인키를 안전하게 보호할 책임은 전적으로 소유자인 귀하에게 있습니다. 개인 주소 관리는 실제 위험을 초래하지만 하드웨어 지갑, 다중 서명 설정(다중 서명) 및 모범 사례와 같은 적절한 지식과 도구를 사용하면 이러한 위협을 사실상 제거할 수 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_342\" />",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">BIP39</html:span>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2UE\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a31X\" ns1:type=\"noteref\" class=\"class_s2T8\">80</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[2]",
+      "tag": "h4",
+      "source_text": "Taking Control: The Custody Decision",
+      "translated_text": "통제권 확보: 양육권 결정",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[52]",
+      "tag": "p",
+      "source_text": "Managing your own keys, known as self-custody, is the purest way to own Bitcoin. It’s also the most secure, provided you know what you’re doing. For those unwilling or unable to take on the technical burden, there are alternatives. One option is to use a key management service, a reputable company that assists you in cryptographically protecting your keys.__INLINE_1____INLINE_2__ The other is gaining price exposure to Bitcoin through a publicly traded ETF. Fidelity and Blackrock are two of the leading choices. The advantage to this approach is that they charge a modest annual management fee (30 bps), are easily tradeable, and because you don’t directly own the underlying asset, you have no keys to manage.",
+      "translated_text": "자기 양육권으로 알려진 자신의 키를 관리하는 것은 비트코인을 소유하는 가장 순수한 방법입니다. 또한 자신이 무엇을 하고 있는지 알고 있다면 가장 안전합니다. 기술적인 부담을 지고 싶지 않거나 감당할 수 없는 사람들을 위한 대안이 있습니다. 한 가지 옵션은 키를 암호화하여 보호하는 데 도움을 주는 평판이 좋은 회사인 키 관리 서비스를 이용하는 것입니다.__INLINE_1____INLINE_2__ 다른 하나는 공개 거래 ETF를 통해 비트코인에 대한 가격 노출을 얻는 것입니다. Fidelity와 Blackrock은 두 가지 주요 선택입니다. 이 접근 방식의 장점은 적당한 연간 관리 수수료(30bps)를 부과하고 쉽게 거래할 수 있으며 기본 자산을 직접 소유하지 않기 때문에 관리할 키가 없다는 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2VY\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a31H\" ns1:type=\"noteref\" class=\"class_s2T8\">81</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[53]",
+      "tag": "p",
+      "source_text": "Each option has its trade-offs. With self-custody, buying Bitcoin and proper key management requires time and effort, but you gain unparalleled privacy__INLINE_1____INLINE_2__ and self-sovereignty. With ETFs, the process is simple, but you sacrifice privacy. Fidelity or Blackrock, your trading platform, and government agencies know your every transaction. Lack of privacy may not seem __INLINE_3__like a serious issue or threat, but please recall that during the monetary reset of 1933-1934, President Roosevelt issued Executive Order 6102, forcing Americans to hand over their gold coins, bullion, and certificates worth more than $100. Once the government had seized its citizens’ gold, it devalued the dollar by re-valuing the gold to a higher price. Citizens lost out in favor of the government. Could this happen with Bitcoin? Who knows, but there is certainly some tail risk that an aggressive U.S. government would look at the failing dollar, deem the threat existential, and then blame gold and Bitcoin. It would then be trivial for the government to call Fidelity, Blackrock, and the other ETF managers and demand that they cash you out of your Bitcoin and remit your Bitcoin to the government, just as Roosevelt did with gold in 1933. Of course, the cash they paid you for your coins would rapidly lose its value.",
+      "translated_text": "각 선택지에는 나름의 트레이드오프가 있다. 자기 보관을 택하면 비트코인을 사고 적절하게 키를 관리하는 데 시간과 노력이 들지만, 비교할 수 없는 프라이버시__INLINE_1____INLINE_2__와 자기주권을 얻게 된다. ETF를 택하면 과정은 단순하지만 프라이버시를 포기하게 된다. Fidelity나 BlackRock, 당신의 거래 플랫폼, 그리고 정부 기관은 당신의 모든 거래를 알게 된다. 프라이버시의 부재가 __INLINE_3__심각한 문제나 위협처럼 보이지 않을 수는 있다. 그러나 1933~1934년의 통화 리셋 당시 루스벨트 대통령이 행정명령 6102호를 발동해 미국인들에게 100달러가 넘는 금화, 금괴, 금 증서를 넘기도록 강제했다는 사실을 기억하라. 정부는 시민들의 금을 압수한 뒤 금의 가치를 더 높은 가격으로 재평가함으로써 달러 가치를 절하했다. 시민들은 정부에 유리한 방식으로 손해를 봤다. 비트코인에서도 이런 일이 벌어질 수 있을까? 누가 알겠는가. 그러나 공격적인 미국 정부가 흔들리는 달러를 보며 실존적 위협으로 규정하고, 그 책임을 금과 비트코인에 돌릴 꼬리 위험은 분명 존재한다. 그렇게 되면 정부가 Fidelity, BlackRock, 그리고 다른 ETF 운용사들에 전화해 당신의 비트코인을 강제로 현금화하고 그 비트코인을 정부에 넘기라고 요구하는 일은 사소한 문제가 된다. 1933년 루스벨트가 금에 대해 했던 것과 마찬가지다. 물론 그들이 당신의 코인 대가로 쥐여준 현금은 급속히 가치가 떨어질 것이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a39Y\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a32N\" ns1:type=\"noteref\" class=\"class_s2T8\">82</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_343\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[54]",
+      "tag": "p",
+      "source_text": "In contrast, Bitcoin held in self-custody would be far more difficult to confiscate. This is why many Bitcoiners live by the mantra, “Not your keys, not your coins.” In the face of potential confiscation, many Bitcoiners would invoke the ancient cry of resistance: “__INLINE_1__!” These were the defiant words King Leonidas uttered to Xerxes at Thermopylae in 480 BC when the Persian ruler demanded the Spartans lay down their weapons. “Come and take them,” Leonidas challenged. I can almost hear that cry reverberating across modern America, a rallying call for those who guard their financial sovereignty with the same resolute spirit.",
+      "translated_text": "대조적으로, 자기 보관된 비트코인은 압수하기가 훨씬 더 어려울 것입니다. 이것이 바로 많은 비트코인 ​​사용자들이 \"열쇠도, 동전도 아니다\"라는 진언에 따라 생활하는 이유입니다. 몰수 가능성이 있는 상황에서 많은 비트코인 ​​이용자들은 고대부터 이어져 온 저항의 외침인 “__INLINE_1__!”을 불러일으킬 것입니다. 이는 기원전 480년 테르모필레에서 페르시아 통치자가 스파르타인들에게 무기를 내려놓으라고 요구했을 때 레오니다스 왕이 크세르크세스에게 했던 도전적인 말입니다. “와서 가져가세요.” 레오니다스가 도전했습니다. 나는 현대 미국 전역에 울려 퍼지는 그 외침, 즉 동일한 단호한 정신으로 금융 주권을 수호하는 사람들을 불러 모으는 외침을 거의 들을 수 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Molon Labe</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[3]",
+      "tag": "h4",
+      "source_text": "Digital Sovereignty",
+      "translated_text": "디지털 주권",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[55]",
+      "tag": "p",
+      "source_text": "One of the beautiful features of Bitcoin, as pointed out by Jason Lowery,__INLINE_1____INLINE_2__ is that it is actually a form of property without __INLINE_3__physical form and, therefore, cannot be easily attacked. Think about it. Wars have been waged over land, property, and possessions. These led to the formation of nation-states and other devices to protect property. Gold, for example, must be stored in vaults. The people with the best offensive weapons can overrun and empty the vaults of their enemies, exactly as the U.S. did in Iraq and Libya. Bitcoin is a form of wealth that no army can overrun. Without the private keys, no amount of force can take Bitcoin from its rightful owner. The idea that an individual can challenge and overcome the might of a nation-state’s army represents a seismic shift in the nature of wealth and power.",
+      "translated_text": "Jason Lowery가 지적한 바와 같이 비트코인의 아름다운 특징 중 하나는 __INLINE_1____INLINE_2__이 실제로 __INLINE_3__물리적 형태가 없는 자산 형태이므로 쉽게 공격받을 수 없다는 것입니다. 생각해 보세요. 토지, 재산, 소유물을 놓고 전쟁이 벌어졌습니다. 이로 인해 국민국가가 형성되고 재산을 보호하기 위한 기타 장치가 탄생하게 되었습니다. 예를 들어 금은 금고에 보관해야 합니다. 최고의 공격 무기를 가진 국민은 미국이 이라크와 리비아에서 그랬던 것처럼 적의 금고를 유린하고 비울 수 있다. 비트코인은 어떤 군대도 압도할 수 없는 부의 한 형태입니다. 개인키가 없으면 어떤 힘도 비트코인을 정당한 소유자로부터 빼앗을 수 없습니다. 개인이 국가 군대의 힘에 도전하고 이를 극복할 수 있다는 생각은 부와 권력의 본질에 있어서 엄청난 변화를 나타냅니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2WK\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a35Z\" ns1:type=\"noteref\" class=\"class_s2T8\">83</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_344\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[56]",
+      "tag": "p",
+      "source_text": "Lowery posits that Bitcoin ownership may one day make some nations much more powerful than others. I agree. Some even argue that we are evolving toward a system where large nation-states are much less powerful, perhaps even ceasing to exist. Decentralization is reshaping the world, shifting power away from centralized governments toward individual liberty. I concur with this line of reasoning and believe Bitcoin plays a central role in this transformation.",
+      "translated_text": "Lowery는 비트코인 ​​소유권이 언젠가 일부 국가를 다른 국가보다 훨씬 더 강력하게 만들 수 있다고 가정합니다. 동의합니다. 어떤 사람들은 우리가 대규모 민족 국가의 힘이 훨씬 약해지고 어쩌면 더 이상 존재하지 않는 시스템으로 진화하고 있다고 주장하기도 합니다. 분권화는 세상을 재편하고 있으며 권력을 중앙집권화된 정부에서 개인의 자유로 이동시키고 있습니다. 나는 이러한 추론에 동의하며 비트코인이 이러한 변화에서 중심 역할을 한다고 믿습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[57]",
+      "tag": "p",
+      "source_text": "Bitcoin is more than just an asset. It’s a statement of freedom, sovereignty, and resilience in a centralized world.",
+      "translated_text": "비트코인은 단순한 자산 그 이상입니다. 이는 중앙화된 세계에서의 자유, 주권, 회복력에 대한 선언입니다.",
+      "inline_tokens": {}
+    }
+  ]
+}

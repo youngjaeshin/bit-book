@@ -128,6 +128,8 @@ def build(book_slug: str, book_title: str, book_subtitle: str) -> None:
     site_dir.mkdir(parents=True, exist_ok=True)
     site_chapters.mkdir(parents=True, exist_ok=True)
     site_assets.mkdir(parents=True, exist_ok=True)
+    for old_html in site_chapters.glob("*.html"):
+        old_html.unlink()
     shutil.copyfile(TEMPLATES / "styles.css", site_assets / "styles.css")
     (site_dir / ".gitignore").write_text(".vercel\n")
 

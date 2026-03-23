@@ -1,0 +1,17 @@
+{
+  "chapter_id": "extra-12-part-ii-the-solution",
+  "title": "PART II THE SOLUTION",
+  "src": "part0024.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0024.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h1[1]",
+      "tag": "h1",
+      "source_text": "PART II__INLINE_1__THE SOLUTION",
+      "translated_text": "제2부__INLINE_1__해법",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:br xmlns:html=\"http://www.w3.org/1999/xhtml\" />"
+      }
+    }
+  ]
+}

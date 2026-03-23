@@ -1,0 +1,20 @@
+{
+  "chapter_id": "08-everyone-can-verify-the-code",
+  "answer_index": 3,
+  "question_en": "What makes Bitcoin’s credibility different from legacy finance in this chapter?",
+  "choices_en": [
+    "Its rules are hidden from ordinary users",
+    "Its managers can update supply quietly",
+    "Its value depends on institutional secrecy",
+    "Its rules can be checked directly by anyone willing to verify"
+  ],
+  "question_ko": "이 장은 비트코인의 신뢰성이 기존 금융과 무엇이 다르다고 설명하는가?",
+  "choices_ko": [
+    "규칙이 일반 사용자에게 숨겨져 있다는 점",
+    "운영자가 공급을 조용히 바꿀 수 있다는 점",
+    "제도적 비밀 유지에 가치가 달려 있다는 점",
+    "검증하려는 누구나 규칙을 직접 확인할 수 있다는 점"
+  ],
+  "explanation_en": "The chapter contrasts opaque institutional trust with a system whose rules and behavior can be independently verified.",
+  "explanation_ko": "이 장은 불투명한 제도적 신뢰와, 누구나 독립적으로 검증할 수 있는 시스템을 대비시킨다."
+}

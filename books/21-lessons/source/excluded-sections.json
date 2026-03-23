@@ -1,0 +1,9 @@
+{
+  "excluded": [
+    "cover",
+    "copyright",
+    "publisher metadata",
+    "redundant toc page"
+  ],
+  "notes": "front matter is merged into web unit 1; final thoughts and back matter into web unit 8"
+}

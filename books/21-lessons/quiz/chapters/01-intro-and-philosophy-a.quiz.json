@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-intro-and-philosophy-a",
+  "question_en": "What is the main philosophical claim established at the start of the book?",
+  "choices_en": [
+    "Bitcoin can be easily redesigned by developers",
+    "Bitcoin changes the observer more than the observer changes Bitcoin",
+    "Bitcoin is mostly a payments app",
+    "Bitcoin matters only as a speculative asset"
+  ],
+  "question_ko": "책의 시작에서 세워지는 핵심 철학적 명제는 무엇인가?",
+  "choices_ko": [
+    "비트코인은 개발자가 쉽게 재설계할 수 있다",
+    "비트코인은 관찰자가 비트코인을 바꾸는 것보다 관찰자를 더 많이 바꾼다",
+    "비트코인은 주로 결제 앱이다",
+    "비트코인은 투기 자산으로만 중요하다"
+  ],
+  "answer_index": 1,
+  "explanation_en": "The introduction argues that Bitcoin’s immutability and scarcity transform the person trying to understand it.",
+  "explanation_ko": "도입부는 비트코인의 불변성과 희소성이 그것을 이해하려는 사람 자신을 바꾼다고 본다."
+}

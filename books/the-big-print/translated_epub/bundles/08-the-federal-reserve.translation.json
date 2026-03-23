@@ -1,0 +1,720 @@
+{
+  "chapter_id": "08-the-federal-reserve",
+  "title": "THE FEDERAL RESERVE",
+  "src": "part0020.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0020.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "THE FEDERAL RESERVE",
+      "translated_text": "연방준비제도",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "The Federal Reserve has one extraordinary power that is unique to it alone; it enables the creation of money out of thin air. Sometimes, it’s a vast amount, sometimes less, but it’s always at its discretion. As Ron Paul pointedly observed, “Ending the Fed would be the single greatest step we could take to restore American prosperity and freedom and guarantee they both have a future.”",
+      "translated_text": "연방준비제도(Fed)는 그 자체로 고유한 하나의 특별한 권한을 가지고 있습니다. 그것은 허공에서 돈을 창출하는 것을 가능하게 합니다. 때로는 양이 많을 때도 있고 적을 때도 있지만 항상 재량에 따라 결정됩니다. Ron Paul이 지적했듯이 \"연준을 종료하는 것은 미국의 번영과 자유를 회복하고 둘 다 미래를 보장하기 위해 취할 수 있는 가장 큰 조치가 될 것입니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "At this point, it is helpful to examine more deeply the role of the Federal Reserve (the Fed) in our government and economic structure. We have discussed the timeline of Fed actions since its founding, but we need to examine the real rules they are playing under more closely.",
+      "translated_text": "이 시점에서는 우리 정부와 경제 구조에서 연방준비은행(Fed)의 역할을 더 깊이 검토하는 것이 도움이 됩니다. 우리는 창립 이래 연준의 조치 일정에 대해 논의했지만, 연준이 적용되는 실제 규칙을 더 자세히 조사할 필요가 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "To fully grasp the Fed’s impact, we must examine its distinctive position in our economic framework. The Fed, a hybrid organization — privately owned yet government-related — operates under a congressional charter with members nominated by the President and approved by Congress. As a practical matter, it behaves as part of the U.S. Federal government and is subject to Congressional oversight.",
+      "translated_text": "연준의 영향력을 완전히 파악하려면 경제 체제에서 연준의 독특한 위치를 조사해야 합니다. 개인 소유이면서 정부와 관련된 하이브리드 조직인 연준은 대통령이 지명하고 의회가 승인한 회원들로 구성된 의회 헌장에 따라 운영됩니다. 실질적으로 이 기관은 미국 연방 정부의 일부로 행동하며 의회의 감독을 받습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "The Fed’s mission has evolved significantly since its creation. Its initial broad mandate focused on preventing bank runs, providing a flexible currency, and adding stability to the financial system. In 1977, with passage of the Federal Reserve Reform Act, Congress established the Fed’s current dual mandate of promoting maximum sustainable employment and maintaining price stability. Since then, it has adopted a third unwritten but widely articulated mandate: ensuring “financial __INLINE_1__stability and functioning financial markets.” More on this in a minute.",
+      "translated_text": "연준의 임무는 창설 이후 크게 발전했습니다. 초기 광범위한 임무는 은행 운영 방지, 유연한 통화 제공, 금융 시스템 안정성 추가에 중점을 두었습니다. 1977년 연방준비제도개혁법이 통과되면서 의회는 지속 가능한 최대 고용 촉진과 물가 안정 유지라는 연준의 현재 이중 임무를 확립했습니다. 그 이후로, \"금융 __INLINE_1__안정성과 기능하는 금융 시장\"을 보장한다는, 문서화되지는 않았지만 광범위하게 표현된 세 번째 명령을 채택했습니다. 이에 대해서는 잠시 후에 자세히 알아보세요.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_147\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "Christopher Leonard, author of __INLINE_1____INLINE_2____INLINE_3__ describes the Fed’s role:",
+      "translated_text": "__INLINE_1____INLINE_2____INLINE_3__의 저자인 Christopher Leonard는 연준의 역할을 다음과 같이 설명합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">쉬운 돈의 군주들: 연방준비제도가 어떻게 미국 경제를 망가뜨렸는가</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a34P\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2Z9\" ns1:type=\"noteref\" class=\"class_s2T8\">106</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "The FOMC meets every six weeks to ‘set interest rates.’ What this means is that the Fed determines the price of very short-term loans, a number that eventually bleeds out into the entire economic system and has an effect on every company, worker, and household. The basic system works like this, when the Fed raises interest rates it slows the economy. When the Fed lowers interest rates it speeds up the economy. The FOMC, then, is like a group of engineers in the control room of a nuclear power plant. They heat up the reactor, by cutting rates, when more power is needed. And they cool down the reactor, by raising rates, when conditions are getting too hot.",
+      "translated_text": "FOMC는 6주마다 회의를 열어 '이자율을 설정'합니다. 이것이 의미하는 바는 연준이 초단기 대출의 가격을 결정한다는 것입니다. 이 숫자는 결국 경제 시스템 전체에 흘러들어 모든 회사, 근로자, 가계에 영향을 미칩니다. 기본 시스템은 이와 같이 작동합니다. 연준이 금리를 인상하면 경제가 둔화됩니다. 연준이 금리를 낮추면 경제가 가속화됩니다. 그렇다면 FOMC는 원자력 발전소 제어실에 있는 엔지니어 그룹과 같습니다. 더 많은 전력이 필요할 때 속도를 줄여 원자로를 가열합니다. 그리고 조건이 너무 뜨거워지면 속도를 높여 원자로를 냉각시킵니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "But in describing the Fed’s role in this way, Mr. Leonard misses one very important component that Fed observers call the “third mandate.” This unofficial mandate has become increasingly evident during recent crises. Through words and actions, Fed Chairs and Governors have signaled that their responsibilities extend beyond employment and price stability to include ensuring financial stability and functioning financial markets.",
+      "translated_text": "그러나 연준의 역할을 이런 식으로 설명하면서 레너드 씨는 연준 관찰자들이 \"세 번째 명령\"이라고 부르는 매우 중요한 구성 요소 하나를 놓치고 있습니다. 이러한 비공식적 명령은 최근 위기 상황에서 점점 더 분명해졌습니다. 연준의장과 총재들은 말과 행동을 통해 자신들의 책임이 고용과 물가 안정을 넘어 금융 안정성 보장과 금융시장 기능까지 포함한다는 점을 밝혔습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "The COVID-19 crisis revealed the Fed’s readiness to break precedent for the sake of market stability. On March 23, 2020, Fed Chairman Jerome Powell stated, “We are deploying these lending powers to an unprecedented extent. We will keep doing that aggressively and forthrightly until we are confident that we are on the road to recovery.” He sent the message that the __INLINE_1__Fed was openly bypassing its own charter rules, defending extraordinary measures as necessary for financial stability.",
+      "translated_text": "코로나19 위기는 연준이 시장 안정을 위해 전례를 깨뜨릴 준비가 되어 있음을 드러냈습니다. 2020년 3월 23일, 제롬 파월 연준 의장은 \"우리는 이러한 대출 권한을 전례 없는 수준으로 배치하고 있습니다. 우리가 회복의 길에 있다는 확신이 들 때까지 공격적이고 솔직하게 이를 계속할 것입니다.\"라고 말했습니다. 그는 __INLINE_1__Fed가 금융 안정을 위해 필요한 특별 조치를 옹호하면서 공개적으로 자체 헌장 규칙을 우회하고 있다는 메시지를 보냈습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_148\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "Powell wasn’t alone in championing this expanded role. John Williams, President of the New York Fed, noted that “a key role of the Federal Reserve is to ensure the smooth functioning of markets and to promote financial stability.” When markets face stress, he argued, credit freezes and economic risks multiply. The solution? To act as the ultimate stabilizer, ensuring that “households, businesses, and governments can continue to access the financing they need.”",
+      "translated_text": "이 확장된 역할을 옹호하는 데 파월만이 있었던 것은 아닙니다. 뉴욕 연준의 존 윌리엄스 총재는 “연방준비은행의 핵심 역할은 시장의 원활한 기능을 보장하고 금융 안정을 촉진하는 것”이라고 말했습니다. 그는 시장이 스트레스에 직면하면 신용이 동결되고 경제적 위험이 증가한다고 주장했습니다. 해결책? 궁극적인 안정 장치 역할을 하여 \"가계, 기업 및 정부가 필요한 자금 조달에 계속 접근할 수 있도록\" 보장합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "And about one year later, Randall Quarles, Former Vice Chair of the Fed, underscored, “Financial stability is a core component of our work at the Federal Reserve.”",
+      "translated_text": "그리고 약 1년 후, 전 연준 부의장인 Randall Quarles는 \"금융 안정은 연준에서 우리 업무의 핵심 요소입니다\"라고 강조했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "Certainly, in the GFC and during the COVID crisis, the Fed exceeded its dual mandate and took actions to fulfill the unwritten third mandate. Two recent events underscore this expanded role. First, during the 2019 repo market crisis, the Fed injected massive liquidity to prevent a credit freeze. Second, the 2023 collapse of Silicon Valley Bank saw the Fed stepping in to calm financial markets and protect broader banking stability. In both instances, the Fed acted as the economy’s ultimate backstop and moved to keep markets afloat.",
+      "translated_text": "확실히, 글로벌 금융 위기와 코로나 위기 동안 연준은 이중 임무를 초과하고 기록되지 않은 세 번째 임무를 이행하기 위한 조치를 취했습니다. 최근 두 가지 사건은 이러한 확장된 역할을 강조합니다. 첫째, 2019년 레포시장 위기 당시 연준은 신용동결을 막기 위해 대규모 유동성을 투입했다. 둘째, 2023년 실리콘밸리은행의 붕괴로 인해 연준은 금융 시장을 진정시키고 광범위한 은행 안정성을 보호하기 위해 개입했습니다. 두 경우 모두 연준은 경제의 궁극적인 방어선 역할을 했으며 시장을 유지하기 위해 움직였습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "REPO BLOW OUT",
+      "translated_text": "REPO 폭발",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "We briefly discussed this event earlier, but it is helpful to dig a bit deeper. The 2019 repo market crisis revealed just how quickly financial stability can unravel and how far the Fed will go to prevent it. On September 16-17, the U.S. repo (repurchase agreement), or overnight interbank lending market, suffered a __INLINE_1__lack of liquidity, instantly sending interest rates from 2.4% to 10%. This could have led to a seizure of all credit markets, and so the Fed immediately stepped in and provided liquidity to calm the panic. Within 24 hours, it flooded the market with $75 billion in emergency funding — a figure that would eventually balloon to an astounding $400 billion. But the Fed didn’t stop there. One day later, it lowered the Fed funds rate by 25 bps, and a mere month later, in October, it cut by another 25 bps. The Fed also lowered the interest rate paid on bank reserves to drive more liquidity into the market.",
+      "translated_text": "앞서 이 사건을 잠깐 다뤘지만, 조금 더 깊이 파고들 필요가 있습니다. 2019년 레포 시장 위기는 금융 안정이 얼마나 빨리 무너질 수 있는지, 그리고 연준이 그것을 막기 위해 어디까지 갈 수 있는지를 보여줬습니다. 9월 16~17일 미국의 레포(환매조건부채권) 시장, 즉 초단기 은행 간 대출 시장은 __INLINE_1__유동성 부족을 겪었고, 금리는 순식간에 2.4%에서 10%로 치솟았습니다. 이는 전체 신용시장의 경색으로 이어질 수 있었기에 연준은 즉시 개입해 유동성을 공급하며 공황을 진정시켰습니다. 24시간 안에 연준은 750억 달러의 긴급 자금을 시장에 쏟아부었고, 이 규모는 결국 4,000억 달러라는 경이로운 수준까지 불어났습니다. 하지만 연준은 거기서 멈추지 않았습니다. 바로 다음 날 연방기금 금리를 25bp 인하했고, 한 달 뒤인 10월에는 다시 25bp를 추가 인하했습니다. 또한 은행 지급준비금에 지급하는 이자율도 낮춰 시장에 더 많은 유동성이 흐르도록 만들었습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_149\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "While Chairman Powell claimed this spike was no big deal, he immediately reversed Fed policy, cutting interest rates and purchasing $60 billion per month of Treasury bills one month later. In what I can only describe as a blatant case of a Federal Reserve official trying to mislead the American public, he justified, “This is not QE. In no sense is this QE. These purchases of Treasury bills should not have any meaningful effect on the stance of monetary policy.”__INLINE_1____INLINE_2__",
+      "translated_text": "파월 의장은 이 급등이 별일 아니라고 주장했지만, 곧바로 연준 정책을 뒤집어 한 달 뒤 금리를 내리고 매달 600억 달러 규모의 재무부 단기채를 매입하기 시작했습니다. 내가 보기에 이는 연준 관리가 미국 대중을 오도하려 한 노골적 사례였습니다. 그는 \"이것은 QE가 아닙니다. 어떤 의미에서도 QE가 아닙니다. 이런 재무부 단기채 매입은 통화정책 기조에 어떤 의미 있는 영향도 주지 않아야 합니다\"라고 정당화했습니다.__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2YK\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a3A0\" ns1:type=\"noteref\" class=\"class_s2T8\">107</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "If using a computer to add reserves to the banking system — “mouse-click” money — and purchasing Treasury bills from primary dealers is not QE, then what is it? I am stunned that the financial press did not call “nonsense” on this lie.",
+      "translated_text": "컴퓨터를 사용하여 은행 시스템에 준비금을 추가하고(마우스 클릭으로 돈을) 주요 딜러로부터 국채를 구매하는 것이 QE가 아니라면, 그것은 무엇입니까? 나는 경제 언론이 이 거짓말에 대해 \"말도 안되는 소리\"라고 부르지 않았다는 사실에 놀랐습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[2]",
+      "tag": "h3",
+      "source_text": "SILICON VALLEY BANK",
+      "translated_text": "실리콘 밸리 은행",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "The collapse of Silicon Valley Bank (SVB) in March 2023 illustrates the Fed’s growing focus on market stability and how quickly financial institutions can unravel in our digital age. What began as a seemingly routine bond sale quickly escalated into a full-blown crisis that would test both banking regulation and the Fed’s commitment to its own rules.",
+      "translated_text": "2023년 3월 SVB(실리콘밸리은행)의 붕괴는 연준이 시장 안정성에 점점 더 초점을 맞추고 디지털 시대에 금융 기관이 얼마나 빨리 해체될 수 있는지를 보여줍니다. 겉으로는 일상적인 채권 판매로 시작된 것이 금융 규제와 연준의 자체 규칙 준수 의지를 모두 시험하는 본격적인 위기로 빠르게 확대되었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "The dominoes began falling when SVB was forced to sell some held-to-maturity bonds at a significant loss.__INLINE_1____INLINE_2__ Sharp-eyed analysts quickly did the math. Rather than having $20 billion in positive equity, the bank was likely $20 billion in the red. This news spread like wildfire through Silicon Valley’s influential venture capital networks, triggering a modern-day bank run among VCs who held enormous deposits in the bank. About one week after the initial bond sale, SVB lost $42 billion of its approximately $173 billion of deposits via electronic transfer. IN ONE DAY! The very next day, the FDIC took over the bank. One week later, it was insolvent and declared bankruptcy. In a digitally connected world, things happen quickly.",
+      "translated_text": "SVB가 일부 만기 보유 채권을 큰 손실을 입고 매각해야 했을 때 도미노는 하락하기 시작했습니다. __INLINE_1____INLINE_2__ 날카로운 눈을 가진 분석가들은 신속하게 계산을 수행했습니다. 200억 달러의 긍정적 자기자본을 보유하는 대신 은행은 200억 달러의 적자를 기록할 가능성이 높습니다. 이 소식은 실리콘 밸리의 영향력 있는 벤처 캐피탈 네트워크를 통해 산불처럼 퍼져나갔고, 은행에 막대한 예금을 보유한 VC들 사이에서 현대의 뱅크런을 촉발시켰습니다. 최초 채권 판매 약 1주일 후 SVB는 전자 이체를 통해 예금 약 1,730억 달러 중 420억 달러를 잃었습니다. 하루 만에! 바로 다음날 FDIC가 은행을 인수했습니다. 일주일 뒤 회사는 파산했고 파산을 선언했다. 디지털로 연결된 세상에서는 모든 일이 빠르게 진행됩니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a31T\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2VJ\" ns1:type=\"noteref\" class=\"class_s2T8\">108</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "I was a customer of SVB. An image taken on the day of SVB’s failure is the background picture of my X/Twitter profile. This is the SVB branch where I had my personal accounts in Wellesley, Massachusetts. The line of depositors wrapped outside the building is like a scene from the 1930s, or __INLINE_1__, depicting the failure of the Bailey Savings and Loan. Americans hadn’t witnessed scenes like this since the Great Depression — the last time true bank runs sent waves of panic through the nation.",
+      "translated_text": "저는 SVB의 고객이었습니다. SVB가 실패한 날 찍은 이미지가 내 X/Twitter 프로필의 배경 사진입니다. 이곳은 제가 매사추세츠주 웰슬리에 개인 계좌를 갖고 있던 SVB 지점입니다. 건물 바깥으로 길게 늘어선 예금자들의 줄은 1930년대 베일리 예금대부조합의 실패를 그린 __INLINE_1__의 한 장면 같았습니다. 미국인들은 대공황 이후 이와 같은 장면을 목격한 적이 없었습니다. 마지막으로 실제 은행 운영이 전국에 공황의 물결을 일으켰던 때였습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">멋진 인생이야</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[18]",
+      "tag": "p",
+      "source_text": "But the story doesn’t end there. As you will recall from earlier in our story, the public was angry that the federal government __INLINE_1__bailed out the banks during the GFC, and Congress enacted the rather-toothless Dodd-Frank Act in response. Bank lobbyists played a large role in watering down the bill. From my perspective, the bill was written to give the appearance of reining in big banks, but in reality, it was full of concessions. One point was clear: Dodd-Frank was meant to end future government bank bailouts. Bank losses would be borne by shareholders and uninsured depositors, with no government intervention beyond the standard $250,000 FDIC guarantee.",
+      "translated_text": "하지만 이야기는 거기서 끝나지 않습니다. 우리 이야기의 앞부분에서 기억하시겠지만, 대중은 연방정부 __INLINE_1__가 GFC 동안 은행을 구제한 것에 화가 났고 의회는 이에 대응하여 다소 무모한 Dodd-Frank 법을 제정했습니다. 은행 로비스트들은 법안을 완화하는 데 큰 역할을 했습니다. 내가 보기엔 대형은행을 통제하려는 의도로 법안이 작성됐지만 실제로는 양보가 가득한 내용이었다. 한 가지 점은 분명했습니다. Dodd-Frank는 향후 정부 은행 구제금융을 종료할 예정이었습니다. 은행 손실은 주주와 무보험 예금자가 부담하게 되며 표준 250,000달러 FDIC 보증 이상의 정부 개입은 없습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_151\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[19]",
+      "tag": "p",
+      "source_text": "In the case of SVB, the math was fairly simple. The bank held $173 billion in deposits (95% uninsured). It had equity of $16 billion and roughly $40 billion in losses on its government bonds, which were held to maturity.__INLINE_1____INLINE_2__ In an orderly unwinding, it was estimated that depositors would receive 80 cents on the dollar. The bank was bankrupt, but who was going to absorb the losses? Under the black letter law of Dodd-Frank, the distribution was clear. The equity was worthless. The depositors would take the hit. In a last-ditch effort, the FDIC and the Fed stepped in and tried to get another bank to buy SVB, but its financial condition was so bad that no one would touch it. Many looked, but no one was willing to buy it without government guarantees.",
+      "translated_text": "SVB의 경우 수학은 매우 간단했습니다. 은행은 1,730억 달러의 예금을 보유하고 있었습니다(95%는 무보험). 만기까지 보유된 국채의 자기자본은 160억 달러이고 손실액은 약 400억 달러에 달합니다. __INLINE_1____INLINE_2__ 질서정연한 청산 과정에서 예금자들은 달러당 80센트를 받을 것으로 추산되었습니다. 은행이 파산했는데 그 손실을 누가 흡수할 것인가? Dodd-Frank의 흑자법에 따라 분포가 명확했습니다. 지분은 가치가 없었습니다. 예금자들은 타격을 입을 것입니다. 최후의 노력으로 FDIC와 연준이 개입하여 다른 은행이 SVB를 매입하도록 하려고 했지만 SVB의 재정 상태가 너무 나빠서 아무도 손을 대지 않았습니다. 많은 사람들이 보았지만 정부 보증 없이는 누구도 그것을 사려고 하지 않았습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a37W\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a34C\" ns1:type=\"noteref\" class=\"class_s2T8\">109</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[20]",
+      "tag": "p",
+      "source_text": "And when the depositors turned out to be well-connected Silicon Valley and New York elites, the pressure for intervention became intense. Prominent and vocal NYC hedge fund manager Bill Ackmann warned that the entire banking system might fail.__INLINE_1____INLINE_2__ Sound familiar? Turns out, Ackmann’s concerns may have been well-founded. Other banks like First Republic and Signature were showing similar vulnerabilities. Nationwide, individual and corporate depositors with deposits greater than $250,000 were withdrawing funds from the banking system. __INLINE_3__In response, Treasury Secretary Janet Yellen floated the idea of guaranteeing __INLINE_4__ $17 trillion in uninsured U.S. bank deposits to stem a potential nationwide bank run. Quite a proposal!",
+      "translated_text": "그리고 예금자들이 실리콘밸리와 뉴욕의 엘리트들과 잘 연결된 것으로 밝혀지자 개입에 대한 압력이 거세졌습니다. 유명하고 목소리가 큰 뉴욕시 헤지펀드 매니저 빌 애크먼은 전체 은행 시스템이 실패할 수 있다고 경고했습니다. __INLINE_1____INLINE_2__ 익숙한 소리인가요? 알고 보니 애크먼의 우려는 근거가 충분했을 수도 있습니다. 퍼스트리퍼블릭은행 및 시그니처은행과 같은 다른 은행에서도 비슷한 취약점이 나타났습니다. 전국적으로 25만 달러 이상의 예금을 보유한 개인 및 기업 예금자들이 은행 시스템에서 자금을 인출하고 있었습니다. __INLINE_3__ 이에 대해 재닛 옐런(Janet Yellen) 재무장관은 잠재적인 전국 은행 운영을 막기 위해 __INLINE_4__에 17조 달러의 무보험 미국 은행 예금을 보장한다는 아이디어를 제시했습니다. 정말 제안이군요!",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a37M\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2Y2\" ns1:type=\"noteref\" class=\"class_s2T8\">110</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_152\" />",
+        "__INLINE_4__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">전액</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[21]",
+      "tag": "p",
+      "source_text": "Realizing that they were playing with fire and also recognizing they were trapped in a high-stakes game of semantic gymnastics, federal authorities found themselves trapped between two dangerous extremes: risk catastrophic banking system collapse or face fierce criticism for orchestrating another 2008-style bailout. But as Dan Oliver of Myrmikan Capital observed in his March 2023 letter,__INLINE_1____INLINE_2__ they chose a third path:",
+      "translated_text": "연방 당국은 자신들이 불장난을 하고 있다는 사실과 의미론적 체조라는 고위험 게임에 갇혀 있다는 사실을 인식하면서 자신들이 두 가지 위험한 극단 사이에 갇혀 있음을 깨달았습니다. 즉, 재앙적인 은행 시스템이 붕괴될 위험이 있거나 또 다른 2008년 스타일의 구제금융을 조율했다는 맹렬한 비난에 직면하는 것입니다. 그러나 미르미칸 캐피털의 댄 올리버가 2023년 3월 편지 __INLINE_1____INLINE_2__에서 관찰했듯이 그들은 세 번째 경로를 선택했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2VH\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2TC\" ns1:type=\"noteref\" class=\"class_s2T8\">111</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[22]",
+      "tag": "p",
+      "source_text": "Over the weekend we saw that Treasury Secretary Janet Yellen made the following statement on Sunday morning to CBS News’ __INLINE_1__: ‘During the financial crisis, there were investors and owners of systemic large banks that were bailed out…and the reforms that have been put in place means we are not going to do that again.’",
+      "translated_text": "지난 주말 우리는 재닛 옐런(Janet Yellen) 재무장관이 일요일 아침 CBS 뉴스의 __INLINE_1__에 다음과 같은 성명을 발표한 것을 보았습니다. '금융 위기 동안 구제금융을 받은 체계적 대형 은행의 투자자와 소유주가 있었습니다…그리고 시행된 개혁은 우리가 다시는 그런 일을 하지 않을 것임을 의미합니다.'",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">페이스 더 네이션</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[23]",
+      "tag": "p",
+      "source_text": "However, __INLINE_1__, Secretary Yellen and Fed Chairman Powell came out and declared that the U.S. Fed and Treasury were going to establish a new facility called the Bank Term Funding Program (BTFP) which would allow banks to send their impaired assets to the Fed and receive 100 cents on the dollar or face value on bonds which may be worth 70 cents or less.",
+      "translated_text": "그러나 __INLINE_1__, Yellen 장관, Powell 연준 의장이 나서서 미국 연준과 재무부가 은행이 손상된 자산을 연준에 보내고 달러당 100센트 또는 70센트 이하의 가치가 있을 수 있는 채권의 액면가를 받을 수 있도록 하는 은행 기간 자금 프로그램(BTFP)이라는 새로운 시설을 설립할 것이라고 선언했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">바로 그 일요일 저녁, 여섯 시간도 채 지나지 않아</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[24]",
+      "tag": "p",
+      "source_text": "Furthermore, Yellen lied. In that March 12, 2023 statement, U.S. regulators announced that all SVB depositors would have their deposits guaranteed. They relied upon the “Systemic Risk Exception” clause of the U.S. banking regulations. Not a bailout, but a full guarantee. The very thing Dodd-Frank prohibited.",
+      "translated_text": "게다가 옐런은 거짓말을 했다. 2023년 3월 12일 성명에서 미국 규제 당국은 모든 SVB 예금자에게 예금이 보장될 것이라고 발표했습니다. 그들은 미국 은행 규정의 \"시스템적 위험 예외\" 조항에 의존했습니다. 구제금융은 아니지만 완전한 보증을 제공합니다. Dodd-Frank가 금지한 바로 그 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[25]",
+      "tag": "p",
+      "source_text": "These steps were a blatant bailout and linguistic sleight of hand, a masterclass in political messaging. But I guess it doesn’t count because they didn’t __INLINE_1__ it a bailout.",
+      "translated_text": "이러한 조치는 정치적 메시지의 대가인 노골적인 구제금융이자 언어적 재주였습니다. 하지만 __INLINE_1__가 구제금융을 받지 않았기 때문에 계산에 포함되지 않는 것 같아요.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">call</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[26]",
+      "tag": "p",
+      "source_text": "As you can imagine, the firestorm of SVB’s failure brought out the Fed, and they devised a quick workaround to provide liquidity to the banking system. In fact, the Fed discount window gushed a new record amount ($152 billion) of loans to troubled banks. In addition, rather than follow the law and force the SVB depositors to take the hit that they deserved for leaving their deposits in a risky bank, the federal government provided a full guarantee of all SVB deposits. Relying on the “systemic risk exception” clause of the FDIC charter. __INLINE_1__",
+      "translated_text": "상상할 수 있듯이 SVB 실패의 폭풍은 연준을 불러일으켰고 그들은 은행 시스템에 유동성을 제공하기 위한 빠른 해결 방법을 고안했습니다. 실제로 연준의 할인 창구는 부실 은행에 새로운 기록적인 금액(1,520억 달러)의 대출을 쏟아부었습니다. 또한 연방 정부는 법을 준수하고 SVB 예금자가 예금을 위험한 은행에 맡긴 대가를 치르도록 강요하는 대신 모든 SVB 예금에 대해 완전한 보증을 제공했습니다. FDIC 헌장의 \"시스템적 위험 예외\" 조항을 따릅니다. __INLINE_1__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">바로 도드-프랭크법이 금지했던 바로 그것!</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[27]",
+      "tag": "p",
+      "source_text": "The Fed and the U.S. Treasury also set up a new program called the Bank Term Funding Program (BTFP),__INLINE_1____INLINE_2__ allowing banks that held underwater investments loans or assets to put them to the Fed for 100 cents on the dollar__INLINE_3____INLINE_4__ with a vague guarantee to unwind these transactions in the future. Realistically, this repayment is unlikely to happen. The Fed and The Treasury claimed that because these were loans (indefinite term?), this was not a bailout nor was it printing money. Both of these statements are untrue. Today, the BTFP still holds $108 billion in bank assets, down from a peak of $164 billion. Mouse-click money for bankers. All printed money.",
+      "translated_text": "연준과 미국 재무부는 또한 BTFP(은행기간대출프로그램)라는 새 프로그램__INLINE_1____INLINE_2__을 만들었습니다. 이 프로그램은 수중 손실 상태의 투자대출이나 자산을 보유한 은행들이 그것들을 액면가 100센트__INLINE_3____INLINE_4__로 연준에 맡길 수 있게 했고, 장차 이 거래를 되돌릴 것이라는 모호한 보장만 덧붙였습니다. 현실적으로 이런 상환이 실제로 일어날 가능성은 낮습니다. 연준과 재무부는 이것이 어디까지나 대출이기 때문에 구제금융도 아니고 돈 찍기도 아니라고 주장했지만, 둘 다 사실이 아닙니다. 오늘날에도 BTFP는 은행 자산 1,080억 달러를 보유하고 있으며, 이는 최고치였던 1,640억 달러에서 약간 줄어든 수준일 뿐입니다. 은행가들을 위한 마우스 클릭 머니입니다. 전부 새로 찍어낸 돈입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2X9\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a341\" ns1:type=\"noteref\" class=\"class_s2T8\">112</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a32T\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a342\" ns1:type=\"noteref\" class=\"class_s2T8\">113</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[28]",
+      "tag": "p",
+      "source_text": "Behind the complex financial maneuvers lay this simple, reoccurring truth: The Fed created money out of thin air to resolve the crisis. Through engineered sales of Silicon Valley Bank and First Republic Bank, complete with the FDIC loss-sharing agreements for the buyers, they put crony capitalism on full display.",
+      "translated_text": "복잡한 금융 작전 뒤에는 간단하고 반복되는 진실이 숨어 있습니다. 연준은 위기를 해결하기 위해 허공에서 돈을 창출했습니다. 구매자를 위한 FDIC 손실 분담 계약을 갖춘 실리콘밸리은행과 퍼스트리퍼블릭은행의 구조적 매각을 통해 그들은 정실 자본주의를 전면적으로 드러냈습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[29]",
+      "tag": "p",
+      "source_text": "These two interventions demonstrate how the Fed views its role in the broader financial markets, particularly since the 2008 GFC. Officially tasked with only managing employment and inflation, the Fed has fully integrated the third mandate: ensuring financial stability and functioning financial markets.",
+      "translated_text": "이 두 가지 개입은 연준이 특히 2008년 GFC 이후 광범위한 금융 시장에서 자신의 역할을 어떻게 보는지 보여줍니다. 공식적으로 고용과 인플레이션 관리만을 맡은 연준은 세 번째 임무인 금융 안정성 보장과 금융시장 기능을 완전히 통합했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[30]",
+      "tag": "p",
+      "source_text": "The pattern is crystal clear. The Fed is willing and able to bend, break, or amend the rules and laws to achieve this third mandate. As we examine the precarious state of the U.S. government’s fiscal position and balance sheet in upcoming chapters, one thing becomes certain. When the next crisis hits, the Fed’s response will follow a familiar playbook, regardless of the long-term consequences. (Hint: it involves printing money).",
+      "translated_text": "패턴이 선명합니다. 연준은 이 세 번째 임무를 달성하기 위해 규칙과 법률을 구부리거나 위반하거나 수정할 의지와 능력이 있습니다. 다음 장에서 미국 정부의 재정 상황과 대차대조표의 불안정한 상태를 검토하면서 한 가지는 확실해졌습니다. 다음 위기가 닥치면 연준의 대응은 장기적인 결과에 관계없이 익숙한 플레이북을 따를 것입니다. (힌트: 돈을 인쇄하는 것과 관련이 있습니다).",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[3]",
+      "tag": "h3",
+      "source_text": "THOMAS HOENIG: BRAVEHEART",
+      "translated_text": "THOMAS HOENIG: 브레이브하트",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[31]",
+      "tag": "p",
+      "source_text": "The Fed operates like a fortress: insular, powerful, and fiercely protective of its reputation and internal deliberation. It crafts an image of thoughtful debate and wise deliberation. The reality behind its walls tells a different story — one best illustrated through the remarkable case of Thomas Hoenig.",
+      "translated_text": "연준은 요새처럼 운영됩니다. 고립되고 강력하며 명성과 내부 심의를 강력하게 보호합니다. 사려 깊은 토론과 현명한 숙고의 이미지를 만들어냅니다. 벽 뒤의 현실은 다른 이야기를 말해줍니다. Thomas Hoenig의 놀라운 사례를 통해 가장 잘 설명되는 이야기입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[32]",
+      "tag": "p",
+      "source_text": "A rare voice of dissent within the Federal Reserve, Hoenig, son of a small businessman, grew up in the Midwest and served in Vietnam. Professionally, he received his PhD in Economics from Iowa State University and spent his entire career, spanning from 1973 until retirement, at the Federal Reserve, first serving as an economist, then rising to become President of the Federal Reserve Bank of Kansas City, and thus, a voting member of the FOMC. His story, vividly recounted by Christopher Leonard in __INLINE_1__, reveals the courage required to challenge the Fed’s groupthink.",
+      "translated_text": "연방준비은행 내에서 드물게 반대 목소리를 낸 Hoenig는 소규모 사업가의 아들로 중서부에서 자랐으며 베트남에서 근무했습니다. 전문적으로 그는 아이오와 주립대학교에서 경제학 박사 학위를 취득하고 1973년부터 은퇴할 때까지 연방준비은행에서 경력을 쌓았습니다. 처음에는 경제학자로 일한 후 캔자스시티 연방준비은행 총재를 거쳐 FOMC 투표위원이 되었습니다. __INLINE_1__에서 Christopher Leonard가 생생하게 설명한 그의 이야기는 연준의 집단 사고에 도전하는 데 필요한 용기를 보여줍니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">쉬운 돈의 군주들</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[33]",
+      "tag": "p",
+      "source_text": "Leonard chronicles Hoenig’s early skepticism during QE policy discussions, writing:__INLINE_1____INLINE_2__",
+      "translated_text": "Leonard는 QE 정책 논의 중 Hoenig의 초기 회의론을 다음과 같이 기록합니다. __INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a36W\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2U0\" ns1:type=\"noteref\" class=\"class_s2T8\">114</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[34]",
+      "tag": "p",
+      "source_text": "Hoenig had sat on the FOMC during both of these asset bubbles [Dotcom and GFC], and following the crashes, he’d seen firsthand the Fed’s vital role in creating them. Hoenig was worried, in November 2010, that the Fed was repeating this mistake.",
+      "translated_text": "Hoenig는 두 자산 버블[Dotcom 및 GFC] 동안 FOMC에 참여했으며 붕괴 이후 이를 창출하는 데 있어 연준의 중요한 역할을 직접 목격했습니다. Hoenig는 2010년 11월 연준이 이러한 실수를 반복하고 있다고 우려했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[35]",
+      "tag": "p",
+      "source_text": "He said something that Fed officials never acknowledged, at least in public. The central bank hadn’t just rescued the economy from the crash of 2008. The Fed bore a great deal of responsibility for it.",
+      "translated_text": "그는 연준 관리들이 적어도 공개적으로는 결코 인정하지 않은 말을 했습니다. 중앙은행은 단지 2008년의 붕괴로부터 경제를 구한 것이 아닙니다. 연준은 이에 대해 막중한 책임을 졌습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[36]",
+      "tag": "p",
+      "source_text": "During a series of Fed meetings in the 2009-2010 timeframe, Hoenig voiced his opposition to Bernanke’s aggressive QE policy. When confronted with another round of quantitative easing in 2010, he cast dissenting votes at several meetings, and at one pivotal FOMC meeting, he bravely stated:__INLINE_1____INLINE_2__",
+      "translated_text": "2009~2010년 일련의 연준 회의에서 Hoenig는 Bernanke의 공격적인 QE 정책에 반대 입장을 표명했습니다. 2010년에 또 다른 양적 완화에 직면했을 때 그는 여러 회의에서 반대표를 던졌고 중요한 FOMC 회의에서 그는 용감하게 다음과 같이 말했습니다. __INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2ZK\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2Z6\" ns1:type=\"noteref\" class=\"class_s2T8\">115</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[37]",
+      "tag": "p",
+      "source_text": "I strongly disagree with the course that is being charted here today [implement QE]. We may see some short-run improvements, but not long run. There will be, I’m sure, in the end, a lot of givebacks. Experience tells us this. This course sows the seeds of instability. In my opinion.",
+      "translated_text": "나는 오늘 여기에 제시된 과정(QE 구현)에 강력히 동의하지 않습니다. 단기적으로는 일부 개선이 있을 수 있지만 장기적으로는 그렇지 않습니다. 결국에는 많은 보상이 있을 것이라고 확신합니다. 경험이 우리에게 이것을 말해줍니다. 이 과정은 불안정의 씨앗을 뿌립니다. 내 생각에는.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[38]",
+      "tag": "p",
+      "source_text": "This sort of dissent from a Fed Governor was not at all well-received, as it damaged the Fed’s carefully maintained façade of unified, academic decision-making. The response was swift and revealing. Leonard describes how Chairman Bernanke delivered what amounted to a public scolding:__INLINE_1____INLINE_2__",
+      "translated_text": "연준 총재의 이런 종류의 반대는 전혀 호평을 받지 못했습니다. 연준이 세심하게 유지해 온 통일되고 학문적인 의사 결정의 외관을 손상시켰기 때문입니다. 반응은 신속하고 명확했습니다. Leonard는 Bernanke 의장이 어떻게 공개적인 질책을 받았는지 설명합니다. __INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a39K\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a369\" ns1:type=\"noteref\" class=\"class_s2T8\">116</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[39]",
+      "tag": "p",
+      "source_text": "The mighty brains who ruled the FOMC were portrayed to the public as PhD educated civil servants who were essentially __INLINE_1__solving complex questions rather than making policy choices. When a FOMC member dissented, it shattered this illusion.",
+      "translated_text": "FOMC를 지배하던 막강한 두뇌들은 정책 선택을 하는 사람들이 아니라, 본질적으로 __INLINE_1__복잡한 질문을 풀어내는 박사 학위 소지 공무원들인 것처럼 대중에게 묘사됐습니다. 그러나 FOMC 위원 가운데 누군가가 반대표를 던질 때마다 그 환상은 산산이 깨졌습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_156\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[40]",
+      "tag": "p",
+      "source_text": "Bernanke opened the meeting with something of a scolding for the gathered FOMC members. He said there had been too many leaks of information about their meetings and, just as worrisome, some Fed officials feel increasingly free to express their opinions on important policy matters during their public speeches. It was hard not to see this complaint as directed squarely at Tom Hoenig. Bernanke said that airing such “very strong, inflexible positions” undermined the FOMC’s credibility.",
+      "translated_text": "버냉키 의장은 모인 FOMC 위원들을 꾸짖는 듯한 말로 회의를 시작했습니다. 그는 회의에 관한 정보가 너무 많이 유출되었으며 우려스러운 만큼 일부 연준 관리들은 공개 연설 중에 중요한 정책 문제에 대한 자신의 의견을 점점 더 자유롭게 표현하고 있다고 말했습니다. 이 불만이 Tom Hoenig를 정면으로 향한 것으로 보지 않는 것은 어려웠습니다. 버냉키 의장은 \"매우 강력하고 융통성 없는 입장\"을 공개하는 것은 FOMC의 신뢰성을 훼손했다고 말했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[41]",
+      "tag": "p",
+      "source_text": "Janet Yellen agreed. ‘I personally see them damaging our credibility and our reputation at a time when the institution is under enormous scrutiny, and we can ill afford it,’ she said.",
+      "translated_text": "재닛 옐런도 동의했다. “저는 개인적으로 기관이 막대한 조사를 받고 있는 상황에서 그들이 우리의 신뢰성과 명성을 훼손하는 것을 목격하고 있으며 우리는 그럴 여유가 없습니다.”라고 그녀는 말했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[42]",
+      "tag": "p",
+      "source_text": "Yet history would vindicate Hoenig. Even Leonard — an established, bestselling New York Times investigative reporter with acclaim from mainstream outlets like __INLINE_1__, and __INLINE_2__ — draws a conclusion strikingly similar to mine. He observes:__INLINE_3____INLINE_4__",
+      "translated_text": "그러나 역사는 Hoenig를 입증할 것입니다. __INLINE_1__ 및 __INLINE_2__와 같은 주류 매체로부터 호평을 받고 있는 확고한 베스트셀러 뉴욕 타임스 조사 기자인 레너드조차도 나와 놀랄 만큼 유사한 결론을 내립니다. 그는 다음을 관찰합니다: __INLINE_3____INLINE_4__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">뉴욕 타임스, 월스트리트저널, 워싱턴포스트, 파이낸셜 타임스</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">퍼블리셔스 위클리</html:span>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a38G\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a33J\" ns1:type=\"noteref\" class=\"class_s2T8\">117</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[43]",
+      "tag": "p",
+      "source_text": "Virtually all of the predictions Thomas Hoenig made about quantitative easing, and 0 percent interest rates, would come true over the next decade. Years later, he didn’t say he voted the way he voted because he was smart. He said he voted the way he did because of what he’d learned over more than thirty years of working inside the Federal Reserve. Hoenig became a dissenter against the Fed because of what he learned inside that very institution. He had seen firsthand how much devastation the Fed could cause when it got things wrong.",
+      "translated_text": "Thomas Hoenig가 양적완화와 0% 금리에 관해 내놓은 거의 모든 예측은 향후 10년에 걸쳐 현실이 될 것입니다. 몇 년 후, 그는 자신이 똑똑해서 투표하는 방식으로 투표했다고 말하지 않았습니다. 그는 연준에서 30년 넘게 일하면서 배운 지식 때문에 자신이 투표한 방식을 택했다고 말했습니다. Hoenig는 바로 그 기관에서 배운 내용 때문에 연준에 반대하는 사람이 되었습니다. 그는 상황이 잘못되면 연준이 얼마나 큰 피해를 입힐 수 있는지 직접 목격했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[44]",
+      "tag": "p",
+      "source_text": "Hoenig’s experience and Leonard’s reporting show that the Fed’s public display of its inner workings is a veneer, with little tolerance for dissent within its ranks. Many of us have argued for years that the Fed is a self-interested banker’s cabal that has been corrupted and strayed from its stated mandate. Leonard, in poking fun at those of us who have held a negative view of the Fed, acknowledges a certain irony:__INLINE_1____INLINE_2__",
+      "translated_text": "Hoenig의 경험과 Leonard의 보고에 따르면 연준이 내부 활동을 공개적으로 공개하는 것은 겉치레일 뿐이며 내부의 반대 의견은 거의 용납되지 않습니다. 우리 중 많은 사람들은 연준이 부패하고 명시된 권한에서 벗어난 이기적인 은행가의 도당이라고 수년 동안 주장해 왔습니다. Leonard는 연준에 대해 부정적인 견해를 갖고 있는 사람들을 비웃으면서 다음과 같은 아이러니를 인정합니다. __INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a31M\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2W3\" ns1:type=\"noteref\" class=\"class_s2T8\">118</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[45]",
+      "tag": "p",
+      "source_text": "To the everlasting joy of every conspiracy theorist in America, a group of ultra-powerful bankers got together and held a secret meeting in 1910 in which they created the blueprint for an American central bank. at a luxury resort called Jekyll Island.",
+      "translated_text": "미국의 모든 음모 이론가들의 영원한 기쁨을 위해, 초강력 은행가 그룹이 함께 모여 1910년에 비밀 회의를 열어 미국 중앙 은행의 청사진을 만들었습니다. 지킬섬이라는 고급 리조트에서.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[46]",
+      "tag": "p",
+      "source_text": "But then Leonard’s book details many cases of what we have been saying all along.",
+      "translated_text": "하지만 Leonard의 책에는 우리가 지금까지 말해 왔던 많은 사례가 자세히 설명되어 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[47]",
+      "tag": "p",
+      "source_text": "Well, welcome to the club, Chris.",
+      "translated_text": "음, 클럽에 온 것을 환영해요, 크리스.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[48]",
+      "tag": "p",
+      "source_text": "It is interesting to me that the problem has now grown so obvious that even mainstream journalists and publications can no longer sweep it under the rug. Leonard’s book and the mainstream media response to it tells me that the tide is in the process of turning against the Federal Reserve.",
+      "translated_text": "이제 문제가 너무나 명백해져서 주류 언론인과 출판물조차 더 이상 그 문제를 숨길 수 없다는 것이 나에게는 흥미롭습니다. 레너드의 책과 이에 대한 주류 언론의 반응은 흐름이 연방준비은행에 등을 돌리는 과정에 있음을 말해줍니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[49]",
+      "tag": "p",
+      "source_text": "The story of Thomas Hoenig would not be complete without exposition of how Chairman Bernanke lied about the impact of the Fed’s new QE program. Right after the Fed’s fateful November 3, 2010 vote to launch what became known as QE2, a continuation of the emergency measures that they undertook in November 2008 (QE1), Chairman Bernanke appeared on CBS’s __INLINE_1__ with Scott Pelley. Pelley asked him about the inflation risks inherent in printing so much money. Below is Leonard’s summary of Bernanke’s response and Leonard’s assessment of that response:__INLINE_2____INLINE_3__",
+      "translated_text": "Thomas Hoenig의 이야기는 Bernanke 의장이 Fed의 새로운 QE 프로그램의 영향에 대해 어떻게 거짓말을 했는지 설명하지 않고는 완전하지 않을 것입니다. 2010년 11월 3일 연준이 2008년 11월에 착수한 긴급 조치(QE1)의 연속인 QE2를 개시하기로 한 운명적인 투표 직후, Bernanke 의장은 Scott Pelley와 함께 CBS의 __INLINE_1__에 출연했습니다. Pelley는 그에게 너무 많은 돈을 인쇄하는 데 따른 인플레이션 위험에 대해 물었습니다. 다음은 Bernanke의 응답에 대한 Leonard의 요약과 해당 응답에 대한 Leonard의 평가입니다. __INLINE_2____INLINE_3__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">60 Minutes</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2WX\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2WP\" ns1:type=\"noteref\" class=\"class_s2T8\">119</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[50]",
+      "tag": "p",
+      "source_text": "Then Bernanke said something which tainted the understanding of quantitative easing for years. ‘One myth that’s out there is that what we’re doing is printing money. We’re not printing money,’ he said. ‘The amount of money in circulation is not changing. The money supply is not changing in any significant way.’",
+      "translated_text": "그런 다음 버냉키는 수년 동안 양적 완화에 대한 이해를 오염시키는 말을 했습니다. '우리가 하고 있는 일이 돈을 인쇄하는 것이라는 신화 중 하나가 있습니다. 우리는 돈을 인쇄하지 않는다”고 말했다. '유통되는 돈의 양은 변하지 않습니다. 화폐 공급은 크게 변하지 않습니다.'",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[51]",
+      "tag": "p",
+      "source_text": "This statement is fundamentally untrue. The money supply was already changing in significant ways and would never return to the already elevated level where it had been on November 3rd. The people who understood this fact best were the people, like Hoenig and Bernanke, who understood the mechanics of how the Fed’s power actually worked and who understood what it was actually beginning to do after the FOMC cast its vote.",
+      "translated_text": "이 진술은 근본적으로 사실이 아닙니다. 통화 공급량은 이미 상당한 방식으로 변화하고 있었고 11월 3일에 있었던 이미 높아진 수준으로 결코 돌아가지 않을 것입니다. 이 사실을 가장 잘 이해한 사람들은 연준의 권력이 실제로 어떻게 작동하는지에 대한 메커니즘을 이해하고 FOMC가 투표를 한 후 실제로 무엇을 하기 시작했는지 이해한 Hoenig와 Bernanke와 같은 사람들이었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[52]",
+      "tag": "p",
+      "source_text": "In light of what we know today, Ron Paul’s warning as set out in __INLINE_1____INLINE_2____INLINE_3__ seems prophetic:",
+      "translated_text": "오늘날 우리가 알고 있는 사실에 비추어 볼 때, __INLINE_1____INLINE_2____INLINE_3__에 명시된 Ron Paul의 경고는 예언적인 것처럼 보입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">End The Fed</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a33A\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a37G\" ns1:type=\"noteref\" class=\"class_s2T8\">120</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[53]",
+      "tag": "p",
+      "source_text": "In the United States, it [the creation of the Fed] fundamentally altered the balance of power in our democratic system. Votes, campaign promises, polls, public opinion, laws, restrictions on the state, all of these forces took a backseat to the goals of the government to expand. Imagine an irresponsible teenager with an unlimited line of credit. The parents, teachers, pastors, and authorities in his life are ultimately powerless to change his habits. Now imagine that teenager armed to the teeth and also immune even from the rule of law. This is what you have with a government backed by a central bank.",
+      "translated_text": "미국에서는 연준의 창설이 민주주의 체제의 권력 균형을 근본적으로 변화시켰습니다. 투표, 캠페인 약속, 여론 조사, 여론, 법률, 국가에 대한 제한 등 이 모든 세력은 정부 확장 목표에 뒷전으로 밀렸습니다. 무제한의 신용 한도를 갖고 있는 무책임한 십대를 상상해 보십시오. 그의 삶에 있는 부모, 교사, 목사, 권위자들은 궁극적으로 그의 습관을 바꿀 힘이 없습니다. 이제 완전 무장하고 법치로부터도 면역이 되는 십대를 상상해 보십시오. 중앙은행의 지원을 받는 정부가 바로 이것이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[4]",
+      "tag": "h3",
+      "source_text": "ARROGANT AND WRONG",
+      "translated_text": "오만하고 잘못된",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[54]",
+      "tag": "p",
+      "source_text": "Grasping the modus operandi of the Federal Reserve requires first anchoring in your mind two words: hubris and myopia.",
+      "translated_text": "연준의 운영 방식을 파악하려면 먼저 오만함과 근시안이라는 두 단어를 마음속에 깊이 새겨야 합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[55]",
+      "tag": "p",
+      "source_text": "Danielle DeMartino Booth",
+      "translated_text": "다니엘 드마티노 부스",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[56]",
+      "tag": "p",
+      "source_text": "We are aided in our examination of the Fed by former Wall Street investment banker and journalist Danielle DeMartino Booth, who spent nine years inside the Fed working as a researcher for Dallas Fed Governor Richard Fisher.",
+      "translated_text": "우리는 연준에 대한 조사에 있어 전 월스트리트 투자 은행가이자 저널리스트인 Danielle DeMartino Booth의 도움을 받았습니다. 그는 연준에서 9년 동안 댈러스 연준 총재 Richard Fisher의 연구원으로 일했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[57]",
+      "tag": "p",
+      "source_text": "In her excellent book, __INLINE_1__, Booth describes an inbred culture at the Fed whose 1,000 PhD economists look dimly on real-world practitioners. These academics, entrenched in their theoretical models and specialized jargon, mock the real-world input from professionals with business backgrounds like Booth and Fisher.",
+      "translated_text": "그녀의 뛰어난 저서 __INLINE_1__에서 부스는 1,000명의 박사 학위 경제학자들이 실제 실무자들을 희미하게 바라보고 있는 연준의 선천적인 문화를 설명합니다. 이론적 모델과 전문 용어를 고수하는 이들 학자들은 Booth 및 Fisher와 같은 비즈니스 배경을 가진 전문가의 실제 의견을 조롱합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Fed Up</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[58]",
+      "tag": "p",
+      "source_text": "Booth correctly points out that their academic hubris and lack of introspection come at a cost. Within just a decade, Fed policies led to two of the largest bubbles in the nation’s history: the Dotcom bubble and the housing bubble.",
+      "translated_text": "부스는 학문적 오만함과 성찰의 부족이 대가를 치르게 된다는 점을 정확하게 지적합니다. 불과 10년 만에 연준의 정책은 미국 역사상 가장 큰 두 가지 거품, 즉 닷컴 거품과 주택 거품을 초래했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[59]",
+      "tag": "p",
+      "source_text": "Occasionally, even the members of the Fed concede their missteps and admit in hindsight that they do not always know what they are doing. In a very revealing admission before Congress in October 2008, former Chairman Greenspan rather sheepishly confessed that he was “shocked” to find that the risk models used by the financial industry failed to account for systemic risk, acknowledging a flaw in his long-held belief in self-regulating free markets. Indeed. I wonder if in his quiet moments he ever recognized the Fed’s role in blowing that bubble.",
+      "translated_text": "때때로 연준 위원들조차 자신들의 실수를 인정하고 자신들이 무엇을 하고 있는지 항상 알지는 못한다는 점을 뒤늦게 인정합니다. 2008년 10월 의회에서의 매우 공개적인 인정에서 그린스펀 전 의장은 금융 산업이 사용하는 위험 모델이 시스템적 위험을 설명하지 못한다는 사실을 알고 \"충격\"을 받았다고 다소 수줍게 고백했으며, 자기 규제 자유 시장에 대한 자신의 오랜 신념에 결함이 있음을 인정했습니다. 물론. 그가 조용한 순간에 그 거품을 불어넣는 연준의 역할을 인식한 적이 있었는지 궁금합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[60]",
+      "tag": "p",
+      "source_text": "Janet Yellen’s comments prior to the GFC offer another example of the Fed’s institutional myopia. On two separate occasions, a mere four months apart, Yellen dismissed critical concerns about the growing housing bubble:",
+      "translated_text": "GFC 이전 Janet Yellen의 발언은 연준의 제도적 근시안의 또 다른 예를 제공합니다. 불과 4개월 간격으로 두 차례에 걸쳐 Yellen은 주택 거품 증가에 대한 비판적인 우려를 일축했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[61]",
+      "tag": "p",
+      "source_text": "First, if the bubble were to collapse on its own, would the effect on the economy be exceedingly large? Second, is it unlikely that the Fed could mitigate the consequences? Third, is monetary policy the best tool to use to deflate a house-price bubble?",
+      "translated_text": "첫째, 만약 거품이 저절로 붕괴된다면 경제에 미치는 영향은 엄청나게 클 것인가? 둘째, 연준이 그 결과를 완화할 가능성은 없을까요? 셋째, 통화정책이 주택가격 거품을 줄이는 데 사용할 수 있는 최선의 도구인가?",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[62]",
+      "tag": "p",
+      "source_text": "My answer to these questions in the shortest possible form are, ‘no,’ ‘no,’ and ‘no.’",
+      "translated_text": "이 질문에 대한 나의 대답은 '아니요', '아니요', '아니오'입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[63]",
+      "tag": "p",
+      "source_text": "— Janet Yellen, September 27, 2005.",
+      "translated_text": "— 재닛 옐런, 2005년 9월 27일.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[64]",
+      "tag": "p",
+      "source_text": "While the decline in housing activity has been significant and will probably continue for a while longer, I think the concerns we used to hear about the possibility of a devastating collapse–one that might be large enough to cause a recession in the U.S. economy–have been largely allayed.",
+      "translated_text": "주택 활동의 감소가 상당했고 아마도 한동안 더 지속될 것으로 보이지만, 미국 경제에 불황을 초래할 만큼 엄청난 규모의 붕괴가 일어날 가능성에 대해 우리가 듣던 우려는 대체로 완화되었다고 생각합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[65]",
+      "tag": "p",
+      "source_text": "— Janet Yellen, January 22, 2007.",
+      "translated_text": "— 재닛 옐런, 2007년 1월 22일.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[66]",
+      "tag": "p",
+      "source_text": "OK, so she totally blew the call on the GFC. But let’s give her some slack; we all make mistakes. However, this follow-up comment made AFTER the GFC is indicative of an utter lack of awareness. She is like a modern-day Mrs. Magoo.__INLINE_1____INLINE_2__",
+      "translated_text": "좋아, 그래서 그녀는 GFC에 대한 요청을 완전히 날려 버렸습니다. 하지만 그녀에게 약간의 여유를 주자. 우리 모두는 실수를 합니다. 그러나 GFC 이후에 나온 이 후속 논평은 인식이 전혀 부족함을 나타냅니다. 그녀는 현대의 마구 부인과 같습니다.__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a38S\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a34M\" ns1:type=\"noteref\" class=\"class_s2T8\">121</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[67]",
+      "tag": "p",
+      "source_text": "I will be the first to say that it is always difficult to get monetary policy just right. But the Fed’s analytical prowess is top-notch, and our forecasting record is second to none.",
+      "translated_text": "나는 통화 정책을 올바르게 세우는 것이 항상 어렵다는 것을 가장 먼저 말할 것입니다. 그러나 연준의 분석 능력은 최고 수준이며 우리의 예측 기록은 누구에게도 뒤지지 않습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[68]",
+      "tag": "p",
+      "source_text": "— Janet Yellen, June 20, 2009",
+      "translated_text": "— 재닛 옐런(Janet Yellen), 2009년 6월 20일",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[69]",
+      "tag": "p",
+      "source_text": "I find her lack of analytical capability and self-awareness to be stunning. Is this the same woman who received $7 million in speaking fees from financial institutions, including $800,000 from Citadel, the hedge fund run by Ken Griffin? Could her insights really be worth that much?",
+      "translated_text": "나는 그녀의 분석 능력과 자기 인식의 부족이 놀랍다고 생각합니다. 이 여성은 Ken Griffin이 운영하는 헤지펀드인 Citadel로부터 80만 달러를 포함하여 금융 기관으로부터 연설 비용 700만 달러를 받은 바로 그 여성입니까? 그녀의 통찰력이 정말 그만한 가치가 있을 수 있을까요?",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[70]",
+      "tag": "p",
+      "source_text": "Monetary policy is a very serious matter, and yet it is controlled by people like Janet Yellen.",
+      "translated_text": "통화 정책은 매우 심각한 문제인데도 Janet Yellen과 같은 사람들이 이를 통제하고 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[71]",
+      "tag": "p",
+      "source_text": "And lest you think that it is only the Fed that misbehaves, don’t get me started on the European Central Bank (ECB). The book would be too long if I gave it full coverage. I will just leave this quote by Jean-Claude Juncker, Prime Minister of Luxembourg and President of the European Commission, who, in discussing how to handle the 2011 European sovereign debt crisis (specifically Greece), said:",
+      "translated_text": "그리고 잘못된 행동을 하는 사람은 연준뿐이라고 생각하지 않도록 유럽중앙은행(ECB)에 대해 이야기하지 마세요. 책 전체를 다 다루면 책이 너무 길어질 것 같아요. 룩셈부르크 총리이자 유럽연합 집행위원회 의장인 장 클로드 융커(Jean-Claude Juncker)가 2011년 유럽 국가 부채 위기(특히 그리스)를 처리하는 방법을 논의하면서 다음과 같이 말한 내용을 인용하겠습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[72]",
+      "tag": "p",
+      "source_text": "“When it becomes serious, you have to lie.”",
+      "translated_text": "“심각해지면 거짓말을 해야 한다.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[73]",
+      "tag": "p",
+      "source_text": "On a related note, another thing that the Fed does to protect itself is to hide behind its so-called position of “political independence.” By claiming to be non-partisan and only interested in what is good for the nation’s economy, the Fed has a very convenient excuse for stonewalling, or objecting to efforts by Congress to more fully understand how it operates and what it is doing. Over the years, legislators and others have pushed for reforms and greater transparency, but with limited success.",
+      "translated_text": "이와 관련하여 연준이 자신을 보호하기 위해 하는 또 다른 일은 소위 \"정치적 독립\"이라는 입장 뒤에 숨는 것입니다. 당파적이지 않고 국가 경제에 좋은 것에만 관심이 있다고 주장함으로써 연준은 돌담을 쌓거나 의회가 어떻게 운영되고 무엇을 하고 있는지 더 완전히 이해하려는 의회의 노력에 반대하는 매우 편리한 변명을 가지고 있습니다. 수년에 걸쳐 입법자들과 다른 사람들은 개혁과 투명성 제고를 추진해 왔지만 성공은 제한적이었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[74]",
+      "tag": "p",
+      "source_text": "The original protagonist was Texas Congressman Wright Patman, who began asking questions as early as the 1930s and continued to doggedly pursue the Fed all the way through the 1960s during his tenure as head of the House Banking and Currency Committee. In the 1970s and 1980s, Representative Henry Gonzalez, also of Texas, picked up the mantle as chair of the same committee. Gonzalez was then joined by Ron Paul and Senator Bernie Sanders, more recently. It is safe to say that they’ve not made much headway. All calls for a comprehensive audit of the Fed’s manipulation of markets have been rebuffed, and this is why Fed Chairman have typically made meaningful efforts to meet with Congressmen and Senators privately to __INLINE_1__generate support for continued “Fed Independence.” (read: SECRECY)",
+      "translated_text": "원조 주인공은 텍사스 하원의원 라이트 패트먼이었습니다. 그는 1930년대부터 질문을 던지기 시작했고, 하원 은행통화위원회 위원장을 맡았던 1960년대까지 끈질기게 연준을 추적했습니다. 1970~1980년대에는 같은 텍사스 출신의 헨리 곤잘레스 하원의원이 같은 위원회 위원장으로 그 바통을 이어받았습니다. 이후에는 론 폴과, 더 최근에는 버니 샌더스 상원의원이 그 대열에 합류했습니다. 하지만 그들이 큰 진전을 이뤘다고 보기는 어렵습니다. 연준의 시장 조작을 포괄적으로 감사하라는 모든 요구는 묵살됐고, 그래서 연준 의장들은 대개 의원들과 상원의원들을 비공개로 만나 지속적인 \"연준의 독립성\"에 대한 지지를 __INLINE_1__끌어내기 위해 공을 들였습니다. (읽어라: 비밀주의)",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_162\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[5]",
+      "tag": "h3",
+      "source_text": "PRINTING IS THE HAMMER: EVERY PROBLEM LOOKS LIKE A NAIL",
+      "translated_text": "인쇄는 망치입니다. 모든 문제는 못처럼 보입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[75]",
+      "tag": "p",
+      "source_text": "When you strip away the complex economic jargon and sophisticated financial theories, the Federal Reserve’s true power boils down to two extraordinary privileges: the ability to backstop any failing institution with a bailout and the power to create money out of thin air. Of these two, money printing has become their go-to solution for every crisis — their hammer for every nail.",
+      "translated_text": "복잡한 경제 전문 용어와 정교한 금융 이론을 제거하면 연준의 진정한 힘은 두 가지 특별한 특권, 즉 구제금융을 통해 실패한 기관을 막을 수 있는 능력과 허공에서 돈을 창출할 수 있는 힘으로 귀결됩니다. 이 두 가지 중에서 돈 찍기는 모든 위기에 대한 해결책이 되었습니다. 즉, 모든 못을 박는 망치입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[76]",
+      "tag": "p",
+      "source_text": "Since the creation of the Fed, a pattern has emerged, even more so in recent decades. The 1987 market crash? Print. The 1998 Long-Term Capital Management collapse? Print. The 2000 Dotcom bust and 2008 financial crisis? Print even more. Recent history only reinforces this tendency: the 2019 repo market seizure, the COVID-19 pandemic, and the Silicon Valley Bank failure all met the same response — fire up the digital printing press. Even seemingly minor market hiccups trigger the same reflexive response. Take Fall 2023, when the 10-year Treasury yield breached 5.0%. Like a well-rehearsed chorus, 12 Fed governors suddenly appeared with coordinated messages signaling an end to rate hikes. Their market-soothing jawboning achieved its goal: bond yields retreated, crisis averted — until the next one.",
+      "translated_text": "연준이 창설된 이후 한 가지 패턴이 나타났으며, 최근 수십 년 동안 더욱 그러했습니다. 1987년 시장 붕괴? 인쇄. 1998년 장기 자본 관리 붕괴? 인쇄. 2000년 닷컴 파산과 2008년 금융위기? 더 많은 것을 인쇄하세요. 최근의 역사는 이러한 경향을 더욱 강화할 뿐입니다. 2019년 repo 시장 압수, 코로나19 대유행, 실리콘 밸리 은행 실패는 모두 동일한 반응을 보였습니다. 즉, 디지털 인쇄기가 가동되었습니다. 겉보기에 사소해 보이는 시장 문제라도 동일한 반사적 반응을 촉발합니다. 10년 만기 국채 수익률이 5.0%를 돌파한 2023년 가을을 생각해 보세요. 잘 연습된 합창단처럼 12명의 연준 총재가 금리 인상 종료를 알리는 조율된 메시지를 들고 갑자기 등장했습니다. 시장을 달래는 그들의 턱뼈는 목표를 달성했습니다. 채권 수익률이 후퇴하고 위기가 회피되었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[77]",
+      "tag": "p",
+      "source_text": "Consider the next chart, which shows the aggressive moves up and down in the Fed-funds rate since 1999. These extreme swings suggest that the Fed has lost control of the monetary system.",
+      "translated_text": "1999년 이후 연방기금 금리의 공격적인 상승 및 하락 움직임을 보여주는 다음 차트를 고려하십시오. 이러한 극단적인 변동은 연준이 통화 시스템에 대한 통제력을 상실했음을 시사합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[78]",
+      "tag": "p",
+      "source_text": "“Federal-funds Rate Target,” Wall Street Journal. (Federal Reserve) Note: Chart shows midpoint of target range since 2008.",
+      "translated_text": "“연방기금 금리 목표”, 월스트리트저널. (연방준비은행) 참고: 차트는 2008년 이후 목표 범위의 중간점을 보여줍니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[79]",
+      "tag": "p",
+      "source_text": "For a longer time frame, consider the chart below prepared by Haver Analytics:",
+      "translated_text": "더 긴 기간을 보려면 헤이버 애널리틱스가 준비한 아래 차트를 보십시오.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[80]",
+      "tag": "p",
+      "source_text": "Bloomberg Finance LP, Haver Analytics, Deutsche Bank, “Federal Funds Rate, Annotated with Crises.” (Bloomberg Finance LP, Haver Analytics, Deutsche Bank)",
+      "translated_text": "블룸버그 파이낸스 LP, 헤이버 애널리틱스, 도이체방크, \"연방기금 금리: 위기 주석 포함.\" (블룸버그 파이낸스 LP, 헤이버 애널리틱스, 도이체방크)",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[81]",
+      "tag": "p",
+      "source_text": "Or the more detailed look at recent events offered by Peter Schmidt:",
+      "translated_text": "또는 Peter Schmidt가 제공하는 최근 이벤트에 대한 자세한 내용을 살펴보세요.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[82]",
+      "tag": "p",
+      "source_text": "Peter Schmidt (X Address: @The92ers), “It’s Not a New Crisis; It’s the Same Crisis but it Keeps Getting Bigger.”",
+      "translated_text": "Peter Schmidt(X 주소: @The92ers), \"새로운 위기는 아닙니다. 같은 위기지만 계속 커지고 있습니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[83]",
+      "tag": "p",
+      "source_text": "When financial conditions get rocky, the Fed always turns to the printer. Practically speaking, it is their only tool. This explains the book’s title, __INLINE_1__. As we are about to explore, the mathematical reality of our current fiscal and debt situation means it is only a matter of time until the next crisis or several crises occur. We already know the Fed’s response.",
+      "translated_text": "재정 상황이 불안정해지면 연준은 항상 프린터에 의지합니다. 실질적으로 말하면 이것이 유일한 도구입니다. 이것은 책 제목 __INLINE_1__를 설명합니다. 우리가 탐구하려고 하는 바와 같이, 현재 재정 및 부채 상황의 수학적 현실은 다음 위기 또는 여러 위기가 발생하는 것은 시간 문제일 뿐이라는 것을 의미합니다. 우리는 이미 연준의 반응을 알고 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2WG-0\">The Big Print</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[84]",
+      "tag": "p",
+      "source_text": "Before we dive into what lies ahead, let’s briefly explore the competing economic schools of thought that have shaped policy decisions. This foundation is important because, as we’ll see, we have been operating under the wrong model. You’re about to learn just how dangerous that mindset can be.",
+      "translated_text": "앞으로 일어날 일에 대해 알아보기 전에, 정책 결정을 형성해 온 경쟁적인 경제 사상 학파를 간략하게 살펴보겠습니다. 앞으로 살펴보겠지만 우리는 잘못된 모델로 운영해 왔기 때문에 이 기반이 중요합니다. 당신은 그런 사고방식이 얼마나 위험한지 배우게 될 것입니다.",
+      "inline_tokens": {}
+    }
+  ]
+}

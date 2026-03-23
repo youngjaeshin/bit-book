@@ -1,0 +1,20 @@
+{
+  "chapter_id": "11-why-everyone-needs-hope",
+  "answer_index": 0,
+  "question_en": "How does the chapter connect hope with Bitcoin?",
+  "choices_en": [
+    "By treating uncensorable ownership as a way to reopen a future that broken money closed",
+    "By promising instant wealth for every buyer",
+    "By replacing all political struggle with software",
+    "By making state currencies stronger"
+  ],
+  "question_ko": "이 장은 희망과 비트코인을 어떻게 연결하는가?",
+  "choices_ko": [
+    "고장 난 돈이 닫아버린 미래를 다시 여는 검열 불가능한 소유권으로",
+    "모든 매수자에게 즉각적 부를 약속하는 것으로",
+    "모든 정치적 투쟁을 소프트웨어로 대체하는 것으로",
+    "국가 통화를 더 강하게 만드는 것으로"
+  ],
+  "explanation_en": "Hope is framed as restored monetary agency and future planning made possible by uncensorable ownership.",
+  "explanation_ko": "희망은 검열 불가능한 소유권이 가능하게 하는 통화적 행위 능력과 미래 계획의 회복으로 제시된다."
+}

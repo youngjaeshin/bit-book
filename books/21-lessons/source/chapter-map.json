@@ -1,0 +1,136 @@
+{
+  "book_slug": "21-lessons",
+  "selection_rule": "Use the English original EPUB as source of truth; merge front matter/philosophy/economics/technology/final-thoughts into 8 web-summary units.",
+  "part_groups": [
+    {
+      "part_number": 1,
+      "part_slug": "main",
+      "title": "Main Web Summary Units",
+      "toc_index": 1,
+      "included_chapter_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "included_chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_id": "01-intro-and-philosophy-a",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 1,
+      "title": "Intro + Philosophy A",
+      "src": "OEBPS/part0001.xhtml",
+      "source_markdown_path": "books/21-lessons/source/chapters/01-intro-and-philosophy-a.md",
+      "english_markdown_path": "books/21-lessons/content/en/chapters/01-intro-and-philosophy-a.md",
+      "korean_markdown_path": "books/21-lessons/content/ko/chapters/01-intro-and-philosophy-a.md",
+      "quiz_path": "books/21-lessons/quiz/chapters/01-intro-and-philosophy-a.quiz.json",
+      "html_path": "books/21-lessons/site/chapters/01-intro-and-philosophy-a.html"
+    },
+    {
+      "chapter_number": 2,
+      "chapter_id": "02-philosophy-b",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 5,
+      "title": "Philosophy B",
+      "src": "OEBPS/part0016.xhtml",
+      "source_markdown_path": "books/21-lessons/source/chapters/02-philosophy-b.md",
+      "english_markdown_path": "books/21-lessons/content/en/chapters/02-philosophy-b.md",
+      "korean_markdown_path": "books/21-lessons/content/ko/chapters/02-philosophy-b.md",
+      "quiz_path": "books/21-lessons/quiz/chapters/02-philosophy-b.quiz.json",
+      "html_path": "books/21-lessons/site/chapters/02-philosophy-b.html"
+    },
+    {
+      "chapter_number": 3,
+      "chapter_id": "03-economics-a",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 9,
+      "title": "Economics A",
+      "src": "OEBPS/part0022.xhtml",
+      "source_markdown_path": "books/21-lessons/source/chapters/03-economics-a.md",
+      "english_markdown_path": "books/21-lessons/content/en/chapters/03-economics-a.md",
+      "korean_markdown_path": "books/21-lessons/content/ko/chapters/03-economics-a.md",
+      "quiz_path": "books/21-lessons/quiz/chapters/03-economics-a.quiz.json",
+      "html_path": "books/21-lessons/site/chapters/03-economics-a.html"
+    },
+    {
+      "chapter_number": 4,
+      "chapter_id": "04-economics-b",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 13,
+      "title": "Economics B",
+      "src": "OEBPS/part0031.xhtml",
+      "source_markdown_path": "books/21-lessons/source/chapters/04-economics-b.md",
+      "english_markdown_path": "books/21-lessons/content/en/chapters/04-economics-b.md",
+      "korean_markdown_path": "books/21-lessons/content/ko/chapters/04-economics-b.md",
+      "quiz_path": "books/21-lessons/quiz/chapters/04-economics-b.quiz.json",
+      "html_path": "books/21-lessons/site/chapters/04-economics-b.html"
+    },
+    {
+      "chapter_number": 5,
+      "chapter_id": "05-economics-c",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 15,
+      "title": "Economics C",
+      "src": "OEBPS/part0034.xhtml",
+      "source_markdown_path": "books/21-lessons/source/chapters/05-economics-c.md",
+      "english_markdown_path": "books/21-lessons/content/en/chapters/05-economics-c.md",
+      "korean_markdown_path": "books/21-lessons/content/ko/chapters/05-economics-c.md",
+      "quiz_path": "books/21-lessons/quiz/chapters/05-economics-c.quiz.json",
+      "html_path": "books/21-lessons/site/chapters/05-economics-c.html"
+    },
+    {
+      "chapter_number": 6,
+      "chapter_id": "06-technology-a",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 17,
+      "title": "Technology A",
+      "src": "OEBPS/part0037.xhtml",
+      "source_markdown_path": "books/21-lessons/source/chapters/06-technology-a.md",
+      "english_markdown_path": "books/21-lessons/content/en/chapters/06-technology-a.md",
+      "korean_markdown_path": "books/21-lessons/content/ko/chapters/06-technology-a.md",
+      "quiz_path": "books/21-lessons/quiz/chapters/06-technology-a.quiz.json",
+      "html_path": "books/21-lessons/site/chapters/06-technology-a.html"
+    },
+    {
+      "chapter_number": 7,
+      "chapter_id": "07-technology-b",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 19,
+      "title": "Technology B",
+      "src": "OEBPS/part0042.xhtml",
+      "source_markdown_path": "books/21-lessons/source/chapters/07-technology-b.md",
+      "english_markdown_path": "books/21-lessons/content/en/chapters/07-technology-b.md",
+      "korean_markdown_path": "books/21-lessons/content/ko/chapters/07-technology-b.md",
+      "quiz_path": "books/21-lessons/quiz/chapters/07-technology-b.quiz.json",
+      "html_path": "books/21-lessons/site/chapters/07-technology-b.html"
+    },
+    {
+      "chapter_number": 8,
+      "chapter_id": "08-final-thoughts-and-closing",
+      "part_number": 1,
+      "part_slug": "main",
+      "toc_index": 25,
+      "title": "Final Thoughts + Closing",
+      "src": "OEBPS/part0047.xhtml",
+      "source_markdown_path": "books/21-lessons/source/chapters/08-final-thoughts-and-closing.md",
+      "english_markdown_path": "books/21-lessons/content/en/chapters/08-final-thoughts-and-closing.md",
+      "korean_markdown_path": "books/21-lessons/content/ko/chapters/08-final-thoughts-and-closing.md",
+      "quiz_path": "books/21-lessons/quiz/chapters/08-final-thoughts-and-closing.quiz.json",
+      "html_path": "books/21-lessons/site/chapters/08-final-thoughts-and-closing.html"
+    }
+  ]
+}

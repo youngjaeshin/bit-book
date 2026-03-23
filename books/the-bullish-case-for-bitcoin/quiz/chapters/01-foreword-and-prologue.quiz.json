@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-foreword-and-prologue",
+  "question_en": "What problem makes Bitcoin appear as a treasury reserve asset in the opening?",
+  "choices_en": [
+    "A ban on digital payments",
+    "Fiat debasement destroying cash reserves",
+    "A collapse in software demand",
+    "A shortage of bank loans"
+  ],
+  "question_ko": "서두에서 비트코인이 재무 준비자산으로 등장하는 핵심 문제는 무엇인가?",
+  "choices_ko": [
+    "디지털 결제 금지",
+    "법정화폐 희석으로 현금 가치가 무너지는 것",
+    "소프트웨어 수요 붕괴",
+    "은행 대출 부족"
+  ],
+  "answer_index": 1,
+  "explanation_en": "The opening argues that fiat debasement turns cash from prudence into a wasting asset.",
+  "explanation_ko": "서두는 법정화폐 희석이 현금을 안전자산이 아니라 녹아내리는 자산으로 만든다고 본다."
+}

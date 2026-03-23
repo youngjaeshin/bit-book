@@ -1,0 +1,20 @@
+{
+  "chapter_id": "05-retiring-gold",
+  "answer_index": 1,
+  "question_en": "What does retiring gold mean in this unit?",
+  "choices_en": [
+    "Increasing gold’s role in everyday payments",
+    "Demoting the strongest historical base layer",
+    "Making all money physical again",
+    "Ending all forms of credit"
+  ],
+  "question_ko": "이 단위에서 금의 퇴장은 무엇을 뜻하는가?",
+  "choices_ko": [
+    "일상 결제에서 금의 역할을 확대하는 것",
+    "가장 강력한 역사적 기반 레이어를 격하하는 것",
+    "모든 돈을 다시 실물로 만드는 것",
+    "모든 신용 형태를 끝내는 것"
+  ],
+  "explanation_en": "Retiring gold means demoting the strongest base settlement layer in favor of more managed claims.",
+  "explanation_ko": "금의 퇴장은 가장 강한 기반 정산 레이어를 격하하고 관리된 청구권을 앞세우는 것을 뜻한다."
+}

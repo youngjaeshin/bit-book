@@ -1,0 +1,487 @@
+{
+  "chapter_id": "21-policy-responses",
+  "title": "POLICY RESPONSES",
+  "src": "part0034.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0034.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "POLICY RESPONSES",
+      "translated_text": "정책 대응",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "I have been criticized, and fairly so, for complaining about our monetary system and the Fed without offering a clear alternative path. Let me paint a new picture: a visionary President, combining Kennedy’s inspirational grace with Reagan’s commanding presence, steps forward to reshape America’s financial future. Here’s how that watershed moment might unfold:",
+      "translated_text": "나는 명확한 대안을 제시하지 않은 채 우리 통화 시스템과 연준에 대해 불평했다는 점에서 비판을 받아왔습니다. 새로운 그림을 그려보겠습니다. 케네디의 영감을 주는 우아함과 레이건의 위엄 있는 존재감을 결합한 비전 있는 대통령이 미국의 금융 미래를 재편하기 위해 앞으로 나아갑니다. 유역의 순간이 어떻게 전개될 수 있는지는 다음과 같습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "Ladies and Gentlemen, My Fellow Americans,",
+      "translated_text": "신사 숙녀 여러분, 동료 미국인 여러분,",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "Tonight, I come before you to talk about something that strikes at the very heart of our nation’s prosperity and promise: the foundation of our economic system. For too long, we’ve walked down a road paved with well-meaning intentions but broken ideas. We’ve leaned on a flawed Keynesian economic model that has saddled us with debt and chased after unchecked growth. We do not need growth. We need productivity and efficiency. Only sound money can provide this.",
+      "translated_text": "오늘 밤 저는 우리나라의 번영과 약속의 핵심, 즉 우리 경제 시스템의 기초에 영향을 미치는 것에 대해 이야기하기 위해 여러분 앞에 왔습니다. 너무 오랫동안 우리는 선의의 의도는 있지만 깨진 아이디어로 포장된 길을 걸어왔습니다. 우리는 부채를 짊어지고 확인되지 않는 성장을 추구하는 결함이 있는 케인지안 경제 모델에 의존해 왔습니다. 우리에게는 성장이 필요하지 않습니다. 우리는 생산성과 효율성이 필요합니다. 건전 화폐만이 이를 제공할 수 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "We need an economy built on strength, on fairness, and above all, on stability. Imagine an engineer designing a bridge, only to discover the length of a yard changes unpredictably. That bridge would fail, putting lives at risk. And yet, this is how our monetary system functions today — an unstable unit of measure, constantly shifting, constantly undermining the work of every American striving to build something lasting.",
+      "translated_text": "우리는 힘, 공정성, 그리고 무엇보다도 안정성을 바탕으로 구축된 경제가 필요합니다. 엔지니어가 교량을 설계했는데 야드 길이가 예측할 수 없이 변하는 것을 발견했다고 상상해 보세요. 그 다리는 무너지고 생명이 위험해질 것입니다. 그럼에도 불구하고 이것이 오늘날 우리의 통화 시스템이 작동하는 방식입니다. 측정 단위가 불안정하고 끊임없이 변화하며 지속적인 무언가를 구축하려는 모든 미국인의 노력을 끊임없이 훼손합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "But it doesn’t have to be this way. I believe in America’s ability to embrace a new path, rooted in timeless principles. A system based on sound money, one that is fair to all, that __INLINE_1__holds its value, and that honors the spirit of liberty and equality enshrined in our founding documents.",
+      "translated_text": "하지만 꼭 그럴 필요는 없습니다. 저는 시대를 초월한 원칙에 뿌리를 둔 새로운 길을 수용하는 미국의 능력을 믿습니다. 건전 화폐을 기반으로 한 시스템, 모두에게 공정하고 __INLINE_1__의 가치를 유지하며 창립 문서에 담긴 자유와 평등의 정신을 존중하는 시스템입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_346\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "Starting today, we will take bold action to restore fairness, accountability, and competition in our monetary system.",
+      "translated_text": "오늘부터 우리는 통화제도의 공정성, 책임성, 경쟁성을 회복하기 위해 과감한 조치를 취하겠습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "First, we will empower the free market to determine what money should be. Effective immediately, we will recognize gold, silver, and Bitcoin as legal tender alongside the dollar. These forms of sound money will be treated equally — no capital gains taxes, no barriers. Americans will be free to save, invest, and transact in the money they trust most. The marketplace will decide what serves the people best, not the heavy hand of government.",
+      "translated_text": "첫째, 우리는 자유 시장이 돈이 무엇인지 결정할 수 있는 권한을 부여할 것입니다. 즉시 발효되며, 우리는 금, 은, 비트코인을 달러와 함께 법정화폐로 인식할 것입니다. 이러한 형태의 건전 화폐은 자본 이득세나 장벽 없이 동등하게 취급됩니다. 미국인들은 자신들이 가장 신뢰하는 돈을 자유롭게 저축하고, 투자하고, 거래할 수 있습니다. 무엇이 국민에게 가장 도움이 되는지 결정하는 것은 정부의 강력한 손이 아니라 시장입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "Second, we will address the root of the instability in our system. We will immediately abolish the Federal Reserve and end its role as a backstop for banks. In a true free-market system, banks, like all other enterprises, must earn the trust of the people through sound practices. Fractional reserve banking will not be outlawed, but it will no longer operate under the implicit guarantee of government rescue. Banks that take on reckless risks will face the consequences, as they should. And just as important, those who act responsibly will thrive, creating a stronger, more resilient system for everyone.",
+      "translated_text": "둘째, 시스템 불안정의 근원을 해결하겠습니다. 우리는 즉시 연준을 폐지하고 은행의 백스톱 역할을 종료할 것입니다. 진정한 자유 시장 체제에서 은행은 다른 모든 기업과 마찬가지로 건전한 관행을 통해 국민의 신뢰를 얻어야 합니다. 부분 준비금 은행업은 불법화되지 않지만 더 이상 정부 구제에 대한 암묵적인 보장 하에 운영되지 않습니다. 무모한 위험을 감수하는 은행은 당연히 그에 따른 결과에 직면하게 될 것입니다. 그리고 마찬가지로 중요한 것은 책임감 있게 행동하는 사람들이 성공하여 모든 사람을 위한 더욱 강력하고 탄력적인 시스템을 만들 것이라는 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "Finally, we will eliminate the Federal Deposit Insurance Corporation. Let’s be honest: the FDIC cannot deliver on its promises. A fund covering less than 1% of deposits cannot safeguard a system of this magnitude. It’s a fiction we can no longer afford. Instead, we will look to the ingenuity of the private sector to provide real solutions, fostering innovation __INLINE_1__in financial security and empowering Americans to take responsibility for their own choices.",
+      "translated_text": "마지막으로 연방예금보험공사를 폐지하겠습니다. 솔직히 말해서 FDIC는 약속을 이행할 수 없습니다. 예금의 1% 미만을 차지하는 기금은 이 정도 규모의 시스템을 보호할 수 없습니다. 더 이상 감당할 수 없는 허구입니다. 대신, 우리는 민간 부문의 독창성을 활용하여 실질적인 솔루션을 제공하고 금융 보안 분야의 혁신을 __INLINE_1__촉진하며 미국인들이 자신의 선택에 책임을 질 수 있도록 힘을 실어줄 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_347\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "__INLINE_1__. This is not a retreat from stability — it’s a bold leap toward it. This is not abandoning the dream of prosperity — it’s returning to the principles that make it possible.",
+      "translated_text": "__INLINE_1__. 이는 안정에서 후퇴하는 것이 아니라 안정을 향한 과감한 도약이다. 이는 번영의 꿈을 버리는 것이 아니라, 이를 가능하게 하는 원칙으로 돌아가는 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">어떤 이들은 이것을 급진적이라고 부를 것이다. 그들은 재앙을 경고할 것이다. But I 그러나 진짜 재앙은 여기에 매달리는 것이라고 말할 것이다 a 기회를 빼앗고 우리를 부채에 묶어 두는 망가진 시스템</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "Tonight, we choose freedom. We choose responsibility. We choose a future where the fruits of your labor, your savings, and your enterprise are secure. A future where sound money sets the foundation for a stronger, fairer, and freer America.",
+      "translated_text": "오늘 밤 우리는 자유를 선택합니다. 우리는 책임을 선택합니다. 우리는 귀하의 노동, 저축, 기업의 성과가 안전한 미래를 선택합니다. 건전 화폐이 더 강하고, 더 공정하고, 더 자유로운 미국을 위한 기반이 되는 미래입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "Thank you, God bless you, and God bless the United States of America. Oh, and one more thing — if I were you, I’d buy Bitcoin. Good night.",
+      "translated_text": "감사합니다. 신의 축복이 있기를 바라며, 미국에 신의 축복이 있기를 바랍니다. 아, 그리고 한 가지 더 – 제가 당신이라면 비트코인을 살 것입니다. 안녕히 주무세요.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "Monetary Reset",
+      "translated_text": "화폐 재설정",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "To fully implement the policy prescription outlined, our fictitious president would likely have to take a broader approach—some form of a monetary reset.__INLINE_1____INLINE_2__ As first described in Chapter 22, here is what a monetary reset would look like.",
+      "translated_text": "설명된 정책 처방을 완전히 이행하기 위해 가상의 대통령은 금전적 재설정과 같은 더 광범위한 접근 방식을 취해야 할 것입니다.__INLINE_1____INLINE_2__ 22장에서 처음 설명했듯이 금전적 재설정은 다음과 같습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a31N\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a37X\" ns1:type=\"noteref\" class=\"class_s2T8\">84</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "Today the global economy shoulders an undeniable reality. We have accumulated more debt than can realistically be serviced or repaid in real terms, meaning we have more dollar commitments than we can honor. Therefore, the debt is not “money good,” or at least it is not good in “real” (purchasing power) terms. To solve this, we have two obvious options. We can service the debt with printed dollars, but that will be inflationary, perhaps devastatingly so. Or, we can let the __INLINE_1__debt default or renege on our commitments, but that will lead to political turmoil and a depression that rivals the Great Depression. Both choices are fraught with chaos and unfairness all around.",
+      "translated_text": "오늘날 세계 경제는 부인할 수 없는 현실을 안고 있습니다. 우리는 현실적으로 갚을 수 있거나 실제 상환할 수 있는 것보다 더 많은 부채를 축적했습니다. 이는 우리가 감당할 수 있는 것보다 더 많은 달러 약속을 가지고 있음을 의미합니다. 그러므로 그 부채는 \"화폐 좋은\" 것이 아니거나 적어도 \"실질\"(구매력) 측면에서 좋지 않습니다. 이 문제를 해결하려면 두 가지 확실한 옵션이 있습니다. 우리는 인쇄된 달러로 부채를 갚을 수 있지만, 그것은 아마도 엄청난 인플레이션을 초래할 것입니다. 또는 __INLINE_1__부채가 불이행되거나 약속을 어길 수 있지만 이는 대공황에 버금가는 정치적 혼란과 불황으로 이어질 것입니다. 두 선택 모두 혼란과 불공정으로 가득 차 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_348\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "But we also have a third option: a monetary reset.",
+      "translated_text": "하지만 세 번째 옵션도 있습니다. 바로 금전적 재설정입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "A monetary reset is somewhat akin to a debt jubilee, a concept rooted in history. Ancient Mesopotamian and Biblical traditions practiced periodic, large-scale debt forgiveness, typically every 50 years, to restore balance and fairness. Modern-day monetary resets are watered-down versions of this. For example, President Roosevelt implemented a monetary reset during the 1930s when he devalued the dollar compared to gold in an effort to combat the Great Depression. Similar idea. The dollar is grossly overvalued. Too many dollar commitments have been made, and they cannot all be fulfilled. Because of this, someone will lose when these commitments are marked-to-market. That is unavoidable. But, a structured and decisive reset could condense the pain into a single event, avoiding years, even decades, of chaotic inflation or stagnation.",
+      "translated_text": "통화 재설정은 역사에 뿌리를 둔 개념인 부채 희년과 다소 유사합니다. 고대 메소포타미아와 성서 전통에서는 균형과 공정성을 회복하기 위해 일반적으로 50년마다 주기적으로 대규모 부채 탕감을 실행했습니다. 현대의 화폐 재설정은 이것의 희석된 버전입니다. 예를 들어, 루즈벨트 대통령은 1930년대 대공황을 극복하기 위한 노력의 일환으로 금에 비해 달러를 평가절하하면서 통화 재설정을 시행했습니다. 비슷한 생각. 달러는 엄청나게 과대평가됐다. 너무 많은 금액의 약속이 이루어졌으나 모두 이행할 수는 없습니다. 이 때문에 이러한 약속이 시장에 반영되면 누군가는 손해를 보게 됩니다. 그것은 불가피합니다. 그러나 구조적이고 결정적인 재설정을 통해 고통을 단일 이벤트로 압축하여 수년, 심지어 수십 년 동안의 혼란스러운 인플레이션이나 침체를 피할 수 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "Here is the thing. Left unchecked, we risk entering an inflationary spiral that could devolve into hyperinflation, a scenario with devastating societal consequences. Having studied many hyperinflations, I’ve learned that they are awful, chaotic events. People and societies are ruined; lives are upended as economies crumble into chaos. That is the bad news. Yet there is hope. Nations that have endured such turmoil and returned to sound money standards often recover swiftly, regaining stability and prosperity. So, here’s the hard truth. The money is broken. We need to fix it. The process will hurt. But __INLINE_1__why not address it quickly and decisively, paving the way for a bright future anchored by sound money?",
+      "translated_text": "여기에 문제가 있습니다. 이를 확인하지 않은 채 방치하면 사회적으로 파괴적인 결과를 가져오는 시나리오인 하이퍼인플레이션으로 발전할 수 있는 인플레이션 악순환에 빠질 위험이 있습니다. 많은 하이퍼인플레이션을 연구하면서 나는 그것이 끔찍하고 혼란스러운 사건이라는 것을 배웠습니다. 사람과 사회가 망가졌습니다. 경제가 혼란에 빠지면서 삶이 뒤집혀집니다. 그것은 나쁜 소식입니다. 그러나 희망은 있습니다. 그러한 혼란을 견디고 건전한 통화 기준으로 돌아온 국가들은 종종 신속하게 회복하여 안정과 번영을 되찾았습니다. 그래서 여기에 어려운 진실이 있습니다. 돈이 깨졌습니다. 우리는 그것을 고쳐야 합니다. 그 과정은 상처를 줄 것입니다. 하지만 __INLINE_1__이 문제를 신속하고 단호하게 해결하여 건전 화폐을 바탕으로 밝은 미래를 위한 길을 열어보는 것은 어떨까요?",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_349\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[18]",
+      "tag": "p",
+      "source_text": "A problem facing the world is the absence of a “neutral reserve currency” to force monetary discipline on governments. Instead, we have fake mouse-click money issued by governments that abuse that privilege. To restore sound economic and societal prosperity, we must tie our monetary system to a discipline-enforcing reserve currency. Historically, gold has filled this role, and now Bitcoin offers a modern, digital alternative.",
+      "translated_text": "세계가 직면한 문제는 정부에 통화 규율을 강요할 수 있는 “중립 준비 통화”가 없다는 것입니다. 대신, 우리는 그 특권을 남용하는 정부가 발행한 가짜 마우스 클릭 돈을 가지고 있습니다. 건전한 경제적, 사회적 번영을 회복하려면 우리의 통화 시스템을 규율을 집행하는 기축 통화에 연결해야 합니다. 역사적으로 금이 이 역할을 맡았으며 이제 비트코인은 현대적인 디지털 대안을 제공합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[19]",
+      "tag": "p",
+      "source_text": "Functionally, a monetary reset could entail devaluing the dollar by officially linking it to gold and Bitcoin at significantly higher prices. The dollar is overvalued. Bitcoin and gold are undervalued. Devaluing the dollar would be as simple as saying that the U.S. government stands ready to buy and sell gold and bitcoin at much higher prices. Voila! The dollar is devalued. This would be a huge inflationary hit to the dollar on a one-time basis. However, after that, the value of the dollar would be anchored to a form of sound money, and we would be back on a sound money standard. By pegging the dollar to sound money, government spending would face strict discipline because irresponsible fiscal policies would create a mad rush to trade dollars for hard assets like gold and Bitcoin.",
+      "translated_text": "기능적으로 화폐 재설정은 공식적으로 훨씬 더 높은 가격의 금 및 비트코인과 연결함으로써 달러의 가치를 떨어뜨릴 수 있습니다. 달러는 과대평가됐다. 비트코인과 금은 저평가되어 있습니다. 달러 가치를 떨어뜨리는 것은 미국 정부가 훨씬 더 높은 가격에 금과 비트코인을 사고 팔 준비가 되어 있다고 말하는 것만큼 간단할 것입니다. 짜잔! 달러는 평가절하됐다. 이는 일회성 기준으로 달러에 엄청난 인플레이션 타격을 줄 것입니다. 그러나 그 후에는 달러의 가치가 건전 화폐 형태에 고정될 것이며 우리는 건전 화폐 기준으로 돌아갈 것입니다. 무책임한 재정 정책으로 인해 달러를 금이나 비트코인과 같은 실물 자산과 교환하는 일이 촉발될 것이기 때문에 달러 가치를 건전 화폐으로 고정함으로써 정부 지출은 엄격한 규율에 직면하게 될 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[20]",
+      "tag": "p",
+      "source_text": "Coupled with reforms like a balanced budget amendment and the restructuring of entitlement programs, a monetary reset would resolve the debt issue. Nominally, debt holders would be made whole, but the wealth distribution would shift to benefit labor and the middle class while reducing the outsized advantages of the financial elite.",
+      "translated_text": "균형예산 수정 및 수급 프로그램 구조 조정과 같은 개혁과 함께 금전적 재설정을 통해 부채 문제를 해결할 수 있습니다. 명목상으로는 부채 보유자는 온전해지겠지만, 부의 분배는 금융 엘리트의 엄청난 이점을 줄이는 동시에 노동자와 중산층에게 혜택을 주는 방향으로 전환될 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[21]",
+      "tag": "p",
+      "source_text": "The only other managed policy alternative to a full-blown monetary reset is financial repression, a strategy the U.S. __INLINE_1__employed after World War II. The government suppressed interest rates through yield curve control while letting inflation run hot. Their strategy was aided by favorable demographics and the expansion of the automobile industry, which reduced the debt-to-GDP ratio over time. Replicating this approach in the current economic climate, with our stagnant growth, high debt levels, and demographic headwinds, would be a tall order. It is unlikely that this approach would be successful.",
+      "translated_text": "전면적인 통화 리셋을 제외하고 정책적으로 관리된 대안은 하나뿐이다. 바로 금융 억압인데, 이는 미국이 __INLINE_1__제2차 세계대전 이후 사용했던 전략이다. 정부는 인플레이션은 뜨겁게 달아오르게 내버려두면서 수익률곡선 통제로 금리를 억눌렀다. 이 전략은 유리한 인구구조와 자동차 산업의 확장에 힘입어 시간이 지나면서 GDP 대비 부채 비율을 낮출 수 있었다. 그러나 성장 정체, 높은 부채 수준, 인구구조 역풍에 시달리는 현재의 경제 환경에서 이 접근을 재현하는 일은 결코 쉽지 않다. 이 접근이 성공할 가능성은 높지 않다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_350\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[22]",
+      "tag": "p",
+      "source_text": "So, as the cracks in our monetary system become impossible to ignore, the necessity of returning to sound money will become increasingly clear. The transition won’t be painless, but it’s far preferable to prolonged monetary decay. Public awareness and demand for reform will grow until a monetary reset becomes not just the best option but the only viable path forward.",
+      "translated_text": "따라서 우리 통화 시스템의 균열을 무시할 수 없게 되면서 건전한 통화로 돌아가야 할 필요성이 점점 더 분명해질 것입니다. 전환이 고통스럽지는 않겠지만, 장기적인 금전적 부패보다는 훨씬 바람직합니다. 통화 재설정이 최선의 선택일 뿐만 아니라 앞으로 나아갈 수 있는 유일한 길이 될 때까지 개혁에 대한 대중의 인식과 요구는 커질 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[2]",
+      "tag": "h3",
+      "source_text": "End The Fed",
+      "translated_text": "연준을 끝내라",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[23]",
+      "tag": "p",
+      "source_text": "The proposal to end the Federal Reserve may strike some as radical or extreme. For over a century, the public has been conditioned to view the Federal Reserve as not only necessary but integral to the functioning of the economy. Frankly, it’s all we’ve known. However, for those who think it is too extreme, I recommend a careful read of Ron Paul’s counter-argument in __INLINE_1__. Published in 2009 as a reaction to the GFC, this book presents a compelling argument against the Fed’s existence and outsized role in shaping our monetary system.",
+      "translated_text": "연방준비제도(Fed)를 종료하겠다는 제안은 일부 사람들에게 급진적이거나 극단적인 것으로 보일 수 있습니다. 한 세기가 넘도록 대중은 연준이 경제 기능에 꼭 필요할 뿐만 아니라 필수적인 존재라고 보도록 길들여져 왔습니다. 솔직히 그것은 우리가 아는 전부입니다. 하지만 너무 극단적이라고 생각하시는 분들은 __INLINE_1__에서 Ron Paul의 반론을 주의 깊게 읽어보시길 권합니다. GFC에 대한 대응으로 2009년에 출판된 이 책은 연준의 존재와 통화 시스템 형성에 있어 엄청난 역할에 반대하는 설득력 있는 주장을 제시합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">End The Fed</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[24]",
+      "tag": "p",
+      "source_text": "Dr. Paul doesn’t pull any punches. He begins:",
+      "translated_text": "Paul 박사는 어떤 펀치도 당기지 않습니다. 그는 다음과 같이 시작합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[25]",
+      "tag": "p",
+      "source_text": "The Federal Reserve should be abolished because it is immoral, unconstitutional, impractical, promotes bad economics and __INLINE_1__undermines liberty. Its destructive nature makes it a tool of tyrannical government.",
+      "translated_text": "연준은 부도덕하고, 위헌이며, 비실용적이며, 나쁜 경제를 조장하고, __INLINE_1__자유를 훼손하기 때문에 폐지되어야 합니다. 그 파괴적인 성격으로 인해 폭군적인 정부의 도구가 됩니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_351\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[26]",
+      "tag": "p",
+      "source_text": "This introduction sets the tone for the balance of his critique. He points out that the great irony of fiat money is that it empowers the state in the short term but ultimately precipitates its demise through overreach and excess. To illustrate how unchecked money printing inevitably leads to societal collapse, Dr. Paul references major historical examples, such as the fall of the Roman and Byzantine Empires, as well as smaller-scale cases like Weimar Germany and modern-day Venezuela. As Voltaire warned, “Paper money eventually returns to its intrinsic value—zero.” Dr. Paul modernized this warning, stating, “Paper money, politicians, and central banks always fail the test of time.”",
+      "translated_text": "이 서문은 그의 비판의 균형을 위한 분위기를 설정합니다. 그는 명목화폐의 가장 큰 아이러니는 그것이 단기적으로는 국가에 힘을 실어 주지만 궁극적으로는 지나친 접근과 과잉을 통해 국가의 몰락을 촉진한다는 점을 지적합니다. 확인되지 않은 돈 인쇄가 어떻게 필연적으로 사회 붕괴로 이어지는지 설명하기 위해 Paul 박사는 로마 및 비잔틴 제국의 몰락과 같은 주요 역사적 사례는 물론 독일 바이마르 및 현대 베네수엘라와 같은 소규모 사례를 언급합니다. 볼테르가 경고했듯이, “지폐는 결국 본질적인 가치인 0으로 돌아갑니다.” Paul 박사는 “지폐, 정치인, 중앙은행은 항상 시간의 시험에 실패합니다.”라고 말하면서 이 경고를 현대화했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[27]",
+      "tag": "p",
+      "source_text": "Dr. Paul also tackles the ethics of fiat money, asserting that it is inherently fraudulent. He contends that although those who hold the power of the printing press claim to serve “the public interest by merely managing the currency,” their actions reveal their fraudulent acts. “As all immoral acts do,” Paul writes, “it ends with a lot of pain and suffering.” He continues:",
+      "translated_text": "Paul 박사는 또한 법정화폐의 윤리를 다루면서 그것이 본질적으로 사기라고 주장합니다. 그는 인쇄술의 권력자들이 “화폐 관리만으로 공익을 도모한다”고 주장하지만 그들의 행위는 그들의 사기 행위를 드러낸다고 주장한다. “모든 부도덕한 행위가 그렇듯이, 그 행위도 결국에는 많은 고통과 괴로움으로 끝나게 됩니다.” 그는 계속해서 이렇게 말합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[28]",
+      "tag": "p",
+      "source_text": "The promoters of central economic planning rarely consider that the flawed policies of interventionism were actually the cause of the crisis and won’t admit that more of the exact same thing will only dig the hole deeper.",
+      "translated_text": "중앙 경제 계획의 옹호자들은 개입주의의 결함 있는 정책이 실제로 위기의 원인이었다는 점을 거의 고려하지 않으며, 똑같은 일이 더 많이 발생하면 구멍을 더 깊게 파게 될 뿐이라는 점을 인정하지 않습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[29]",
+      "tag": "p",
+      "source_text": "Dr. Paul also exposes the constitutional case against the Fed and the use of fiat currency. He cites Article I, Section 10 of the Constitution, which states: __INLINE_1__ and concludes, “So there you have it, plain and simple: paper money is unconstitutional, period.” He also critiques the expansion of federal power, beginning with the Supreme Court’s __INLINE_2__decision in __INLINE_3__ (1819), which upheld the constitutionality of a central bank under the doctrine of “implied powers,” enabling the government to take “necessary and proper” actions. A later ruling, __INLINE_4__ (1935), further entrenched fiat money and government power by upholding President Roosevelt’s confiscation of gold from the U.S. citizenry.",
+      "translated_text": "폴 박사는 또한 연준과 법정화폐 사용에 반대하는 헌법적 논거를 드러낸다. 그는 헌법 제1조 10항을 인용하며 __INLINE_1__라고 말한 뒤, “자, 이제 보라. 단순명료하다. 지폐는 위헌이다. 끝.”이라고 결론짓는다. 그는 또한 연방 권력의 팽창도 비판하는데, 그 시작으로 대법원의 __INLINE_2____INLINE_3__ (1819) 판결을 든다. 이 판결은 “묵시적 권한”이라는 원리에 따라 중앙은행의 합헌성을 인정했고, 정부가 “필요하고 적절한” 조치를 취할 수 있게 만들었다. 이후의 판결인 __INLINE_4__ (1935)은 루스벨트 대통령이 미국 시민의 금을 몰수한 조치를 지지함으로써 법정화폐와 정부 권력을 더욱 공고히 했다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">“No state shall...금과 은 화폐 외의 어떤 것도 만들지 못하게 하라 a Tender in Payment of Debts,”</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_352\" />",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">McCulloch v. Maryland</html:span>",
+        "__INLINE_4__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">United States v. Perry</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[30]",
+      "tag": "p",
+      "source_text": "The framers designed the Constitution to bind and restrict the power of the federal government, but courts and politicians have watered down these protections. None of this has been good, and as we have seen, the Fed’s impact on the economy since its founding has been decidedly negative. Underscoring the moral hazard created by the Fed, Dr. Paul compares the entire Federal Reserve system to a “super-Ponzi-like scheme”:",
+      "translated_text": "입안자들은 연방 정부의 권한을 구속하고 제한하도록 헌법을 설계했지만 법원과 정치인들은 이러한 보호를 약하게 만들었습니다. 이 중 어느 것도 좋은 것은 없었고, 우리가 살펴본 것처럼 연준이 창립 이래 경제에 미친 영향은 확실히 부정적이었습니다. 연준이 만들어낸 도덕적 해이를 강조하면서 폴 박사는 연준 시스템 전체를 \"슈퍼 폰지 같은 계획\"에 비유합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[31]",
+      "tag": "p",
+      "source_text": "The entire system of fiat money and fractional reserve banking is a super-Ponzi-like scheme (if we can’t pay it back, let’s just create more!) and is the source of our problems. Why should we be surprised that if our government runs a Ponzi scheme, people feel morally justified in doing the same?__INLINE_1____INLINE_2__",
+      "translated_text": "법정화폐와 부분지급준비금 은행의 전체 시스템은 폰지와 같은 사기이며(갚을 수 없으면 더 많이 만들자!) 문제의 원인입니다. 우리 정부가 폰지 사기를 운영한다면 사람들이 같은 일을 하는 것이 도덕적으로 정당하다고 느낀다는 사실에 왜 놀랄까요?__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a39T\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a363\" ns1:type=\"noteref\" class=\"class_s2T8\">85</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[32]",
+      "tag": "p",
+      "source_text": "Legendary Bitcoin pioneer Max Keiser amplified Dr. Paul’s Ponzi sentiment, famously saying, “You can’t taper a Ponzi,” when the Fed attempted to shrink its balance sheet. Keiser, who aggressively and publicly championed Bitcoin when it traded at $1 to $2 per coin in 2010 and 2011, clearly saw its potential as a hedge against fiat currency collapse. Max has been one of the most steadfast believers in the world-changing potential of Bitcoin.",
+      "translated_text": "전설적인 비트코인 ​​개척자인 맥스 카이저(Max Keizer)는 연준이 대차대조표를 축소하려 할 때 “폰지를 테이퍼링할 수는 없다”는 유명한 말로 폴 박사의 폰지 감정을 증폭시켰습니다. 2010년과 2011년 비트코인이 코인당 1~2달러에 거래되었을 때 공격적이고 공개적으로 비트코인을 옹호했던 Keiser는 비트코인이 법정화폐 붕괴에 대한 헤지 수단으로서의 잠재력을 분명히 보았습니다. Max는 세상을 변화시킬 비트코인의 잠재력을 가장 확고히 믿는 사람 중 한 명입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[33]",
+      "tag": "p",
+      "source_text": "Max and his wife, Stacey Herbert, serve as advisors to President Nayib Bukele of El Salvador, the first country to adopt Bitcoin as legal tender. They have dedicated their time and energy to advancing El Salvador’s dream of becoming a Bitcoin-based economy and have collaborated extensively with local groups to combat poverty and address the lingering effects of gang violence that plagued El Salvador before adopting a Bitcoin standard.",
+      "translated_text": "Max와 그의 아내 Stacey Herbert는 비트코인을 법정화폐로 채택한 최초의 국가인 엘살바도르의 Nayib Bukele 대통령의 고문으로 활동하고 있습니다. 그들은 비트코인 ​​기반 경제가 되겠다는 엘살바도르의 꿈을 발전시키는 데 시간과 에너지를 바쳤으며, 비트코인 ​​표준을 채택하기 전에 엘살바도르를 괴롭혔던 갱단 폭력의 지속적인 영향을 해결하고 빈곤을 퇴치하기 위해 지역 단체와 광범위하게 협력해 왔습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[1]",
+      "tag": "h4",
+      "source_text": "The Growing Criticism",
+      "translated_text": "점점 커지는 비판",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[34]",
+      "tag": "p",
+      "source_text": "When Dr. Paul published __INLINE_1__ in 2009, critics dismissed his views as fringe. His 2008 presidential campaign was often ridiculed for its focus on monetary policy. Many times the establishment attacked him, and those of us who supported him were appalled at how he was treated. So imagine my surprise, when in 2022 well-known business reporter and author Christopher Leonard released his book __INLINE_2__. Here is a professional business journalist who has appeared in __INLINE_3__, __INLINE_4__, and __INLINE_5____INLINE_6__, writing a scathing appraisal of the Federal Reserve, one that aligns closely with the views held by Dr. Paul and me. Although more polite and professional than my assessment of the Fed, he still does not pull his punches. From the back cover:",
+      "translated_text": "Paul 박사가 2009년에 __INLINE_1__을 출판했을 때 비평가들은 그의 견해를 비주류에 불과하다고 일축했습니다. 그의 2008년 대선 캠페인은 통화 정책에 초점을 맞춘다는 이유로 종종 조롱을 받았습니다. 여러 번 기관에서 그를 공격했고, 그를 지지하는 우리는 그가 대우받는 방식에 경악했습니다. 2022년에 유명한 비즈니스 기자이자 작가인 Christopher Leonard가 자신의 책 __INLINE_2__을 발표했을 때 내가 얼마나 놀랐는지 상상해 보십시오. 여기 __INLINE_3__, __INLINE_4__, __INLINE_5____INLINE_6__에 출연하여 연준에 대한 신랄한 평가를 쓴 전문 비즈니스 저널리스트가 있는데, 이는 폴 박사와 제가 갖고 있는 견해와 밀접하게 일치합니다. 연준에 대한 나의 평가보다 더 정중하고 전문적이지만 그는 여전히 펀치를 당기지 않습니다. 뒷표지에서:",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">End the Fed</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">쉬운 돈의 군주들: How The Federal Reserve Broke the American Economy</html:span>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">The New York Times</html:span>",
+        "__INLINE_4__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Time Magazine</html:span>",
+        "__INLINE_5__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_354\" />",
+        "__INLINE_6__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Bloomberg</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[35]",
+      "tag": "p",
+      "source_text": "__INLINE_1__ tells the riveting tale of how quantitative easing is imperiling the American economy through the story of one man who tried to warn us. This is the first inside story of how we really got here–and why we face a frightening future.",
+      "translated_text": "__INLINE_1__은 우리에게 경고하려 했던 한 남자의 이야기를 통해 양적 완화가 미국 경제를 얼마나 위태롭게 하는지에 대한 흥미진진한 이야기를 들려줍니다. 이것은 우리가 실제로 어떻게 여기까지 왔는지, 그리고 왜 우리가 무서운 미래에 직면하게 되었는지에 대한 첫 번째 내부 이야기입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">쉬운 돈의 군주들</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[36]",
+      "tag": "p",
+      "source_text": "I highly recommend Chris’s book and find it very interesting that it received praise from mainstream outlets like __INLINE_1__, T__INLINE_2__, __INLINE_3__, and __INLINE_4__. In no uncertain terms, Leonard was highly critical of the Fed and former Fed Chairman Bernanke, describing how the Fed’s interventions, intended to stabilize the economy, exacerbated inequality and created a precarious financial system. The Overton Window__INLINE_5____INLINE_6__ on Fed independence and omnipotence appears to be shifting. If I were a Federal Reserve Board governor, I would be concerned.",
+      "translated_text": "저는 Chris의 책을 강력히 추천하며, 이 책이 __INLINE_1__, T__INLINE_2__, __INLINE_3__ 및 __INLINE_4__과 같은 주류 매체로부터 칭찬을 받았다는 점이 매우 흥미롭다고 생각합니다. 불확실한 용어로 Leonard는 연준과 전 연준 의장인 버냉키에 대해 매우 비판적이었습니다. 경제를 안정시키려는 연준의 개입이 어떻게 불평등을 악화시키고 불안정한 금융 시스템을 만들었는지 설명했습니다. 연준의 독립성과 전능성에 대한 오버턴 창__INLINE_5____INLINE_6__이 변화하고 있는 것으로 보입니다. 내가 연방준비은행 총재였다면 걱정했을 것이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">The New York Times</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">he Wall Street Journal</html:span>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">The Washington Post</html:span>",
+        "__INLINE_4__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">The Financial Times</html:span>",
+        "__INLINE_5__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a396\" />",
+        "__INLINE_6__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a39A\" ns1:type=\"noteref\" class=\"class_s2T8\">86</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[37]",
+      "tag": "p",
+      "source_text": "The 2024 U.S. presidential election results underscored a systemic dissatisfaction with the country’s direction. President Trump, pushing a pro-Bitcoin, quasi-Libertarian, and populist platform, decisively won the electoral college and popular vote. In the __INLINE_1__, David Brooks captured the shift in voter sentiment with an article aptly titled: “__INLINE_2__”__INLINE_3____INLINE_4__— a clever nod to Verizon Wireless’ iconic “Can you hear me now?” campaign. Clearly, a large portion of the U.S. believes the existing system is not working for them. Reform is in the air, and it should start with the monetary system.",
+      "translated_text": "2024년 미국 대통령 선거 결과는 국가의 방향에 대한 체계적 불만을 드러냈습니다. 친비트코인, 준자유주의, 포퓰리즘 플랫폼을 추진하는 트럼프 대통령은 선거인단과 일반투표에서 결정적으로 승리했다. __INLINE_1__에서 David Brooks는 \"__INLINE_2__\"__INLINE_3____INLINE_4__이라는 적절한 제목의 기사를 통해 유권자 정서의 변화를 포착했습니다. 이는 Verizon Wireless의 상징적인 \"지금 내 말이 들리나요?\"에 대한 영리한 고개를 끄덕이는 것입니다. 운동. 분명히 미국의 많은 부분은 기존 시스템이 자신에게 적합하지 않다고 믿고 있습니다. 개혁이 진행 중이며, 이는 통화 시스템부터 시작되어야 합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">New York Times</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Voters To Elites: Do You See Me Now?</html:span>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a33M\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a31J\" ns1:type=\"noteref\" class=\"class_s2T8\">87</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[38]",
+      "tag": "p",
+      "source_text": "Regardless of whether reforms are enacted, the Federal Reserve appears to be on a collision course with history. As described in Chapter 16, “NOTHING STOPS THIS TRAIN,” the structural flaws in our monetary system make a crisis inevitable. The Fed’s easy money policies, asset bubbles, and rampant debt creation have pushed the system to its breaking point.",
+      "translated_text": "개혁이 이루어지든 아니든 연준은 역사와 충돌하는 길을 걷고 있는 것으로 보입니다. 16장 \"아무것도 이 기차를 막지 못한다\"에서 설명했듯이 통화 시스템의 구조적 결함으로 인해 위기가 불가피합니다. 연준의 통화 완화 정책, 자산 거품, 만연한 부채 창출로 인해 시스템이 한계점에 도달했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[39]",
+      "tag": "p",
+      "source_text": "The overt shift in public sentiment suggests that, like the Roman Senate in its final days, the Fed won’t be dismantled by its enemies. Rather, it will implode under its own bloated ambitions. Its champions, like former Fed Chair Bernanke, unwittingly document this decline through their triumphant books and magazine covers - artifacts that future historians will study as examples of institutional hubris before the inevitable fall.",
+      "translated_text": "대중 정서의 명백한 변화는 마지막 날의 로마 상원처럼 연준이 적들에 의해 해체되지 않을 것임을 암시합니다. 오히려 그것은 그 자체의 부풀어오른 야망 때문에 붕괴될 것이다. 버냉키 전 연준의장과 같은 그 옹호자들은 승리한 책과 잡지 표지를 통해 자신도 모르게 이러한 쇠퇴를 기록하고 있습니다. 이 유물은 미래의 역사가들이 피할 수 없는 몰락 이전에 제도적 오만함의 예로 연구하게 될 유물입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[40]",
+      "tag": "p",
+      "source_text": "In the words of Gladiator’s General Maximus: __INLINE_1__",
+      "translated_text": "검투사 장군 막시무스의 말: __INLINE_1__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">“The time for honoring yourself will soon be at an end.”</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[41]",
+      "tag": "p",
+      "source_text": "We will also no longer be subject to listening to central banker lies, like this whopper:",
+      "translated_text": "우리는 또한 다음과 같은 중앙은행의 거짓말을 더 이상 듣지 않을 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[42]",
+      "tag": "p",
+      "source_text": "“There is a myth out there that what we’re doing is printing money. We’re not printing money.”",
+      "translated_text": "\"우리가 하는 일은 돈을 인쇄하는 것이라는 신화가 있습니다. 우리는 돈을 인쇄하는 것이 아닙니다.\"",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[43]",
+      "tag": "p",
+      "source_text": "Ben Bernanke, December 3, 2010.__INLINE_1____INLINE_2__",
+      "translated_text": "벤 버냉키, 2010년 12월 3일.__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a325\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a35R\" ns1:type=\"noteref\" class=\"class_s2T8\">88</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[44]",
+      "tag": "p",
+      "source_text": "Bernanke will be remembered as the “John Law” of our era. His monetary policies damaged millions while benefiting the privileged few. Like Bernanke, John Law, a Scottish-French economist, left a legacy of reckless monetary manipulation that ended in disaster.",
+      "translated_text": "버냉키는 우리 시대의 '존 로'로 기억될 것이다. 그의 통화 정책은 소수의 특권층에게 혜택을 주면서 수백만 명에게 피해를 입혔습니다. 버냉키와 마찬가지로 스코틀랜드-프랑스 경제학자 존 로(John Law)도 무분별한 통화조작이라는 유산을 남겼고 결국 재앙으로 끝났다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[45]",
+      "tag": "p",
+      "source_text": "In 1716, Law took control of the French monetary system by establishing the Banque Royale,__INLINE_1____INLINE_2__ flooding the economy with paper money and speculative shares tied to the Mississippi Company, which he controlled. Prices soared, with Law’s money printing operation driving shares of the Mississippi Company from 500 to 10,000 livres, but the bubble inevitably burst.__INLINE_3____INLINE_4__ The collapse wiped out fortunes, and Law fled in disgrace, caught trying to smuggle gold — the very asset he derided as obsolete — hidden in his carriage. He died in poverty, a pariah.",
+      "translated_text": "1716년에 로는 Banque Royale을 설립하여 프랑스 통화 시스템을 장악했고, __INLINE_1____INLINE_2__ 그가 통제했던 미시시피 회사와 관련된 지폐와 투기 주식이 경제를 범람시켰습니다. Law의 화폐 인쇄 사업으로 인해 미시시피 회사의 지분이 500리브르에서 10,000리브르로 치솟으면서 가격이 치솟았지만 거품은 필연적으로 터졌습니다.__INLINE_3____INLINE_4__ 붕괴로 재산이 몰락했고 Law는 마차에 숨겨져 있던 금(그가 쓸모없다고 조롱했던 바로 그 자산)을 밀수하려다 붙잡혀 불명예스럽게 달아났습니다. 그는 가난하고 버림받은 사람으로 죽었습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2WN\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2X3\" ns1:type=\"noteref\" class=\"class_s2T8\">89</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a31A\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2X4\" ns1:type=\"noteref\" class=\"class_s2T8\">90</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[46]",
+      "tag": "p",
+      "source_text": "Bernanke’s tenure at the Federal Reserve took a similar course, with massive money printing, financial bubbles, and a widening wealth gap. His policies may have stabilized markets temporarily, but they left Main Street to bear the brunt of long-term damage. In a particularly heated Humphrey-Hawkins hearing, Representative Ron Paul confronted Fed Chairman Bernanke, asking about the obfuscated destination of trillions in Federal Reserve funds. Bernanke’s dismissive nonresponse to public calls for transparency — “We think that’s counterproductive” — spoke volumes. Paul’s assessment of their discourse was biting: “Arrogant is a mild word to describe the attitude of those who control our monetary system.” This exchange laid bare the Fed’s contempt for congressional __INLINE_1__oversight, even as it wielded unprecedented control over America’s monetary future.",
+      "translated_text": "버냉키의 연준 재임 기간도 비슷한 과정을 거쳤는데, 막대한 자금 인쇄, 금융 거품, 부의 격차 확대 등이 있었습니다. 그의 정책은 시장을 일시적으로 안정시켰을지 모르지만 장기적인 피해를 입기 위해 메인 스트리트를 떠났습니다. 특히 열띤 험프리-호킨스 청문회에서 론 폴 하원의원은 버냉키 연준 의장을 만나 수조 달러에 달하는 연준 자금의 모호한 목적지에 대해 질문했습니다. 투명성에 대한 대중의 요구에 대한 버냉키의 무시적인 무응답(“우리는 그것이 비생산적이라고 생각합니다”)은 많은 것을 말해줍니다. 그들의 담론에 대한 바울의 평가는 신랄했습니다. “오만함은 우리 통화 시스템을 통제하는 사람들의 태도를 묘사하는 온화한 단어입니다.” 이 교환은 미국의 통화 미래에 대해 전례 없는 통제력을 행사했음에도 불구하고 의회의 __INLINE_1__ 감독에 대한 연준의 경멸을 드러냈습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_358\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[47]",
+      "tag": "p",
+      "source_text": "* * * * *",
+      "translated_text": "* * * * *",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[3]",
+      "tag": "h3",
+      "source_text": "The Mainstream Policy Response",
+      "translated_text": "주류 정책 대응",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[48]",
+      "tag": "p",
+      "source_text": "Those of us who see the Federal Reserve as a financial menace believe the only real solution is to pull it up by its roots. Our approach couldn’t be more different from the ideas suggested by mainstream Keynesian economists like Paul Krugman (Nobel Laureate and Princeton professor) and Jason Furman (Harvard economics professor).",
+      "translated_text": "연준을 재정적 위협으로 보는 우리 중 유일한 실제 해결책은 연준을 뿌리부터 뽑는 것이라고 믿습니다. 우리의 접근 방식은 Paul Krugman(노벨상 수상자이자 프린스턴 교수), Jason Furman(하버드 경제학 교수)과 같은 주류 케인즈주의 경제학자가 제안한 아이디어와 크게 다를 수 없습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[49]",
+      "tag": "p",
+      "source_text": "Rather than tackling the underlying problem, these gentlemen propose that we embrace higher inflation to boost aggregate demand and achieve full employment. Inflation targeting is a dangerous game, a very slippery slope. Any inflation level above zero means eroding purchasing power. What these men propose makes no sense. Government __INLINE_1__ and __INLINE_2__ enhance economic well-being by inflating the money supply. Quite the contrary. Real prosperity stems from sound money and genuine productivity, not from tinkering with monetary policy. Let’s focus on building real prosperity instead of leaning into inflation as a supposed fix.",
+      "translated_text": "이 신사들은 근본적인 문제를 해결하기보다는 총수요를 늘리고 완전고용을 달성하기 위해 더 높은 인플레이션을 수용할 것을 제안합니다. 인플레이션 타겟팅은 매우 위험한 게임이며 매우 미끄러운 경사입니다. 0보다 높은 인플레이션 수준은 구매력 저하를 의미합니다. 이 사람들이 제안하는 것은 말이 되지 않습니다. 정부는 __INLINE_1__ 및 __INLINE_2__ 통화 공급을 확대하여 경제적 복지를 향상시킵니다. 정반대입니다. 진정한 번영은 통화정책을 조작하는 데서 오는 것이 아니라 건전 화폐과 진정한 생산성에서 비롯됩니다. 해결책으로 인플레이션에 기대는 대신 진정한 번영을 구축하는 데 집중합시다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">cannot</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">does not</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[4]",
+      "tag": "h3",
+      "source_text": "Derivatives",
+      "translated_text": "파생상품",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[50]",
+      "tag": "p",
+      "source_text": "One critical issue future legislators must confront to clean up our financial system is the unchecked use of derivatives. Derivatives are financial contracts between two parties that derive their value from the performance of an underlying asset, index, currency, or interest rate. Parties use derivatives to mitigate risk, hedge, speculate, or arbitrage between markets. Examples of derivatives include options, futures, swaps, and structured debt obligations.",
+      "translated_text": "미래의 입법자들이 금융 시스템을 정리하기 위해 직면해야 할 중요한 문제 중 하나는 파생상품의 무분별한 사용입니다. 파생상품은 기초 자산, 지수, 통화 또는 이자율의 성과로부터 가치를 얻는 두 당사자 간의 금융 계약입니다. 당사자들은 위험을 완화하고, 헤지하고, 투기하고, 시장 간 차익거래를 하기 위해 파생상품을 사용합니다. 파생상품의 예로는 옵션, 선물, 스왑, 구조화 채무 등이 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[51]",
+      "tag": "p",
+      "source_text": "Although derivatives have legitimate applications, their potential for abuse cannot be ignored. They allow virtually infinite leverage, magnifying risks to dangerous levels. This occurred extensively in the run-up to the GFC, with credit default swaps (CDS) being the main culprit. These instruments became weapons of financial destruction, contributing to systemic instability. In terms of maintaining financial stability, they are dangerous.",
+      "translated_text": "파생상품에는 합법적인 용도가 있지만 남용 가능성은 무시할 수 없습니다. 사실상 무한한 레버리지를 허용하여 위험을 위험한 수준으로 확대합니다. 이는 GFC 준비 과정에서 광범위하게 발생했으며, 신용디폴트스왑(CDS)이 주범이었습니다. 이러한 도구는 재정적 파괴의 무기가 되어 시스템을 불안정하게 만들었습니다. 재정적 안정성을 유지한다는 측면에서 위험합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[52]",
+      "tag": "p",
+      "source_text": "In a system where no one is too big to fail, derivatives would not exist, or if they existed, the parties making bad bets would go bankrupt. The danger lies in how derivatives can distort market dynamics. Think of a poker game where one player has vastly more resources than the others. By placing a bet so large that no one else can match it, the wealthy player effectively forces everyone to fold, regardless of their hand. Apply this to the financial markets. The “rich player” is often a government-backed institution__INLINE_1____INLINE_2__ or a too-big-to-fail bank with virtually unlimited resources. You can quickly see how the largest player in a game can manipulate the market price with impunity. This dynamic incentivizes these entities to undermine fair competition, distorting the value of the underlying asset. During the GFC, this distortion played out in plain sight. Derivative markets, including CDSs on mortgage-backed securities, spiraled out of control, and insurers like AIG backed colossal bets they could not cover. When these bets collapsed, the entire global financial system teetered on the brink of disaster.",
+      "translated_text": "누구도 실패할 만큼 큰 사람이 없는 시스템에서는 파생상품은 존재하지 않을 것이고, 존재하더라도 잘못된 베팅을 한 당사자는 파산할 것입니다. 위험은 파생상품이 시장 역학을 왜곡할 수 있다는 점에 있습니다. 한 플레이어가 다른 플레이어보다 훨씬 더 많은 자원을 가지고 있는 포커 게임을 생각해 보십시오. 누구도 따라올 수 없을 정도로 큰 금액을 베팅함으로써 부유한 플레이어는 자신의 패에 상관없이 모든 사람이 폴드하도록 효과적으로 강요합니다. 이를 금융시장에 적용해보세요. \"부자\"는 정부가 지원하는 기관__INLINE_1____INLINE_2__이거나 사실상 무제한의 자원을 갖춘 대마불사 은행인 경우가 많습니다. 게임에서 가장 큰 플레이어가 어떻게 아무런 처벌 없이 시장 가격을 조작할 수 있는지 빠르게 확인할 수 있습니다. 이러한 역동성은 이들 기업이 공정한 경쟁을 약화시키고 기초 자산의 가치를 왜곡하도록 장려합니다. GFC 동안 이러한 왜곡은 눈에 띄게 나타났습니다. 모기지 담보 증권에 대한 CDS를 포함한 파생 시장은 통제 불능 상태에 빠졌고 AIG와 같은 보험사는 감당할 수 없는 엄청난 투자를 지원했습니다. 이러한 베팅이 무너지자 전 세계 금융 시스템은 재앙의 위기에 놓였습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2XW\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a379\" ns1:type=\"noteref\" class=\"class_s2T8\">91</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[53]",
+      "tag": "p",
+      "source_text": "To prevent a repeat, we need bold action. We need an outright ban on financial derivatives, or at a minimum, their use should be strictly limited to legitimate hedging vehicles, with firm caps on leverage and exposure. Without firm action, derivatives will remain a ticking time bomb within our financial system, encouraging manipulation, destabilization, and the amplification of risks far beyond what is reasonable or sustainable.",
+      "translated_text": "재발을 막기 위해서는 과감한 조치가 필요합니다. 우리는 금융 파생상품을 전면적으로 금지해야 합니다. 또는 최소한 그 사용을 합법적인 헤징 수단으로 엄격히 제한하고 레버리지와 노출에 대한 한도를 정해야 합니다. 확고한 조치가 없다면 파생상품은 우리 금융 시스템 내에서 시한폭탄으로 남아 조작, 불안정화, 합리적이거나 지속 가능한 수준을 훨씬 넘어서는 위험 증폭을 ​​조장할 것입니다.",
+      "inline_tokens": {}
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "chapter_id": "extra-04-foreword-by-max-keiser",
+  "title": "FOREWORD BY MAX KEISER",
+  "src": "part0005.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0005.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "FOREWORD__INLINE_1__BY MAX KEISER",
+      "translated_text": "서문__INLINE_1__맥스 카이저",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:br xmlns:html=\"http://www.w3.org/1999/xhtml\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "“You are here” is the reassuring prompt on one of your many screens helping you, the digitally intrepid, orient yourself on the path through life via apps. You need to first confirm that yes, in fact, I am that dot on the screen looking at my whereabouts from outer space, via GPS coordinates, some microwaves, and a central processing unit with a pleasant user interface. But before knowing exactly whether or not, you are, in fact, ‘here,’ or anywhere for that matter, let’s consider where you are in the Big Picture. Where are you exactly in time and space and the history of money and Bitcoin? You need to think about this.",
+      "translated_text": "“당신은 여기 있습니다”라는 문구는 수많은 화면 가운데 하나에서 디지털 세계를 두려워하지 않는 당신이 앱을 통해 인생의 경로에서 스스로의 위치를 파악하도록 도와주는 안심의 안내문이다. 먼저 당신은, 그래 맞아, 내가 바로 화면 속 그 점이고, GPS 좌표와 몇 가지 마이크로파, 그리고 보기 좋은 사용자 인터페이스를 갖춘 중앙처리장치를 통해 우주 바깥에서 내 위치를 보고 있는 게 맞다고 확인해야 한다. 하지만 당신이 정말로 “여기” 있는지, 아니 애초에 어디든 있는지 정확히 알기 전에, 큰 그림 속에서 당신이 어디에 있는지 먼저 생각해 보자. 시간과 공간 속에서, 또 돈과 비트코인의 역사 속에서 당신은 정확히 어디에 있는가? 이것은 곰곰이 생각해 봐야 하는 문제다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "“The Big Print” will help you find your inner Bitcoin Maximalist on the timeline of cosmic Bitcoin Maximalism and your place on it.",
+      "translated_text": "“The Big Print”는 우주적 비트코인 맥시멀리즘의 타임라인 위에서 당신 안의 비트코인 맥시멀리스트를 발견하고, 그 위에서 당신의 자리가 어디인지 찾도록 도와줄 것이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "To truly know ‘Where am I,’ view the history of our species as it relates to the one constant that’s always been with us from Day 1: Money.",
+      "translated_text": "“나는 어디에 있는가”를 진정으로 알려면, 우리 종의 역사를 처음부터 늘 우리와 함께해 온 단 하나의 상수, 즉 돈과 연결해서 바라봐야 한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "Money is not what you think it is. It’s not the dollars in your pocket. It’s not the numbers in your bank account. Money is a shared aesthetic that’s hard-coded into our DNA. It allows us the freedom to travel through time and space.",
+      "translated_text": "돈은 당신이 생각하는 그런 것이 아니다. 주머니 속 달러도 아니고, 은행 계좌 속 숫자도 아니다. 돈은 우리 DNA에 하드코딩된 공유된 미학이다. 그것은 우리가 시간과 공간을 가로지를 자유를 가능하게 한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "But I’m getting ahead of myself.",
+      "translated_text": "하지만 내가 너무 앞서가고 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "Let’s talk synthetic-commodity, absolutely scarce, digital Gold, Bitcoin.",
+      "translated_text": "이제 합성 상품이자, 절대적으로 희소한 디지털 금, 비트코인에 대해 이야기해 보자.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "You’ve heard about Bitcoin. Your favorite news outlet and podcast are talking about Bitcoin. Your friends and family are dropping Bitcoin Truth Bombs in your timeline and Michael Saylor clips in your inbox. You think you know something about it, but this annoying voice in the back of your head keeps asking, __INLINE_1__",
+      "translated_text": "당신은 비트코인 이야기를 들어봤다. 당신이 즐겨 보는 뉴스 매체와 팟캐스트도 비트코인을 이야기한다. 친구와 가족은 당신의 타임라인에 비트코인 진실 폭탄을 떨어뜨리고, 받은편지함에는 마이클 세일러 영상이 쌓인다. 당신은 스스로 뭔가 안다고 생각하지만, 머릿속 뒤편의 그 성가신 목소리는 계속 이렇게 묻는다. __INLINE_1__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Where am I?</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "Rest assured, you are reading probably the best book on Bitcoin for general knowledge enthusiasts to ever come along in the 15 years I’ve been following this industry.",
+      "translated_text": "안심해도 된다. 당신은 내가 지난 15년 동안 이 업계를 지켜보며 만난 책들 가운데, 일반 지식 애호가를 위한 최고의 비트코인 책이라고 해도 과언이 아닌 책을 지금 읽고 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "Lawrence Lepard takes the reader through the history of money, technology, finance, and the recent phenomenon of memes, as only someone with a decades-long successful track record of managing money for folks through market ups and downs and economic travails could.",
+      "translated_text": "로런스 레퍼드는 돈, 기술, 금융, 그리고 최근의 밈 현상에 이르기까지의 역사를, 시장의 부침과 경제적 고난 속에서 수십 년 동안 사람들의 자산을 성공적으로 운용해 온 사람만이 할 수 있는 방식으로 독자를 이끌어 간다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "First off, don’t worry, you’re not too late. In fact, on a risk-adjusted basis, this is probably the best time to get into Bitcoin ever.",
+      "translated_text": "우선, 걱정하지 마라. 당신은 늦지 않았다. 사실 위험 조정 기준으로 보면, 지금이야말로 아마도 비트코인에 들어가기에 역사상 가장 좋은 시점일 것이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "Bitcoin is the North Star of money. Everything going on in finance today is either aligned or misaligned with Bitcoin. You are either moving closer to Bitcoin or moving away. The way to move closer is to stack HARDER!",
+      "translated_text": "비트코인은 돈의 북극성이다. 오늘날 금융에서 벌어지는 모든 일은 비트코인과 정렬되어 있거나, 비트코인에서 어긋나 있다. 당신은 비트코인 쪽으로 더 다가가고 있거나, 더 멀어지고 있다. 더 가까이 가는 방법은 더 HARDER하게 스택하는 것이다!",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "Larry Fink of BlackRock knows it. Michael Saylor of MicroStrategy knows it. Paul Tudor Jones, the hedge fund wizard, knows it.",
+      "translated_text": "블랙록의 래리 핑크도 그것을 안다. 마이크로스트래티지의 마이클 세일러도 그것을 안다. 헤지펀드의 마법사 폴 튜더 존스도 그것을 안다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "Great news! Once you own Bitcoin, all these people now work for you!",
+      "translated_text": "엄청난 소식이다! 당신이 비트코인을 소유하는 순간, 이제 이 모든 사람들이 당신을 위해 일한다!",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "“The Big Print” gives a brilliantly insightful history of how we got here by encapsulating, in a highlight-reel-thrill-ride style, the whole history of money and finance, seen in the blazing hot orange light of Bitcoin today, and the need for Bitcoin and Perfect Money humans have dreamt about forever.",
+      "translated_text": "“The Big Print”는 우리가 어떻게 여기까지 오게 되었는지를, 오늘날 비트코인이 뿜어내는 활활 타는 주황빛 속에서 바라본 돈과 금융의 전 역사를 하이라이트 릴을 타는 스릴 넘치는 방식으로 압축해 보여주며, 왜 비트코인이 필요하고 왜 인간이 오래도록 꿈꿔 온 완전한 화폐(Perfect Money)가 필요한지를 통찰력 있게 설명한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "The history of the world is bending in Bitcoin’s favor. The river of time is being reforged in the direction of Bitcoin: Tick Tock. Next Block. Fortunes are being made, the likes of which have not been seen since the 19th century; think Rockefeller, Mellon, Carnegie.",
+      "translated_text": "세계사의 흐름은 비트코인에 유리한 방향으로 휘어지고 있다. 시간의 강은 비트코인 쪽으로 다시 벼려지고 있다. 틱톡. 다음 블록. 19세기 이후 보지 못했던 규모의 부가 만들어지고 있다. 록펠러, 멜런, 카네기를 떠올려 보라.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "This book will be the final, essential piece of the puzzle for many to cement their conviction to buy and HODL Bitcoin like your life depended on it, because it does.",
+      "translated_text": "이 책은 많은 사람들에게 비트코인을, 마치 당신의 생명이 그것에 달린 것처럼, 아니 실제로 그렇기 때문에, 사고 HODL해야 한다는 확신을 굳혀 줄 마지막이자 결정적인 퍼즐 조각이 될 것이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "By the last page, you will know, with certainty, the answer to the question, __INLINE_1__",
+      "translated_text": "마지막 페이지에 이르면, 당신은 이 질문에 대한 답을 확신을 가지고 알게 될 것이다. __INLINE_1__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">Where am I?</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[18]",
+      "tag": "p",
+      "source_text": "You are here, and here is Bitcoin.",
+      "translated_text": "당신은 여기 있다. 그리고 여기에 비트코인이 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[19]",
+      "tag": "p",
+      "source_text": "Congratulations, you’ve arrived at your destination.",
+      "translated_text": "축하한다. 당신은 목적지에 도착했다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[20]",
+      "tag": "p",
+      "source_text": "Max Keiser__INLINE_1__",
+      "translated_text": "맥스 카이저__INLINE_1__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:br xmlns:html=\"http://www.w3.org/1999/xhtml\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[21]",
+      "tag": "p",
+      "source_text": "December 2024__INLINE_1__El Salvador",
+      "translated_text": "2024년 12월__INLINE_1__엘살바도르",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:br xmlns:html=\"http://www.w3.org/1999/xhtml\" />"
+      }
+    }
+  ]
+}

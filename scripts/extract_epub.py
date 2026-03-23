@@ -108,6 +108,90 @@ def iter_body_blocks(body: ET.Element) -> Iterable[str]:
             yield text
 
 
+def split_ref(relative_src: str) -> tuple[str, str | None]:
+    if "#" in relative_src:
+        src, fragment = relative_src.split("#", 1)
+        return src, fragment
+    return relative_src, None
+
+
+def node_contains_id(node: ET.Element, target_id: str | None) -> bool:
+    if not target_id:
+        return False
+    if node.attrib.get("id") == target_id:
+        return True
+    for child in node.iter():
+        if child is not node and child.attrib.get("id") == target_id:
+            return True
+    return False
+
+
+def iter_body_blocks_between(
+    body: ET.Element,
+    start_fragment: str | None,
+    end_fragment: str | None,
+) -> Iterable[str]:
+    started = start_fragment is None
+    for child in body:
+        if not started:
+            if node_contains_id(child, start_fragment):
+                started = True
+            else:
+                continue
+
+        if end_fragment and node_contains_id(child, end_fragment):
+            break
+        tag = strip_ns(child.tag)
+        if tag in {"script", "style"}:
+            continue
+
+        if tag in {"h1", "h2"}:
+            text = extract_inline_text(child)
+            if text:
+                yield f"## {text}"
+            continue
+
+        if tag in {"h3", "h4", "h5", "h6"}:
+            text = extract_inline_text(child)
+            if text:
+                yield f"### {text}"
+            continue
+
+        if tag == "p":
+            text = extract_inline_text(child)
+            if text:
+                yield text
+            continue
+
+        if tag in {"ul", "ol"}:
+            for li in child.findall(".//x:li", XHTML_NS):
+                text = extract_inline_text(li)
+                if text:
+                    yield f"- {text}"
+            continue
+
+        if tag == "blockquote":
+            text = extract_inline_text(child)
+            if text:
+                yield f"> {text}"
+            continue
+
+        if tag == "figure":
+            img = child.find(".//x:img", XHTML_NS)
+            alt = ""
+            if img is not None:
+                alt = normalize_text(img.attrib.get("alt", ""))
+            if alt:
+                yield f"[Figure: {alt}]"
+            else:
+                yield "[Figure]"
+            continue
+
+        text = extract_inline_text(child)
+        if text:
+            yield text
+
+
 def load_opf_path(epub: zipfile.ZipFile) -> str:
     container_xml = ET.fromstring(epub.read("META-INF/container.xml"))
     rootfile = container_xml.find(".//c:rootfile", CONTAINER_NS)
@@ -121,6 +205,35 @@ def read_xhtml(epub: zipfile.ZipFile, opf_path: str, relative_src: str) -> ET.El
     inner_path = os.path.normpath(os.path.join(base, relative_src.split("#", 1)[0]))
     raw = epub.read(inner_path)
     return ET.fromstring(raw)
+
+
+def spine_hrefs(epub: zipfile.ZipFile, opf_path: str) -> list[str]:
+    package = ET.fromstring(epub.read(opf_path))
+    manifest = package.find("{*}manifest")
+    spine = package.find("{*}spine")
+    if manifest is None or spine is None:
+        raise RuntimeError("Could not read manifest/spine from OPF")
+
+    href_by_id: dict[str, str] = {}
+    for item in manifest.findall("{*}item"):
+        item_id = item.attrib.get("id")
+        href = item.attrib.get("href")
+        if item_id and href:
+            href_by_id[item_id] = href
+
+    ordered: list[str] = []
+    base = os.path.dirname(opf_path)
+    for itemref in spine.findall("{*}itemref"):
+        idref = itemref.attrib.get("idref")
+        href = href_by_id.get(idref or "")
+        if href:
+            ordered.append(os.path.normpath(os.path.join(base, href)))
+    return ordered
+
+
+def source_path(opf_path: str, relative_src: str) -> str:
+    base = os.path.dirname(opf_path)
+    return os.path.normpath(os.path.join(base, relative_src.split("#", 1)[0]))
 
 
 def build_markdown(chapter: dict, blocks: list[str]) -> str:
@@ -138,6 +251,7 @@ def build_markdown(chapter: dict, blocks: list[str]) -> str:
         f"- TOC index: {chapter['toc_index']}",
         f"- Part: {chapter['part_slug']}",
         f"- EPUB src: {chapter['src']}",
+        f"- Extraction mode: {chapter.get('extraction_mode', 'single-source')}",
         "",
         "## Extracted Text",
         "",
@@ -164,12 +278,49 @@ def main() -> None:
 
     with zipfile.ZipFile(epub_path) as epub:
         opf_path = load_opf_path(epub)
+        ordered_spine = spine_hrefs(epub, opf_path)
         for chapter in chapter_map["included_chapters"]:
-            root = read_xhtml(epub, opf_path, chapter["src"])
-            body = root.find(".//x:body", XHTML_NS)
-            if body is None:
-                raise RuntimeError(f"No body found for {chapter['src']}")
-            blocks = [b for b in iter_body_blocks(body) if b]
+            current_src_ref = chapter["src"]
+            current_src, current_fragment = split_ref(current_src_ref)
+            current_src = source_path(opf_path, current_src)
+            next_chapter = None
+            current_index = chapter_map["included_chapters"].index(chapter)
+            if current_index + 1 < len(chapter_map["included_chapters"]):
+                next_chapter = chapter_map["included_chapters"][current_index + 1]
+
+            next_src = None
+            next_fragment = None
+            if next_chapter:
+                next_src_raw, next_fragment = split_ref(next_chapter["src"])
+                next_src = source_path(opf_path, next_src_raw)
+            if current_src not in ordered_spine:
+                raise RuntimeError(f"Source {chapter['src']} not found in spine")
+
+            start_idx = ordered_spine.index(current_src)
+            if next_src and next_src in ordered_spine:
+                next_idx = ordered_spine.index(next_src)
+                end_idx = next_idx if next_idx > start_idx else start_idx + 1
+            else:
+                end_idx = len(ordered_spine)
+
+            candidate_docs = ordered_spine[start_idx:end_idx]
+            blocks: list[str] = []
+            for doc_path in candidate_docs:
+                raw = epub.read(doc_path)
+                root = ET.fromstring(raw)
+                body = root.find(".//x:body", XHTML_NS)
+                if body is None:
+                    continue
+                start_fragment = current_fragment if doc_path == current_src else None
+                end_fragment_here = next_fragment if next_src == doc_path else None
+                blocks.extend(
+                    [b for b in iter_body_blocks_between(body, start_fragment, end_fragment_here) if b]
+                )
+
+            if current_fragment or next_fragment:
+                chapter["extraction_mode"] = "fragment-aware-spine-range"
+            else:
+                chapter["extraction_mode"] = "spine-range" if len(candidate_docs) > 1 else "single-source"
             output_path = Path(chapter["source_markdown_path"])
             output_path.parent.mkdir(parents=True, exist_ok=True)
             output_path.write_text(build_markdown(chapter, blocks))

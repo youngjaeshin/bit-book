@@ -1,0 +1,20 @@
+{
+  "chapter_id": "10-freedom-of-currency-denomination-and-back-matter",
+  "answer_index": 2,
+  "question_en": "What is the unit’s central claim about the future?",
+  "choices_en": [
+    "Everyone will use one state currency forever",
+    "Money choice will disappear as CBDCs spread",
+    "People may increasingly choose their monetary unit rather than inherit it",
+    "Gold will fully replace every digital asset"
+  ],
+  "question_ko": "이 단위의 미래에 대한 핵심 주장은 무엇인가?",
+  "choices_ko": [
+    "모든 사람이 영원히 하나의 국가 통화를 쓸 것이라는 점",
+    "CBDC 확산으로 통화 선택이 사라진다는 점",
+    "사람들이 점점 더 상속받은 통화가 아니라 스스로 통화 단위를 선택하게 될 수 있다는 점",
+    "금이 모든 디지털 자산을 완전히 대체한다는 점"
+  ],
+  "explanation_en": "The chapter argues that Bitcoin reopens freedom of currency denomination in a layered, multipolar future.",
+  "explanation_ko": "이 장은 비트코인이 다극적 미래 속에서 통화 단위 선택의 자유를 다시 연다고 주장한다."
+}

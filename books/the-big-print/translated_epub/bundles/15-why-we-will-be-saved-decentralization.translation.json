@@ -1,0 +1,605 @@
+{
+  "chapter_id": "15-why-we-will-be-saved-decentralization",
+  "title": "WHY WE WILL BE SAVED: DECENTRALIZATION",
+  "src": "part0028.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0028.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "WHY WE WILL BE SAVED:__INLINE_1__DECENTRALIZATION",
+      "translated_text": "우리가 구원받을 이유:__INLINE_1__분권화",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:br xmlns:html=\"http://www.w3.org/1999/xhtml\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "As broken and dysfunctional as the world is today, I remain profoundly optimistic. This optimism stems from a clear understanding of technological advancements and their potential to improve human society worldwide. What excites me most is the unstoppable trend toward decentralization that promises to reshape our world for the better.",
+      "translated_text": "오늘날 세상이 망가지고 역기능을 하고 있는 것처럼, 나는 여전히 매우 낙관적입니다. 이러한 낙관주의는 기술 발전과 그것이 전 세계적으로 인류 사회를 개선할 수 있는 잠재력에 대한 명확한 이해에서 비롯됩니다. 저를 가장 흥분시키는 것은 우리 세상을 더 나은 방향으로 재편할 것을 약속하는 탈중앙화를 향한 멈출 수 없는 추세입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "The Rise of Centralization: America’s Early Years to Industrial Power",
+      "translated_text": "중앙집중화의 부상: 미국의 산업 권력 초창기",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "To understand our trajectory toward decentralization, let’s first look at how we became so centralized. The story begins in early America, where decentralization was the natural state.",
+      "translated_text": "분산화를 향한 우리의 궤적을 이해하기 위해 먼저 우리가 어떻게 중앙집중화되었는지 살펴보겠습니다. 이야기는 분권화가 자연스러운 상태였던 초기 미국에서 시작됩니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[1]",
+      "tag": "h4",
+      "source_text": "The Seeds of Self-Reliance",
+      "translated_text": "자립의 씨앗",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "In the early 1600s, self-reliant settlers founded several colonization experiments in what are now Virginia and Plymouth, Massachusetts. The early years were rough and marked by hardship, but the trend was clear. North America would be infiltrated by citizens from across Europe escaping religious persecution and rigid class structures. Their arrival led to conflict with the earlier inhabitants of North America. Due to superior technologies like gunpowder, the settlers’ eventual conquest of the continent was inevitable.__INLINE_1____INLINE_2__ (Keep this concept in mind). Throughout the 1600s and 1700s, America became a nation of farmers, fishermen, craftsmen, and laborers, with minimal centralized governance beyond limited oversight from Britain.",
+      "translated_text": "1600년대 초, 자립적인 정착민들은 현재의 버지니아와 매사추세츠 주 플리머스 지역에서 여러 식민지화 실험을 시작했습니다. 초기에는 힘들고 어려움이 많았지만 추세는 분명했습니다. 종교적 박해와 경직된 계급 구조를 피해 유럽 전역의 시민들이 북미로 침투하게 됩니다. 그들의 도착은 북미의 초기 주민들과의 갈등으로 이어졌습니다. 화약과 같은 뛰어난 기술로 인해 정착민들의 대륙 정복은 불가피했습니다. __INLINE_1____INLINE_2__ (이 개념을 명심하십시오). 1600년대와 1700년대에 걸쳐 미국은 영국의 제한된 감독을 넘어 최소한의 중앙 집중식 통치를 받는 농부, 어부, 장인, 노동자의 국가가 되었습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a3A5\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a305\" ns1:type=\"noteref\" class=\"class_s2T8\">27</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "In time, the 13 original colonies each had their own governor and legislature, reporting to the British Crown. Herein lies the seed of a problem. The colonists who had left Britain for opportunities promised in the New World and to escape religious persecution had developed a fierce self-reliance. They would only accept so much meddling from Mother Britain. Clearly, people were less tolerant of taxation back then. When Britain imposed a 3% tax on tea imported from Britain in 1766 and granted a trade monopoly to the British East India Company, it sparked a series of events that would lead to the American Revolution and the creation of the United States.",
+      "translated_text": "시간이 지나면서 원래의 13개 식민지에는 각각 영국 왕실에 보고하는 주지사와 입법부가 생겼습니다. 여기에 문제의 씨앗이 있습니다. 신세계에서 약속된 기회와 종교적 박해를 피하기 위해 영국을 떠난 식민지 주민들은 치열한 자립을 발전시켰습니다. 그들은 영국 어머니로부터 너무 많은 간섭만을 받아들일 것입니다. 확실히 그 당시 사람들은 세금에 대해 덜 관대했습니다. 영국은 1766년 영국에서 수입한 차에 3%의 세금을 부과하고 영국 동인도회사에 무역 독점권을 부여하면서 미국 독립전쟁과 미국 건국으로 이어지는 일련의 사건을 촉발시켰다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "Thus began America’s first Fourth Turning. Recall that during such periods, society must resolve unique existential questions. The key issue during the mid- to late-1770s was whether men could self-govern or was a crown or royalty required. The patriots who fought the Revolutionary War represented a new Hero Generation.__INLINE_1____INLINE_2__ It was their resolution to this question that launched an experimental form of governance, one that would radically change the world. I wonder if the Founding Fathers had any idea how successful their experiment would become or the breadth of decay that would unfold more than 200 years later.",
+      "translated_text": "이로써 미국 최초의 4차 전환이 시작되었습니다. 그러한 기간 동안 사회는 독특한 실존적 문제를 해결해야 한다는 점을 기억하십시오. 1770년대 중후반의 주요 쟁점은 남성이 자치할 수 있는지, 아니면 왕관이나 왕족이 필요한지 여부였습니다. 혁명 전쟁에 싸운 애국자들은 새로운 영웅 세대를 대표했습니다. __INLINE_1____INLINE_2__ 세상을 근본적으로 변화시킬 실험적인 형태의 거버넌스를 시작한 것은 바로 이 질문에 대한 그들의 결의였습니다. 건국의 아버지들이 자신들의 실험이 얼마나 성공할 것인지, 200년 이상 후에 전개될 붕괴의 폭을 알고 있었는지 궁금합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2W6\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a33E\" ns1:type=\"noteref\" class=\"class_s2T8\">28</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[2]",
+      "tag": "h3",
+      "source_text": "The Industrial Revolution and Centralization",
+      "translated_text": "산업혁명과 중앙집권화",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "The post-revolutionary period saw enormous growth in both population and living standards. A nation of farmers and artisans moved westward, while technological developments transformed society: the loom, steam engine, telegraph, canals, railroads, cement, water-powered mills, and other developments vastly improved living standards. My own grandfathers, born around the turn of the century, witnessed __INLINE_1__this transformation firsthand — from outhouses and Saturday bath day to indoor plumbing and electricity on demand; coal replacing wood; high-speed railways; automobiles replacing horses; highways replacing dirt roads; gasoline and heating oil replacing coal; radio, television, and telephone replacing the telegraph; and air travel replacing steamships. They said they felt lucky to have lived through so many positive developments. Indeed.",
+      "translated_text": "혁명 이후 시대에는 인구와 생활 수준 모두에서 엄청난 성장이 있었습니다. 농부와 장인으로 이루어진 국가가 서쪽으로 이주했고, 기술 발전이 사회를 변화시켰습니다. 직기, 증기 기관, 전신, 운하, 철도, 시멘트, 수력 제분소 및 기타 개발로 인해 생활 수준이 크게 향상되었습니다. 세기가 바뀔 무렵에 태어난 나의 할아버지는 옥외 화장실과 토요일 목욕일에서 실내 배관 및 주문형 전기로의 변화를 __INLINE_1__직접 목격했습니다. 목재를 대체하는 석탄; 고속철도; 말을 대체하는 자동차; 비포장 도로를 대체하는 고속도로; 석탄을 대체하는 휘발유 및 난방유; 전신을 대체하는 라디오, 텔레비전, 전화; 증기선을 대체하는 항공 여행. 그들은 그렇게 많은 긍정적인 발전을 겪어온 것이 행운이라고 말했습니다. 물론.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_256\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "The Industrial Revolution began in the mid-1700s and brought amazing productivity increases that required scale, capital, and centralization. The modern corporation emerged, with stock markets enabling investments in new enterprises. Trading in Lower Manhattan in the late 1700s helped finance canals, railroads, steel manufacturers, and thousands of businesses serving the growing nation.",
+      "translated_text": "산업 혁명은 1700년대 중반에 시작되었으며 규모, 자본 및 중앙 집중화가 필요한 놀라운 생산성 증가를 가져왔습니다. 주식 시장이 새로운 기업에 대한 투자를 가능하게 하면서 현대 기업이 등장했습니다. 1700년대 후반 로어 맨해튼의 무역은 운하, 철도, 철강 제조업체 및 성장하는 국가에 서비스를 제공하는 수천 개의 기업에 자금을 조달하는 데 도움이 되었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "By 1900, industrialization was well underway, particularly in the mechanized North, which had used its industrial advantage just decades before to win the Civil War over the agriculturally strong Southern states, producers of cotton and tobacco. In just 30 years, the automobile would radically change this landscape. Approximately 40% of Americans lived on farms and 60% in rural areas, compared to today’s 2% on farms and 14% in rural areas.",
+      "translated_text": "1900년에는 산업화가 잘 진행되었으며, 특히 기계화된 북부 지역에서는 불과 수십 년 전 산업적 이점을 활용하여 목화와 담배 생산국이자 농업이 강했던 남부 주들을 상대로 남북 전쟁에서 승리했습니다. 불과 30년 만에 자동차는 이러한 풍경을 근본적으로 변화시킬 것입니다. 미국인의 약 40%가 농장에, 60%가 농촌 지역에 살고 있었는데, 이는 오늘날 농장에 2%, 농촌 지역에 14%가 살고 있는 것과 비교됩니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[2]",
+      "tag": "h4",
+      "source_text": "The Automotive Revolution:__INLINE_1__A Case Study in Scale Economies and Consolidation",
+      "translated_text": "자동차 혁명: 규모의 경제와 통합에 관한 __INLINE_1__사례 연구",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:br xmlns:html=\"http://www.w3.org/1999/xhtml\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "Henry Ford’s introduction of the Model T in 1908 and the assembly line in 1913 revolutionized manufacturing. Producing 400 cars per hour (10,000 per day), Ford demonstrated the power of productivity enhancement, reducing prices while __INLINE_1__paying workers an unheard-of $5 per day, double the prevailing wage at the time. His vision changed the entire game. Truly a win/win. His belief that workers should be able to afford their own products unlocked a new level of human flourishing. This was what America used to be. Technologically innovative. We still lead in the high-tech field, but we have drifted away from manufacturing and core engineering. And if we are going to have a large central government, why can’t it provide obvious infrastructural advantages like high-speed rail?",
+      "translated_text": "헨리 포드(Henry Ford)가 1908년에 모델 T를 출시하고 1913년에 조립 라인을 도입하여 제조업에 혁명을 일으켰습니다. 시간당 400대(일일 10,000대)의 자동차를 생산하는 Ford는 생산성 향상의 힘을 보여 주면서 가격을 낮추고 __INLINE_1__당시 임금의 두 배인 하루 5달러를 근로자들에게 지급했습니다. 그의 비전은 게임 전체를 변화시켰습니다. 진정한 승리/승리입니다. 노동자들이 자신의 제품을 구입할 수 있어야 한다는 그의 믿음은 인간 번영의 새로운 차원을 열었습니다. 이것이 미국의 예전 모습이었습니다. 기술적으로 혁신적입니다. 우리는 여전히 첨단 기술 분야를 선도하고 있지만 제조 및 핵심 엔지니어링에서는 멀어졌습니다. 그리고 대규모 중앙정부를 가지게 된다면 왜 고속철도와 같은 인프라적 이점을 명백히 제공하지 못하는 걸까요?",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_257\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "Side note: if we value efficiency and productivity enhancements more highly as a society, more of our best and brightest students would go into engineering and the trade fields, versus seeking riches shuffling paper in the financial markets. Our focus on speculation and gambling versus productivity improvements has cost our nation.",
+      "translated_text": "참고 사항: 우리가 사회로서 효율성과 생산성 향상을 더 높이 평가한다면 금융 시장에서 종이를 뒤섞으며 부를 추구하는 대신 더 많은 우수하고 똑똑한 학생들이 엔지니어링 및 무역 분야로 진출할 것입니다. 투기와 도박에 집중하는 대신 생산성 향상에 초점을 맞추면서 국가는 큰 손실을 입었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "Rethink X, via Luke Gromen, FFTT",
+      "translated_text": "X를 다시 생각해 보세요, Luke Gromen, FFTT를 통해",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "Another instructive piece of the Ford story is the case study of automobile adoption. Between 1900 and 1930, the shift from __INLINE_1__horse-drawn to motorized transport followed what Malcolm Gladwell would later call the “Tipping Point” model — the time from zero to 10% adoption equals the time from 10% to 90%. The chart above shows that automobiles took 10 years to reach 10% penetration, then jumped to 70% in the next decade. Not a perfect fit, but close.",
+      "translated_text": "포드 이야기의 또 다른 유익한 부분은 자동차 채택에 대한 사례 연구입니다. 1900년에서 1930년 사이에 __INLINE_1__말이 끄는 운송에서 동력 운송으로의 전환은 Malcolm Gladwell이 나중에 \"티핑 포인트\" 모델이라고 부르는 방식을 따랐습니다. 채택률이 0에서 10%까지의 시간은 10%에서 90%까지의 시간과 동일합니다. 위 차트는 자동차 보급률이 10%에 도달하는 데 10년이 걸렸고, 그 후 10년 동안 70%로 뛰어올랐다는 것을 보여줍니다. 완벽하게 맞지는 않지만 가깝습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_258\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "The automotive revolution accelerated industrial consolidation. From over 70 automakers in 1910, only eight remained by World War II, and soon thereafter, only a handful. This technologically driven consolidation pattern repeated across industries such as radio, television, washing machines, the internet, and mobile phones, as economies of scale pushed adoption cycles and centralization. Producing more at a lower cost is always a winning business strategy, provided that there are dogs willing to eat the food. The natural result of this process is that it leads to consolidation within industries, and large-scale providers gain advantage over smaller manufacturers or producers.",
+      "translated_text": "자동차 혁명은 산업 통합을 가속화했습니다. 1910년에는 70개가 넘는 자동차 제조업체 중 제2차 세계대전 당시에는 8개만이 남았고, 그 이후에도 소수만이 남았습니다. 규모의 경제로 인해 채택 주기와 중앙 집중화가 촉진됨에 따라 라디오, 텔레비전, 세탁기, 인터넷, 휴대폰 등의 산업 전반에 걸쳐 이러한 기술 중심의 통합 패턴이 반복되었습니다. 더 낮은 비용으로 더 많이 생산하는 것은 기꺼이 음식을 먹고 싶어하는 개가 있다면 항상 성공적인 비즈니스 전략입니다. 이 프로세스의 자연스러운 결과는 업계 내 통합으로 이어지고 대규모 공급업체가 소규모 제조업체나 생산업체보다 우위를 점하게 된다는 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[3]",
+      "tag": "h3",
+      "source_text": "World War II: Peak Centralized Power",
+      "translated_text": "제2차 세계 대전: 최고 중앙 집중식 전력",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "Broadly speaking, up until World War II (with the exception of World War I), the world seemed to benefit from the trend toward centralized industry and power. Economies of scale had driven substantial improvements in living standards, and life expectancy rose dramatically between 1800 and 1940. But soon, the world would begin to experience what I call “the diseconomies of centralized scale.”",
+      "translated_text": "대체로 말하면, 제2차 세계대전(제1차 세계대전을 제외하고)까지 세계는 산업과 권력이 중앙집권화되는 추세로 인해 이익을 얻는 것처럼 보였습니다. 규모의 경제는 생활 수준의 실질적인 향상을 가져왔고, 기대 수명은 1800년에서 1940년 사이에 극적으로 증가했습니다. 그러나 곧 세계는 제가 \"중앙집중화된 규모의 불경제\"라고 부르는 것을 경험하기 시작할 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[3]",
+      "tag": "h4",
+      "source_text": "Nations Tumble: Cautionary Tales",
+      "translated_text": "네이션스 텀블: 주의 사항",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "Britain’s fall from dominance tells the story of centralization __INLINE_1__on a geopolitical scale. As the world’s economic and military superpower of the 1800s, Britain’s pound sterling, backed by gold and silver, operated as the world’s reserve currency. During the 1800s, wars cost Britain dearly. World War I, however, marked the beginning of its more rapid decline. The war’s devastating toll—claiming 890,000 men, 6% of the adult male population, combined with enormous war expenses, forced Britain to abandon the gold standard and resort to money printing. A good example of how wars are expensive and can ruin nations.",
+      "translated_text": "영국의 지배력 상실은 지정학적 규모의 중앙집권화 __INLINE_1__에 대한 이야기를 말해줍니다. 1800년대 세계 경제, 군사 초강대국이었던 영국 파운드는 금과 은을 바탕으로 세계 기축 통화로 운용되었습니다. 1800년대에 전쟁으로 인해 영국은 큰 손실을 입었습니다. 그러나 제1차 세계대전은 더욱 급격한 쇠퇴의 시작을 알렸습니다. 성인 남성 인구의 6%에 해당하는 890,000명의 사망자와 막대한 전쟁 비용으로 인해 영국은 금본위제를 포기하고 돈 인쇄에 의존하게 되었습니다. 전쟁이 얼마나 비용이 많이 들고 국가를 망칠 수 있는지 보여주는 좋은 예입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_259\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "Meanwhile, the U.S. had been steadily growing into the world’s leading industrial nation, first surpassing Britain’s economic size in 1890. Allies during World War I, America’s post-war assistance to Britain contributed to the 1929 financial bubble. (See, Chapter 11 for a full description.)",
+      "translated_text": "그러는 동안 미국은 꾸준히 세계 최고의 산업 국가로 성장하여 1890년 처음으로 영국의 경제 규모를 넘어섰습니다. 제1차 세계 대전 당시 동맹국이었던 미국의 전후 영국 지원은 1929년 금융 거품에 기여했습니다. (전체 설명은 11장을 참조하세요.)",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "Germany’s experience during this time also warns of how war expenditures can lead to monetary collapse. Ravaged by hyperinflation from 1921-1923, Germany became the first modern country to experience “mass psychosis.” They would not be the last. The National Socialist Party (Nazis) capitalized on a citizenship that had lost everything in the currency collapse of 1923. Hitler shifted the blame from excess money printing and instead convinced a portion of the population that banks and bankers, many of whom were Jewish, were the root of the economic chaos. By convincing people that it was the Jews who had caused the currency to fail, he devised a plan to return Germany to its prior glory through genocide, conquest, and a war that claimed 60 million lives. Here, we see the ultimate danger of centralized systems. When a madman gains control of your country, the consequences can be catastrophic.",
+      "translated_text": "이 기간 동안 독일의 경험은 전쟁 비용이 통화 붕괴로 이어질 수 있음을 경고합니다. 1921년부터 1923년까지 초인플레이션으로 황폐화된 독일은 ​​\"대규모 정신병\"을 경험한 최초의 현대 국가가 되었습니다. 그들은 마지막이 아닐 것입니다. 국가사회당(나치)은 1923년 통화 붕괴로 모든 것을 잃은 시민권을 이용했습니다. 히틀러는 과도한 돈 인쇄에 대한 책임을 돌리고 대신 은행과 은행가(대부분 유대인)가 경제적 혼란의 근원이라고 일부 국민에게 확신시켰습니다. 통화 붕괴의 원인이 유대인들임을 사람들에게 설득함으로써 그는 대량 학살, 정복, 6천만 명의 목숨을 앗아간 전쟁을 통해 독일을 이전의 영광으로 되돌리려는 계획을 고안했습니다. 여기에서 우리는 중앙 집중식 시스템의 궁극적인 위험을 봅니다. 미친 사람이 당신의 나라를 장악하게 되면 그 결과는 재앙이 될 수 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[4]",
+      "tag": "h4",
+      "source_text": "The Nuclear Wake-Up Call",
+      "translated_text": "핵에 대한 경각심을 불러일으키는 전화",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[18]",
+      "tag": "p",
+      "source_text": "I believe that World War II represented “peak centralization” of the nation-state. A moment when the dark potential of centralized power became horrifyingly clear, nation-states had figured out how to slaughter millions of people on an industrial scale. World War II terrified all rational people when we realized that we actually could kill the entire human race. The invention of the atomic bomb and its use by the U.S. to stop the war in Japan__INLINE_1____INLINE_2__ was the great wake-up call, underscoring the grim reality that there would be no winners or survivors in a full-scale nuclear war. It is instructive that since then, although there have been posturing and a number of smaller proxy wars, mutually assured destruction has prevented the use of atomic weapons since 1945. That said, there’s no guarantee that a madman won’t gain control of the nuclear button. For this reason, I believe that mankind must come together to dismantle all nuclear weapons and eliminate our collective risk.",
+      "translated_text": "나는 제2차 세계대전이 국민국가의 “최고의 중앙집권화”를 상징했다고 믿습니다. 중앙집권적 권력의 어두운 잠재력이 끔찍할 정도로 분명해진 순간, 민족 국가는 산업적 규모로 수백만 명의 사람들을 학살하는 방법을 알아냈습니다. 제2차 세계대전은 우리가 실제로 인류 전체를 죽일 수 있다는 사실을 깨달았을 때 모든 이성적인 사람들을 공포에 떨게 했습니다. 원자폭탄의 발명과 일본의 전쟁을 막기 위한 미국의 사용__INLINE_1____INLINE_2__은 전면적인 핵전쟁에서는 승자도 생존자도 없다는 암울한 현실을 강조하는 커다란 경종이었습니다. 그 이후로 비록 자세를 취하고 여러 번의 소규모 대리전이 있었지만 상호 확증 파괴로 인해 1945년 이후 원자 무기 사용이 금지되었다는 사실은 유익합니다. 즉, 미치광이가 핵 버튼을 제어하지 못할 것이라는 보장은 없습니다. 그렇기 때문에 저는 인류가 함께 모여 모든 핵무기를 폐기하고 집단적 위험을 제거해야 한다고 믿습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2XU\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2YJ\" ns1:type=\"noteref\" class=\"class_s2T8\">29</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[4]",
+      "tag": "h3",
+      "source_text": "The Digital Dawn:__INLINE_1__Technology Enables Decentralization",
+      "translated_text": "디지털 새벽:__INLINE_1__기술이 가능하게 한 분산화",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:br xmlns:html=\"http://www.w3.org/1999/xhtml\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[19]",
+      "tag": "p",
+      "source_text": "As grade school duck and cover drills faded from the weekly routines, the emergence of decentralization began slowly following the end of World War II. Initially driven by multiple factors, including the end of the Cold War and improved communications, the largest decentralization catalyst was the accelerated pace of technological improvements, particularly the microprocessor and the internet. The invention of the microprocessor in the 1950s and its commercialization by Shockley, Fairchild, and Intel marked the starting gun in the race toward decentralization.",
+      "translated_text": "초등학교의 오리 훈련과 엄폐 훈련이 주간 일상에서 사라지자 제2차 세계 대전이 끝난 후 분산화가 서서히 시작되었습니다. 처음에는 냉전 종식과 통신 개선 등 여러 요인에 의해 추진된 가장 큰 분산화 촉매제는 기술 개선, 특히 마이크로프로세서와 인터넷의 가속화된 속도였습니다. 1950년대 마이크로프로세서의 발명과 Shockley, Fairchild, Intel의 상용화는 분산화를 향한 경주의 시작점이 되었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[20]",
+      "tag": "p",
+      "source_text": "Since the early 1970s, the development of computing power has changed the world. The invention and commercialization of the internet are comparable to the development of trains, the automobile, and heavy industry during the Industrial Revolution. Radical technological advances provided humanity with three new superpowers: 1) global connectivity at minimal, fixed cost; 2) instant access to the world’s digital information; and 3) the ability for anyone to become a publisher or broadcaster. The implications were profound.",
+      "translated_text": "1970년대 초반부터 컴퓨팅 파워의 발전은 세상을 변화시켰습니다. 인터넷의 발명과 상용화는 산업혁명 시대의 기차, 자동차, 중공업의 발전과 비슷합니다. 급진적인 기술 발전은 인류에게 세 가지 새로운 초능력을 제공했습니다. 1) 최소한의 고정 비용으로 글로벌 연결성을 제공합니다. 2) 전 세계의 디지털 정보에 대한 즉각적인 접근; 3) 누구나 발행인이나 방송인이 될 수 있는 능력. 그 의미는 심오했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[21]",
+      "tag": "p",
+      "source_text": "Before the internet, centralized organizations could control the dissemination and content of the narrative. Governments and corporations could easily manipulate public information when only three networks dominated television. It was trivial for the government to lie to the people and for the people to not even comprehend that there was an alternative case or another side to the story. And lie to the people they did: Kennedy was assassinated by a lone gunman; the U.S. was attacked in the Gulf of Tonkin; and literally hundreds of other examples.",
+      "translated_text": "인터넷 이전에는 중앙화된 조직이 이야기의 전파와 내용을 통제할 수 있었습니다. 단 세 개의 네트워크만이 텔레비전을 장악했을 때 정부와 기업은 공공 정보를 쉽게 조작할 수 있었습니다. 정부가 국민에게 거짓말을 하고, 국민이 대체 사례나 이야기의 다른 측면이 있다는 사실조차 이해하지 못하는 것은 사소한 일이었습니다. 그리고 그들이 했던 사람들에게 거짓말을 했습니다. 케네디는 고독한 총잡이에 의해 암살되었습니다. 미국은 통킹만에서 공격을 받았습니다. 말 그대로 수백 가지의 다른 예입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[22]",
+      "tag": "p",
+      "source_text": "The internet shattered this monopoly, enabling fact-checking and alternative viewpoints almost in real time. Anyone can become the __INLINE_1__ or __INLINE_2__. Independent journalists now often outdraw established networks as people recognize the value of decentralized information sources. People are awakening to the fact that they have been lied to.",
+      "translated_text": "인터넷은 이러한 독점을 무너뜨리고 거의 실시간으로 사실 확인과 대안적 관점을 가능하게 했습니다. 누구나 __INLINE_1__ 또는 __INLINE_2__가 될 수 있습니다. 사람들이 분산형 정보 소스의 가치를 인식함에 따라 독립 언론인들은 이제 기존 네트워크를 능가하는 경우가 많습니다. 사람들은 자신들이 거짓말을 했다는 사실을 깨닫고 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">New York Times</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">CBS</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[23]",
+      "tag": "p",
+      "source_text": "As a powerful decentralizing force, the internet reshaped society in just a few decades. Given that widespread adoption began only around 2000, its influence as a young technology is even more remarkable. I expect that the internet will continue to replace the large, centralized organizations that we once relied on.",
+      "translated_text": "강력한 분산 세력으로서 인터넷은 불과 수십 년 만에 사회를 재편했습니다. 2000년경에야 널리 보급되기 시작했다는 점을 감안하면 신기술로서의 영향력은 더욱 놀랍다. 나는 인터넷이 우리가 한때 의존했던 대규모 중앙 집중식 조직을 계속해서 대체할 것으로 기대합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[24]",
+      "tag": "p",
+      "source_text": "Bitcoin is a lot like the internet, only it is an open-source peer-to-peer network for money. Consider this: before Bitcoin, all financial transactions relied upon a third-party provider (except cash). If you wanted to conduct any financial transaction, you used a bank, credit card company, or third party. There was no way to transact natively and digitally without interference from an outsider.",
+      "translated_text": "비트코인은 인터넷과 매우 비슷하지만 단지 돈을 위한 오픈 소스 P2P 네트워크일 뿐입니다. 이것을 고려하십시오: 비트코인 ​​이전에는 모든 금융 거래가 제3자 제공자(현금 제외)에 의존했습니다. 금융거래를 하고 싶다면 은행, 신용카드사, 제3자를 이용했습니다. 외부인의 간섭 없이 기본적으로 디지털 방식으로 거래할 수 있는 방법은 없었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[25]",
+      "tag": "p",
+      "source_text": "Bitcoin changes all of that, and the change is profound.",
+      "translated_text": "비트코인은 이 모든 것을 변화시키고 있으며 그 변화는 심오합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[26]",
+      "tag": "p",
+      "source_text": "As this digital dawn continues to spread, the landscape will change radically. The large sclerotic organizations that grew out of the Industrial Revolution, including a federal government powerful enough to conduct warfare around the world, are beginning to show their wear and tear. It is becoming clear that the costs of running these organizations outweigh the benefits they provide. In this Fourth Turning, they will fail or be radically restructured.",
+      "translated_text": "이러한 디지털 새벽이 계속 확산되면서 풍경은 급격하게 변할 것입니다. 전 세계에서 전쟁을 수행할 수 있을 만큼 강력한 연방 정부를 포함하여 산업 혁명에서 성장한 대규모 경화 조직이 마모를 보이기 시작했습니다. 이러한 조직을 운영하는 데 드는 비용이 그들이 제공하는 이점보다 더 크다는 것이 분명해지고 있습니다. 이 네 번째 전환기에서 그들은 실패하거나 근본적으로 재구성될 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[5]",
+      "tag": "h3",
+      "source_text": "The Art of Pattern Recognition",
+      "translated_text": "패턴 인식의 예술",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[27]",
+      "tag": "p",
+      "source_text": "Being a successful investor requires strong pattern recognition skills. Human nature has changed very little over time, with cycles of greed and fear repeating themselves over and over again. Sometimes, the best thing one can do to become a good investor is to study history. There’s wisdom in Mark Twain’s aphorism that “History does not repeat itself, but it often rhymes.” Yet we must also remain alert to fundamental changes that render historical models obsolete.",
+      "translated_text": "성공적인 투자자가 되려면 강력한 패턴 인식 기술이 필요합니다. 인간의 본성은 시간이 지나도 거의 변하지 않았으며 탐욕과 두려움의 순환이 계속해서 반복되었습니다. 때로는 좋은 투자자가 되기 위해 할 수 있는 가장 좋은 일은 역사를 공부하는 것입니다. “역사는 반복되지 않지만 운율이 맞는 경우가 많다”는 마크 트웨인의 격언에는 지혜가 있습니다. 그러나 우리는 또한 역사적 모델을 쓸모없게 만드는 근본적인 변화에 대해서도 경계해야 합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[28]",
+      "tag": "p",
+      "source_text": "I was trained to view investing through the lens of buying undervalued and misunderstood securities with the expectation that they would eventually be better understood and more fully __INLINE_1__appreciated. I looked at traditional metrics such as price-to-earnings or price-to-cashflow to determine what was cheap. Most businesses I evaluated were straightforward product or service businesses. I was generally not thinking in network terms. As a result, I missed the full impact of Metcalfe’s Law.",
+      "translated_text": "나는 결국 더 잘 이해되고 더 충분히 __INLINE_1__평가될 것이라는 기대를 가지고 저평가되고 오해된 증권을 매수하는 렌즈를 통해 투자를 보도록 훈련받았습니다. 나는 가격 대비 수익 또는 가격 대비 현금 흐름과 같은 전통적인 지표를 살펴보고 무엇이 저렴한지 결정했습니다. 내가 평가한 대부분의 사업은 단순한 제품이나 서비스 사업이었습니다. 나는 일반적으로 네트워크 측면에서 생각하지 않았습니다. 결과적으로 나는 Metcalfe의 법칙이 미치는 영향을 완전히 놓치게 되었습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_263\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[6]",
+      "tag": "h3",
+      "source_text": "Network Effects: A New Value Model",
+      "translated_text": "네트워크 효과: 새로운 가치 모델",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[29]",
+      "tag": "p",
+      "source_text": "Metcalfe’s Law states that a network’s value grows proportionally to the square of the number of connected users or devices in the network. Or said another way, network value grows geometrically even as the number of users only grows linearly. This law explains why businesses like Amazon, Facebook, and Google have become incredibly valuable and defensible businesses. Looking at specific returns:",
+      "translated_text": "Metcalfe의 법칙에 따르면 네트워크의 가치는 네트워크에 연결된 사용자 또는 장치 수의 제곱에 비례하여 증가합니다. 다르게 말하면, 사용자 수가 선형적으로 증가하더라도 네트워크 가치는 기하학적으로 증가합니다. 이 법은 Amazon, Facebook, Google과 같은 기업이 믿을 수 없을 만큼 가치 있고 방어 가능한 기업이 된 이유를 설명합니다. 구체적인 수익을 살펴보면 다음과 같습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[30]",
+      "tag": "p",
+      "source_text": "Amazon (IPO 1997): 214,366% return to date",
+      "translated_text": "Amazon (1997년 IPO): 현재까지 214,366% 수익률",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[31]",
+      "tag": "p",
+      "source_text": "Facebook (IPO 2012): 1,530% return to date",
+      "translated_text": "Facebook (IPO 2012): 현재까지 1,530% 수익률",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[32]",
+      "tag": "p",
+      "source_text": "Google (IPO 2004): 9,176% return to date",
+      "translated_text": "Google (2004년 IPO): 현재까지 9,176% 수익률",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[33]",
+      "tag": "p",
+      "source_text": "Before the internet, network-driven businesses were rare. Newspapers, TV networks, and the Yellow Pages came close, but the internet enabled truly global networks with unparalleled reach and value creation. I must confess I missed this. I had looked at these companies as potential investments and concluded their valuations made them too expensive. I was wrong. (There is a lesson here for people who think that Bitcoin is too expensive today because they know people who bought it more cheaply).",
+      "translated_text": "인터넷 이전에는 네트워크 기반 비즈니스가 드물었습니다. 신문, TV 네트워크, 전화번호부가 가까웠지만 인터넷은 비교할 수 없는 도달 범위와 가치 창출을 통해 진정한 글로벌 네트워크를 가능하게 했습니다. 나는 이것을 놓쳤다고 고백해야 한다. 나는 이 회사들을 잠재적인 투자 대상으로 보았고 그들의 가치 평가로 인해 너무 비싸다고 결론을 내렸습니다. 나는 틀렸다. (비트코인을 더 저렴하게 구매한 사람들을 알고 있기 때문에 오늘날 비트코인이 너무 비싸다고 생각하는 사람들을 위한 교훈이 있습니다.)",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[34]",
+      "tag": "p",
+      "source_text": "In the history of investing, very few investments have returned 100 times your investment in a roughly 20-year period, and the __INLINE_1__number of investments that have returned over 1000 times is smaller, still. Network businesses are just different. The upside breaks traditional investing models.",
+      "translated_text": "투자 역사상 대략 20년 동안 투자금의 100배를 반환한 투자는 거의 없으며, 1000배가 넘는 투자의 __INLINE_1__개수는 여전히 적습니다. 네트워크 사업은 다를 뿐입니다. 장점은 전통적인 투자 모델을 무너뜨립니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_264\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[35]",
+      "tag": "p",
+      "source_text": "Bitcoin is a monetary network business and reminds me of Amazon, Facebook, and Google in their early days. I missed investing in those three names. I am not going to make that mistake again. I have a story about that.",
+      "translated_text": "비트코인은 화폐 네트워크 사업으로 초창기 아마존, 페이스북, 구글을 생각나게 합니다. 나는 그 세 가지 이름에 투자하는 것을 놓쳤습니다. 나는 다시는 그런 실수를 저지르지 않을 것이다. 그것에 관한 이야기가 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[7]",
+      "tag": "h3",
+      "source_text": "Personal Investment Journey",
+      "translated_text": "개인 투자 여정",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[5]",
+      "tag": "h4",
+      "source_text": "The Microsoft Lesson and Software Revolution",
+      "translated_text": "마이크로소프트의 교훈과 소프트웨어 혁명",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[36]",
+      "tag": "p",
+      "source_text": "In 1983, during my second year at Harvard Business School, a conversation along the Charles River proved prophetic. Walking with my business school roommate and Steve Ballmer (who had been my roommate’s Harvard College suite mate alongside Bill Gates), Ballmer painted an ambitious picture of the future of the personal computer. He explained how the recently introduced IBM PC (August 1981) would transform society. He predicted that every household would have multiple PCs performing then-unimaginable tasks one day. With conviction, he declared Microsoft would become one of the most important companies in the world. Over the space of 40 years, he was proven right. Back in the early 1980s, he saw what others could not.",
+      "translated_text": "1983년, 하버드 경영대학원 2학년 때, 찰스강에서 나눈 대화는 예언적이었습니다. 내 경영대학원 룸메이트와 스티브 발머(빌 게이츠와 함께 내 룸메이트의 하버드 대학 스위트메이트였다)와 함께 걸으며 발머는 개인용 컴퓨터의 미래에 대한 야심찬 그림을 그렸다. 그는 최근 출시된 IBM PC(1981년 8월)가 어떻게 사회를 변화시킬 것인지 설명했다. 그는 언젠가 모든 가정이 당시에는 상상할 수 없었던 작업을 수행하는 여러 대의 PC를 보유하게 될 것이라고 예측했습니다. 그는 확신을 가지고 마이크로소프트가 세계에서 가장 중요한 기업 중 하나가 될 것이라고 선언했습니다. 40년에 걸쳐 그의 말이 옳았다는 것이 입증되었습니다. 1980년대 초반에 그는 다른 사람들이 보지 못하는 것을 보았습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[37]",
+      "tag": "p",
+      "source_text": "Even into the mid-1980s, my colleagues in the venture capital world remained deeply skeptical of software investments. “Software is bullshit,” they would say. “You can’t touch it. You can’t feel it. It’s just code.” Technology investment dollars instead flowed into computer hardware being sold by IBM, DEC, Data General, and Prime, along with disk drives and __INLINE_1__memory chips. Software was seen as ephemeral and without value. (Recognize the comparison to Bitcoin?)",
+      "translated_text": "1980년대 중반까지도 벤처 캐피탈 업계의 동료들은 소프트웨어 투자에 대해 깊은 회의적인 태도를 유지했습니다. “소프트웨어는 헛소리다”라고 그들은 말합니다. \"만질 수 없습니다. 느낄 수 없습니다. 단지 코드일 뿐입니다.\" 대신 기술 투자 비용은 디스크 드라이브 및 __INLINE_1__ 메모리 칩과 함께 IBM, DEC, 데이터 제너럴 및 Prime에서 판매하는 컴퓨터 하드웨어로 유입되었습니다. 소프트웨어는 일시적이고 가치가 없는 것으로 여겨졌습니다. (비트코인과의 비교를 알고 계시나요?)",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_265\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[38]",
+      "tag": "p",
+      "source_text": "My investment experience with Microsoft is also instructive. When the company conducted its IPO in 1986, it traded at just 14 times trailing earnings despite clocking 40% annual growth, a remarkably low PE ratio given its trajectory. The company also possessed a formidable defensive moat through exclusive ownership of the MS-DOS operating system required on every PC.",
+      "translated_text": "Microsoft에 대한 나의 투자 경험도 유익합니다. 회사가 1986년 IPO를 실시했을 때 연간 40% 성장에도 불구하고 후행 수익의 14배에 불과했습니다. 이는 회사의 궤적을 고려할 때 현저히 낮은 PE 비율입니다. 또한 모든 PC에 필요한 MS-DOS 운영 체제에 대한 독점 소유권을 통해 강력한 방어 해자를 보유했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[39]",
+      "tag": "p",
+      "source_text": "Recognizing these favorable dynamics, I used my venture capital bonus to buy it. A couple of years passed. My investment had yielded a couple of times my money, but I wanted to own a condominium rather than rent, and I needed a down payment. So, I sold my Microsoft for a decent profit, but way too early. My split-adjusted price was $.06 per share; today it trades at $451. Painful. A missed gain of 7,516%.",
+      "translated_text": "이러한 유리한 역학 관계를 인식하고 벤처 캐피탈 보너스를 사용하여 구매했습니다. 몇 년이 지났습니다. 투자한 결과 내 돈의 몇 배의 수익을 얻었지만 임대보다는 콘도를 소유하고 싶었고 계약금이 필요했습니다. 그래서 나는 상당한 이익을 얻기 위해 마이크로소프트를 팔았지만 너무 이르다. 나의 분할 조정 가격은 주당 0.06달러였습니다. 오늘은 451달러에 거래됩니다. 아픈. 7,516%의 이익을 놓쳤습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[40]",
+      "tag": "p",
+      "source_text": "A missed opportunity, yes, but also a valuable lesson – one that Michael Saylor recently highlighted when I shared this story at Bitcoin Atlantis__INLINE_1____INLINE_2__ in March 2024. At the conference, I was humbled to share the stage with Michael Saylor and Lyn Alden to discuss Bitcoin. When I told the Microsoft story, Michael pointed out how many investors will likely make the same mistake with Bitcoin. That is, to capture some gain but then sell far too early. If Bitcoin proves to be the asset we think it is, it should be held across generations, not traded for short-term gains. When asked in an interview about the future of Bitcoin, Michael famously said, “It is going up forever, Laura.”__INLINE_3____INLINE_4__",
+      "translated_text": "놓친 기회이기도 하지만 귀중한 교훈이기도 합니다. Michael Saylor가 최근 2024년 3월 Bitcoin Atlantis__INLINE_1____INLINE_2__에서 이 이야기를 공유했을 때 강조했던 것입니다. 컨퍼런스에서 저는 겸손하게 Michael Saylor 및 Lyn Alden과 함께 비트코인에 대해 논의하기 위해 무대에 올랐습니다. 내가 마이크로소프트 이야기를 했을 때, 마이클은 얼마나 많은 투자자들이 비트코인에 대해 같은 실수를 저지를지 지적했습니다. 즉, 어느 정도 이익을 얻었지만 너무 일찍 매도하는 것입니다. 비트코인이 우리가 생각하는 자산인 것으로 입증된다면 단기적인 이익을 위해 거래되어서는 안 되며 여러 세대에 걸쳐 보유되어야 합니다. 인터뷰에서 비트코인의 미래에 대한 질문에 마이클은 \"영원히 상승할 것입니다, 로라\"라고 유명하게 말했습니다.__INLINE_3____INLINE_4__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a31G\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a332\" ns1:type=\"noteref\" class=\"class_s2T8\">30</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2UW\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a333\" ns1:type=\"noteref\" class=\"class_s2T8\">31</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[6]",
+      "tag": "h4",
+      "source_text": "The Internet Revolution",
+      "translated_text": "인터넷 혁명",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[41]",
+      "tag": "p",
+      "source_text": "When I was in the venture capital business, my greatest success came from speaking to an entrepreneur in 1993. He suggested that I send some information to his “internet address.” Internet address? “What is that?” I asked. He explained that I needed a dial-up account with Compuserve and asked, “You have Novell, right?” (Novell was a local area network provider that provided email communication over Ethernet connections within offices and buildings). After I nodded yes, he described the internet as just a worldwide version of Novell. My mind was blown. I immediately returned to my office and told my research associates that we had to find out where this internet thing was and invest in all of the companies in this space. With Bitcoin, I have a sense of déjà vu.",
+      "translated_text": "내가 벤처 캐피털 사업을 하고 있을 때, 나의 가장 큰 성공은 1993년에 한 기업가와 대화를 나눈 것에서 비롯되었습니다. 그는 나에게 자신의 \"인터넷 주소\"로 몇 가지 정보를 보내라고 제안했습니다. 인터넷 주소? \"저게 뭐에요?\" 나는 물었다. 그는 Compuserve에 전화 접속 계정이 필요하다고 설명하고 \"Novell이 있습니까?\"라고 물었습니다. (Novell은 사무실과 건물 내에서 이더넷 연결을 통해 이메일 통신을 제공하는 LAN 제공업체였습니다.) 내가 고개를 끄덕이자 그렇다고 대답하자 그는 인터넷을 단지 노벨의 세계적인 버전에 불과하다고 설명했습니다. 내 마음이 날아 갔다. 나는 즉시 사무실로 돌아와 연구 동료들에게 인터넷이 어디에 있는지 알아내고 이 분야의 모든 회사에 투자해야 한다고 말했습니다. 비트코인을 사용하면서 데자뷰를 느꼈습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[42]",
+      "tag": "p",
+      "source_text": "Our most successful investment was in Netcom On-Line Communications, founded by a Lockheed engineer who had ingeniously connected his home to the internet via coaxial cable stretched across neighborhood yards in San Jose, CA. There, he set up a bank of modems that allowed others to dial in and access the internet. When I found him, he had several thousand subscribers, just by word of mouth and advertising in the San Jose newspaper. The monthly growth in subscribers was stunning. Dogs were eating the food. We acquired one-third of the business for $2 million. The company later reached over one million dial-up subscribers nationwide, went public in December 1994 (before Netscape’s August 1995 IPO), and was acquired by ICG Communication for $284 million in 1987. It worked out well. Lots of asymmetry. We were also early investors in Realtor.com and had similar results.",
+      "translated_text": "우리의 가장 성공적인 투자는 캘리포니아 산호세의 이웃 마당에 걸쳐 있는 동축 케이블을 통해 자신의 집을 인터넷에 독창적으로 연결한 록히드 엔지니어가 설립한 Netcom On-Line Communications에 대한 것이었습니다. 그곳에서 그는 다른 사람들이 전화를 걸어 인터넷에 접속할 수 있도록 하는 모뎀 뱅크를 세웠습니다. 내가 그를 찾았을 때 그는 입소문과 산호세 신문 광고만으로 수천 명의 구독자를 보유하고 있었습니다. 월별 구독자 증가율은 놀라웠습니다. 개들이 음식을 먹고 있었습니다. 우리는 사업의 3분의 1을 200만 달러에 인수했습니다. 이 회사는 나중에 전국적으로 백만 명 이상의 전화 접속 가입자를 확보했으며 1994년 12월(Netscape의 1995년 8월 IPO 전)에 상장되었으며 1987년에 ICG Communication에 2억 8,400만 달러에 인수되었습니다. 그것은 잘 진행되었습니다. 비대칭이 많습니다. 우리는 또한 Realtor.com의 초기 투자자였으며 비슷한 결과를 얻었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[7]",
+      "tag": "h4",
+      "source_text": "Beyond Returns: Venture Capital",
+      "translated_text": "수익 너머: 벤처 캐피탈",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[43]",
+      "tag": "p",
+      "source_text": "This story is from back in the days when venture capital really made sense. The funds I managed with my partner were no exception. Our 1987 Fund, with $25.3 million of capital, returned $189.2 million to the investors (a multiple of 8.2x, a 39.1% IRR net of fees). The 1993 Fund posted similar results, with $40.5 million of capital and returned $144.3 million to investors (a multiple of 4.1x, a 129.4% IRR net of fees).",
+      "translated_text": "이 이야기는 벤처 캐피탈이 실제로 의미가 있었던 시절의 이야기입니다. 파트너와 함께 관리한 자금도 예외는 아니었습니다. 2,530만 달러의 자본금을 보유한 당사의 1987년 펀드는 투자자에게 1억 8,920만 달러를 반환했습니다(8.2배 배수, 순 수수료 IRR 39.1%). 1993년 펀드는 자본금 4,050만 달러로 비슷한 결과를 기록했으며 투자자에게 1억 4,430만 달러를 반환했습니다(4.1배 배수, 순 수수료 IRR 129.4%).",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[44]",
+      "tag": "p",
+      "source_text": "In early 2000, we had commitments from institutions to invest $400 million in another fund, but they insisted we focus exclusively on the internet. Recognizing the Dotcom bubble’s frothiness, we declined rather than deploy capital at inflated valuations. They persisted, but we could not in good conscience raise the money and not follow their instructions. Our decision crystallized when our two brash Harvard MBAs, each with barely three years of experience, demanded over 50% of the partnership economics. Between my partner’s twenty-five years of experience and my 17 years in the trenches, we’d weathered multiple market cycles and built enduring value. Looking at each other, we wondered, __INLINE_1__ We had built our reputation on disciplined investing, not chasing trends or surrendering to hubris. So, we released the MBAs and explained to the investors we would not accept their money. At this point, I relocated to be closer to my wife’s family and started a new investment fund. This improved my lifestyle and gave me time to focus on my growing children’s sports teams and activities. It was the correct choice for me. The choice was economically costly, but spiritually correct.",
+      "translated_text": "2000년 초에 우리는 기관으로부터 다른 펀드에 4억 달러를 투자하겠다는 약속을 받았지만 그들은 우리가 인터넷에만 집중할 것을 주장했습니다. 닷컴 거품의 거품을 인식한 우리는 부풀려진 가치 평가에 자본을 배치하는 대신 거절했습니다. 그들은 계속 고집했지만 우리는 양심적으로 돈을 모을 수도 없었고 그들의 지시를 따르지도 않았습니다. 우리의 결정은 각각 3년의 경험을 갖고 있는 두 명의 뻔뻔한 하버드 MBA가 파트너십 경제의 50% 이상을 요구했을 때 구체화되었습니다. 파트너의 25년 경험과 17년의 참호 경험 사이에 우리는 여러 시장 사이클을 헤쳐나가며 지속적인 가치를 구축했습니다. __INLINE_1__ 우리는 추세를 쫓거나 오만함에 굴복하는 것이 아니라 규율 있는 투자를 통해 명성을 쌓아 왔다고 서로를 바라보며 궁금했습니다. 그래서 우리는 MBA 과정을 공개하고 투자자들에게 그들의 돈을 받지 않겠다고 설명했습니다. 이때 나는 처가와 더 가까워지기 위해 이사하고 새로운 투자 펀드를 시작했다. 이로 인해 내 생활 방식이 개선되었고 성장하는 어린이 스포츠 팀과 활동에 집중할 시간이 생겼습니다. 나에게는 올바른 선택이었습니다. 그 선택은 경제적으로 비용이 많이 들었지만 영적으로는 옳았습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_270\">“우리는 왜 이 일을 하고 있는가?”</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[8]",
+      "tag": "h3",
+      "source_text": "Bitcoin: The Next Wave of Decentralization",
+      "translated_text": "비트코인: 차세대 분산화 물결",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[45]",
+      "tag": "p",
+      "source_text": "The point of this narrative is that I feel like I have seen this movie before. I watched the internet emerge and steal share from traditional forms of print media like advertising and the Yellow Pages. It offered a better solution, and people migrated to it. We could not foresee the rise of eBay, Amazon, Facebook, and Google, but we did have a sense that people would figure out how to do important stuff online. It was going to be very big. That much was sure. If you count the real launch date as 1995 (when the Netscape browser was introduced), we are now 29 years into the development of the internet.",
+      "translated_text": "이 이야기의 요점은 이 영화를 전에 본 것 같은 느낌이 든다는 것입니다. 나는 인터넷이 등장하고 광고나 전화번호부 같은 전통적인 인쇄 매체의 점유율을 훔치는 것을 보았습니다. 더 나은 솔루션을 제공했고 사람들은 그 솔루션으로 마이그레이션했습니다. eBay, Amazon, Facebook, Google의 성장을 예측할 수는 없었지만 사람들이 온라인에서 중요한 일을 처리하는 방법을 알아낼 것이라는 느낌은 있었습니다. 그것은 매우 클 것입니다. 그 정도는 확실했다. 실제 출시 날짜를 1995년(Netscape 브라우저가 출시된 때)으로 계산하면 이제 인터넷이 개발된 지 29년이 됩니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[8]",
+      "tag": "h4",
+      "source_text": "Beyond Traditional Money",
+      "translated_text": "전통적인 화폐를 넘어서",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[46]",
+      "tag": "p",
+      "source_text": "I see a similar pattern with Bitcoin. Just as the internet revolutionized communication and commerce, Bitcoin offers a unique and compelling alternative to traditional money. It is frictionless because there is no third party involved. It runs 24/7, 365 days per year, so there are no banker’s hours. It is sounder than any other form of money that has ever been developed, and this is one of its greatest advantages. In fact, using the stock-to-flow measure, it is the soundest by a large margin. As Saifedean Ammous, author of __INLINE_1__, noted:",
+      "translated_text": "비트코인에서도 비슷한 패턴이 보입니다. 인터넷이 통신과 상거래에 혁명을 일으켰듯이, 비트코인은 전통적인 화폐에 대한 독특하고 매력적인 대안을 제공합니다. 제3자가 관여하지 않기 때문에 마찰이 없습니다. 연중무휴, 365일 운영되므로 은행 업무 시간이 없습니다. 지금까지 개발된 어떤 형태의 화폐보다 건전하며 이것이 가장 큰 장점 중 하나입니다. 실제로, 재고 대 흐름 측정을 사용하면 큰 차이로 가장 건전합니다. __INLINE_1__의 저자인 Saifedean Ammous는 다음과 같이 언급했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">The Bitcoin Standard</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[47]",
+      "tag": "p",
+      "source_text": "History shows it is not possible to insulate yourself from the consequences of others holding money that is harder than yours.",
+      "translated_text": "역사는 당신보다 더 어려운 돈을 보유하고 있는 다른 사람들의 결과로부터 당신 자신을 보호하는 것이 불가능하다는 것을 보여줍니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[48]",
+      "tag": "p",
+      "source_text": "— Saifedean Ammous",
+      "translated_text": "— 사이페딘 암무스",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[49]",
+      "tag": "p",
+      "source_text": "Saifedean goes on to compare the invention of Bitcoin to the invention of gunpowder. When it arrived, fighting with swords, spears, axes, and bows and arrows became a losing strategy. An upgrade in power technology changed the war game. Similarly, Bitcoin — a non-dilutable money — upgrades the monetary system game. Future generations will likely discuss finance in terms of pre-Bitcoin and post-Bitcoin, much like we reference history eras as BC and AD.",
+      "translated_text": "Saifedean은 비트코인의 발명을 화약의 발명에 비유합니다. 도착했을 때 칼, 창, 도끼, 활과 화살을 사용하여 싸우는 것이 패배하는 전략이 되었습니다. 전력 기술의 업그레이드는 전쟁 게임을 변화시켰습니다. 마찬가지로, 희석 불가능한 화폐인 비트코인은 화폐 시스템 게임을 업그레이드합니다. 미래 세대는 우리가 역사 시대를 BC와 AD로 언급하는 것처럼 비트코인 ​​이전과 비트코인 ​​이후의 관점에서 금융을 논의할 것입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[50]",
+      "tag": "p",
+      "source_text": "I fully expect that over the next 20 to 40 years, Bitcoin will supplant all other forms of money to become the numéraire__INLINE_1____INLINE_2__ for economic transactions. Our children and grandchildren will talk about the prices of things in terms of Satoshis. A Satoshi is the smallest unit of measure in a Bitcoin, and each Bitcoin contains 100,000,000 satoshis. With Bitcoin at about $100,000 per coin, 1,000 satoshis are worth $1, and one satoshi is worth $0.001.",
+      "translated_text": "나는 향후 20~40년 동안 비트코인이 다른 모든 형태의 화폐를 대체하여 경제 거래의 숫자__INLINE_1____INLINE_2__가 될 것이라고 전적으로 기대합니다. 우리의 아이들과 손자들은 사토시의 관점에서 물건의 가격에 대해 이야기할 것입니다. 사토시는 비트코인의 가장 작은 측정 단위이며, 각 비트코인에는 100,000,000개의 사토시가 포함되어 있습니다. 비트코인은 코인당 약 $100,000이며, 1,000개의 사토시는 $1의 가치가 있고, 1개의 사토시는 $0.001의 가치가 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2XR\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2ZR\" ns1:type=\"noteref\" class=\"class_s2T8\">32</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[51]",
+      "tag": "p",
+      "source_text": "In terms of adoption, Bitcoin is at the America Online (AOL)__INLINE_1____INLINE_2__ stage of the internet’s development. Today feels a bit like 1998 to me. Bitcoin is large, proven, and working, but it is still a niche financial product. Just as the internet grew from a niche technology to a global phenomenon, I believe Bitcoin is poised for a similar trajectory.",
+      "translated_text": "채택 측면에서 비트코인은 인터넷 개발의 America Online(AOL)__INLINE_1____INLINE_2__ 단계에 있습니다. 오늘은 나에게 약간 1998년과 같은 느낌이다. 비트코인은 규모가 크고 입증되었으며 효과가 있지만 여전히 틈새 금융 상품입니다. 인터넷이 틈새 기술에서 세계적인 현상으로 성장한 것처럼 비트코인도 비슷한 궤적을 보일 준비가 되어 있다고 생각합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2ZJ\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a30M\" ns1:type=\"noteref\" class=\"class_s2T8\">33</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[9]",
+      "tag": "h4",
+      "source_text": "Store of Value and Medium of Exchange",
+      "translated_text": "가치 저장 및 교환 매체",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[52]",
+      "tag": "p",
+      "source_text": "Throughout history, money has primarily served two important functions: medium of exchange (MOE) and store of value (SOV). Carl Menger, founder of the Austrian School of Economics, defined money as the most liquid good. It is the thing that each person accepts in exchange for goods and services. If money velocity is high and people spend nearly as __INLINE_1__quickly as they receive income, any slippage in value may seem less important. However, money is also meant to be a means of storing energy or the product of your work, sometimes over long periods of time.",
+      "translated_text": "역사를 통틀어 화폐는 주로 교환 매체(MOE)와 가치 저장(SOV)이라는 두 가지 중요한 기능을 수행해 왔습니다. 오스트리아 경제대학의 창립자인 칼 멩거(Carl Menger)는 돈을 ​​가장 유동적인 재화로 정의했습니다. 그것은 각 사람이 상품과 서비스에 대한 대가로 받아들이는 것입니다. 통화 유통 속도가 높고 사람들이 소득을 얻는 속도에 맞춰 거의 __INLINE_1__만큼 빠르게 지출하는 경우 가치 하락은 덜 중요해 보일 수 있습니다. 그러나 돈은 때로는 장기간에 걸쳐 에너지를 저장하는 수단이나 작업의 산물이기도 합니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_270\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[53]",
+      "tag": "p",
+      "source_text": "Many of today’s monetary theorists claim that Bitcoin cannot be money because it is not widely used as a medium of exchange. Two respected monetary theorists, George Selgin and Lawrence White, take this view. At first glance, this critique seems valid. Bitcoin’s first and best “use case” is as a store of value, a role it excels in due to its mathematically capped supply. However, its use for payments and transactions is in its very nascent days.",
+      "translated_text": "오늘날 많은 화폐 이론가들은 비트코인이 교환 매체로 널리 사용되지 않기 때문에 화폐가 될 수 없다고 주장합니다. 존경받는 화폐 이론가인 조지 셀긴(George Selgin)과 로렌스 화이트(Lawrence White)는 이러한 견해를 가지고 있습니다. 언뜻 보면 이 비판은 타당해 보인다. 비트코인의 최초이자 최고의 \"사용 사례\"는 가치 저장으로서 수학적으로 제한된 공급으로 인해 탁월한 역할을 합니다. 그러나 결제 및 거래에 사용되는 것은 매우 초기 단계입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[54]",
+      "tag": "p",
+      "source_text": "In today’s financial landscape, we have several efficient payment methods, such as checks, credit cards, and digital payment solutions like Venmo or PayPal. Globally, credit card networks process 2.0 billion transactions per day! That is 23 thousand transactions per second.",
+      "translated_text": "오늘날의 금융 환경에는 수표, 신용 카드, Venmo 또는 PayPal과 같은 디지털 결제 솔루션과 같은 여러 가지 효율적인 결제 방법이 있습니다. 전 세계적으로 신용 카드 네트워크는 하루에 20억 건의 거래를 처리합니다! 이는 초당 23,000건의 트랜잭션입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[55]",
+      "tag": "p",
+      "source_text": "By comparison, the Bitcoin network processes a block of transactions every 10 minutes on average, averaging 4,055 transactions per block. No one could or would claim that the base layer Bitcoin network is built for or meant to process a high volume of transactions. Instead, Satoshi optimized for security and immutability over speed and throughput. This means, buying coffee with base-layer Bitcoin makes no sense. Transaction fees currently average $2.61 but can soar much higher during periods of network congestion. As a result, the Bitcoin base layer is better suited for large, significant transactions, where its robustness shines. Solutions such as the Lightning Network, which operates as a second layer on Bitcoin, address these scalability issues and make smaller transactions more feasible.",
+      "translated_text": "이에 비해 비트코인 ​​네트워크는 평균 10분마다 한 블록의 거래를 처리하며, 블록당 평균 4,055건의 거래를 처리합니다. 누구도 기본 계층 비트코인 ​​네트워크가 대량의 거래를 처리하기 위해 구축되었거나 처리할 의도가 있다고 주장할 수 없으며 주장하지도 않습니다. 대신 Satoshi는 속도와 처리량에 대한 보안과 불변성을 최적화했습니다. 즉, 기본 레이어 비트코인으로 커피를 구매하는 것은 의미가 없습니다. 현재 거래 수수료는 평균 $2.61이지만, 네트워크 정체 기간에는 훨씬 더 높아질 수 있습니다. 결과적으로 비트코인 ​​기본 레이어는 견고성이 빛나는 대규모의 중요한 거래에 더 적합합니다. 비트코인의 두 번째 계층으로 작동하는 라이트닝 네트워크와 같은 솔루션은 이러한 확장성 문제를 해결하고 소규모 거래를 보다 실현 가능하게 만듭니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h4[10]",
+      "tag": "h4",
+      "source_text": "Making Digital Currency Practical: Lightning Network",
+      "translated_text": "디지털 화폐를 실용적으로 만들기: 라이트닝 네트워크",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[56]",
+      "tag": "p",
+      "source_text": "Picture this: a world where you can buy your morning coffee, pay your bills, and send money to friends and family across the globe instantly, securely, and with fees so low they’re practically negligible. This is the tantalizing promise of Bitcoin’s second-layer applications that are poised to revolutionize how we think about and use money in the digital age.",
+      "translated_text": "모닝 커피를 사고, 청구서를 지불하고, 전 세계의 친구와 가족에게 즉각적이고 안전하게 송금할 수 있는 세상을 상상해보세요. 수수료도 거의 무시할 수 있을 정도로 낮습니다. 이는 디지털 시대에 우리가 돈에 대해 생각하고 사용하는 방식에 혁명을 일으킬 준비가 되어 있는 비트코인의 두 번째 계층 응용 프로그램의 감미로운 약속입니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[57]",
+      "tag": "p",
+      "source_text": "While Bitcoin’s base layer, often called Layer 1, is optimized for security and immutability. It’s not designed for speed and high transaction volume. Enter the Lightning Network, a game-changing technology that opens up channels between nodes, allowing near-instantaneous transactions with fees that are a mere fraction of a penny. These transactions settle immediately, avoiding the 10-minute delay, and are cheaper than the 3% network transaction fees credit cards impose. To be fair, these are early days, and the Lightning Network is small and not fully developed. Some estimate that the Lightning Network processes about six million transactions per year, and this figure is growing exponentially. Its transaction success rate for modest-sized transactions, while impressive at 99.7%, will need to be even higher to truly rival credit card networks. Also, the Lightning Network currently lacks the liquidity necessary to process larger transactions ($5,000+) quickly and reliably.",
+      "translated_text": "레이어 1이라고도 불리는 비트코인의 기본 레이어는 보안과 불변성을 위해 최적화되어 있습니다. 속도와 높은 거래량을 위해 설계되지 않았습니다. 노드 간 채널을 열어 1페니에 불과한 수수료로 거의 즉각적인 거래를 가능하게 하는 획기적인 기술인 라이트닝 네트워크를 만나보세요. 이러한 거래는 10분의 지연 없이 즉시 결제되며 신용카드가 부과하는 3% 네트워크 거래 수수료보다 저렴합니다. 공평하게 말하면 지금은 초기 단계이며 라이트닝 네트워크는 규모가 작고 완전히 개발되지 않았습니다. 일부에서는 라이트닝 네트워크가 연간 약 600만 건의 거래를 처리하는 것으로 추정하고 있으며 이 수치는 기하급수적으로 증가하고 있습니다. 적당한 규모의 거래에 대한 거래 성공률은 99.7%로 인상적이지만 진정한 경쟁 신용카드 네트워크에 비해 훨씬 더 높아야 합니다. 또한 라이트닝 네트워크는 현재 대규모 거래(5,000달러 이상)를 빠르고 안정적으로 처리하는 데 필요한 유동성이 부족합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[58]",
+      "tag": "p",
+      "source_text": "As with any emerging technology, kinks still need to be worked out. I see an emerging path whereby Bitcoin will be used as a MOE as well as a SOV currency. Layer-two applications have the power to democratize access to financial services, enabling those in underbanked and unbanked regions to participate in the global economy like never before. It could also provide a much needed alternative to traditional payment systems, __INLINE_1__which are often slow, expensive, and vulnerable to fraud and censorship.",
+      "translated_text": "다른 새로운 기술과 마찬가지로 문제는 여전히 해결되어야 합니다. 나는 비트코인이 SOV 통화뿐만 아니라 MOE로도 사용될 새로운 경로를 봅니다. 레이어 2 애플리케이션은 금융 서비스에 대한 액세스를 민주화하여 은행 서비스가 부족한 지역과 은행 서비스를 받지 못하는 지역의 사람들이 이전과는 전혀 다른 방식으로 글로벌 경제에 참여할 수 있도록 해줍니다. 또한 속도가 느리고 비용이 많이 들며 사기와 검열에 취약한 기존 결제 시스템인 __INLINE_1__에 대해 절실히 필요한 대안을 제공할 수도 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_272\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[59]",
+      "tag": "p",
+      "source_text": "My years of experience in pattern recognition in the investment world tell me that we are entering an exciting era in the evolution of money. When you’ve watched new technologies and markets unfold over the years, it’s hard not to feel a sense of anticipation and wonder. The future looks brighter than ever.",
+      "translated_text": "투자 세계에서 패턴 인식에 대한 나의 수년간의 경험은 우리가 돈의 진화에서 흥미진진한 시대로 진입하고 있음을 말해줍니다. 수년에 걸쳐 새로운 기술과 시장이 펼쳐지는 것을 지켜보면 기대감과 경이로움을 느끼지 않을 수 없습니다. 미래는 그 어느 때보다 밝아 보입니다.",
+      "inline_tokens": {}
+    }
+  ]
+}

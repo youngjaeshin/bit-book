@@ -1,0 +1,20 @@
+{
+  "chapter_id": "07-what-bitcoin-is",
+  "answer_index": 0,
+  "question_en": "How is Bitcoin defined in this unit?",
+  "choices_en": [
+    "As a monetary network with fixed supply and no central control",
+    "As a government-issued digital currency",
+    "As a stock with an unusual payout structure",
+    "As a private bank ledger shared online"
+  ],
+  "question_ko": "이 단위에서 비트코인은 어떻게 정의되는가?",
+  "choices_ko": [
+    "고정 공급과 중앙 통제 부재를 가진 통화 네트워크로",
+    "정부가 발행한 디지털 통화로",
+    "특이한 배당 구조를 가진 주식으로",
+    "온라인으로 공유되는 민간 은행 원장으로"
+  ],
+  "explanation_en": "Bitcoin is presented as a monetary network governed by rules rather than by a central issuing authority.",
+  "explanation_ko": "비트코인은 중앙 발행 기관이 아니라 규칙에 의해 움직이는 통화 네트워크로 제시된다."
+}

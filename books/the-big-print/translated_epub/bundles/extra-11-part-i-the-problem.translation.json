@@ -1,0 +1,17 @@
+{
+  "chapter_id": "extra-11-part-i-the-problem",
+  "title": "PART I THE PROBLEM",
+  "src": "part0012.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0012.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h1[1]",
+      "tag": "h1",
+      "source_text": "PART I__INLINE_1__THE PROBLEM",
+      "translated_text": "제1부__INLINE_1__문제",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:br xmlns:html=\"http://www.w3.org/1999/xhtml\" />"
+      }
+    }
+  ]
+}

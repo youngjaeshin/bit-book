@@ -1,0 +1,142 @@
+{
+  "chapter_id": "16-how-this-unfolds",
+  "title": "HOW THIS UNFOLDS",
+  "src": "part0029.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0029.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "HOW THIS UNFOLDS",
+      "translated_text": "이것이 어떻게 전개되는가",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "Throughout a career spanning 41 years of direct investment experience, I have learned that none of us can predict exact financial outcomes. There are just too many variables. Having said that, we can analyze patterns, map scenarios, and assess probabilities to form educated conclusions.",
+      "translated_text": "41년간의 직접 투자 경험을 통해 나는 우리 중 누구도 정확한 재무 결과를 예측할 수 없다는 것을 배웠습니다. 변수가 너무 많습니다. 하지만 우리는 패턴을 분석하고, 시나리오를 매핑하고, 확률을 평가하여 현명한 결론을 내릴 수 있습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "As we’ve established, our current debt-based fiat currency system operates like a Financial Doomsday Machine. Stein’s Law is real. We cannot continue to take on debt in excess of GDP growth without facing either an eventual collapse of that debt or inflation/hyperinflation from printing money to service that debt.",
+      "translated_text": "우리가 확립한 대로 현재의 부채 기반 법정화폐 시스템은 금융 최후의 심판 기계처럼 작동합니다. 슈타인의 법칙은 진짜입니다. 우리는 부채의 궁극적인 붕괴나 부채를 갚기 위해 돈을 인쇄하는 데 따른 인플레이션/초인플레이션에 직면하지 않고서는 GDP 성장을 초과하는 부채를 계속 감당할 수 없습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "Current conditions strongly suggest that monetary authorities, particularly the Federal Reserve, will continue to choose monetary accommodation over fiscal austerity. I could be wrong about this. But it appears that policymakers will always choose the risk of inflation over the risk of financial collapse. The evergreen excuse for money printing will be: “We had to do it. If we do not, the ATMs will stop working!” It’s as if the bankers and the Fed have taken us all hostage, and if we do not acquiesce to their demands (money printing and higher inflation), they will shoot us (crash the financial system).",
+      "translated_text": "현재 상황은 통화 당국, 특히 연준이 재정 긴축보다는 통화 완화를 계속 선택할 것임을 강력히 시사합니다. 나는 이것에 대해 틀릴 수 있습니다. 그러나 정책 입안자들은 항상 금융 붕괴 위험보다 인플레이션 위험을 선택하는 것으로 보입니다. 돈 인쇄에 대한 끊임없는 변명은 \"우리는 그것을 해야 했습니다. 그렇지 않으면 ATM이 작동을 멈출 것입니다!\"가 될 것입니다. 이는 마치 은행가와 연준이 우리 모두를 인질로 잡은 것과 같습니다. 우리가 그들의 요구(돈 인쇄 및 높은 인플레이션)를 묵인하지 않으면 그들은 우리를 총살할 것입니다(금융 시스템 붕괴).",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "We have also observed how the scale and frequency of monetary interventions have grown significantly. Just reviewing highlights from the last 37 years:",
+      "translated_text": "우리는 또한 금전적 개입의 규모와 빈도가 어떻게 크게 증가했는지 관찰했습니다. 지난 37년간의 하이라이트를 검토해 보세요.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[1]/p[1]",
+      "tag": "p",
+      "source_text": "1987: The stock market crash prompted Greenspan to open swap lines, cut the Fed funds rate, and establish the Plunge Protection Team (PPT).",
+      "translated_text": "1987년: 주식시장 붕괴로 인해 그린스펀은 스왑 라인을 개설하고, 연방기금 금리를 인하하고, 급락방지팀(PPT)을 설립했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[2]/p[1]",
+      "tag": "p",
+      "source_text": "1998: LTCM (hedge fund) blow-up led to Fed-brokered Wall Street bailouts and Fed funds rate cuts.",
+      "translated_text": "1998년: LTCM(헤지펀드)의 폭발로 인해 연준이 중개한 월스트리트 구제금융과 연준기금 금리 인하가 발생했습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[3]/p[1]",
+      "tag": "p",
+      "source_text": "2000-2001: The Dotcom bubble burst triggered the Fed to take the funds rate down to a then unheard-of 1%. This led to the blowing of the Housing Bubble, which spiraled into the GFC.",
+      "translated_text": "2000-2001: 닷컴 버블 붕괴로 인해 연준은 당시 유례없는 1%까지 금리를 인하했습니다. 이로 인해 주택 버블(Housing Bubble)이 터졌고, 이는 GFC로 나선형으로 확산되었습니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ul[1]/li[4]/p[1]",
+      "tag": "p",
+      "source_text": "2008: When the Great Financial Crisis erupted, Chairman Bernanke instituted Zero Interest Rate Policy (ZIRP) and revived Quantitative Easing.__INLINE_1____INLINE_2__",
+      "translated_text": "2008년: 금융 위기가 터지자 버냉키 의장은 제로 금리 정책(ZIRP)을 도입하고 양적완화를 부활시켰습니다.__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a302\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2YT\" ns1:type=\"noteref\" class=\"class_s2T8\">34</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "By 2016, the Fed’s balance sheet had expanded from $900 billion pre-GFC to a peak of $4.5 trillion. Banks received a $700 billion subsidy through the Troubled Asset Relief Program (TARP), where the U.S. Treasury purchases subsidized their losses on bad investments.__INLINE_1____INLINE_2__ After this expansion, the Fed ultimately began a program of slowly tapering the size of its balance sheet (money tightening) in 2017. They did not get very far. In 2019, the New York City Interbank Repo Loan Market blew out, and Powell was forced to pivot and resume QE. Soon thereafter, in March 2020, the COVID crisis swept across the world, and the FED oversaw the largest expansion of the Fed’s balance sheet and the nation’s money supply. The Fed balance sheet swelled from $4.2 trillion to $9.0 trillion, and the M2 Money Supply jumped from $15.3 trillion to $21.7 trillion.",
+      "translated_text": "2016년까지 연준의 대차대조표는 글로벌 금융위기 이전 9천억 달러에서 최고 4조 5천억 달러로 확대되었습니다. 은행들은 미국 재무부가 부실 투자로 인한 손실을 보조하는 TARP(부실 자산 구제 프로그램)를 통해 7,000억 달러의 보조금을 받았습니다. __INLINE_1____INLINE_2__ 이러한 확장 이후 연준은 궁극적으로 2017년에 대차대조표 규모를 서서히 줄이는(돈 긴축) 프로그램을 시작했습니다. 그들은 그리 멀리 가지 못했습니다. 2019년에는 뉴욕시 은행 간 레포 대출 시장이 폭발했고 파월은 QE를 재개해야 했습니다. 그로부터 얼마 지나지 않아 2020년 3월, 코로나 위기가 전 세계를 휩쓸었고 FED는 연준의 대차대조표와 국가의 통화 공급을 최대 규모로 확대하는 것을 감독했습니다. 연준의 대차대조표는 4조 2천억 달러에서 9조 달러로 늘어났고, M2 통화 공급량은 15조 3천억 달러에서 21조 7천억 달러로 급증했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a371\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a36X\" ns1:type=\"noteref\" class=\"class_s2T8\">35</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "A 42% surge in the money supply over such a brief period fueled the intense inflation in 2022 and 2023. The scale and speed of monetary intervention during the COVID crisis far exceeded that of the GFC. Following the GFC, the Fed grew its balance sheet by $3.6 trillion over 78 months (6.5 years) compared to $4.8 trillion in just 25 months (2.1 years) following __INLINE_1__the COVID crisis! The size of the money print was larger while the timeframe was much shorter. The COVID intervention also featured direct action by the U.S. Treasury, facilitating massive spending accommodation. The federal government distributed more than $5 trillion of non-repayable loans and stimulus checks through an alphabet soup series of programs, contributing to record fiscal deficits of $3.1 trillion in 2020 and $2.8 trillion in 2021.",
+      "translated_text": "이렇게 짧은 기간 동안 통화 공급량이 42% 급증하면서 2022년과 2023년에 극심한 인플레이션이 발생했습니다. 코로나 위기 동안 통화 개입의 규모와 속도는 GFC를 훨씬 능가했습니다. GFC 이후 연준은 __INLINE_1__ 코로나 위기 이후 단 25개월(2.1년) 만에 4조 8천억 달러에 비해 78개월(6.5년) 동안 대차대조표를 3조 6천억 달러 늘렸습니다! 돈 인쇄의 규모는 더 컸지만 기간은 훨씬 짧았습니다. 또한 코로나19 개입은 미국 재무부의 직접적인 조치를 통해 막대한 지출 조정을 촉진했습니다. 연방 정부는 알파벳 수프 시리즈 프로그램을 통해 5조 달러 이상의 비상환 대출과 부양 수표를 배포하여 2020년에 3조 1천억 달러, 2021년에 2조 8천억 달러의 재정적자를 기록했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_275\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "The Fed severely underestimated the implications of its actions, and Chairman Powell repeatedly assured the public that inflation, which was beginning to boil, was merely “__INLINE_1__.” He was disabused of that notion when inflation soared from 1-2% pre–COVID to an eye-popping 9% in June 2022. Powell rapidly slammed on the monetary brakes, initiating the most aggressive rate-hiking campaign in modern history. (Paul Volcker hiked more quickly in 1980 and 1981). If you are beginning to get the notion that these people do not know what they are doing, you are not alone. What Powell could not see and did not fully appreciate is how this rapid escalation of the Fed Funds rate would impact all financial institutions. It was not long before he found out. When Silicon Valley Bank failed in March 2023, the repercussions became glaringly obvious. Following this high-profile failure, the Fed delivered only one more 25 bps rate hike in July 2023, and then it stopped.",
+      "translated_text": "연준은 자신의 조치가 미치는 영향을 심각하게 과소평가했고, 파월 의장은 끓어오르기 시작한 인플레이션이 단순히 “__INLINE_1__”일 뿐이라고 대중에게 거듭 확신시켰습니다. 인플레이션이 코로나19 이전 1~2%에서 2022년 6월 9%로 급등했을 때 그는 이러한 개념을 무시했습니다. 파월은 신속하게 통화 브레이크를 밟아 현대 역사상 가장 공격적인 금리 인상 캠페인을 시작했습니다. (Paul Volcker는 1980년과 1981년에 더 빠르게 하이킹을 했습니다.) 이 사람들이 자신이 무엇을 하고 있는지 모른다는 생각이 들기 시작했다면, 당신은 혼자가 아닙니다. 파월은 연방기금 금리의 급속한 상승이 모든 금융 기관에 어떤 영향을 미칠지 볼 수 없었고 충분히 인식하지도 못했습니다. 그가 그 사실을 알게 된 것은 그리 오래되지 않았습니다. 2023년 3월 Silicon Valley Bank가 실패했을 때 그 영향은 명백해졌습니다. 이 세간의 이목을 끄는 실패 이후 연준은 2023년 7월에 단 한 번만 25bps 금리 인상을 단행한 뒤 중단했습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2T7\">transitory</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "Volatility",
+      "translated_text": "휘발성",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "Historically, monetary system failures have produced extreme volatility, causing societal chaos. The monetary changes we are currently witnessing suggest we may face similar turbulence.",
+      "translated_text": "역사적으로 통화 시스템의 실패는 극심한 변동성을 낳고 사회 혼란을 야기했습니다. 현재 우리가 목격하고 있는 금전적 변화는 우리가 비슷한 격동에 직면할 수 있음을 암시합니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "The next chart, created by my friend and colleague, Dan Oliver of Myrmikan Capital, illustrates this phenomenon during the hyperinflation of the German Weimar mark between 1914 and 1923. The smoother line (log scale) represents the number of paper Weimar marks required to buy an ounce of gold. Over time, this measure went parabolic as the currency spiraled toward failure. The second, more volatile line shows the __INLINE_1__ price of gold measured against Weimar marks. Even though gold proved to be the correct investment choice, the chart reveals multiple monthly periods of steep decline. If one had been heavily leveraged, it could have meant a wipeout.",
+      "translated_text": "내 친구이자 동료인 Myrmikan Capital의 Dan Oliver가 만든 다음 차트는 1914년에서 1923년 사이 독일 바이마르 마르크의 초인플레이션 기간 동안의 이러한 현상을 보여줍니다. 더 부드러운 선(로그 눈금)은 금 1온스를 구매하는 데 필요한 종이 바이마르 마르크의 수를 나타냅니다. 시간이 지남에 따라 통화가 실패로 치닫으면서 이 측정값은 포물선이 되었습니다. 두 번째로 변동성이 큰 선은 바이마르 마르크 대비 __INLINE_1__ 금 가격을 보여줍니다. 금이 올바른 투자 선택임이 입증되었음에도 불구하고 차트에서는 여러 달에 걸쳐 가파른 하락세를 보였습니다. 만약 하나가 심하게 레버리지를 받았다면 그것은 전멸을 의미했을 수 있습니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">monthly</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "The takeaway from this chart is that if we are entering a period of financial chaos, leverage will not be your friend.__INLINE_1____INLINE_2__ We will discuss the investment implications of this volatility in more detail in the upcoming chapters.",
+      "translated_text": "이 차트에서 알 수 있는 점은 우리가 금융 혼란의 시기에 접어들고 있다면 레버리지는 친구가 될 수 없다는 것입니다. __INLINE_1____INLINE_2__ 우리는 다음 장에서 이러한 변동성이 투자에 미치는 영향에 대해 더 자세히 논의할 것입니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a307\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0042.xhtml#a2UP\" ns1:type=\"noteref\" class=\"class_s2T8\">36</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "Dan Oliver, Myrmikan Capital, “Weimar Hyperinflation: Gold Performance and Gold Volatility.”",
+      "translated_text": "댄 올리버, 미르미칸 캐피털, \"바이마르 초인플레이션: 금 성과 및 금 변동성.\"",
+      "inline_tokens": {}
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "chapter_id": "02-inflation-is-the-cause",
+  "title": "INFLATION IS THE CAUSE",
+  "src": "part0014.xhtml",
+  "xhtml_path": "books/the-big-print/translated_epub/work/source/OEBPS/part0014.xhtml",
+  "entries": [
+    {
+      "node_path": "/html[1]/body[1]/h2[1]",
+      "tag": "h2",
+      "source_text": "INFLATION IS THE CAUSE",
+      "translated_text": "원인은 인플레이션이다",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[1]",
+      "tag": "p",
+      "source_text": "Inflation is generally defined as an increase in prices driven by an increase in the supply of money. The correlation between the two is indisputable and well-documented. Prices inflate because the money supply increases, and more monetary units chase the same number of goods and services.",
+      "translated_text": "인플레이션은 일반적으로 화폐 공급 증가에 의해 유발되는 물가 상승으로 정의된다. 둘 사이의 상관관계는 부인할 수 없고 잘 문서화되어 있다. 화폐 공급이 늘어나고, 같은 수의 재화와 서비스를 더 많은 통화 단위가 쫓기 때문에 가격은 상승한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/h3[1]",
+      "tag": "h3",
+      "source_text": "INFLATION: WHAT IS IT GOOD FOR? ABSOLUTELY NOTHING.",
+      "translated_text": "인플레이션: 도대체 어디에 좋은가? 절대 아무 데도.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[2]",
+      "tag": "p",
+      "source_text": "Most people alive today think that inflation is inevitable and just part of living in our modern world. They are wrong. It has not always been this way. Our monetary authority, the Federal Reserve, which since 1977 has had a dual mandate from Congress regarding full employment and stable prices, has adopted the Keynesian/modern monetary theory belief that inflation is a necessary component of a functioning economy. It is a lie.__INLINE_1____INLINE_2__ The Fed now targets a 2% rate of inflation,__INLINE_3____INLINE_4__ which means that your savings lose roughly 20% of their value over 10 years. The government steals from savers by debasing the money, effectively imposing a hidden tax. As if that is not punitive enough, inflation also leads to chaos, as we will see.",
+      "translated_text": "오늘 살아 있는 대부분의 사람은 인플레이션이 불가피하며 현대 세계의 일부라고 생각한다. 틀렸다. 항상 그런 것은 아니었다. 우리의 통화 당국인 연방준비제도는 1977년 이후 완전고용과 물가안정이라는 이중 책무를 의회로부터 부여받았는데, 기능하는 경제에는 인플레이션이 필수라는 케인스주의/현대통화이론적 믿음을 받아들였다. 거짓말이다.__INLINE_1____INLINE_2__ 이제 연준은 2% 인플레이션률을 목표로 삼는데,__INLINE_3____INLINE_4__ 이는 당신의 저축이 10년 동안 대략 20%의 가치를 잃는다는 뜻이다. 정부는 화폐 가치를 훼손함으로써 저축가에게서 훔치고, 사실상 숨겨진 세금을 부과한다. 그것만으로도 충분히 징벌적인데, 인플레이션은 우리가 보겠지만 혼란까지 초래한다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a38B\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a39H\" ns1:type=\"noteref\" class=\"class_s2T8\">4</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2Y4\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a39J\" ns1:type=\"noteref\" class=\"class_s2T8\">5</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[3]",
+      "tag": "p",
+      "source_text": "You have always lived in an inflationary world unless you were born before me (1957). It feels normal, but it is not.",
+      "translated_text": "당신이 나(1957년생)보다 먼저 태어나지 않았다면, 당신은 언제나 인플레이션 세계에 살아왔다. 익숙하게 느껴지겠지만 정상은 아니다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[4]",
+      "tag": "p",
+      "source_text": "Consumer Price Index 1800-2005. TableChart.com, 2005. Edited: Larry Lepard",
+      "translated_text": "1800-2005 소비자물가지수. TableChart.com, 2005. 편집: Larry Lepard",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[5]",
+      "tag": "p",
+      "source_text": "The chart above shows the U.S. Consumer Price Index (CPI) from 1800-2005. The top line shows the cumulative value, while the bottom line tracks the rate of change.",
+      "translated_text": "위 차트는 1800년부터 2005년까지 미국 소비자물가지수(CPI)를 보여준다. 위 선은 누적값을, 아래 선은 변화율을 추적한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[6]",
+      "tag": "p",
+      "source_text": "A few interesting observations from this chart: First, prices were much more stable and mean reverting__INLINE_1____INLINE_2__ between 1800 and 1940. World War II, however, led to a higher rate of inflation that did not mean revert. Then the inflation trend accelerated like a rocket northward after the U.S. abandoned the gold standard in 1971. Another interesting observation is that war periods were inflationary. The major wars, which occurred in 1812, 1862 (Civil), 1916 (World War I), 1945 (World War II), 1952 (Korea), and 1968 (Vietnam), all led to inflationary bursts. The chart __INLINE_3__stops in 2005, but since that time, the CPI has risen another 55.9%. Keeping scale, the line would now extend to 904.",
+      "translated_text": "이 차트에서 흥미로운 관찰 몇 가지가 있다. 첫째, 1800년부터 1940년까지 가격은 훨씬 더 안정적이었고 평균으로 되돌아가는 성향이 강했다.__INLINE_1____INLINE_2__ 그러나 제2차 세계대전은 평균회귀하지 않는 더 높은 인플레이션을 낳았다. 그리고 미국이 1971년 금본위를 포기한 뒤 인플레이션 추세는 로켓처럼 치솟았다. 또 하나 흥미로운 점은 전쟁 시기가 인플레이션적이었다는 사실이다. 1812년, 1862년(남북전쟁), 1916년(제1차 세계대전), 1945년(제2차 세계대전), 1952년(한국전쟁), 1968년(베트남전) 등 주요 전쟁은 모두 인플레이션 급등을 초래했다. 이 차트는 2005년에서 __INLINE_3__멈추지만, 그 후 CPI는 55.9% 더 상승했다. 스케일을 유지하면 선은 이제 904까지 뻗어 있을 것이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2ZH\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a38T\" ns1:type=\"noteref\" class=\"class_s2T8\">6</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_34\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[7]",
+      "tag": "p",
+      "source_text": "It is hard to overstate the importance and magnitude of President Nixon’s August 1971 Executive Order taking the U.S. off the gold standard. This decision was an incredibly short-sighted economic and political act. Arguably, it was galactically stupid.__INLINE_1____INLINE_2__ Since the U.S. went off the gold standard, the dollar has lost 98.5% of its purchasing power as measured in gold terms.__INLINE_3____INLINE_4__ When I was a teenager in the 1970s, gasoline cost $0.30 per gallon; now it averages over $4.00 nationwide.",
+      "translated_text": "1971년 8월 닉슨 대통령이 미국을 금본위에서 이탈시키는 행정명령을 내린 사건의 중요성과 규모는 아무리 강조해도 지나치지 않다. 이 결정은 엄청나게 근시안적인 경제적·정치적 행위였다. 어쩌면 은하급으로 멍청한 짓이었다.__INLINE_1____INLINE_2__ 미국이 금본위를 떠난 이후 달러는 금 기준으로 측정할 때 구매력의 98.5%를 잃었다.__INLINE_3____INLINE_4__ 내가 1970년대 십대였을 때 휘발유 가격은 갤런당 0.30달러였지만, 지금은 전국 평균이 4달러를 넘는다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a393\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2TP\" ns1:type=\"noteref\" class=\"class_s2T8\">7</html:a>",
+        "__INLINE_3__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2Z4\" />",
+        "__INLINE_4__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2TR\" ns1:type=\"noteref\" class=\"class_s2T8\">8</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[8]",
+      "tag": "p",
+      "source_text": "Theoretically, the U.S. Constitution has governed America for over 235 years (1789-2024). From the nation’s founding in 1789 until 1971, the U.S. currency was, in some way,__INLINE_1____INLINE_2__ linked to gold and silver. During these 182 years, the country made remarkable progress. We became the world’s leading industrial nation, won World War II, and were widely admired in 1946, America’s peak. Since then, we have lost our way, with money printing and inflation being significant factors in our decline.",
+      "translated_text": "이론적으로 미국 헌법은 235년 이상(1789-2024) 미국을 지배해 왔다. 1789년 건국부터 1971년까지 182년 동안 미국 통화는 어떤 식으로든__INLINE_1____INLINE_2__ 금과 은에 연결되어 있었다. 이 182년 동안 미국은 놀라운 진보를 이뤘다. 우리는 세계 최고의 산업국이 되었고, 제2차 세계대전에서 승리했으며, 미국의 정점이던 1946년에 널리 존경받았다. 그 이후 우리는 길을 잃었고, 돈 찍기와 인플레이션은 그 쇠퇴의 중요한 요인이 되었다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a323\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2TH\" ns1:type=\"noteref\" class=\"class_s2T8\">9</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[9]",
+      "tag": "p",
+      "source_text": "The primary driver of this inflation was the expansion of the underlying supply of money. Because it tracks cash in circulation, as well as deposits in banks and money market funds, M2 is the best measure of change in the money supply.",
+      "translated_text": "이 인플레이션의 주된 동인은 기저 화폐 공급의 팽창이었다. 유통 현금과 은행 예금, 머니마켓펀드 예금까지 추적하기 때문에 M2는 화폐 공급 변화의 최선의 척도다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[10]",
+      "tag": "p",
+      "source_text": "The following chart, sourced from the St. Louis Federal Reserve FRED database, shows the consistent and persistent growth in the money supply over the 53 years since we departed from the gold standard. In January 1971, the U.S. M2 balance was $663 billion. By October 2024, the U.S. M2 balance was $21,311 billion ($21.3 trillion). The compound annual growth rate during that period was 6.8%. This is the true measure of __INLINE_1__monetary inflation — not the heavily doctored statistics the U.S. government reports in its Consumer Price Index.",
+      "translated_text": "다음 차트는 세인트루이스 연방준비은행 FRED 데이터베이스에서 가져온 것으로, 금본위를 떠난 뒤 53년 동안 화폐 공급이 일관되고 지속적으로 증가했음을 보여준다. 1971년 1월 미국 M2 잔액은 6,630억 달러였다. 2024년 10월에는 21조 3,110억 달러(21.3조 달러)가 되었다. 이 기간 복합연평균성장률은 6.8%였다. 이것이 __INLINE_1__통화 인플레이션의 진짜 척도이며, 미국 정부가 CPI에서 발표하는 심하게 조작된 통계가 아니다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_35\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[11]",
+      "tag": "p",
+      "source_text": "Board of Governors of the Federal Reserve System, US Money Supply (in billions) 1959-2024, FRED, 2024, https://fred.stlouisfed.org/graph/?g=mQy7#",
+      "translated_text": "미국 연방준비제도 이사회, 미국 통화 공급(십억 달러 기준) 1959-2024, FRED, 2024, https://fred.stlouisfed.org/graph/?g=mQy7#",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[12]",
+      "tag": "p",
+      "source_text": "There is little doubt that the money supply growth shown in the chart above is the underlying cause of inflation. As the late economist and father of the monetarism theory of economics, Milton Friedman (1912-2006) said:",
+      "translated_text": "위 차트에 나타난 화폐 공급 증가가 인플레이션의 근본 원인이라는 점에는 거의 의심의 여지가 없다. 통화주의 경제학의 아버지이자 고(故) 경제학자 밀턴 프리드먼(1912-2006)은 이렇게 말했다:",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[13]",
+      "tag": "p",
+      "source_text": "Inflation is always and everywhere a monetary phenomenon, in the sense that it is and can only be produced by a more rapid increase in the quantity of money",
+      "translated_text": "인플레이션은 언제 어디서나 화폐적 현상이다. 즉, 그것은 오직 화폐 수량의 더 빠른 증가에 의해서만 생산될 수 있다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[14]",
+      "tag": "p",
+      "source_text": "—Milton Friedman",
+      "translated_text": "— 밀턴 프리드먼",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[15]",
+      "tag": "p",
+      "source_text": "Note how the slope of the line, which is a proxy for inflation (rate of growth), increased after 2008 and again in 2020. The rate of monetary growth (inflation) is getting worse. This is __INLINE_1__not a good trend, and we will discuss its implications in later chapters.",
+      "translated_text": "선의 기울기, 즉 인플레이션(성장률)의 대리 지표가 2008년 이후, 그리고 2020년에 다시 커졌다는 점에 주목하라. 화폐 성장률(인플레이션)은 더 악화되고 있다. 이것은 __INLINE_1__좋은 추세가 아니며, 그 함의는 뒤 장들에서 논의할 것이다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_36\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[16]",
+      "tag": "p",
+      "source_text": "Traditionally, gold has been the best form of protection against inflation. Since abandoning the gold standard, gold’s price has kept pace with, and slightly exceeded, the rate of growth of the money supply or “true inflation.” Gold’s price was $35/ounce in 1971, and it currently sits at around $2,650 per ounce (December 2024). This represents a compound annual increase of 8.3%. Holding gold actually protected you from inflation. Traditional investment managers often say that the U.S. stock market is better than gold as an inflation hedge, and this is true only if dividends are untaxed and reinvested. During the same time frame (1971-2024), the U.S. S&P Index grew by 7.8% compounded annually before dividends and 10.8% compounded with untaxed dividends reinvested.",
+      "translated_text": "전통적으로 금은 인플레이션에 대한 최고의 방어 수단이었다. 금본위를 포기한 이후 금 가격은 화폐 공급 증가율, 즉 “진짜 인플레이션”을 따라가거나 약간 웃돌았다. 금 가격은 1971년 온스당 35달러였고, 현재는 온스당 약 2,650달러(2024년 12월)다. 이는 연 8.3%의 복합 상승률을 뜻한다. 금을 보유한 사람은 실제로 인플레이션으로부터 보호받았다. 전통적 투자 관리자들은 미국 주식시장이 금보다 인플레이션 헤지 수단으로 더 낫다고 자주 말하지만, 이는 배당에 세금이 없고 재투자될 때만 사실이다. 같은 기간(1971-2024) 미국 S&P 지수는 배당 전 연복리 7.8%, 과세되지 않은 배당 재투자 포함 시 10.8% 성장했다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[17]",
+      "tag": "p",
+      "source_text": "Bloomberg, “Gold and S&P 500: 1971-2024.”",
+      "translated_text": "블룸버그, “금과 S&P 500: 1971-2024.”",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[18]",
+      "tag": "p",
+      "source_text": "This chart shows the price of gold (top line) and the price of the S&P 500 normalized from 1971 to the present. As you can see, over these 53 years, they have both appreciated by over 6000%. We will revisit this chart later, but it gives context to how much inflation we have endured.",
+      "translated_text": "이 차트는 1971년부터 현재까지 정규화한 금 가격(위 선)과 S&P 500 가격을 보여준다. 보다시피 지난 53년 동안 둘 다 6000% 넘게 상승했다. 나중에 이 차트를 다시 보겠지만, 우리가 얼마나 많은 인플레이션을 견뎌왔는지 맥락을 제공한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[19]",
+      "tag": "p",
+      "source_text": "Interestingly, the government claims that inflation during these 53 years has been 3.9% per year based on the U.S. CPI statistics compiled by the Bureau of Labor Statistics (BLS). Many statistical experts have debunked the notion that the CPI accurately captures inflation. John Williams of Shadow Government Statistics__INLINE_1____INLINE_2__ publishes an electronic newsletter that exposes and analyzes current U.S. government economic data flaws. He has done extensive work showing the mechanisms the BLS and the U.S. government use to understate inflation.",
+      "translated_text": "흥미롭게도 정부는 노동통계국(BLS)이 집계한 미국 CPI 통계를 근거로 지난 53년간 인플레이션이 연 3.9%였다고 주장한다. 그러나 많은 통계 전문가들은 CPI가 인플레이션을 정확히 포착한다는 생각을 반박해 왔다. Shadow Government Statistics의 John Williams__INLINE_1____INLINE_2__는 현재 미국 정부 경제 데이터의 결함을 폭로하고 분석하는 전자 뉴스레터를 발행한다. 그는 BLS와 미국 정부가 인플레이션을 축소하는 데 사용하는 메커니즘을 광범위하게 보여주는 작업을 해왔다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a32A\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a2Z0\" ns1:type=\"noteref\" class=\"class_s2T8\">10</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[20]",
+      "tag": "p",
+      "source_text": "Williams, an economist, first began deconstructing the quality of government statistics in a series of groundbreaking articles. His work resonated so profoundly with readers that he and the late Doug Gillespie joined forces to create Shadow Government Statistics, a popular component of his consulting firm catering to individuals and Fortune 500 companies. Having long warned that government inflation figures are misleading, Williams analyzed changes in the inflation index during Alan Greenspan’s tenure as the Federal Reserve Chairman. He noted that in the 1990s, government economists and Fed Chairman Greenspan argued that inflation was overstated. Greenspan pushed Congress to investigate the issue, which they did via The Boskin Commission. The Commission recommended an overhaul. The rationale behind these proposed modifications was to create a more accurate representation of inflation, but lower-stated inflation data also served their interests. Their revised calculations targeted four primary inputs:",
+      "translated_text": "경제학자인 윌리엄스는 획기적인 일련의 글에서 정부 통계의 질을 해부하기 시작했다. 그의 작업은 독자들에게 큰 반향을 일으켰고, 그는 고(故) 더그 길레스피와 힘을 합쳐 개인과 포춘 500 기업을 고객으로 둔 컨설팅 회사의 인기 부문인 Shadow Government Statistics를 만들었다. 정부 인플레이션 수치가 오해를 낳는다고 오래전부터 경고해 온 윌리엄스는 앨런 그린스펀이 연준 의장이던 시기의 인플레이션 지수 변화를 분석했다. 그는 1990년대에 정부 경제학자들과 그린스펀 의장이 인플레이션이 과대계상되었다고 주장했다고 지적했다. 그린스펀은 의회에 이 문제를 조사하라고 밀어붙였고, 의회는 보스킨 위원회를 통해 그렇게 했다. 위원회는 전면 개편을 권고했다. 제시된 수정의 명분은 더 정확한 인플레이션 표현을 만드는 것이었지만, 더 낮게 산출된 인플레이션 데이터 역시 그들의 이해관계에 부합했다. 개정 계산은 네 가지 주요 항목을 겨냥했다:",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[1]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__: This change assumes consumers switch to lower-cost alternatives when prices of certain goods rise. For example, if the price of beef went up, they anticipated that consumers would purchase a cheaper alternative like chicken. Now the price index reflects the chicken price but not the rising beef price.",
+      "translated_text": "__INLINE_1__: 이 변경은 특정 재화 가격이 오르면 소비자가 더 저렴한 대체재로 바꾼다고 가정한다. 예를 들어 쇠고기 가격이 오르면 소비자가 닭고기 같은 더 싼 대안을 산다고 예상한다. 이제 물가지수는 상승한 쇠고기 가격이 아니라 닭고기 가격을 반영한다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Substitution</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[2]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__: This modification factors in quality improvements in products, reducing reported price increases for goods that have been technologically enhanced. For example, if a car’s price increases by 10%, but it includes new features like anti-lock brakes, they would conclude that the real price did not increase because the consumer gets a better product.__INLINE_2____INLINE_3__",
+      "translated_text": "__INLINE_1__: 이 수정은 제품의 품질 개선을 반영해, 기술적으로 향상된 상품의 보고 가격 상승폭을 줄인다. 예를 들어 자동차 가격이 10% 올랐더라도 ABS 같은 새 기능이 들어갔다면 소비자가 더 좋은 제품을 받으므로 실제 가격은 오르지 않았다고 결론내린다.__INLINE_2____INLINE_3__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Hedonic Adjustments</html:span>",
+        "__INLINE_2__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a2TK\" />",
+        "__INLINE_3__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a368\" ns1:type=\"noteref\" class=\"class_s2T8\">11</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[3]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__: This technique gives less weight to items with rapidly increasing prices, correspondingly lowering the overall inflation rate.",
+      "translated_text": "__INLINE_1__: 이 기법은 가격이 빠르게 오르는 품목의 가중치를 낮춰 전체 인플레이션율을 그만큼 낮춘다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Geometric Weighting</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/ol[1]/li[4]/p[1]",
+      "tag": "p",
+      "source_text": "__INLINE_1__: This adjustment alters cost calculations for homeowners. Instead of using mortgage payments or home prices directly, the calculation inserts a plug figure that estimates what homeowners would pay to rent their own homes.",
+      "translated_text": "__INLINE_1__: 이 조정은 주택 소유자의 비용 계산을 바꾼다. 모기지 상환액이나 집값을 직접 쓰는 대신, 집주인이 자기 집을 임대한다고 가정했을 때 낼 임대료 추정치를 끼워 넣는다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" class=\"class_s2TM\">Owner’s Equivalent Rent</html:span>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[21]",
+      "tag": "p",
+      "source_text": "The following schedule compares the ShadowStats inflation (top line) to the government-reported CPI:",
+      "translated_text": "다음 도표는 ShadowStats 인플레이션(위 선)과 정부 발표 CPI를 비교한다:",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[22]",
+      "tag": "p",
+      "source_text": "Shadow Government Statistic, “Consumer-Inflation - Official vs ShadowStats (1980-Based) Alternate,” 2023. (__INLINE_1__)",
+      "translated_text": "Shadow Government Statistic, “소비자 인플레이션 - 공식치 vs ShadowStats (1980 기준) 대안치,” 2023. (__INLINE_1__)",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" href=\"https://shadowstats.com\">shadowstats.com</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[23]",
+      "tag": "p",
+      "source_text": "Here, Williams computes the ShadowStats (SGS) Alternate CPI as if the above four changes had not been implemented. The vertical axis is the rate of inflation. As you can see, SGS figures (top line) are substantially higher than reported inflation (lower line).",
+      "translated_text": "여기서 윌리엄스는 위 네 가지 변경이 시행되지 않았다고 가정하고 ShadowStats(SGS) 대체 CPI를 계산한다. 세로축은 인플레이션율이다. 보다시피 SGS 수치(위 선)는 발표된 인플레이션(아래 선)보다 상당히 높다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[24]",
+      "tag": "p",
+      "source_text": "The government changed the calculation of the inflation statistics for obvious political reasons. First, no one likes to hear about high inflation, and second, a large portion of government entitlement expenses are indexed to inflation, which means that they grow with higher inflation rates. Thus, politicians have a powerful incentive to lie or cook the books. If you want to understand why the government inflation statistics do not match your real-world experience, here is your reason.",
+      "translated_text": "정부가 정치적 이유로 인플레이션 통계 계산법을 바꿨다는 것은 자명하다. 첫째, 아무도 높은 인플레이션 소식을 듣기 좋아하지 않는다. 둘째, 정부의 많은 복지 지출이 인플레이션에 연동되어 있어서 인플레이션이 높을수록 지출도 커진다. 따라서 정치인은 거짓말하거나 장부를 조작할 강한 유인을 가진다. 왜 정부 인플레이션 통계가 당신의 현실 경험과 맞지 않는지 알고 싶다면, 바로 그 이유다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[25]",
+      "tag": "p",
+      "source_text": "I prefer to use the growth rate in the money supply as the best measure of true inflation. As discussed above, since 1971, the __INLINE_1__money supply has grown by 6.8% annually. This rate of inflation appears to be consistent with historical averages, though there have been periods when CPI inflation has not reflected this growth.",
+      "translated_text": "나는 진짜 인플레이션의 최선의 척도로 화폐 공급 성장률을 쓰는 편을 선호한다. 위에서 논의했듯 1971년 이후 __INLINE_1__통화 공급은 연 6.8% 성장했다. 이 인플레이션율은 역사적 평균과도 대체로 일치하는 듯하며, CPI 인플레이션이 이 성장을 반영하지 못한 시기도 있었다.",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_40\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[26]",
+      "tag": "p",
+      "source_text": "The correlation between the growth of the monetary aggregates and inflation is undeniable and relentless. However, this is a solvable problem. As we will uncover, returning to a sound money standard offers a path toward economic stability and fairness.",
+      "translated_text": "통화 총량 증가와 인플레이션의 상관관계는 부인할 수 없고 끈질기다. 그러나 이것은 해결 가능한 문제다. 우리가 밝혀내겠지만, 건전 화폐 표준으로 돌아가는 것은 경제 안정과 공정성으로 가는 길을 제공한다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[27]",
+      "tag": "p",
+      "source_text": "A long time ago, our forefathers understood this issue. On inflation, the prominent legislator and jurist Daniel Webster (1782-1852) remarked:",
+      "translated_text": "먼 옛날 선조들은 이 문제를 이해하고 있었다. 저명한 입법가이자 법률가인 대니얼 웹스터(1782-1852)는 인플레이션에 대해 이렇게 말했다:",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[28]",
+      "tag": "p",
+      "source_text": "Inflation is the surest way to fertilize the rich man’s field with the sweat of the poor man’s brow.",
+      "translated_text": "인플레이션은 가난한 자의 이마의 땀으로 부자의 밭에 거름을 주는 가장 확실한 방법이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[29]",
+      "tag": "p",
+      "source_text": "Regarding paper currency, which we will discuss in a minute, he also said:__INLINE_1____INLINE_2__",
+      "translated_text": "종이화폐에 관해서도, 우리가 곧 다루겠지만, 그는 이렇게 말했다:__INLINE_1____INLINE_2__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"a33T\" />",
+        "__INLINE_2__": "<html:a xmlns:html=\"http://www.w3.org/1999/xhtml\" xmlns:ns1=\"http://www.idpf.org/2007/ops\" href=\"part0023.xhtml#a33F\" ns1:type=\"noteref\" class=\"class_s2T8\">12</html:a>"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[30]",
+      "tag": "p",
+      "source_text": "We are in danger of being overwhelmed with irredeemable paper, mere paper, representing not gold nor silver; no sir, representing nothing but broken promises, bad faith, bankrupt corporations, cheated creditors and a ruined people.",
+      "translated_text": "우리는 상환 불가능한 종이, 그저 종이, 금도 은도 대표하지 않는 종이에 압도될 위험에 처해 있다. 아니, 그것은 아무것도 대표하지 않는다. 깨진 약속, 배신, 파산한 기업, 속은 채권자, 그리고 파괴된 국민만을 대표할 뿐이다.",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[31]",
+      "tag": "p",
+      "source_text": "— Daniel Webster",
+      "translated_text": "— 대니얼 웹스터",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[32]",
+      "tag": "p",
+      "source_text": "And Ludwig von Mises, a famous Austrian School economist, framed it correctly:",
+      "translated_text": "그리고 오스트리아 학파의 유명 경제학자 루트비히 폰 미제스는 이 문제를 정확히 짚었다:",
+      "inline_tokens": {}
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[33]",
+      "tag": "p",
+      "source_text": "The great inflations of our age are not acts of God. They are man-made or, to say it bluntly, government-made. They are off-shoots of doctrines that ascribe to governments the magic power __INLINE_1__of creating wealth out of nothing and of making people happy by raising the national income.",
+      "translated_text": "우리 시대의 대인플레이션은 천재지변이 아니다. 인간이 만든 것이고, 노골적으로 말하면 정부가 만든 것이다. 그것은 정부가 무에서 부를 창조하고 국민소득을 올려 사람들을 행복하게 만들 수 있다는 마법의 힘을 정부에 부여하는 교리의 부산물이다.__INLINE_1__",
+      "inline_tokens": {
+        "__INLINE_1__": "<html:span xmlns:html=\"http://www.w3.org/1999/xhtml\" id=\"page_41\" />"
+      }
+    },
+    {
+      "node_path": "/html[1]/body[1]/p[34]",
+      "tag": "p",
+      "source_text": "— Ludwig von Mises",
+      "translated_text": "— 루트비히 폰 미제스",
+      "inline_tokens": {}
+    }
+  ]
+}

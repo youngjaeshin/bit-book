@@ -1,0 +1,20 @@
+{
+  "chapter_id": "05-why-everyone-wants-dollars",
+  "answer_index": 1,
+  "question_en": "Why do people keep wanting dollars, according to the chapter?",
+  "choices_en": [
+    "Because dollars are perfectly sound money",
+    "Because the global system is still organized around them",
+    "Because inflation makes them scarcer",
+    "Because they cannot be created politically"
+  ],
+  "question_ko": "이 장에 따르면 사람들은 왜 계속 달러를 원하는가?",
+  "choices_ko": [
+    "달러가 완벽한 건전 화폐이기 때문에",
+    "세계 시스템이 여전히 달러를 중심으로 짜여 있기 때문에",
+    "인플레이션이 달러를 더 희소하게 만들기 때문에",
+    "정치적으로 달러를 더 만들 수 없기 때문에"
+  ],
+  "explanation_en": "Dollar demand persists because debt, trade, and institutional structures are still built around it.",
+  "explanation_ko": "부채, 무역, 제도 구조가 여전히 달러를 중심으로 짜여 있기 때문에 달러 수요가 지속된다고 본다."
+}

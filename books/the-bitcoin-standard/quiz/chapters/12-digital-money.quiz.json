@@ -1,0 +1,20 @@
+{
+  "chapter_id": "12-digital-money",
+  "answer_index": 1,
+  "question_en": "What is the central question in this unit?",
+  "choices_en": [
+    "Whether money is digital or analog",
+    "Whether scarcity and settlement still depend on centralized trust",
+    "Whether all payment apps are useful",
+    "Whether governments like cryptography"
+  ],
+  "question_ko": "이 단위의 중심 질문은 무엇인가?",
+  "choices_ko": [
+    "돈이 디지털인지 아날로그인지",
+    "희소성과 정산이 여전히 중앙집중적 신뢰에 의존하는지",
+    "모든 결제 앱이 유용한지",
+    "정부가 암호학을 좋아하는지"
+  ],
+  "explanation_en": "The key issue is whether digital money still relies on centralized trust bottlenecks.",
+  "explanation_ko": "핵심 쟁점은 디지털 화폐가 여전히 중앙집중적 신뢰 병목에 의존하는지 여부다."
+}

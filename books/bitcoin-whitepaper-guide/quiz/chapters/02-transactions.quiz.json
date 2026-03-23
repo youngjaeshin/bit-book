@@ -1,0 +1,20 @@
+{
+  "chapter_id": "02-transactions",
+  "answer_index": 2,
+  "question_en": "What does the transactions section show is still missing after digital signatures?",
+  "choices_en": [
+    "A larger block size",
+    "A trusted exchange rate",
+    "A way to prevent double-spending without a trusted third party",
+    "A central bank guarantee"
+  ],
+  "question_ko": "거래 장은 디지털 서명만으로는 무엇이 여전히 부족하다고 보여 주는가?",
+  "choices_ko": [
+    "더 큰 블록 크기",
+    "신뢰할 수 있는 환율",
+    "신뢰받는 제3자 없이 이중지불을 막는 방법",
+    "중앙은행 보증"
+  ],
+  "explanation_en": "Signatures establish authorization, but the system still needs a way to prevent double-spending without trust in a central authority.",
+  "explanation_ko": "서명은 권한은 보장하지만, 중앙 권위에 의존하지 않고 이중지불을 막을 방법이 여전히 필요하다."
+}
