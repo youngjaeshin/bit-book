@@ -4,4 +4,4 @@ That dependence is the real weakness. Classic still assumes miners can coordinat
 
 The Hong Kong roundtable is the attempt to turn that pressure into a settlement. Developers and miners sit together, Jihan Wu pushes for the hardfork to live inside Bitcoin Core, and the agreement that emerges tries to promise SegWit first and a hardfork later. The wording is slippery enough that both camps leave believing the other side has conceded more than it really did.
 
-That kind of deal buys time, but not legitimacy. The episode shows how far the conflict has moved from block size itself toward the constitutional question of who gets to define the roadmap. A permissionless monetary network cannot be held together by vague promises and informal interpretations forever.
+That kind of deal buys time, but not legitimacy. The episode shows how far the conflict has moved from block size itself toward the constitutional question of who gets to define the roadmap. A permissionless monetary network cannot be held together by vague promises and informal interpretations forever. The Hong Kong talks made clear that the question of activation mattered as much as the block size itself.

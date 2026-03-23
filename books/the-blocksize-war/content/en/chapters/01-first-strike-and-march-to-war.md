@@ -4,4 +4,4 @@ The argument underneath the headline is about Bitcoin's social contract. A syste
 
 Support letters from major companies and later compromise proposals such as BIP 103 show how fast the fight moves from engineering to legitimacy. The large-block camp wants decisive expansion, while the small-block camp will not accept a rushed hardfork just because a few prominent figures want one. Every attempt at a moderate path keeps running into the same wall: a change that feels practical to one side looks like coercion to the other.
 
-What starts like a product decision becomes a contest over who can define Bitcoin. The first strike makes the deeper war visible, and the rest of the conflict keeps circling back to that question of authority.
+What starts like a product decision becomes a contest over who can define Bitcoin. The first strike makes the deeper war visible, and the rest of the conflict keeps circling back to that question of authority. The move also exposed how quickly miners, companies, and full-node operators could be forced into a legitimacy test.
