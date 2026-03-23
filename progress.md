@@ -345,3 +345,4 @@
 - 2026-03-23 22:07 KST | executor | completed | 비트코인 필수 12권 단독 사이트 전권 재빌드 및 library-site 로컬 재빌드 완료
 - 2026-03-23 22:09 KST | executor | completed | 최종 검증: 샘플 3권 기준 단독 챕터 페이지에서 한국어 탭 기본 활성/퀴즈 한국어 기본 활성/이전다음 네비 존재 확인
 - 2026-03-23 22:08 KST | executor | completed | 템플릿/네비게이션 반영 후 12권 책 사이트 + library-site 전체 재빌드 완료
+- 2026-03-23 22:14 KST | executor | completed | 단독 책 사이트 다크 테마 보정 완료: chapter template에 library-reading-page body class/title 치환을 적용하고 전권 재빌드 후 KO 기본 탭/이전다음 네비를 재검증
