@@ -2,24 +2,8 @@
 
 ## Chapter Digest
 
-The first economics unit builds from scarcity outward. Scarcity is the condition that makes economic choice meaningful, and Bitcoin matters because it introduces absolute digital scarcity into a world where most digital objects are infinitely reproducible. From there the handbook moves through monetary premium, Gresham’s and Thiers’ laws, the Cantillon effect, and Schelling points, showing how money is not just a medium but a competitive social coordination technology.
+Scarcity is the starting point because money only matters when not everyone can have everything they want. The chapter links scarcity to price, competition, and monetary premium, showing how goods become more valuable than their use-value alone when they can reliably store purchasing power. Bitcoin enters here as the first digital asset that is irreproducible, independently verifiable, and terminally scarce, which separates it from ordinary software or copyable digital files.
 
-A repeated pattern ties these concepts together: when a monetary good is scarce and credible, it attracts premium and coordination. When a monetary regime is politically distorted, incentives shift toward spending weak money and saving strong money. Cantillon then explains that money enters economies unevenly and therefore redistributes power along its path. Bitcoin is presented as the antidote because its supply is inelastic and its issuance cannot be lobbied.
+That scarcity does more than protect savings. It gives trade and planning a common reference point, because people naturally converge on the asset that is the most liquid, the most salable, and the most trustworthy store of value available to them. Gresham's law and Schelling-point reasoning explain why a society tends to settle around one dominant medium of exchange, and why weaker money is pushed aside when a stronger alternative becomes available. The premium attached to inferior stores of value starts to bleed away once a better monetary good appears.
 
-The overall lesson is that economics begins with the properties of money itself. Scarcity, credibility, and salability do not just influence pricing; they determine which monetary standard people converge toward when uncertainty rises.
-
-## Key Takeaways
-
-- Absolute digital scarcity is Bitcoin’s foundational economic novelty.
-- Monetary premium accrues to goods that can serve monetary functions.
-- Good and bad money are selected differently depending on legal and market conditions.
-- New money benefits early recipients first through the Cantillon effect.
-- Money convergence follows Schelling-point logic.
-
-## Notable Terms / Claims
-
-- Scarcity
-- Monetary premium
-- Gresham’s Law
-- Cantillon effect
-- Schelling point
+The broader claim is that Bitcoin changes the selection environment itself. It introduces absolute digital scarcity into a world that had never had it, which means the comparison set for value storage and exchange is no longer limited to physical commodities or state-issued claims. Once that shift is in place, money stops looking like a neutral wrapper around trade and starts looking like the standard by which every other scarce thing is judged.

@@ -2,24 +2,8 @@
 
 ## Chapter Digest
 
-This unit turns from monetary selection to decision-making under hard money. Opportunity cost and time preference are treated as moral and economic disciplines that become sharper when money can reliably store value. If savings appreciate rather than melt away, every expenditure becomes more heavily weighted against the future. Bitcoin therefore changes behavior not by command, but by altering the quality of the benchmark used in intertemporal decisions.
+Opportunity cost is the price of choosing one future over another, and Bitcoin makes that price visible over long horizons. When money can preserve or increase purchasing power, every spending decision becomes a trade-off against a future balance that may be larger if left untouched. Hard money therefore pushes people to ask whether a present purchase is worth the option they are giving up later, which is a far more disciplined way to think than the consumption habits encouraged by inflationary money.
 
-The impossible trinity and Jevons paradox widen this into macro and energetic terms. Capital is mobile, constraints cannot all be satisfied at once, and efficiency gains often increase rather than reduce total use. Bitcoin reappears as a form of perfectly mobile capital and as a monetary system tied to energy usage in a way critics misunderstand. Its proof-of-work mechanism channels energy toward security, while its hardness intensifies opportunity-cost calculations across society.
+That discipline is tied directly to time preference. Inflationary systems reward immediacy because savings leak value while they wait, and that pressure turns credit access into a necessity rather than a convenience. Bitcoin reverses the pressure by making delay, saving, and capital formation more rational. The chapter's point is not that everyone becomes a perfectly patient investor, but that the environment no longer punishes long-term thinking in the same way.
 
-The common thread is that better money sharpens trade-offs. It does not remove constraint; it clarifies it.
-
-## Key Takeaways
-
-- Hard money makes opportunity cost more visible.
-- Time preference shifts when value can be preserved across time.
-- The impossible trinity limits sovereign monetary control.
-- Efficiency gains can increase resource use through Jevons paradox.
-- Bitcoin intensifies economic discipline by clarifying trade-offs.
-
-## Notable Terms / Claims
-
-- Opportunity cost
-- Time preference
-- Impossible trinity
-- Jevons paradox
-- Hard money discipline
+The impossible trinity carries the argument from individual choice to state policy. A country cannot simultaneously maintain free capital flows, a fixed exchange rate, and independent monetary policy, so central banking always hides trade-offs that must be paid somewhere. Bitcoin does not erase those trade-offs, but it makes them harder to bury, because it offers a hard asset outside the usual inflationary bargain. That is why the chapter treats hard money as a change in incentives as much as a change in investment returns.

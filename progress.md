@@ -353,3 +353,7 @@
 - 2026-03-24 00:41 KST | executor | completed | 전권 로컬 재빌드 및 HTML 검증 완료: KO 기본 읽기 HTML에서 금지 표현 미검출 확인
 - 2026-03-24 00:49 KST | executor | completed | 비트코인 필수 12권 KO 기본 읽기 전면 재작성 완료: 요약/퀴즈/HTML에서 `이 장은/이 단위는/서두는/원문 추출 기준으로 보면` 금지 표현 전권 미검출 확인
 - 2026-03-24 01:05 KST | executor | started | 전권 재요약 2차 착수: 기존 스타일 정규화 방식 폐기, 원문 분량 비례 직접 재요약 + 핵심포인트/용어 섹션 제거 + 10번 템플릿 요약 금지
+- 2026-03-24 01:32 KST | executor | started | 비트코인 사용 가이드 16-22 재요약 착수: mini-PC/Raspberry Pi, laptop install, remote access, mempool/RPC, Windows/Mac integration, Lightning setup/ops만 대상으로 다시 작성
+- 2026-03-24 00:06 KST | executor | completed | 원격 반영 완료: `main` 브랜치를 `origin`에 push (`b5c9e5d`까지)
+- 2026-03-24 00:08 KST | executor | completed | Vercel preview 배포 완료: https://bit-book-library-4yxgmntmf-forever5421-9079s-projects.vercel.app
+- 2026-03-24 00:24 KST | executor | completed | 최종 digest 재작성 반영 후 12권 책 사이트 + library-site 전체 재빌드 완료

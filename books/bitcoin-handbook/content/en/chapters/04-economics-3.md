@@ -2,24 +2,8 @@
 
 ## Chapter Digest
 
-The third economics unit examines nonlinear market structure. Power laws, winner-takes-all effects, unit bias, Veblen dynamics, malinvestment, asymmetric payoff, and the Ansoff matrix are all used to show that Bitcoin exists inside markets where small edges can compound into overwhelming dominance. Monetary systems are especially susceptible to this because liquidity and network effects reinforce one another.
+Power laws explain why small differences compound into large outcomes. The chapter uses that pattern to show that Bitcoin-related markets do not distribute value evenly. Mining, custody, address balances, hardware adoption, and other parts of the ecosystem tend to form long tails, where a few actors capture a disproportionate share of the activity. That is less a bug than a feature of systems in which tiny advantages can snowball over time.
 
-Bitcoin’s significance in this framework lies in its combination of scarcity and optionality. Unit bias obscures how small a share of the total monetary market Bitcoin still occupies. Asymmetric payoff clarifies why the asset can remain attractive before full monetization. Malinvestment and winner-takes-all effects explain why fiat distortion and network convergence can coexist: cheap money misallocates capital, while superior monetary networks still tend toward concentration.
+Those same dynamics lead naturally to winner-takes-all outcomes. Money is a network good, and network goods become more useful when users converge on the same standard. Liquidity, optionality, and portability all improve when one medium dominates, which is why monetary systems are pulled toward a common Schelling point. The chapter uses that logic to show that Bitcoin competes not as one asset among many but as a possible focal point for the whole network.
 
-This unit teaches that Bitcoin is not just competing on narrative but inside structural market laws that favor convergence, liquidity, and nonlinear upside.
-
-## Key Takeaways
-
-- Monetary networks often display power-law and winner-takes-all characteristics.
-- Unit bias distorts how people compare Bitcoin with other assets.
-- Asymmetric payoff matters before full monetization is complete.
-- Malinvestment reveals how distorted money misdirects capital.
-- Bitcoin competes inside structural market dynamics, not just ideology.
-
-## Notable Terms / Claims
-
-- Power law
-- Winner-takes-all
-- Unit bias
-- Malinvestment
-- Asymmetric payoff
+Unit bias is the main trap in this discussion. Looking only at the price of one bitcoin tells you almost nothing unless you also understand divisibility, supply, and market capitalization. The chapter pushes the reader away from superficial comparisons and toward structural thinking: what matters is not whether one unit looks expensive or cheap, but whether the asset can function as a durable store of value inside a global network. Once that lens is in place, Bitcoin's apparent complexity becomes a clue rather than a barrier.
