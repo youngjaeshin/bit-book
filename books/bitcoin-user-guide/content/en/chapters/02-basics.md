@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-02 Basics covers the procedures and judgment required to hold, move, and recover bitcoin directly. Wallet creation, backup, recovery, signing, and transfer form the practical structure of self-custody.
-The key issue is not memorizing devices or apps, but understanding how each choice affects security, recoverability, privacy, and protection against mistakes. The user must act less like a service consumer and more like an operator of personal monetary infrastructure.
-Self-custody expands control by increasing responsibility. Managing keys directly and preparing backup and recovery paths are the conditions that allow Bitcoin to survive outside institutional control.
+Self-custody begins with the accounting model behind Bitcoin. BTC and sats, balance and UTXO thinking, air-gapped and watch-only wallets, PSBTs, xpubs, derivation paths, address reuse, and gap limits all belong to the same operational picture rather than separate trivia. Even the warnings about dice entropy, passphrases, the 5-dollar wrench attack, and KYC/travel-rule friction sit in the same frame because custody is always a mix of security, recovery, and privacy.
 
-## Key Takeaways
+Transaction size and fee pressure matter just as much as key storage. The chapter links UTXO structure to mempool behavior so the reader can understand why consolidation changes future costs, why multiple inputs make fees rise, and why address discipline affects both privacy and operational simplicity. Knowing how transactions are signed, how addresses are derived, and how invoices or Lightning addresses fit into the picture makes the later wallet chapters much easier to follow.
 
-- 02 Basics focuses on the operating structure of self-custody.
-- Security and recoverability govern tool choice.
-- Direct signing and transfer reduce third-party dependence.
-- Backups and recovery are essential parts of custody.
-- More control means more responsibility.
-
-## Notable Terms / Claims
-
-- 02 Basics
-- Self-custody
-- Backup
-- Recovery
-- Signing
+The result is a working map rather than a glossary. Once the user understands what needs to stay secret, what can be monitored, and which trade-offs come with each wallet type, the rest of the book becomes a sequence of decisions instead of a pile of device names.

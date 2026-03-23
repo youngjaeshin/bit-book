@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-07 Personal Wallet To Exchange covers the procedures and judgment required to hold, move, and recover bitcoin directly. Wallet creation, backup, recovery, signing, and transfer form the practical structure of self-custody.
-The key issue is not memorizing devices or apps, but understanding how each choice affects security, recoverability, privacy, and protection against mistakes. The user must act less like a service consumer and more like an operator of personal monetary infrastructure.
-Self-custody expands control by increasing responsibility. Managing keys directly and preparing backup and recovery paths are the conditions that allow Bitcoin to survive outside institutional control.
+Sending bitcoin back out of a personal wallet is the reverse of the previous chapter, but the decision pressure is similar. The guide traces the path from a personal wallet to an overseas exchange and then from that exchange to a domestic exchange where KRW can finally be withdrawn to a bank account, because the travel-rule and fiat-off-ramp constraints make the route matter.
 
-## Key Takeaways
+The important part is not just choosing the right platform but choosing the right destination and keeping every address and transfer step exact. A mistake at this stage can turn a simple cash-out into a long recovery exercise, so the chapter stays focused on careful routing, accurate addresses, and the clean distinction between bitcoin custody and fiat withdrawal.
 
-- 07 Personal Wallet To Exchange focuses on the operating structure of self-custody.
-- Security and recoverability govern tool choice.
-- Direct signing and transfer reduce third-party dependence.
-- Backups and recovery are essential parts of custody.
-- More control means more responsibility.
-
-## Notable Terms / Claims
-
-- 07 Personal Wallet To Exchange
-- Self-custody
-- Backup
-- Recovery
-- Signing
+The broader message is that self-custody does not mean never touching an exchange again. It means using exchanges only when they serve a specific purpose, and always with a clear understanding of where control is being handed over and when it is being reclaimed.

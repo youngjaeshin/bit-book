@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-26 Nostr Basics examines a Nostr environment where identity, messaging, and payment-adjacent tools are tied together by keys. Relay choice, client choice, key handling, and integration with longer-form publishing all belong to the problem of sustaining a portable online identity.
-Nostr differs from platform accounts because users can move between clients and relays without giving up the identity rooted in their keys. Convenience and responsibility therefore shift together; the user is no longer just an account holder but an operator of identity.
-Its connection to Bitcoin lies in a shared key-sovereignty model. Learning Nostr becomes part of learning how decentralized systems preserve identity and expression without returning control to a central platform.
+Nostr is introduced as a response to the failures of existing social media. The chapter explains why key-based identity matters, how clients and relays separate the user from platform custody, how events and NIPs define the protocol, and why portable identity changes the meaning of logging in and following people online.
 
-## Key Takeaways
+The technical pieces are kept grounded in normal use. DMs, end-to-end encryption, zaps, NWC, and relay or list filters all show that Nostr is not just a philosophical idea about censorship resistance; it is a practical system for publishing, messaging, and receiving value without handing the core identity to a single company.
 
-- Nostr assumes key-based identity rather than platform custody.
-- Client and relay choices affect censorship resistance and convenience.
-- Portable identity is a core design goal.
-- Bitcoin and Nostr share a sovereignty-through-keys logic.
-- Online activity also requires operational literacy.
-
-## Notable Terms / Claims
-
-- 26 Nostr Basics
-- Key-based identity
-- Relay
-- Client
-- Censorship resistance
+The chapter makes the connection to Bitcoin explicit by treating private keys as the common source of control. Money and social identity are not the same thing, but they are governed by the same instinct here: if the key is yours, the relationship is yours.

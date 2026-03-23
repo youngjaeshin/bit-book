@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-23 Lightning Remote Access And Settings covers the infrastructure required to verify Bitcoin directly. Node installation, sync, storage choices, remote access, watch-only integration, mempool usage, and RPC access all belong to the effort to stop trusting someone else's ledger by default.
-A node is not just a program left running in the background. It is a concrete choice about which data to validate independently, how to connect wallets and services, and what trade-offs to accept in hardware, networking, backup, and maintenance.
-Verification completes self-custody. Keys can remain in the user's hands while balance checks and transaction truth are still outsourced. Running a node closes that gap and restores a fuller form of monetary independence.
+Remote Lightning control is about carrying the node with you without handing it to a custodian. The chapter uses Tor and Tailscale to connect Zeus to the node from outside the local network, so the user can check balances, open tools, and manage payments without being physically next to the machine.
 
-## Key Takeaways
+The rest of the chapter is about shaping the node’s behavior. Network settings, personal settings, channel settings, routing rules, and watchtower options all influence how safe, private, and useful the node becomes once it is being used in earnest. A Lightning node is therefore not a fixed appliance; it is a system whose defaults should be tuned to the operator’s habits.
 
-- Full nodes provide independent transaction and balance verification.
-- Installation and integration decisions affect durability and privacy.
-- Self-custody becomes stronger when paired with self-verification.
-- Reducing external service dependence increases operational control.
-- Sustainable maintenance matters as much as first-time setup.
-
-## Notable Terms / Claims
-
-- 23 Lightning Remote Access And Settings
-- Full node
-- Watch-only
-- Remote access
-- Verification
+The combination of remote access and settings makes Lightning feel closer to a personal service than a hosted product. The user keeps the keys, keeps the routing decisions, and keeps the ability to change course as conditions change.

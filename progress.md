@@ -361,3 +361,4 @@
 - 2026-03-24 00:50 KST | executor | started | 최신 12권 서가 상태를 production Vercel 배포로 반영 시작
 - 2026-03-24 00:51 KST | executor | completed | Vercel production 배포 완료: https://bit-book-library.vercel.app
 - 2026-03-24 01:12 KST | executor | completed | `비트코인 핸드북`/`비트코인 블록사이즈 전쟁` 재요약 반영 후 책 사이트와 library-site 재빌드 완료
+- 2026-03-24 01:22 KST | executor | completed | `비트코인 사용 가이드` 재요약 반영 후 책 사이트와 library-site 재빌드 완료

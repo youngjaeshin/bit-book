@@ -2,22 +2,6 @@
 
 ## Chapter Digest
 
-15 Umbrel Home covers the infrastructure required to verify Bitcoin directly. Node installation, sync, storage choices, remote access, watch-only integration, mempool usage, and RPC access all belong to the effort to stop trusting someone else's ledger by default.
-A node is not just a program left running in the background. It is a concrete choice about which data to validate independently, how to connect wallets and services, and what trade-offs to accept in hardware, networking, backup, and maintenance.
-Verification completes self-custody. Keys can remain in the user's hands while balance checks and transaction truth are still outsourced. Running a node closes that gap and restores a fuller form of monetary independence.
+Umbrel Home is the simplest path for people who want a node appliance instead of building one from scratch. The chapter focuses on buying the device and getting it ready, which makes the trade-off explicit: higher convenience, less assembly work, and a faster route to a working node for someone who values time and a cleaner setup.
 
-## Key Takeaways
-
-- Full nodes provide independent transaction and balance verification.
-- Installation and integration decisions affect durability and privacy.
-- Self-custody becomes stronger when paired with self-verification.
-- Reducing external service dependence increases operational control.
-- Sustainable maintenance matters as much as first-time setup.
-
-## Notable Terms / Claims
-
-- 15 Umbrel Home
-- Full node
-- Watch-only
-- Remote access
-- Verification
+The appeal is not technical novelty but reduced friction. For users who do not want to spend time choosing boards, wiring storage, or diagnosing a custom machine, Umbrel Home turns node operation into a plug-in-and-learn experience. The chapter is short because the point is straightforward: pay for simplicity if simplicity is what gets you to self-sovereignty sooner.

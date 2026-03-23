@@ -24,20 +24,16 @@
         <article class="card lang-panel" data-lang="en"><div class="digest">
 <h2>19 Mempool Rpc And Reachable Node</h2>
 <h3>Chapter Digest</h3>
-<p>19 Mempool Rpc And Reachable Node covers the infrastructure required to verify Bitcoin directly. Node installation, sync, storage choices, remote access, watch-only integration, mempool usage, and RPC access all belong to the effort to stop trusting someone else&#x27;s ledger by default. A node is not just a program left running in the background. It is a concrete choice about which data to validate independently, how to connect wallets and services, and what trade-offs to accept in hardware, networking, backup, and maintenance. Verification completes self-custody. Keys can remain in the user&#x27;s hands while balance checks and transaction truth are still outsourced. Running a node closes that gap and restores a fuller form of monetary independence.</p>
-<h3>Key Takeaways</h3>
-<ul><li>Full nodes provide independent transaction and balance verification.</li><li>Installation and integration decisions affect durability and privacy.</li><li>Self-custody becomes stronger when paired with self-verification.</li><li>Reducing external service dependence increases operational control.</li><li>Sustainable maintenance matters as much as first-time setup.</li></ul>
-<h3>Notable Terms / Claims</h3>
-<ul><li>19 Mempool Rpc And Reachable Node</li><li>Full node</li><li>Watch-only</li><li>Remote access</li><li>Verification</li></ul>
+<p>Mempool tools and RPC commands turn a node into something the user can interrogate directly. The chapter shows how to connect a mempool app, how to use an RPC explorer, and how to issue commands from the terminal so the node’s state can be inspected without guessing or waiting for a third-party website to explain it.</p>
+<p>Reachability is the second half of the story. The guide works through the question of whether the node is reachable from outside, then shows how anonymous-network access, clearnet reachability, router port forwarding, ISP router settings, and firewall adjustments all affect whether inbound connections can actually happen. The point is not cosmetic exposure; it is genuine participation in the network.</p>
+<p>By the end, the reader can check whether the node is useful only locally or whether it can be found and used by peers. That difference matters because it decides how much the user’s node contributes to the network rather than merely observing it.</p>
 </div></article>
         <article class="card lang-panel active" data-lang="ko"><div class="digest">
 <h2>멤풀/RPC/도달 가능한 노드</h2>
 <h3>요약</h3>
-<p>멤풀/RPC/도달 가능한 노드는 비트코인을 직접 검증하는 기반을 다룬다. 풀 노드 설치, 동기화, 저장 장치 선택, 외부 접속, 워치온리 지갑 연동, 멤풀과 RPC 사용은 모두 제3자의 장부를 그대로 믿지 않기 위한 절차다. 노드는 단지 프로그램 하나를 켜 두는 일이 아니다. 어떤 데이터를 내려받고, 무엇을 독립적으로 확인하며, 어떤 방식으로 다른 지갑과 서비스를 연결할지를 스스로 결정하는 작업이다. 그래서 하드웨어 선택, 네트워크 설정, 백업과 유지보수의 중요성도 함께 커진다. 검증 가능성은 자기보관의 완성형에 가깝다. 키를 직접 쥐고 있더라도 거래와 잔고 확인을 계속 외부 서비스에 맡긴다면 주권은 절반만 확보된다. 노드 운영은 바로 그 남은 절반을 메우는 과정이다.</p>
-<h3>핵심 포인트</h3>
-<ul><li>풀 노드는 거래와 잔고를 독립적으로 검증하기 위한 기반이다.</li><li>설치와 연동 문제는 저장 장치, 네트워크, 지갑 연결 방식과 함께 다뤄야 한다.</li><li>자기보관은 노드 검증과 결합될 때 더 완전해진다.</li><li>외부 서비스 의존을 줄일수록 프라이버시와 통제권이 커진다.</li><li>운영 편의보다 검증 가능성과 지속 가능한 유지보수가 중요하다.</li></ul>
-<h3>중요 용어 / 주장</h3>
-<ul><li>멤풀/RPC/도달 가능한 노드</li><li>풀 노드</li><li>워치온리</li><li>외부 접속</li><li>검증</li></ul>
+<p>멤풀 도구와 RPC 명령은 노드를 사용자가 직접 질문할 수 있는 대상으로 바꿔 준다. 이 장은 멤풀 앱을 연결하는 방법, RPC 익스플로러를 쓰는 방법, 터미널에서 RPC 명령을 내리는 방법을 보여 주면서, 제3자 웹사이트의 설명 없이도 노드 상태를 확인할 수 있게 만든다.</p>
+<p>도달 가능성은 그 다음 축이다. 노드가 외부에서 닿을 수 있는지 따져 보고, 익명 네트워크 접속, 클리어넷 도달성, 공유기 포트 포워딩, ISP 공유기 설정, 방화벽 조정이 인바운드 연결에 어떤 영향을 주는지를 따라간다. 여기서 목적은 겉으로 보이기 위한 노출이 아니라 실제 네트워크 참여다.</p>
+<p>마지막에는 노드가 로컬에서만 유용한지, 아니면 다른 피어가 찾아와 쓸 수 있는지 스스로 점검할 수 있게 된다. 그 차이는 내 노드가 네트워크를 단순히 바라보는지, 아니면 네트워크에 실제로 기여하는지를 가르기 때문이다.</p>
 </div></article>
       </section>
       <section class="card quiz-card">

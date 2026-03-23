@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-04 Seedsigner Wallet covers the procedures and judgment required to hold, move, and recover bitcoin directly. Wallet creation, backup, recovery, signing, and transfer form the practical structure of self-custody.
-The key issue is not memorizing devices or apps, but understanding how each choice affects security, recoverability, privacy, and protection against mistakes. The user must act less like a service consumer and more like an operator of personal monetary infrastructure.
-Self-custody expands control by increasing responsibility. Managing keys directly and preparing backup and recovery paths are the conditions that allow Bitcoin to survive outside institutional control.
+SeedSigner is shown as a more hands-on air-gapped wallet path built from Raspberry Pi Zero hardware and open software. The chapter walks through checking the image file on Windows and Mac, flashing the boot microSD card, removing the wireless module when needed, and assembling the device before a wallet ever exists, so the reader sees that the trust model begins at the build stage rather than at first launch.
 
-## Key Takeaways
+Once the device is assembled, the focus shifts to wallet creation, seed QR generation, and importing that seed either by typing the mnemonic or scanning the QR code. Watch-only exports into BlueWallet, Nunchuk, and Coconut Wallet repeat the same monitoring pattern used with Keystone, but the hands-on build gives the user a deeper sense of what an air-gapped device is actually protecting. Signing practice and recovery tests make that protection operational instead of symbolic.
 
-- 04 Seedsigner Wallet focuses on the operating structure of self-custody.
-- Security and recoverability govern tool choice.
-- Direct signing and transfer reduce third-party dependence.
-- Backups and recovery are essential parts of custody.
-- More control means more responsibility.
-
-## Notable Terms / Claims
-
-- 04 Seedsigner Wallet
-- Self-custody
-- Backup
-- Recovery
-- Signing
+The final twist, turning the device into a small game console, fits the same philosophy. SeedSigner is not just a niche wallet; it is a compact lesson in how open hardware, careful verification, and a deliberately offline workflow can be combined into something the user understands from the inside out.

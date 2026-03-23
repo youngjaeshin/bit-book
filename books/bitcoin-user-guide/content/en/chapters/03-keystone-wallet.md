@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-03 Keystone Wallet covers the procedures and judgment required to hold, move, and recover bitcoin directly. Wallet creation, backup, recovery, signing, and transfer form the practical structure of self-custody.
-The key issue is not memorizing devices or apps, but understanding how each choice affects security, recoverability, privacy, and protection against mistakes. The user must act less like a service consumer and more like an operator of personal monetary infrastructure.
-Self-custody expands control by increasing responsibility. Managing keys directly and preparing backup and recovery paths are the conditions that allow Bitcoin to survive outside institutional control.
+Keystone is presented as a practical first hardware wallet for many users in Korea because the touch screen, QR workflow, and straightforward recovery process reduce friction without abandoning self-custody. The setup starts with the physical basics: the right charger, a microSD card, formatting the card, downloading the bitcoin-only firmware, and checking that the device and firmware have not been tampered with before any funds are involved.
 
-## Key Takeaways
+The wallet creation flow is deliberately cautious. After device verification and firmware validation, the guide moves into generating the wallet, preconfiguring the device, and exporting the extended public key into BlueWallet, Nunchuk, and Coconut Wallet so the phone apps can be used as watch-only companions. Those watch-only setups are then used to practice signing from each app, which turns the wallet from a device on a desk into a full custody workflow that can be observed, tested, and repeated.
 
-- 03 Keystone Wallet focuses on the operating structure of self-custody.
-- Security and recoverability govern tool choice.
-- Direct signing and transfer reduce third-party dependence.
-- Backups and recovery are essential parts of custody.
-- More control means more responsibility.
-
-## Notable Terms / Claims
-
-- 03 Keystone Wallet
-- Self-custody
-- Backup
-- Recovery
-- Signing
+Recovery closes the loop. The chapter does not treat backup as an afterthought; it makes recovery part of the normal operating sequence so the user learns how to restore the wallet after a deletion, a reset, or an unexpected failure. Keystone ends up as a lesson in verifying hardware, separating signing from monitoring, and building a custody setup that can be recovered calmly rather than improvised under pressure.

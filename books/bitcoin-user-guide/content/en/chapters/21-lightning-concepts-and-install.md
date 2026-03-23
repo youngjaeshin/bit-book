@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-21 Lightning Concepts And Install covers the second-layer operating logic required for fast Bitcoin payments. Installation, channel management, liquidity, receiving setup, and payment flow introduce a different operational mindset from ordinary on-chain usage.
-Lightning is not merely a cheaper payment rail. Routing, inbound and outbound liquidity, channel balance, and connection quality all shape whether payments succeed in practice. The user becomes part operator as well as part customer.
-Understanding this layer makes Bitcoin appear as a live payment network rather than only a savings technology. Setup and operation extend monetary sovereignty into repeated, small, and everyday transactions.
+Lightning is introduced as the layer that lets Bitcoin move from settlement rail to everyday payment rail. The chapter explains channels, inbound and outbound liquidity, multi-path payments, HTLCs, and the difference between cooperative and uncooperative closure so the reader can see why channel management is not a side issue but the mechanism that makes fast payments possible.
 
-## Key Takeaways
+That theory leads straight into node choice and installation. LND and Core Lightning are treated as real operating options, not abstract names, and RTL is added as the interface that makes the node usable from a browser or phone. The important distinction is still the same one found throughout the book: a wallet that someone else runs feels easy, but a node the user runs changes the balance of control.
 
-- Lightning combines payment use with ongoing channel operations.
-- Liquidity management determines practical payment capacity.
-- Post-install operation matters as much as setup.
-- Lightning extends Bitcoin into everyday payments.
-- Payment sovereignty grows with network understanding.
-
-## Notable Terms / Claims
-
-- 21 Lightning Concepts And Install
-- Channels
-- Liquidity
-- Routing
-- Payment sovereignty
+Once the installation is complete, Lightning stops being a slogan and becomes a system the reader can maintain, inspect, and route payments through on purpose.

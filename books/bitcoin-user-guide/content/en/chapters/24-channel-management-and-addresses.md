@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-24 Channel Management And Addresses covers the procedures and judgment required to hold, move, and recover bitcoin directly. Wallet creation, backup, recovery, signing, and transfer form the practical structure of self-custody.
-The key issue is not memorizing devices or apps, but understanding how each choice affects security, recoverability, privacy, and protection against mistakes. The user must act less like a service consumer and more like an operator of personal monetary infrastructure.
-Self-custody expands control by increasing responsibility. Managing keys directly and preparing backup and recovery paths are the conditions that allow Bitcoin to survive outside institutional control.
+Channel management is where Lightning becomes operational rather than merely installed. The chapter explains routing fees, shows what happens when a single node absorbs too much liquidity, and then walks through channel-specific fee tweaks, minimum and maximum HTLC settings, and the more important judgment call of choosing better peers instead of endlessly tuning fees.
 
-## Key Takeaways
+Closing channels and backing up the SCB file show that maintenance is not optional. The user has to know how to shut channels down cleanly and how to recover the watch-only and channel state if the node has to be rebuilt. That same operational discipline extends to Lightning addresses, where Alby and Amboss are used to publish node identity, set profiles, and make the node discoverable.
 
-- 24 Channel Management And Addresses focuses on the operating structure of self-custody.
-- Security and recoverability govern tool choice.
-- Direct signing and transfer reduce third-party dependence.
-- Backups and recovery are essential parts of custody.
-- More control means more responsibility.
-
-## Notable Terms / Claims
-
-- 24 Channel Management And Addresses
-- Self-custody
-- Backup
-- Recovery
-- Signing
+The chapter makes public identity and channel health feel like the same problem from different angles. A well-run Lightning node is one that can be found, trusted, and repaired when necessary.

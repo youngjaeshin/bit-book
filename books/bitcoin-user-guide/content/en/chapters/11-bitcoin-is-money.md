@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-11 Bitcoin Is Money addresses the practical requirements of using bitcoin as money. Custodial and non-custodial wallets, on-chain and Lightning payments, and offline or online merchant flows all force trade-offs between convenience and control.
-To say that bitcoin is money is to say that it can be received, sent, settled, and accounted for under real conditions. That makes trust assumptions, settlement speed, and operational complexity part of monetary understanding rather than side topics.
-Payment practice turns bitcoin from a quoted asset into a working medium of exchange. It also connects directly back to self-custody, node verification, and Lightning operations, which is why payment literacy matters for monetary sovereignty.
+Bitcoin is argued to be money because it can function as a medium of exchange, a store of value, and a unit of account rather than just a speculative asset. The chapter lays those functions out in plain terms and then ties them to the network’s layered structure, where on-chain settlement and Lightning payments serve different purposes inside the same monetary system.
 
-## Key Takeaways
+That distinction matters because most everyday payments do not need the same settlement path as long-term savings. Lightning gives Bitcoin a fast payment layer, while the on-chain layer remains the durable base that anchors final settlement. The reader is pushed to see that payment experience is not a side show; it is where Bitcoin’s monetary character becomes visible in ordinary life.
 
-- Payment choices balance convenience against control.
-- Custodial and non-custodial systems carry different trust costs.
-- On-chain and Lightning serve different payment contexts.
-- Merchant workflows bring monetary sovereignty into daily life.
-- Bitcoin's monetary claim is tested in payment practice.
-
-## Notable Terms / Claims
-
-- 11 Bitcoin Is Money
-- Custody
-- Non-custody
-- On-chain payments
-- Lightning payments
+The practical takeaway is simple but forceful: a currency proves itself when it can be used. The chapter argues that direct spending, saving, and accounting in bitcoin are what make the claim “Bitcoin is money” concrete enough to matter.

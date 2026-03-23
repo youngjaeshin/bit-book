@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-16 Mini Pc And Raspberry Pi covers the infrastructure required to verify Bitcoin directly. Node installation, sync, storage choices, remote access, watch-only integration, mempool usage, and RPC access all belong to the effort to stop trusting someone else's ledger by default.
-A node is not just a program left running in the background. It is a concrete choice about which data to validate independently, how to connect wallets and services, and what trade-offs to accept in hardware, networking, backup, and maintenance.
-Verification completes self-custody. Keys can remain in the user's hands while balance checks and transaction truth are still outsourced. Running a node closes that gap and restores a fuller form of monetary independence.
+A mini PC or Raspberry Pi 5 gives the user a more hands-on node build than Umbrel Home. The chapter covers the physical parts, BIOS memory settings, external storage preparation, USB creation, and the UmbrelOS installation flow, then repeats the same logic for Raspberry Pi hardware with attention to SSD booting, assembly, and what to do if the machine fails to start cleanly.
 
-## Key Takeaways
+The important lesson is that storage reliability and boot discipline matter more than marketing labels. A full node writes constantly, so the choice of SSD, the format, and the assembly order all shape whether the machine becomes a dependable ledger copy or a frustrating maintenance project. The chapter keeps the user focused on the practical differences between a small x86 box and a Raspberry Pi setup.
 
-- Full nodes provide independent transaction and balance verification.
-- Installation and integration decisions affect durability and privacy.
-- Self-custody becomes stronger when paired with self-verification.
-- Reducing external service dependence increases operational control.
-- Sustainable maintenance matters as much as first-time setup.
-
-## Notable Terms / Claims
-
-- 16 Mini Pc And Raspberry Pi
-- Full node
-- Watch-only
-- Remote access
-- Verification
+By the end, the reader can choose the device class that fits the budget and the room available, while still keeping the same standard in mind: the node should be something the user can own, understand, and keep running.

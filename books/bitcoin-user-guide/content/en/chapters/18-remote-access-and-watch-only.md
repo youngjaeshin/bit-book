@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-18 Remote Access And Watch Only covers the infrastructure required to verify Bitcoin directly. Node installation, sync, storage choices, remote access, watch-only integration, mempool usage, and RPC access all belong to the effort to stop trusting someone else's ledger by default.
-A node is not just a program left running in the background. It is a concrete choice about which data to validate independently, how to connect wallets and services, and what trade-offs to accept in hardware, networking, backup, and maintenance.
-Verification completes self-custody. Keys can remain in the user's hands while balance checks and transaction truth are still outsourced. Running a node closes that gap and restores a fuller form of monetary independence.
+Remote access is what turns a node from a box in a room into something useful on the move. The chapter uses Tailscale to let the user reach Umbrel from elsewhere, then installs Electrs so watch-only wallets can read balances and transactions from the user’s own infrastructure instead of from a third-party explorer.
 
-## Key Takeaways
+BlueWallet, Nunchuk, Coconut Wallet, and Sparrow are then connected to that node, either on the local network or through Tor. The result is a monitoring setup where private keys stay elsewhere while the node provides the balance and transaction view, making the watch-only model feel like a natural extension of self-custody rather than a compromise.
 
-- Full nodes provide independent transaction and balance verification.
-- Installation and integration decisions affect durability and privacy.
-- Self-custody becomes stronger when paired with self-verification.
-- Reducing external service dependence increases operational control.
-- Sustainable maintenance matters as much as first-time setup.
-
-## Notable Terms / Claims
-
-- 18 Remote Access And Watch Only
-- Full node
-- Watch-only
-- Remote access
-- Verification
+The chapter also shows that remote access is not only about convenience. It reduces the temptation to fall back on outside services whenever the user is away from the node, which keeps the habit of verification tied to the user’s own hardware.

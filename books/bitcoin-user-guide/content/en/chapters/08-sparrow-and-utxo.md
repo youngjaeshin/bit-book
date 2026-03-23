@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-08 Sparrow And Utxo focuses on the operating decisions required to store and move bitcoin well. Wallet configuration, UTXO selection, fee estimation, PSBT signing, and transaction broadcast all connect directly to security, privacy, and cost control.
-The main task is not memorizing screens but understanding how transaction structure affects future fees, recoverability, and traceability. Small procedural choices compound into a distinct long-run style of asset management.
-Direct monetary control ultimately means deciding how transactions are built and under what conditions they are finalized. The better a user understands UTXO structure and fee mechanics, the more predictable, private, and efficient that control becomes.
+Sparrow is used here as the control room for UTXO-aware Bitcoin spending. The chapter installs Sparrow, connects it to a full node, turns it into a watch-only companion, and then uses coin selection and PSBT flows to show why transaction construction is really about choosing inputs, outputs, and change before a signature is ever made.
 
-## Key Takeaways
+UTXO consolidation is the main practical example. By grouping small coins into cleaner denominations, the user learns that fees, privacy, and future spendability are all affected by the shape of the coin set. The chapter also shows how many-input transactions can overrun lightweight air-gapped devices, which is a useful reminder that the wallet interface, the signer’s memory, and the transaction design all have to fit together.
 
-- 08 Sparrow And Utxo combines transaction design with cost control.
-- UTXO management and fee decisions also shape privacy and security.
-- PSBT flow is part of the basic self-custody stack.
-- Verification matters more than convenience.
-- Transaction design determines the long-run quality of wallet operations.
-
-## Notable Terms / Claims
-
-- 08 Sparrow And Utxo
-- UTXO
-- Fees
-- Signing
-- Privacy
+By the end, Sparrow feels less like an app and more like an operations desk. It lets the user inspect the coin set, plan a consolidation path, move the unsigned transaction to a signing device, and return with a signed result that can be broadcast with confidence.

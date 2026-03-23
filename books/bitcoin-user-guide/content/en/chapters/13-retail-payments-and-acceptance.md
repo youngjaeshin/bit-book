@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-13 Retail Payments And Acceptance addresses the practical requirements of using bitcoin as money. Custodial and non-custodial wallets, on-chain and Lightning payments, and offline or online merchant flows all force trade-offs between convenience and control.
-To say that bitcoin is money is to say that it can be received, sent, settled, and accounted for under real conditions. That makes trust assumptions, settlement speed, and operational complexity part of monetary understanding rather than side topics.
-Payment practice turns bitcoin from a quoted asset into a working medium of exchange. It also connects directly back to self-custody, node verification, and Lightning operations, which is why payment literacy matters for monetary sovereignty.
+Retail payment becomes the test case for the “Bitcoin is money” claim. The chapter moves from buying a coffee with Bitcoin at an offline shop to ordering a product online and receiving it by delivery, showing that the same payment rail can work in both physical and digital commerce when the merchant and the customer each understand the flow.
 
-## Key Takeaways
+The merchant side matters as much as the customer side. A store that can accept Lightning can start treating bitcoin as an ordinary sales channel instead of a novelty, and a simple setup can be enough to begin collecting real payments before the business invests in more elaborate infrastructure. The emphasis stays on practical acceptance, not on ceremonial adoption.
 
-- Payment choices balance convenience against control.
-- Custodial and non-custodial systems carry different trust costs.
-- On-chain and Lightning serve different payment contexts.
-- Merchant workflows bring monetary sovereignty into daily life.
-- Bitcoin's monetary claim is tested in payment practice.
-
-## Notable Terms / Claims
-
-- 13 Retail Payments And Acceptance
-- Custody
-- Non-custody
-- On-chain payments
-- Lightning payments
+What emerges is a picture of Bitcoin as something that can circulate through daily trade, not only through savings accounts and exchange apps. Payment experience, again, is what makes the monetary claim legible.

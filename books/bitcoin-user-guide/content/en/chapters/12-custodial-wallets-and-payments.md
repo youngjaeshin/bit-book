@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-12 Custodial Wallets And Payments addresses the practical requirements of using bitcoin as money. Custodial and non-custodial wallets, on-chain and Lightning payments, and offline or online merchant flows all force trade-offs between convenience and control.
-To say that bitcoin is money is to say that it can be received, sent, settled, and accounted for under real conditions. That makes trust assumptions, settlement speed, and operational complexity part of monetary understanding rather than side topics.
-Payment practice turns bitcoin from a quoted asset into a working medium of exchange. It also connects directly back to self-custody, node verification, and Lightning operations, which is why payment literacy matters for monetary sovereignty.
+Custodial Lightning wallets are presented as convenience tools with a real trust cost. The chapter shows how a wallet such as Wallet of Satoshi can be installed, how a custom Lightning address can be issued after meeting the platform’s activity requirements, and how on-chain deposits or withdrawals move through the app when the user wants speed more than sovereignty.
 
-## Key Takeaways
+Boltz becomes the bridge for cheaper swaps and cleaner routing. Instead of paying the custodial wallet’s built-in fees for every movement, the user can use a Lightning-to-on-chain or on-chain-to-Lightning swap to control the path and reduce cost, while still paying attention to invoice expiry, refund keys, and the exact amount that must arrive on each side of the swap.
 
-- Payment choices balance convenience against control.
-- Custodial and non-custodial systems carry different trust costs.
-- On-chain and Lightning serve different payment contexts.
-- Merchant workflows bring monetary sovereignty into daily life.
-- Bitcoin's monetary claim is tested in payment practice.
-
-## Notable Terms / Claims
-
-- 12 Custodial Wallets And Payments
-- Custody
-- Non-custody
-- On-chain payments
-- Lightning payments
+The chapter’s wider point is that convenience can be useful without being free. A custodial wallet can make Lightning easy to test, but the user has to know where the custody actually sits and when a service has become a substitute for control.

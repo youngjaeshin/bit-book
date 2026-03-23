@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-20 Windows Mac Local Integration covers the infrastructure required to verify Bitcoin directly. Node installation, sync, storage choices, remote access, watch-only integration, mempool usage, and RPC access all belong to the effort to stop trusting someone else's ledger by default.
-A node is not just a program left running in the background. It is a concrete choice about which data to validate independently, how to connect wallets and services, and what trade-offs to accept in hardware, networking, backup, and maintenance.
-Verification completes self-custody. Keys can remain in the user's hands while balance checks and transaction truth are still outsourced. Running a node closes that gap and restores a fuller form of monetary independence.
+Windows and Mac users get a local-node workflow that keeps the node and Sparrow on the same machine or the same local network. The chapter covers installing Core or Knots, opening the firewall for RPC access when needed, and configuring Sparrow so it can talk to the local node cleanly and reliably.
 
-## Key Takeaways
+The same pattern appears on both platforms, but each operating system asks for slightly different steps. Windows uses Control Panel and inbound firewall rules, while Mac users check the firewall state, allow the node app if necessary, and then point Sparrow at the local IP address and the exact RPC credentials stored in bitcoin.conf. Success is confirmed when the connection test turns green.
 
-- Full nodes provide independent transaction and balance verification.
-- Installation and integration decisions affect durability and privacy.
-- Self-custody becomes stronger when paired with self-verification.
-- Reducing external service dependence increases operational control.
-- Sustainable maintenance matters as much as first-time setup.
-
-## Notable Terms / Claims
-
-- 20 Windows Mac Local Integration
-- Full node
-- Watch-only
-- Remote access
-- Verification
+The point is that a local node is not only for dedicated hardware. Even a desktop or laptop that already exists can become a self-hosted backbone for monitoring and spending as long as the local integration is configured carefully.

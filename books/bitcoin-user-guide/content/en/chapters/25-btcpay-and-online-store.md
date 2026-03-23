@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-25 Btcpay And Online Store addresses the practical requirements of using bitcoin as money. Custodial and non-custodial wallets, on-chain and Lightning payments, and offline or online merchant flows all force trade-offs between convenience and control.
-To say that bitcoin is money is to say that it can be received, sent, settled, and accounted for under real conditions. That makes trust assumptions, settlement speed, and operational complexity part of monetary understanding rather than side topics.
-Payment practice turns bitcoin from a quoted asset into a working medium of exchange. It also connects directly back to self-custody, node verification, and Lightning operations, which is why payment literacy matters for monetary sovereignty.
+BTCPay Server turns a self-run node into a payment backend for an online store. The chapter builds a WooCommerce shop in WordPress, installs the BTCPay and WooCommerce plugins, chooses a theme, adds products, and then connects the store to the node so the merchant can accept Bitcoin without relying on a third-party payment processor.
 
-## Key Takeaways
+The networking work is just as important as the store setup. Cloudflare Tunnel, domain configuration, SSL, and the connection between WooCommerce and BTCPay are all part of making the checkout flow actually work from the customer’s side. The merchant is not just adding a payment button; the merchant is wiring an entire stack together so that payment, catalog, and hosting all line up.
 
-- Payment choices balance convenience against control.
-- Custodial and non-custodial systems carry different trust costs.
-- On-chain and Lightning serve different payment contexts.
-- Merchant workflows bring monetary sovereignty into daily life.
-- Bitcoin's monetary claim is tested in payment practice.
-
-## Notable Terms / Claims
-
-- 25 Btcpay And Online Store
-- Custody
-- Non-custody
-- On-chain payments
-- Lightning payments
+Legal and tax questions are left visible rather than ignored, which keeps the chapter grounded. Accepting Bitcoin online is not portrayed as magic; it is portrayed as a practical merchant project with technical, operational, and compliance decisions attached.

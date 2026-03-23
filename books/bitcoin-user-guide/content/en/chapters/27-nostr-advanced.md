@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-27 Nostr Advanced examines a Nostr environment where identity, messaging, and payment-adjacent tools are tied together by keys. Relay choice, client choice, key handling, and integration with longer-form publishing all belong to the problem of sustaining a portable online identity.
-Nostr differs from platform accounts because users can move between clients and relays without giving up the identity rooted in their keys. Convenience and responsibility therefore shift together; the user is no longer just an account holder but an operator of identity.
-Its connection to Bitcoin lies in a shared key-sovereignty model. Learning Nostr becomes part of learning how decentralized systems preserve identity and expression without returning control to a central platform.
+Advanced Nostr use moves from account creation into a broader self-hosted stack. The chapter uses Primal, Damus, and Phoenix as client examples, adds the Alby extension for browser-based signing, and shows how long-form writing with Habla and Markdown lets posts grow beyond short notes.
 
-## Key Takeaways
+The relay side of the stack matters just as much. Running a private relay on Umbrel, connecting locally, reaching it remotely through Tailscale, or exposing it through a domain gives the user more control over where events travel and who can see them first. The same chapter also uses NWC to send zaps from a Lightning node and to issue a Lightning address from Zeus, tying social publishing back to monetary rails.
 
-- Nostr assumes key-based identity rather than platform custody.
-- Client and relay choices affect censorship resistance and convenience.
-- Portable identity is a core design goal.
-- Bitcoin and Nostr share a sovereignty-through-keys logic.
-- Online activity also requires operational literacy.
-
-## Notable Terms / Claims
-
-- 27 Nostr Advanced
-- Key-based identity
-- Relay
-- Client
-- Censorship resistance
+The effect is a much thicker picture of Nostr. It is not just a feed; it is an identity layer, a publishing layer, and a payments-aware social network that can be shaped by the user instead of by the platform.

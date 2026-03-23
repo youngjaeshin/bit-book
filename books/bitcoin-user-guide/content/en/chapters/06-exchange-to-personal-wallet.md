@@ -2,22 +2,8 @@
 
 ## Chapter Digest
 
-06 Exchange To Personal Wallet covers the procedures and judgment required to hold, move, and recover bitcoin directly. Wallet creation, backup, recovery, signing, and transfer form the practical structure of self-custody.
-The key issue is not memorizing devices or apps, but understanding how each choice affects security, recoverability, privacy, and protection against mistakes. The user must act less like a service consumer and more like an operator of personal monetary infrastructure.
-Self-custody expands control by increasing responsibility. Managing keys directly and preparing backup and recovery paths are the conditions that allow Bitcoin to survive outside institutional control.
+Buying bitcoin on an exchange is treated as an entry ramp, not as a destination. The chapter moves through the real sequence many users face in Korea: exchange signup and KYC, funding with KRW, buying USDT, transferring USDT between exchanges, and then converting into bitcoin either through an instant convert flow or a market order before sending it to a personal wallet.
 
-## Key Takeaways
+Because travel-rule restrictions shape the route, the guide also shows the practical difference between sending on-chain directly and using a Lightning swap such as Boltz when the fees or logistics make that easier. The decision is not abstract; it depends on cost, speed, and whether the user wants the bitcoin to arrive in a wallet they control immediately or via a cheaper bridge.
 
-- 06 Exchange To Personal Wallet focuses on the operating structure of self-custody.
-- Security and recoverability govern tool choice.
-- Direct signing and transfer reduce third-party dependence.
-- Backups and recovery are essential parts of custody.
-- More control means more responsibility.
-
-## Notable Terms / Claims
-
-- 06 Exchange To Personal Wallet
-- Self-custody
-- Backup
-- Recovery
-- Signing
+What matters most is that the exchange is used briefly and deliberately. Once the bitcoin leaves the exchange and lands in a personal wallet, the user stops being a customer of the exchange and starts becoming the operator of their own monetary stack.
