@@ -357,3 +357,4 @@
 - 2026-03-24 00:06 KST | executor | completed | 원격 반영 완료: `main` 브랜치를 `origin`에 push (`b5c9e5d`까지)
 - 2026-03-24 00:08 KST | executor | completed | Vercel preview 배포 완료: https://bit-book-library-4yxgmntmf-forever5421-9079s-projects.vercel.app
 - 2026-03-24 00:24 KST | executor | completed | 최종 digest 재작성 반영 후 12권 책 사이트 + library-site 전체 재빌드 완료
+- 2026-03-24 00:41 KST | executor | completed | `모두를 위한 비트코인` 1장 재작성 반영 후 책 사이트 및 library-site 재빌드 완료
