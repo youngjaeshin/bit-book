@@ -2,24 +2,8 @@
 
 ## Chapter Digest
 
-This unit examines the cognitive errors that block recognition of Bitcoin. First-conclusion bias, circle of competence, the Dunning-Kruger effect, category error, hype cycles, and Amara’s Law all describe failures of interpretation under novelty. People often decide what Bitcoin is too quickly, from too narrow a frame, and then defend that premature classification long after the evidence changes.
+Bitcoin collides with the mind’s tendency to stop thinking too early. First conclusion bias explains why people seize on an initial judgment and then defend it even when the evidence becomes richer, noisier, or more contradictory. That pattern is especially visible with Bitcoin because digital scarcity is new enough that most people reach for familiar labels that fit poorly, then mistake those labels for analysis.
 
-Bhatia’s emphasis is not merely that critics are wrong, but that Bitcoin systematically triggers the kinds of mental shortcuts that humans use against unfamiliar systems. This is why misunderstanding is normal. The antidote is humility, iterative learning, and willingness to update category boundaries. Bitcoin resists easy classification precisely because it spans money, technology, and social coordination at once.
+The circle of competence and the Dunning-Kruger effect sharpen that warning. Bitcoin crosses monetary history, cryptography, hardware, thermodynamics, network design, and incentives, so narrow expertise can easily produce confident but incomplete conclusions. The safer posture is not false humility but disciplined curiosity: know where the boundary of your knowledge ends, update that boundary as you learn, and resist the urge to classify the whole system from a single angle.
 
-The lesson is epistemic: good judgment about Bitcoin requires not brilliance alone, but resistance to premature closure.
-
-## Key Takeaways
-
-- Bitcoin reliably triggers familiar cognitive biases under novelty.
-- Premature classification is one of the biggest interpretive errors.
-- Circle-of-competence limits matter in interdisciplinary subjects.
-- Hype and skepticism can both misread long adoption curves.
-- Bitcoin demands patient category revision.
-
-## Notable Terms / Claims
-
-- First-conclusion bias
-- Circle of competence
-- Dunning-Kruger
-- Category error
-- Amara’s Law
+Category error, the Gartner hype cycle, and Amara’s Law all reinforce the same point from different directions. Bitcoin is neither a stock, nor a startup, nor a payment app, so judging it by the wrong category produces predictable mistakes. Short-term hype and short-term disappointment are both bad guides for something that may take years to stabilize but then reshape the landscape in ways that were hard to imagine at the beginning. Patience with uncertainty is the real epistemic advantage here.

@@ -1,25 +1,3 @@
-# Chapter 19
+Bitcoin Cash is the large-block faction’s breakaway chain, but it is born out of a long retreat rather than a clean victory. Amaury Sechet’s Bitcoin ABC packages Jihan Wu’s UAHF idea into a fixed flag-day fork with wipeout protection and an explicit refusal to wait for miner signalling. ViaBTC, Roger Ver, Bitmain, and other large-block voices rally around it, and the new coin is launched as a separate asset with its own name, ticker, and market. For a moment the fork gives the large-block narrative the thing it had long wanted: a live chain that can claim to be Bitcoin’s future.
 
-## Chapter Digest
-
-Bitcoin Cash was the large-block camp’s clearest break with the original chain. After repeated failed attempts to change Bitcoin from within, a faction finally embraced chain split as strategy rather than threat. This was not just a technical event; it was a revelation of competing loyalties. One side preferred preserving the original rules and social Schelling point. The other preferred carrying a different vision of Bitcoin into a new chain.
-
-The chapter shows that once the split happened, the argument changed character. The question was no longer only what Bitcoin should be, but which chain deserved the name, the liquidity, and the social inheritance of Bitcoin. Market pricing, user allegiance, and subsequent adoption all became part of the answer.
-
-Bitcoin Cash therefore matters as both secession and test case. It gave the large-block worldview its own sovereign territory — and made the results comparable.
-
-## Key Takeaways
-
-- Bitcoin Cash transformed disagreement into open chain secession.
-- The split clarified competing loyalties and Schelling points.
-- Naming, inheritance, and legitimacy became market questions.
-- The large-block worldview finally got its own chain to prove itself.
-- Secession made the results observable rather than theoretical.
-
-## Notable Terms / Claims
-
-- Bitcoin Cash
-- Chain split
-- Secession
-- Schelling point
-- Market legitimacy
+The afterlife of that fork undercuts the very argument it was supposed to prove. Difficulty adjustment is unstable, blocks oscillate between too slow and too fast, and the chain’s early economics make it look less like a superior payments system and more like a fragile political refuge. Later, when Bitcoin Cash itself splits again into Bitcoin ABC and BSV, the same governance tensions reappear inside the breakaway camp. The result is a sharp irony: the group that argued Bitcoin needed more flexible rule changes ends up recreating the same constitutional crisis on its own chain.

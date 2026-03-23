@@ -2,24 +2,8 @@
 
 ## Chapter Digest
 
-This unit tracks how technological systems compound. Accelerating returns, higher-order effects, creative destruction, feedback loops, reflexivity, and relativity all emphasize that technologies do not merely add capabilities; they recursively alter the environment around them. Bitcoin belongs to this class of systems. Its adoption changes the incentives that drive further adoption.
+Technological change compounds, and Bitcoin has to be understood inside that accelerating curve rather than beside it as a static object. The discussion starts from the observation that recent decades have already transformed shopping, media, transport, food, and communication, so it is a mistake to assume money will be exempt from the same pace of disruption. The harder mistake is underestimating how quickly a monetary order can change once the surrounding toolset has reached the right threshold.
 
-The importance of reflexivity here is especially strong. Market belief, technical robustness, social coordination, and capital flows feed back into one another. The more Bitcoin succeeds, the more its success changes the conditions of future success. This is why static analysis misses so much.
+Higher-order effects are where the argument sharpens. Bitcoin does not only change what money is; it changes the reactions to money, and those reactions create new reactions in return. That recursive chain feeds creative destruction, because a better monetary model makes the incumbent one harder to defend. Feedback loops then turn adoption, price, liquidity, mining incentives, and network confidence into mutually reinforcing variables rather than isolated measurements.
 
-The chapter’s lesson is that Bitcoin is not a frozen object but a dynamically compounding system whose growth path alters the world evaluating it.
-
-## Key Takeaways
-
-- Technological systems often compound through accelerating returns.
-- Higher-order effects matter more than surface functionality.
-- Bitcoin’s adoption feeds back into its future adoption.
-- Reflexivity helps explain nonlinear market behavior.
-- Static analysis underestimates dynamic systems.
-
-## Notable Terms / Claims
-
-- Accelerating returns
-- Feedback loops
-- Reflexivity
-- Creative destruction
-- Dynamic systems
+Reflexivity explains why the market can overshoot, undershoot, and then reprice Bitcoin in waves. Sentiment influences price, price influences sentiment, and both of them shape the conditions for further adoption. The relativity section closes the loop by stepping back into monetary history: societies have always compared money against money, and most forms of money have required real energy to acquire or hold. Seen from that distance, the fiat era looks less like a stable norm and more like a brief historical interruption between harder monetary standards.

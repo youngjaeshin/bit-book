@@ -1,25 +1,3 @@
-# Chapter 3 + Chapter 4
+Montreal and Hong Kong turn the scaling fight into an argument over governance in public. In Montreal, the mood is calmer but no less serious: Gavin Andresen sits across from Gregory Maxwell, and the room tries to see whether face-to-face discussion can do what forum threads could not. The suspicion around Blockstream hangs over the event, yet the more important fact is that each side is already reasoning from a different theory of Bitcoin. One side sees a capacity problem that needs practical relief; the other sees a constitutional risk that cannot be rushed away by engineering confidence.
 
-## Chapter Digest
-
-The early scaling conferences reveal that the war was never just about megabytes. Montreal and Hong Kong show a community struggling to distinguish technical throughput from political legitimacy. Larger blocks had an intuitive appeal: more capacity sounded like obvious progress. Yet the small-block camp increasingly argued that protocol rules could not be changed safely unless broad social legitimacy existed beneath the engineering proposal. Scaling thus became inseparable from governance.
-
-These meetings also expose a recurring asymmetry. The large-block side often spoke the language of immediate usability and market competition, while the small-block side insisted that Bitcoin’s long-term value depended on keeping its validation costs low enough for ordinary users to remain sovereign. What looked like a trade-off between cheap payments and conservative protocol design was, underneath, a trade-off between different civilizational visions of Bitcoin.
-
-This unit matters because it shows how the debate hardened from policy disagreement into mutually incompatible intuitions. One side saw urgency and practical growth; the other saw fragility and constitutional danger. The technical debate became a proxy for incompatible theories of what Bitcoin was for.
-
-## Key Takeaways
-
-- Scaling debates quickly became debates about governance legitimacy.
-- More capacity was not accepted as an unqualified good.
-- The central question was whether ordinary users could continue to validate cheaply.
-- Large blockers and small blockers were optimizing for different futures.
-- Conferences clarified disagreement but did not reconcile it.
-
-## Notable Terms / Claims
-
-- Scaling Bitcoin
-- Validation costs
-- Cheap payments thesis
-- Governance legitimacy
-- Small-block vision
+Hong Kong makes the divide impossible to hide. The conference is larger, the miners are in the room, and the menu of proposals is broader: BIP 101, BIP 100, BIP 102, or no change. Miner preference leans toward BIP 100 because it hands more discretion to miners, while Roger Ver and other large-block voices push the case that users will be driven away if the network keeps filling up. Yet even with more participants, the conversation does not converge. The result is not a compromise line but a clearer map of the battlefield, where immediate usability, miner power, developer stewardship, and user consent point in different directions.

@@ -2,24 +2,8 @@
 
 ## Chapter Digest
 
-The final unit shows how adoption hardens into conviction. Intransigent minorities, jurisdictional exit, Gell-Mann amnesia, the Lindy effect, emergence, moral hazard, and counterparty risk all converge on a single theme: systems persist or collapse according to how people respond under stress. Bitcoin gains strength when a minority refuses fiat standards, when capital can flee bad jurisdictions, and when confidence grows through continued survival.
+Conviction hardens into market structure. An intransigent minority can reshape the majority by refusing to denominate value in a weak unit, and Bitcoin users do exactly that when they stop treating fiat as the default accounting standard. Once enough people make that refusal, products, services, and institutions begin adapting around them, which is how a minority can bend the broader market without ever asking permission.
 
-The closing material broadens that into a final practical lesson. Bitcoin is not just an idea to understand but a network to study, test, and live with. Further reading and acknowledgements place the handbook inside a broader learning community, reinforcing that conviction is sustained through ongoing inquiry rather than one-time persuasion.
+The same pressure appears in the state system through the inequivalence theorem and jurisdictional exit. When governments dilute money and pile up liabilities, the people with the most mobility have the strongest incentive to leave, taking capital and talent with them. Bitcoin strengthens that leverage by making savings portable, censorship-resistant, and difficult to confiscate. In parallel, Gell-Mann amnesia warns against trusting media sources just because they happen to be wrong about a topic we know well but more authoritative about topics we do not.
 
-The book ends by tying psychology back to monetary reality: durable systems attract loyalty because they reduce dependence on fragile counterparties. Bitcoin wins psychologically when it wins structurally.
-
-## Key Takeaways
-
-- A committed minority can shift wider monetary behavior.
-- Exit options change political and monetary incentives.
-- Lindy logic strengthens confidence in surviving systems.
-- Counterparty risk is a psychological as well as financial variable.
-- The handbook ends by inviting continued inquiry and practice.
-
-## Notable Terms / Claims
-
-- Intransigent minority
-- Lindy effect
-- Counterparty risk
-- Exit option
-- Emergence
+From there, the focus turns from diffusion to durability. The Lindy effect, emergence, Streisand effects, moral hazard, and counterparty risk all point to the same underlying fact: systems that survive repeated stress, censorship, and institutional failure earn confidence because they keep functioning when fragile alternatives do not. Bitcoin is not only a monetary network to study; it is also a reminder that trust shrinks when counterparties, issuers, and political promises become less reliable. The closing reading list and acknowledgements leave the reader with that larger frame intact: the point is not just to understand Bitcoin once, but to keep following the chain of ideas that made it intelligible in the first place.

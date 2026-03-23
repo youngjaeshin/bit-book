@@ -1,25 +1,3 @@
-# Chapter 11 + Chapter 12
+Scaling III in Milan feels like the conflict has changed shape. The conference is no longer centered on pleading for a blocksize compromise; it is mostly a technical gathering about Lightning, Schnorr signatures, and other engineering paths that let the small-block camp move on. Large blockers are still there, but they are now more obviously a minority within the room, wearing Hard Fork Cafe shirts and holding a separate Free Speech Party. The social split is visible in the venue itself, and Jihan Wu’s frustration with the absence of hardfork discussion and other slights turns into a withdrawal of SegWit signalling support.
 
-## Chapter Digest
-
-By the time of Scaling III and Bitcoin Unlimited, the war had moved from proposal to attrition. Bitcoin Unlimited represented perhaps the clearest attempt to shift power from conservative protocol stewardship toward miner-driven policy flexibility. It suggested that miners and economic actors should discover block size dynamically rather than preserve a hard cultural constraint around it. In principle this sounded adaptive. In practice it heightened fears that Bitcoin’s core rules could drift toward opportunistic governance.
-
-The third Scaling conference showed how little common ground remained. The argument was no longer about a specific number, but about whether the protocol should embody restraint or responsiveness as its default posture. Bitcoin Unlimited therefore mattered less for its exact design than for the constitutional precedent it threatened to establish.
-
-This unit shows the war becoming increasingly explicit about power. The question had become: who adjusts the rules when no one is supposed to be in charge?
-
-## Key Takeaways
-
-- Bitcoin Unlimited pushed a more miner-responsive governance model.
-- Adaptive flexibility looked dangerous to those prioritizing rule stability.
-- The debate had moved beyond specific block sizes.
-- Constitutional precedent mattered as much as throughput.
-- The conflict was increasingly about power over protocol adjustment.
-
-## Notable Terms / Claims
-
-- Bitcoin Unlimited
-- Miner governance
-- Rule drift
-- Constitutional precedent
-- Protocol adjustment
+Bitcoin Unlimited then becomes the large-block camp’s new vehicle. Unlike XT or Classic, it is not just a client but a formal organization with membership, by-laws, voting, and a philosophy that miners and users should choose their own blocksize parameters. That sounds flexible until the technical flaws pile up: sticky gates, median-EB attacks, xThin surprises, and a willingness to believe that miners will somehow behave well enough to make the design safe. The result is a coalition that is bigger on rhetoric than on reliable protocol engineering, and Milan makes it plain that the war has moved from argument to attrition.

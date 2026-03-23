@@ -1,25 +1,3 @@
-# Chapter 17
+BIP 148 takes the Litecoin lesson and turns it into a direct constitutional threat to Bitcoin’s miners. Shaolinfry’s idea is simple but aggressive: if miners will not lock SegWit in on schedule, nodes and users will enforce a flag day that forces the issue. The proposal is designed to exploit the fact that most of the network already supports the existing SegWit rules, and it openly uses user coordination as leverage against miner hesitation. That makes it exhilarating to supporters and reckless to critics.
 
-## Chapter Digest
-
-The user-activated soft fork crystallized the small-block theory of sovereignty. It was a proposal not merely to adopt a technical change, but to demonstrate that validating users could coordinate around rule enforcement independently of miners and major companies. In symbolic terms, the UASF reasserted that Bitcoin’s legitimacy runs through those who choose what software to validate, not only through those who produce blocks.
-
-This was a constitutional turning point. The UASF made explicit what had previously been an intuition: users were not passive consumers of miner output but active constitutional actors. Even if the exact software pathway was messy, the political meaning was unmistakable.
-
-marks the moment when small-block arguments moved from theory to direct collective action.
-
-## Key Takeaways
-
-- The UASF made user sovereignty explicit.
-- Rule legitimacy was separated from miner preference.
-- Validation itself became a form of political action.
-- The blocksize war entered an openly constitutional phase.
-- Small-block ideas were operationalized, not just argued.
-
-## Notable Terms / Claims
-
-- UASF
-- User sovereignty
-- Validation politics
-- Soft fork
-- Constitutional action
+Gregory Maxwell’s opposition shows why the idea is so divisive even inside the small-block camp. He argues that SegWit was carefully built to avoid disruption and that BIP 148 introduces avoidable danger by forcing a deadline onto miners who were not planning to run that version of the code. Still, the proposal does its political work: it makes clear that users are not just spectators waiting for miner consent. The UASF becomes the sharpest expression yet of the idea that validating users can force the network to defend its own rules.

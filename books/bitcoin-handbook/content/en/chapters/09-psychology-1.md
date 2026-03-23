@@ -2,24 +2,8 @@
 
 ## Chapter Digest
 
-The psychology section begins with coordination under uncertainty. Prisoner’s dilemma, jurisdictional arbitrage, social proof, and mimetic theory all explore how individuals and states adjust to one another’s expectations. Bitcoin adoption is therefore not just a matter of isolated conviction; it is a strategic and imitative process. What one actor does changes the payoff structure for the next.
+Bitcoin’s spread is shaped by coordination games before it is shaped by pure belief. The prisoner’s dilemma frames the problem at the sovereign level: governments can try to ban Bitcoin, ignore it, regulate it, or accumulate it, but the presence of a globally mobile monetary alternative changes the payoff structure for all of those choices. Once banning proves ineffective, the rational move is often to reduce friction, capture some of the benefit, and avoid watching capital and talent leave for friendlier jurisdictions.
 
-This is especially visible at the sovereign level. Once banning becomes unenforceable, allowing or accommodating Bitcoin may become the superior strategy. Mimetic dynamics then accelerate the process: some adopt because they understand the monetary case, while many more adopt because credible others already have.
+Jurisdictional arbitrage gives that logic a migration path. Skilled people and capital can move toward places with lower friction, more stable money, and better conditions, which means nation-states no longer control their tax base as tightly as they once did. Bitcoin sharpens that pressure because it makes value itself portable and difficult to confiscate. It also pushes the reserve-asset question into view: if other states may end up holding Bitcoin, then ignoring it becomes a strategic risk rather than just a philosophical preference.
 
-The unit’s larger lesson is that Bitcoin diffuses through strategic imitation and competitive pressure as much as through purely rational persuasion.
-
-## Key Takeaways
-
-- Bitcoin adoption is shaped by coordination games.
-- Jurisdictional competition can favor Bitcoin-friendly policies.
-- Social proof lowers the cost of belief revision.
-- Mimetic dynamics reinforce monetary adoption.
-- Strategy and imitation work together in diffusion.
-
-## Notable Terms / Claims
-
-- Prisoner’s dilemma
-- Jurisdictional arbitrage
-- Social proof
-- Mimetic theory
-- Diffusion
+Social proof and mimetic theory explain why adoption accelerates after the first wave of skepticism breaks. Most people do not need to derive the monetary argument from first principles before following what reputable peers already signal. As institutions, funds, and respected voices move first, they lower the perceived risk for everyone behind them. The result is a feedback loop in which conviction, imitation, and strategic competition all reinforce one another.

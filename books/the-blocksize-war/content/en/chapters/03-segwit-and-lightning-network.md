@@ -1,25 +1,3 @@
-# Chapter 5 + Chapter 6
+SegWit and Lightning offer the small-block camp its first coherent alternative to brute-force capacity increases. Pieter Wuille’s SegWit talk in Hong Kong explains how signatures can be separated from the transaction data that ordinary nodes count toward the old limit, letting upgraded clients see more effective space without a hardfork. Luke Dashjr’s trick makes the softfork possible. On paper it looks like a win-win: old wallets keep working, new wallets gain more room, and the network gets something close to a 2 MB increase without forcing anyone to accept an incompatible client.
 
-## Chapter Digest
-
-SegWit and Lightning mark the emergence of the small-block camp’s positive program. Instead of treating Bitcoin’s base layer as a highway that must continually widen, this approach treats scarcity of blockspace as a feature that forces layered scaling. SegWit is not just a patch for transaction malleability or a minor efficiency gain; it becomes the technical pivot that allows a different roadmap to exist. Lightning then extends this vision by moving high-frequency payments away from the base layer while preserving the chain’s conservative settlement properties.
-
-The dispute therefore shifts from “increase the limit or fail” to “change the architecture of scaling.” This is a profound move. It suggests that Bitcoin should not imitate centralized payment systems on the base layer, but instead become the settlement foundation beneath a layered network. The small-block side thus claims to be more faithful not only to decentralization but to Bitcoin’s long-term design logic.
-
-This unit is important because it shows the war producing genuine technical alternatives rather than only political resistance. The small-block side did not simply say no; it offered a different path.
-
-## Key Takeaways
-
-- SegWit and Lightning formed the small-block camp’s constructive scaling roadmap.
-- Blockspace scarcity was reframed as a design feature rather than a fatal flaw.
-- Scaling moved from blocksize expansion to layered architecture.
-- Lightning preserved conservative settlement while enabling more transactional throughput.
-- The debate became architectural, not just numerical.
-
-## Notable Terms / Claims
-
-- SegWit
-- Lightning Network
-- Layered scaling
-- Blockspace scarcity
-- Settlement layer
+That technical elegance is also what makes the politics harder. Large blockers mostly experience SegWit as a stalling tactic wrapped in complexity, and the confusion spreads because very few people actually understand the mechanics well enough to argue it cleanly. Lightning extends the same logic into a broader architecture: the base chain stays conservative while payment volume moves into layers above it. The pair of proposals shifts the debate from “raise the limit or fail” to “what kind of settlement network should Bitcoin be,” but the communication gap means the tactical brilliance never fully translates into broad trust.

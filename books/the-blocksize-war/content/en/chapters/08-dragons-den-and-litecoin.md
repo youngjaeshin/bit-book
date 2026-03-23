@@ -1,25 +1,3 @@
-# Chapter 15 + Chapter 16
+The Dragons’ Den scandal turns the war into a memetic and social-information contest. Joseph Poon’s comments about a secret small-block PR channel lead the large-block side to discover the dragonsden Slack room, and suddenly both camps look like they have backstage coordination, troll campaigns, and closed-door messaging. That does not end the conflict; it just makes the information war more self-conscious. Memes, leaks, and private channels become part of how legitimacy is fought over, alongside code and mining power.
 
-## Chapter Digest
-
-As the war dragged on, side arenas like Litecoin and conference circuits became test environments for competing visions. The conflict was no longer contained within Bitcoin alone. Related chains, personalities, and public forums acted as mirrors in which each camp tested narratives about usability, sovereignty, and market validation.
-
-Litecoin mattered because it showed that blocksize and scaling debates had spillover effects into adjacent systems. If one chain could move faster with less cultural resistance, that posed a challenge: was Bitcoin’s restraint prudence or stagnation? Yet the small-block answer remained that Bitcoin’s unique role required stronger conservatism than a secondary chain.
-
-This unit illustrates how surrounding ecosystems became proving grounds for the broader ideological conflict. Bitcoin’s identity was clarified not only through internal argument but through contrast with its neighbors.
-
-## Key Takeaways
-
-- The blocksize war spilled into adjacent ecosystems and forums.
-- Litecoin served as a comparison point for alternative governance tempos.
-- Bitcoin’s special status was used to justify greater conservatism.
-- Side arenas helped both camps test narratives publicly.
-- Identity was sharpened through external comparison.
-
-## Notable Terms / Claims
-
-- Litecoin
-- Narrative testing
-- Comparative governance
-- External proving ground
-- Bitcoin exceptionalism
+Litecoin then becomes the practical proving ground. SegWit activation there starts as a way to show that the upgrade works and to embarrass the larger blockers’ warnings, but the path is anything but smooth. Miner signalling stalls, users push a Litecoin UASF, Chinese miners respond with more hashpower and a roundtable agreement, and the final compromise reads like a contradiction in miniature: users are said to matter, the roundtable claims only to speak for participants, and yet the whole exercise is clearly designed to send a signal back to Bitcoin. By the time SegWit activates on Litecoin, the small-block camp has a live example of how pressure, narrative, and user coordination can move miners.

@@ -1,25 +1,3 @@
-# Chapter 7 + Chapter 8
+By late 2015, the war is already getting nastier. XT nodes are hit by DDoS attacks, Coinbase publishes support for larger blocks, and Bitcoin.org removes Coinbase from its recommended-wallet list almost immediately. Mike Hearn’s ragequit then adds a public sense of collapse: he calls Bitcoin a failed experiment and sells his coins, while Jihan Wu answers with anger and the large-block side starts to organize around more moderate but still hardfork-based alternatives. Bitcoin Classic is the result, a 2 MB proposal that looks less extreme than XT but keeps the same fragile activation design and the same dependence on miner signalling that can be gamed by timing and coordination.
 
-## Chapter Digest
-
-Bitcoin Classic and the Hong Kong Roundtable illustrate the large-block side’s search for a politically workable coalition. As Bitcoin XT faltered, new banners emerged, but the underlying strategy remained similar: gather miners, companies, and respected figures around a protocol change that could then be pushed through as the practical middle ground. The Hong Kong Roundtable looked, briefly, like a possible truce mechanism between economic power and technical authority.
-
-But the truce carried an embedded problem. Agreements among visible elites could not settle the deeper legitimacy question if users did not see themselves as bound by them. The roundtable process exposed the gap between negotiation among stakeholders and actual consensus in a permissionless system. The war therefore continued, because the institutional form of the compromise was itself contested.
-
-This unit shows that Bitcoin governance could not simply be imported from corporate or diplomatic norms. A memorandum signed by powerful actors might calm markets temporarily, but it could not itself define Bitcoin.
-
-## Key Takeaways
-
-- After XT, the large-block coalition regrouped under new initiatives.
-- The Hong Kong Roundtable was an attempted elite compromise.
-- Elite negotiation could not substitute for broader legitimacy.
-- Permissionless systems resist top-down settlement of constitutional questions.
-- Temporary truces did not resolve the underlying governance conflict.
-
-## Notable Terms / Claims
-
-- Bitcoin Classic
-- Hong Kong Roundtable
-- Elite compromise
-- Permissionless governance
-- Legitimacy gap
+Hong Kong’s roundtable is the attempt to turn that pressure into a settlement. Developers and miners sit in the same room, Jihan insists that a hardfork belongs in Bitcoin Core, and the agreement that emerges tries to make everyone feel covered by promising SegWit first and a hardfork later. Yet the text is full of tension: miners say they are speaking only for the participants, developers think they have merely committed to produce code, and each camp walks away believing the other side has promised more than it really did. The deal buys time, but it cannot supply the broad legitimacy that a permissionless monetary network needs.
