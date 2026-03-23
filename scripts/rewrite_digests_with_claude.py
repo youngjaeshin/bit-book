@@ -54,6 +54,42 @@ def call_claude(prompt: str) -> str:
     return result.stdout.strip() + "\n"
 
 
+def is_valid_output(text: str, lang: str, source_chars: int) -> tuple[bool, str]:
+    if not text.startswith("# "):
+        return False, "missing title heading"
+    required = "## 요약" if lang == "ko" else "## Chapter Digest"
+    if required not in text:
+        return False, "missing summary heading"
+    banned_sections = [
+        "## 핵심 포인트",
+        "## 중요 용어 / 주장",
+        "## Key Takeaways",
+        "## Notable Terms / Claims",
+    ]
+    for section in banned_sections:
+        if section in text:
+            return False, f"contains banned section {section}"
+    body = text.split(required, 1)[-1].strip()
+    min_chars = max(600, int(source_chars * (0.035 if lang == "ko" else 0.05)))
+    if len(body) < min_chars:
+        return False, f"body too short ({len(body)} < {min_chars})"
+    banned_phrases = [
+        "이 장은",
+        "이 단위는",
+        "이 서두는",
+        "서두는",
+        "원문 추출 기준으로 보면",
+        "The chapter",
+        "This chapter",
+        "The opening",
+        "This section",
+    ]
+    for phrase in banned_phrases:
+        if phrase in body:
+            return False, f"contains banned phrase {phrase}"
+    return True, "ok"
+
+
 def rewrite_slug(slug: str, lang: str) -> None:
     root = Path("books") / slug
     src_dir = root / "source" / "chapters"
@@ -74,7 +110,16 @@ def rewrite_slug(slug: str, lang: str) -> None:
             + "\nSource chapter markdown:\n\n"
             + source_text
         )
-        rewritten = call_claude(prompt)
+        rewritten = ""
+        reason = "no output"
+        for attempt in range(3):
+            candidate = call_claude(prompt if attempt == 0 else prompt + f"\n\nPrevious output failed validation: {reason}. Rewrite fully and obey format exactly.")
+            ok, reason = is_valid_output(candidate, lang, len(source_text))
+            if ok:
+                rewritten = candidate
+                break
+        if not rewritten:
+            raise RuntimeError(f"Failed to produce valid output for {slug}/{chapter_id} ({lang}): {reason}")
         existing_path.write_text(rewritten)
         print(f"rewrote {lang} {slug}/{chapter_id}")
 
