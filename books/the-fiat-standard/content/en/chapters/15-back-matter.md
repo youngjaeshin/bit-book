@@ -2,24 +2,10 @@
 
 ## Chapter Digest
 
-The figures and notes section makes visible the documentary backbone of the book. Charts, source notes, archival references, media citations, and academic papers are not peripheral material here. They are part of the method. Ammous wants the fiat critique to be testable against historical records, public data, and sourceable claims, rather than resting only on rhetoric.
+The back matter matters because Ammous wants fiat criticism to be testable rather than merely rhetorical. The figures and notes gather the empirical scaffolding for claims made throughout the book: currency debasement, reserve composition, food quality, health outcomes, energy use, Bitcoin network metrics, and the historical record of monetary decline. They show that the argument is meant to stand on public data, historical sources, and reproducible comparison rather than on polemical assertion alone.
 
-This matters especially because the book makes large civilizational claims. The apparatus of notes and figures anchors those claims in a documentary trail. The move mirrors a Bitcoin ethic: don’t trust, verify. Even in a book primarily about fiat, the evidentiary style reflects the epistemic discipline that bitcoin encourages.
+Read this way, the figures are not decorative illustrations but compressed arguments. A chart on reserve composition, supply growth, or Bitcoin issuance is a way of showing relationships over time that would be easy to miss in prose alone. The notes then widen those relationships, pointing the reader toward the books, papers, archives, and datasets that make the claims traceable.
 
-The final unit therefore works as an extension of the argument rather than a discard pile. It shows that the book’s polemics are meant to be checked, sourced, and followed outward into deeper study.
+That is especially important in a book that tries to connect money to broad civilizational outcomes. If fiat is blamed for distortions in food, health, energy, debt, and institutional life, the burden of evidence has to be visible. The back matter therefore plays a methodological role: it invites the reader to inspect the chain of reasoning, check the sources, and decide how strong the evidence really is.
 
-## Key Takeaways
-
-- Notes and figures function as evidence, not decoration.
-- The book invites verification rather than passive acceptance.
-- Large civilizational claims are tied back to source material.
-- The documentary method mirrors Bitcoin’s verification ethic.
-- The back matter opens paths for deeper study.
-
-## Notable Terms / Claims
-
-- Verification ethic
-- Documentary backbone
-- Archival evidence
-- Source trail
-- Further study
+The closing effect is fitting. Fiat is presented throughout the book as a system that hides costs and blurs accounting. The figures and notes reverse that habit by making the argument auditable. Even for a reader who rejects some conclusions, the back matter establishes the standard Ammous wants to enforce: monetary criticism should be argued with records, comparisons, and traceable evidence rather than with vague moral complaint.

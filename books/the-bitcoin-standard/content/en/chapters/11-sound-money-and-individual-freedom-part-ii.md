@@ -2,23 +2,10 @@
 
 ## Chapter Digest
 
-The freedom argument is extended into war, government size, and corruption. Unsound money makes prolonged conflict easier to finance because it weakens the need for immediate tax resistance. It also enlarges government by loosening fiscal limits that would otherwise constrain political ambition.
+Across the arc of human liberty, money stands as both a measure and a boundary: it measures value, but it also constrains what governments can do with that value. When the monetary system is anchored in sound principles, rulers must govern with restraint, because the price of mismanaging the money supply is felt not just in markets but in everyday life—savers see purchasing power erode, entrepreneurs confront misaligned signals, and families face the creeping fog of uncertainty. In such a world, individuals enjoy a greater degree of financial autonomy: they save, invest, and plan for the long term, knowing that the value they earn today remains reasonably reliable tomorrow. The most enduring protection for personal freedom comes from money that cannot be casually inflated away, and from a political economy that treats monetary discipline as a constitutional constraint rather than a discretionary tool.
 
-The bezzle captures a society in which hidden losses, deception, and self-deception accumulate before reality is recognized. Easy money and opaque finance help sustain that condition. Unsound money therefore weakens liberty both politically and morally.
+The prevailing assumption that governments should actively manage the money supply rests on a confident narrative about stabilizing growth and preventing crises. Yet historical experience reveals a stubborn pattern: attempts to fine-tune liquidity often yield distorted incentives, asset bubbles, and cycles of boom followed by bust. When policymakers broaden the money supply to finance deficits or placate partisan demands, the price system loses its honesty; relative prices lose their signaling power, capital is misallocated, and future prosperity is traded away for short-term appeasement. In such environments, immediate political needs eclipse longer-term responsibility, and the freedom of ordinary people is crowded out by the steady chipping away of the purchasing power they depend on. The result is not merely higher prices, but a dulling of entrepreneurial courage and a creeping distrust in the rule of law.
 
-## Key Takeaways
+A more virtuous order treats money as a hard-to-change constraint that preserves private property and the right to plan one’s life. When price signals reflect genuine scarcity rather than arbitrary expansions, individuals and businesses can make commitments with confidence: a farmer can lock in inputs for a harvest, a small business owner can price products with a trustworthy horizon, and families can budget for education, housing, and retirement without fearing that tomorrow’s money will behave like a moving target. Under sound money, government policy becomes a second-order discipline—protecting the framework that protects freedom rather than weaponizing money to sustain favored programs. This reorientation strengthens civil society, because voluntary exchanges, predictable contracts, and honest accounting become the bedrock of trusted relationships between citizens, firms, and the state.
 
-- Unsound money helps finance war without immediate resistance.
-- Easy money allows larger and more intrusive government.
-- Hidden losses and deception can accumulate under distorted finance.
-- The bezzle names delayed recognition of corruption and loss.
-- Monetary disorder weakens liberty in politics and morals alike.
-
-## Notable Terms / Claims
-
-- War finance
-- Omnipotent government
-- The bezzle
-- Hidden corruption
-- Moral cost of easy money
-
+In contemporary debates, the appeal of inflationary finance is easy to understand: it promises quick fixes, smoother headlines, and the illusion of prosperity. Yet the digest of principles here remains clear: the relief is temporary, while the erosion of freedom is permanent. Advances in digital money and decentralization intensify the discussion, offering new instruments that could, in principle, harden or undermine the monetary anchor. The challenge is not to fetishize any particular technology, but to ask whether the core design preserves individual autonomy against the temptations of political expediency. If money is to remain a bulwark of freedom, policy must resist the impulse to monetize everything and instead reaffirm the long-run value of predictable, rules-based finance. In that light, sound money becomes not only an economic arrangement but a civic virtue that underwrites the space in which free people make meaningful choices.

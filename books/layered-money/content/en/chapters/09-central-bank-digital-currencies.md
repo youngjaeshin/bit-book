@@ -2,23 +2,8 @@
 
 ## Chapter Digest
 
-Central bank digital currencies are introduced as the state’s answer to Bitcoin’s challenge. CBDCs promise a digital update to state money, but the chapter treats them as a deepening of monetary centralization rather than a neutral technological advance. The issue is not that they are digital; it is that they widen direct access to centrally controlled liabilities and make intervention more programmable.
+Central bank digital currencies are the state’s attempt to answer Bitcoin with a more programmable version of itself. They promise efficiency and digital convenience, but their real significance lies in how they can deepen direct central control over money, blur the line between monetary and fiscal policy, and make intervention easier to target at households and firms.
 
-The chapter explores how CBDCs could blur monetary and fiscal policy, enable helicopter money, and strengthen central banks’ ability to reach households directly. It also speculates on atomic swaps, stablecoins, and a future in which BTC-denominated systems coexist with or absorb state-issued digital claims. CBDCs are therefore framed as both a response to Bitcoin and an advertisement for why Bitcoin matters.
+Design choices matter because they determine whether a CBDC behaves like a neutral payment rail or like an instrument of surveillance and stimulus. The examples from China, the digital euro, and Fedcoin show that this debate is already real. Helicopter money, atomic swaps, stablecoins, and BTC-linked pricing all suggest a future in which digital state money coexists with Bitcoin and is judged against it.
 
-## Key Takeaways
-
-- CBDCs are presented as the state’s digital response to Bitcoin.
-- Digitality alone does not make central money less centralized.
-- CBDCs can intensify direct monetary control and blur fiscal boundaries.
-- The future may involve interaction between BTC systems, stablecoins, and CBDCs.
-- State digital money can make Bitcoin’s contrast even clearer.
-
-## Notable Terms / Claims
-
-- Central bank digital currencies
-- Helicopter money
-- Programmable control
-- Atomic swaps
-- Bitcoin as contrast to CBDCs
-
+In that setting, CBDCs become more than a policy proposal. They become a test of whether digital money expands freedom or merely refines central control. Bitcoin remains the reference point that makes the distinction visible.

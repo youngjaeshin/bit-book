@@ -2,25 +2,8 @@
 
 ## Chapter Digest
 
-Bitcoin is presented first as a scarce digital good and only then as an investment candidate. That distinction matters because the usual ways of valuing productive assets do not apply. Bitcoins are monetary goods, and monetary goods derive value from collective expectations about future acceptability rather than from cash flows, industrial demand, or legal guarantees. The question is not simply what Bitcoin is, but whether enough people will continue to treat it as a store of value.
+Bitcoin is best understood as a monetary good, not as a productivity machine or a claim on earnings. Its value comes from the expectation that others will keep treating it as a store of value and, eventually, as a means of exchange. That means the argument for Bitcoin has to begin with the logic of money itself. When barter is awkward because each exchange requires the right coincidence of wants, people search for goods that are more marketable than the goods they produce. Money emerges as the market's answer to that problem, not as a decree.
 
-To explain that logic, the argument moves back to the origin of money. Human societies did not begin with state-issued currencies but with barter, and barter remained deeply limited by the double coincidence of wants. Collectibles—shells, beads, rare ornaments, and other socially desired objects—began to solve this problem because they could store value across time and transfer wealth between people and generations. Once enough people expected others to value the same collectible, a self-reinforcing dynamic emerged. The more credible the future demand for a good, the more attractive it became to hold in the present.
+Historically, the process began with collectibles and ornaments, then moved toward goods that were easier to save and trade. Gold won because it was scarce, durable, portable, divisible, and widely desired. Once enough people expected others to accept it, its usefulness fed on itself. The good that was most saleable became even more saleable. That same logic is what Bitcoin tries to enter in digital form. It does not need to start as everyday spending money to be meaningful; it needs to gain credibility as something worth holding across time.
 
-That process eventually produces monetary convergence. A society that settles on a superior store of value lowers the cost of exchange and expands the division of labor, and a wider trading world intensifies the same pressure at larger scale. Bitcoin is therefore inserted into a very old evolutionary process rather than treated as an isolated novelty. It enters the competition for monetary status as a new candidate store of value, and its future depends on whether it can continue attracting the shared belief that once elevated earlier monies.
-
-## Key Takeaways
-
-- Bitcoin is treated as a monetary good rather than a conventional productive asset.
-- Monetary value depends on shared expectations and social convergence.
-- Early money emerged from collectibles used to preserve wealth.
-- A common store of value lowers frictions and supports trade and civilization.
-- Bitcoin enters the same competitive process that shaped earlier monies.
-
-## Notable Terms / Claims
-
-- Monetary good
-- Game-theoretic valuation
-- Collectibles as proto-money
-- Nash equilibrium in money selection
-- Monetary evolution
-
+Bitcoin inherits that monetary dynamic but expresses it through software. It is scarce by rule rather than geology, portable by design, and transferable without a trusted intermediary. Its future depends on whether the market continues to treat those properties as valuable enough to store purchasing power in. If that belief persists, Bitcoin does not just compete with other assets; it competes in the old race to become the thing people reach for when they want to move value through time.

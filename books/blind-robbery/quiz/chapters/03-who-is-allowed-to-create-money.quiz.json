@@ -8,13 +8,13 @@
     "Central banks must borrow before lending",
     "Private savers set national money supply"
   ],
-  "question_ko": "이 장이 강조하는 비대칭은 무엇인가?",
+  "question_ko": "화폐 창출에서 드러나는 비대칭은 무엇인가?",
   "choices_ko": [
     "특권적 제도는 돈을 만들 수 있지만 평범한 사람은 만들 수 없다는 점",
     "소형 은행만 돈을 만들 수 있다는 점",
     "중앙은행은 대출 전 차입해야 한다는 점",
     "개인 저축가가 국가 통화량을 정한다는 점"
   ],
-  "explanation_en": "The chapter stresses that money creation is legalized for privileged institutions while being criminalized for everyone else.",
+  "explanation_en": "Money creation is legalized for privileged institutions while being criminalized for everyone else.",
   "explanation_ko": "화폐 창조가 특권적 제도에는 합법화되고 나머지 사람에게는 범죄화된다고 본다."
 }

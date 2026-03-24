@@ -2,23 +2,6 @@
 
 ## Chapter Digest
 
-Retiring gold means removing the strongest historical base layer from the center of the monetary system. Once redemption is weakened and settlement shifts more fully into managed claims, the discipline imposed by hard reserve assets is loosened. Gold does not disappear physically, but its monetary role is downgraded.
+Retiring gold means demoting the oldest hard settlement asset from the center of the monetary stack. Once redemption weakens, deposit insurance expands confidence in claims, and dollars begin to circulate globally without a tight metallic anchor, the discipline that came from a redeemable base layer starts to fade.
 
-That downgrade changes everything above it. When lower layers no longer expect serious settlement discipline from a gold base, the room for expansion, abstraction, and political control widens sharply. The chapter treats the retirement of gold as the decisive step in making modern fiat systems possible.
-
-## Key Takeaways
-
-- Retiring gold means weakening the strongest historical base layer.
-- Gold’s loss of monetary role loosens discipline on higher layers.
-- Expansion and abstraction become easier once redemption fades.
-- Gold may remain present physically while disappearing monetarily.
-- Fiat becomes possible when the hard base is demoted.
-
-## Notable Terms / Claims
-
-- Retirement of gold
-- Base-layer demotion
-- Redemption discipline
-- Monetary downgrade of gold
-- Preconditions for fiat
-
+That transition makes modern fiat possible. Offshore dollars, the rise of King Dollar, and the breakdown of old redemption habits show how a hard base can be retired while the system continues operating. The surface still looks stable, but the deeper constraint has been removed, leaving more room for expansion and less room for honest settlement.

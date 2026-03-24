@@ -2,23 +2,10 @@
 
 ## Chapter Digest
 
-The closing materials show that the book is part of a larger intellectual project rather than a standalone provocation. The acknowledgements and references place its argument within economic history, Austrian theory, and technical debate. That broader context matters because the monetary claims of the book are presented as part of a developed tradition, not a one-off intuition.
+이 책의 뒷부분은 비트코인을 더 넓은 화폐의 역사와 기술 담론에 연결하는 지도로 읽힌다. 저자와 협력자들의 감사 인사는 이 연구가 한 사람의 지식에 의존하기보다 공동의 맥락 속에서 형성되었음을 상기시킨다. 과거의 화폐 제도와 오늘의 디지털 화폐 간의 대화를 이해하려면, 그 계보와 흐름을 인정하는 태도가 필요하다는 메시지가 담겨 있다.
 
-Back matter therefore clarifies lineage. The book’s argument is attached to a wider network of reading, debate, and collaboration concerned with money, state power, and sound monetary order. The conclusion is implicit: Bitcoin should be read within that larger inquiry.
+협력과 비판의 힘을 강조하는 전개는 다양한 관점과 자료를 포용하도록 독자를 이끈다. 원전 자료와 비판적 해석 사이의 대화를 통해 단일 해석에 머무르지 않도록 배려하는 자세가 중요하다고 설명한다.
 
-## Key Takeaways
+실천적 전망과 학문적 탐구의 균형도 주목된다. 추가로 읽을거리와 기술적 논문, 역사적 사례 연구를 통해 이론이 실제 맥락에서 어떻게 작동하는지 살펴보라고 제안한다. 이상적 모델과 실제 상황 사이의 긴장을 이해하는 것이 비트코인의 역할을 해석하는 데 필수적이다.
 
-- The book belongs to a broader intellectual tradition.
-- Its claims draw from history, theory, and technical debate.
-- Acknowledgements show the collaborative setting of the argument.
-- References locate it within a sound-money tradition.
-- The back matter points toward a larger project of monetary understanding.
-
-## Notable Terms / Claims
-
-- Intellectual lineage
-- Austrian theory
-- Sound-money tradition
-- Collaborative argument
-- Monetary inquiry
-
+독자의 적극적 참여를 불러일으키는 메시지는 실험과 토론, 지속적 학습의 중요성을 강조한다. 안내된 방향성 속에서 다양한 관점을 검토하고, 정보에 기반한 판단을 스스로 형성해 나가자는 자세가 필요하다.

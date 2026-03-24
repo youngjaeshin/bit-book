@@ -2,25 +2,10 @@
 
 ## Chapter Digest
 
-A new monetary good does not rise in a vacuum. It rises by pulling savings out of weaker stores of value and into itself. Bitcoin is therefore not competing only with cash balances; it competes with gold, sovereign debt, real estate, equities used as inflation hedges, and every other asset into which people push savings when they lack reliable money. The size of Bitcoin’s opportunity is inseparable from the size of the global market for stored value.
+Bitcoin's monetization does not follow a smooth upward line. It moves in waves because each round of adoption changes who understands the asset, who is willing to take the risk, and how much capital is ready to chase the next repricing. Early believers buy when the story is still opaque. Later buyers arrive only after the asset has survived another test and a new cohort has become convinced that it is something more than a passing novelty. The result is a series of sharply rising valuations followed by equally sharp corrections as the market re-evaluates what kind of monetary good Bitcoin might become.
 
-That migration of savings unfolds through distinct cohorts rather than through universal recognition all at once. Early adopters are drawn by ideology, cryptographic insight, or mistrust of the state. Later adopters arrive through macro necessity, investment logic, or institutional legitimacy. Each wave raises Bitcoin’s profile, changes how it is discussed, and forces the market to reprice the probability that it will become a lasting monetary asset. Crashes then function as stress tests, purging weak conviction and concentrating ownership in stronger hands.
+That pattern resembles a succession of hype cycles or adoption cohorts. A small group discovers the opportunity first, then a wider public notices, then institutions step in, and each wave broadens the base of conviction. Bitcoin does not escape that pattern because it is money; it follows it. The market is not just pricing a technology, but the probability that this technology will remain the most credible digital store of value. Each cycle therefore becomes a referendum on the next larger circle of participants who can be reached.
 
-Monetization is therefore described as a transfer process with recognizable structure. Savings move from older and softer monetary assets into a harder digital base as confidence accumulates. The process is noisy, but not arbitrary. Bitcoin’s price history is tied to expanding monetary demand, and that demand grows as more market participants come to believe that a superior store of value is emerging in front of them.
+The halving intensifies that process by constraining fresh supply on a fixed schedule. As new supply growth falls, any increase in demand has a larger effect on price, especially when awareness is spreading and liquidity is still relatively thin. The volatility is therefore not an argument against the asset's monetary role. It is part of the mechanism by which a scarce asset works its way from niche collectible to institutionally recognized reserve. Even nation-states eventually have to notice a hard asset that refuses dilution and keeps attracting capital despite each correction.
 
-## Key Takeaways
-
-- Bitcoin monetizes by absorbing savings from weaker stores of value.
-- Its competitive field includes many asset classes, not just cash.
-- Adoption comes through successive investor cohorts.
-- Crashes test conviction and concentrate ownership in stronger hands.
-- Monetization is a transfer process, not a single repricing event.
-
-## Notable Terms / Claims
-
-- Monetization as savings migration
-- Addressable market for store of value
-- Investor cohorts
-- Weak hands / conviction
-- Harder monetary base
-
+The direction of travel is what matters. With every cycle, more capital, more infrastructure, and more institutions begin to treat Bitcoin as something to hold rather than dismiss. If that accumulation continues, Bitcoin gradually shifts from speculative store of value toward broader medium of exchange. The shape is uneven, but the monetization logic is familiar: credibility widens, liquidity deepens, and the asset becomes harder to ignore.

@@ -2,8 +2,10 @@
 
 ## Chapter Digest
 
-BTCPay Server turns a self-run node into a payment backend for an online store. It builds a WooCommerce shop in WordPress, installs the BTCPay and WooCommerce plugins, chooses a theme, adds products, and then connects the store to the node so the merchant can accept Bitcoin without relying on a third-party payment processor.
+BTCPay Server is used here as the payment backend for an online store built on WordPress and WooCommerce. The guide installs the BTCPay and WooCommerce plugins, chooses a theme, adds products, and keeps the checkout flow inside a stack the merchant can actually control.
 
-The networking work is just as important as the store setup. Cloudflare Tunnel, domain configuration, SSL, and the connection between WooCommerce and BTCPay are all part of making the checkout flow actually work from the customer’s side. The merchant is not just adding a payment button; the merchant is wiring an entire stack together so that payment, catalog, and hosting all line up.
+The infrastructure work is part of the store, not a separate concern. Umbrel is used to download and configure BTCPay Server, Cloudflare is used to create an account and a tunnel, the domain is wired in, SSL is applied, and the merchant then links WooCommerce back to the BTCPay instance.
 
-Legal and tax questions are left visible rather than ignored, which keeps the chapter grounded. Accepting Bitcoin online is not portrayed as magic; it is portrayed as a practical merchant project with technical, operational, and compliance decisions attached.
+That connection turns a WordPress shop into a Bitcoin-accepting storefront with a payment processor the merchant operates directly. The guide also leaves room for extra settings so the reader sees the setup as an integrated system instead of a single plugin toggle.
+
+Legal and tax questions stay visible at the end because online Bitcoin commerce is still commerce. The technical path is one layer, while accounting, policy, and compliance decisions sit on top of it and need to be thought through separately.

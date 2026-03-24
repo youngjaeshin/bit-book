@@ -2,24 +2,10 @@
 
 ## Chapter Digest
 
-The second fiat-money unit explains the mechanics that let fiat settle international imbalances without an explicit commodity anchor. Ammous focuses on reserve management, sovereign bonds, and the layered relationship between local banks, central banks, and governments. Instead of redeeming claims in scarce money, fiat systems stabilize themselves through accounting arrangements, reserve holdings, and government debt markets. What looks like settlement is increasingly the management of interlocking liabilities.
+Fiat money II unpacks its machinery behind a currency system that settles international imbalances not by a commodity, but by promise, accounting, and credit. It highlights reserve management, sovereign bonds, and the layered links among local banks, central banks, and governments. Rather than redeeming claims in scarce metal or notes, fiat money stabilizes itself through the choreography of reserves, balance sheets, and debt markets. At first glance, settlements look seamless; in truth they are the ongoing management of a web of interlocking liabilities that change shape as markets shift.
 
-This matters because it reveals fiat not as money with firm finality, but as money whose smooth operation depends on ever-larger balance sheets and increasingly elastic institutional promises. The local currency, international reserve structure, bank reserves, and government bonds all become connected parts of one pyramid. Ammous’s point is that this architecture can appear stable for long stretches precisely because liabilities can be rolled, refinanced, and collateralized rather than settled in hard terms.
+To understand this, think of money as a network of promises rather than a single note with intrinsic value. Banks hold reserves at the central bank, which clears payments between institutions. The central bank lends liquidity during stress, often creating more reserves rather than new physical currency. Governments issue bonds that are widely accepted as safe assets and collateral, anchoring private sector credit. The result is a pyramid: core central-bank liabilities at the top, commercial bank deposits and securities at the next level, and a broad field of private claims around the edges. The stability of the whole structure rests on the ability to roll over these liabilities, not on paying them off in full each period.
 
-The implication is that fiat survives not by escaping the problem of monetary backing, but by replacing backing with a hierarchy of claims. The more one understands this reserve structure, the clearer it becomes that fiat’s strength and fragility are the same thing: its ability to defer hard settlement.
+Cross-border payments reveal the international side of the system. Central banks extend currency swap lines to keep foreign exchange markets functioning, while international institutions coordinate liquidity support when huge imbalances emerge. Sovereign debt thus plays a dual role: it finances deficits and serves as a global, liquid instrument that other actors can hold or post as collateral. When these claims are plentiful and well understood, the apparent settlement of balances hides a more enduring balancing act—continuously refinancing, reclassifying, and reallocating risk across the system. This is what Ammous calls the management of liability chains: a mechanism that can appear stable because the underlying promises are continually renewed.
 
-## Key Takeaways
-
-- Fiat settlement relies on reserves, debt markets, and hierarchical balance sheets.
-- Sovereign bonds function as core collateral in the fiat architecture.
-- Fiat stability often means rolling claims rather than extinguishing them.
-- Reserve systems replace hard backing with layered liabilities.
-- Fiat’s resilience and fragility arise from the same deferment mechanism.
-
-## Notable Terms / Claims
-
-- Reserve balances
-- Sovereign bonds
-- Collateral hierarchy
-- Deferred settlement
-- Layered liabilities
+From a policy and citizen perspective, the fiat architecture is both its strength and its vulnerability. Its strength lies in flexibility: governments can run deficits, banks can extend credit, and payments keep circulating even as no single note is definitively settled. Its weakness surfaces when confidence in the ability to roll over bills erodes: credit markets tighten, inflation expectations shift, or political conditions disrupt debt management. The diagnosis is not that fiat money lacks backing, but that backing has migrated to a hierarchy of claims whose resilience depends on credible institutions and disciplined governance. Appreciating this structure helps explain why fiat money can seem stable for long stretches and yet remain susceptible to systemic shocks.

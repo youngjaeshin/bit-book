@@ -2,25 +2,10 @@
 
 ## Chapter Digest
 
-injustice is not accidental to the current monetary system but one of its regular outputs. New money does not spread evenly across society. It enters through banks, governments, financial markets, and politically connected institutions, allowing early recipients to spend before prices have fully adjusted. Those further away from the monetary spigot receive the new money only after the purchasing power of their earnings and savings has already been eroded.
+The word inflation has been blurred so badly that people now use it to mean rising prices, even though the older and more precise meaning is an expansion of the money supply. That shift in language matters because it hides the causal chain. Prices rise because new money enters the economy unevenly, not because every good suddenly becomes more precious all at once. Inflation therefore is not just a statistic; it is a transfer process.
 
-This process makes inequality more than a question of talent or effort. Even if people work diligently, the monetary order redistributes value in ways that favor proximity to finance and state power. Savers, wage earners, retirees, and people with little access to appreciating assets lose ground, while leveraged institutions and asset holders benefit. The social result is not merely a gap in wealth but a gap structured by the path money takes into the economy.
+That transfer is deeply unequal. New money does not arrive everywhere at the same time. It flows first to governments, banks, contractors, and the asset holders closest to the financial system, where it lifts prices for financial assets, real estate, and politically favored projects. By the time the currency reaches wages, pensions, and ordinary household budgets, the purchasing power has already been partly spent. This Cantillon-style effect turns money creation into a quiet redistribution toward those with access and away from those who save in cash or live on fixed incomes.
 
-reframes social injustice as monetary architecture. It is not enough to condemn greed or envy isolated elites. The deeper problem is a system that repeatedly channels advantage to those nearest to money creation and burdens those who encounter the effects only later through higher prices and weaker savings.
+The monetary critique has a political one too. Progressive taxation already takes a larger share of earnings as nominal incomes rise, but inflation pushes people into higher nominal brackets even when their real situation is worse. People are taxed on numbers rather than on purchasing power, and the state collects more while claiming to be neutral. That combination means the fruits of labor are taken twice: once through explicit tax policy and again through the hidden tax of monetary dilution.
 
-## Key Takeaways
-
-- Monetary injustice follows from unequal access to newly created money.
-- Early recipients benefit before prices fully adjust.
-- Wage earners and savers are structurally disadvantaged.
-- The path money takes matters for inequality.
-- Social injustice is traced to monetary design, not only personal conduct.
-
-## Notable Terms / Claims
-
-- Cantillon-style redistribution
-- Early versus late recipients
-- Asset holders versus savers
-- Monetary architecture of inequality
-- Structural social injustice
-
+What makes the injustice more pernicious is that it can be denied. Official inflation measures are smoothed by substitutions, hedonic adjustments, and selective baskets that hide how much the cost of living has actually risen. The result is a system where workers are told they are failing to keep up when the currency itself is being degraded beneath their feet. Social inequality is not just the result of personalities or markets gone astray; it is built into a monetary order that creates winners near the spigot and losers far away from it.

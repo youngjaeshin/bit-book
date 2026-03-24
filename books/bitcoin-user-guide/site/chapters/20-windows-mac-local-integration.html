@@ -25,18 +25,21 @@
           <div class="digest">
 <h2>20 Windows Mac Local Integration</h2>
 <h3>Chapter Digest</h3>
-<p>Windows and Mac users get a local-node workflow that keeps the node and Sparrow on the same machine or the same local network. It covers installing Core or Knots, opening the firewall for RPC access when needed, and configuring Sparrow so it can talk to the local node cleanly and reliably.</p>
-<p>The same pattern appears on both platforms, but each operating system asks for slightly different steps. Windows uses Control Panel and inbound firewall rules, while Mac users check the firewall state, allow the node app if necessary, and then point Sparrow at the local IP address and the exact RPC credentials stored in bitcoin.conf. Success is confirmed when the connection test turns green.</p>
-<p>The point is that a local node is not only for dedicated hardware. Even a desktop or laptop that already exists can become a self-hosted backbone for monitoring and spending as long as the local integration is configured carefully.</p>
+<p>This guide shows how a desktop machine can become a local Bitcoin node stack on Windows or macOS without buying a dedicated box. Core or Knots is installed on the same machine, Sparrow is pointed at it, and the wallet talks to the node through the local data folder and the temporary `.cookie` credentials stored there.</p>
+<p>For same-device use, Sparrow stays on 127.0.0.1 and port 8332, then connects through File &gt; Settings &gt; Server &gt; Edit Existing Connection. The guide emphasizes that the data folder must be chosen correctly so Sparrow can find the node&#x27;s Bitcoin data and keep using the temporary RPC username and password exposed through the cookie file.</p>
+<p>When the node and wallet live on the same local network, the machine&#x27;s LAN IP and bitcoin.conf settings matter just as much as the GUI. Windows and macOS each require their own firewall allowances, but the goal is the same: let Sparrow reach the node without handing the connection to a third-party service.</p>
+<p>The result is a practical self-hosted backbone that can live on ordinary desktop hardware. The user can verify balances, broadcast transactions, and keep watch-only wallet traffic inside the home network instead of outsourcing those checks to a public server.</p>
 </div>
         </article>
         <article class="card lang-panel active" data-lang="ko">
           <div class="digest">
 <h2>Windows/Mac/로컬 연동</h2>
 <h3>요약</h3>
-<p>윈도우와 맥 사용자에게는 노드와 스패로우를 같은 기기나 같은 로컬 네트워크에서 붙여 쓰는 흐름이 제공된다. 그 흐름은 비트코인 코어 또는 노츠 설치, 필요할 때 RPC용 방화벽 개방, 그리고 스패로우가 로컬 노드와 깔끔하게 통신하도록 설정하는 과정을 다룬다.</p>
-<p>두 운영체제에서 기본 구조는 같지만 필요한 단계는 조금씩 다르다. 윈도우에서는 제어판과 인바운드 규칙을 쓰고, 맥에서는 방화벽 상태를 확인한 뒤 필요하면 노드 앱을 허용하고, 그 다음 스패로우에서 로컬 IP와 bitcoin.conf에 적어 둔 RPC 자격 증명을 정확히 입력한다. 연결 테스트가 초록색으로 바뀌면 성공이다.</p>
-<p>여기서 전해지는 메시지는 로컬 노드가 전용 장비만의 몫은 아니라는 점이다. 이미 가지고 있는 데스크톱이나 노트북도 로컬 연동을 제대로 해 두기만 하면, 감시와 지출을 떠받치는 자기보관의 백본이 될 수 있다.</p>
+<p>이 가이드는 전용 장비를 사지 않아도 데스크톱 기기 하나로 비트코인 노드 스택을 만들 수 있음을 보여 준다. 윈도우나 맥에 비트코인 코어나 노츠를 설치하고, 같은 기기에서 스패로우를 연결해 노드와 지갑이 로컬로 대화하게 만드는 흐름이다.</p>
+<p>같은 기기에서 쓸 때는 스패로우가 127.0.0.1과 8332 포트를 그대로 쓰고, File &gt; Settings &gt; Server &gt; Edit Existing Connection으로 들어가 연결한다. 이때 비트코인 데이터 폴더를 정확히 골라야 `.cookie` 파일에 있는 임시 RPC 사용자명과 비밀번호를 스패로우가 찾을 수 있다.</p>
+<p>노드와 지갑이 같은 로컬 네트워크에 있을 때는 기기의 LAN IP와 bitcoin.conf 설정도 중요하다. 윈도우와 맥은 각각 방화벽 예외를 열어 줘야 하지만, 목표는 같다. 스패로우가 노드에 직접 닿게 하되, 연결은 제3자 서비스가 아니라 집 안의 네트워크 안에서 끝내는 것이다.</p>
+<p>이렇게 구성하면 평범한 데스크톱이나 노트북도 자가 호스팅 백본이 된다. 사용자는 잔액을 검증하고 거래를 전파하며, 워치-온리 지갑 트래픽을 집 안 네트워크 안에 묶어 둘 수 있다.</p>
+<p>이 가이드는 버튼 이름과 메뉴 경로를 외우는 데서 끝나지 않는다. 어떤 설정을 왜 바꾸는지, 어떤 입력값이 어떤 동작을 여는지, 어디서 검증해야 실수가 줄어드는지까지 운영 관점으로 묶어 준다. 그래서 독자는 단순히 절차를 따라 하는 수준을 넘어, 다음에 비슷한 상황이 와도 스스로 점검하고 복구하고 선택할 수 있는 기준을 얻게 된다.</p>
 </div>
         </article>
       </section>

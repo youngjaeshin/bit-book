@@ -2,8 +2,10 @@
 
 ## Chapter Digest
 
-Sparrow is used here as the control room for UTXO-aware Bitcoin spending. It installs Sparrow, connects it to a full node, turns it into a watch-only companion, and then uses coin selection and PSBT flows to show why transaction construction is really about choosing inputs, outputs, and change before a signature is ever made.
+Sparrow is presented as the desktop control room for UTXO-aware Bitcoin spending. The guide begins on a PC or laptop with a webcam, installs Sparrow from the official download page, and starts from a public server configuration before the book later moves toward self-hosted nodes.
 
-UTXO consolidation is the main practical example. By grouping small coins into cleaner denominations, the user learns that fees, privacy, and future spendability are all affected by the shape of the coin set. It also shows how many-input transactions can overrun lightweight air-gapped devices, which is a useful reminder that the wallet interface, the signer’s memory, and the transaction design all have to fit together.
+The wallet is created as a watch-only wallet with no password, which keeps the signing key elsewhere while still letting Sparrow inspect the coin set, labels, and transaction construction. The point is not to treat the wallet as a balance-only display; it is to use it as a desk for planning how inputs, outputs, and change should be arranged before a signature is made.
 
-By the end, Sparrow feels less like an app and more like an operations desk. It lets the user inspect the coin set, plan a consolidation path, move the unsigned transaction to a signing device, and return with a signed result that can be broadcast with confidence.
+UTXO consolidation is explained through the Alice example. Large coins leak privacy, tiny coins inflate fees, and a practical middle range matters more than a neat balance number. The guide recommends roughly 0.01 to 0.02 BTC, or about 100k to 200k sats, for coins meant to cover near-term spending, while keeping KYC and non-KYC coins separated when possible.
+
+From there the workflow becomes concrete: select the UTXOs, send only the chosen inputs, build the unsigned transaction, and move it to a signing device before broadcasting the result. Sparrow feels less like a generic wallet and more like an operations desk for shaping future spendability, not just showing a present balance.

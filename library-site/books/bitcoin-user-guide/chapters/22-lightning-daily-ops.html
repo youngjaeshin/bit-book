@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>일상적 라이트닝 운영 · 비트코인 사용 가이드</title>
+    <title>라이트닝 일상 운영 · 비트코인 사용 가이드</title>
     <link rel="stylesheet" href="../../../assets/styles.css" />
   </head>
   <body class="library-book-page library-reading-page">
@@ -13,7 +13,7 @@
       </nav>
       <header class="reading-hero card">
         <p class="eyebrow">비트코인 사용 가이드</p>
-        <h1>일상적 라이트닝 운영</h1>
+        <h1>라이트닝 일상 운영</h1>
         <p class="subtitle reading-subtitle">22 Lightning Daily Ops</p>
       </header>
       <div class="lang-toggle reading-toggle">
@@ -24,16 +24,19 @@
         <article class="card lang-panel" data-lang="en"><div class="digest">
 <h2>22 Lightning Daily Ops</h2>
 <h3>Chapter Digest</h3>
-<p>Daily Lightning use starts with funding the node and opening channels with intention. It walks through moving funds into the node’s on-chain wallet, searching for peers, adding them, and opening multiple channels so the user can see how capacity, routing relationships, and liquidity shape everyday usability.</p>
-<p>The sequence matters because a Lightning node is not useful simply by existing. It shows that opening one channel is only the beginning, and that adding more channels, watching inbound liquidity, and choosing peers deliberately changes whether the node can actually receive and route payments in the way the operator needs.</p>
-<p>By treating the node as a living wallet rather than a background service, the chapter turns Lightning into a practice of continual maintenance. The user learns to think in terms of channel balance, counterparty quality, and the kind of payment behavior the node is meant to support.</p>
+<p>Daily Lightning use starts by redefining what a channel is. A channel is a jointly funded on-chain output that then behaves like an off-chain ledger for most routine activity. Opening and closing remain on-chain events; the many updates in between happen without touching the chain each time. That is why Lightning feels fast while still depending on Bitcoin as the final settlement layer.</p>
+<p>The guide then turns liquidity vocabulary into operating knowledge. Outbound liquidity is the ability to send, inbound liquidity is the ability to receive, and both depend on where balance sits inside the channel. MPP, HTLCs, cooperative closes, force closes, and CSV are introduced as the concepts that explain why some payments route smoothly, why others fail, and why some exits are cheap while others are slow and punitive.</p>
+<p>Node profiles are treated as practical design choices rather than abstract categories. A drain node can pull liquidity to one side and create an ongoing rebalancing burden. A hub-style node may be more helpful for inbound capacity and route diversity, but then fee strategy and peer selection become more consequential. The guide pushes the operator to think in terms of purpose: is the node mainly for paying, receiving, routing, or some mixture of all three?</p>
+<p>That is why the chapter lands on maintenance rather than installation. Daily operation means funding the on-chain wallet, searching for and adding peers, opening more than one channel, watching the channel set for inbound capacity, and adjusting balances and counterparties over time. Lightning is presented as a living payment system that stays useful only if someone keeps its liquidity and topology aligned with real payment habits.</p>
 </div></article>
         <article class="card lang-panel active" data-lang="ko"><div class="digest">
-<h2>일상적 라이트닝 운영</h2>
+<h2>라이트닝 일상 운영</h2>
 <h3>요약</h3>
-<p>일상적인 라이트닝 사용은 노드에 자금을 넣고 의도적으로 채널을 여는 데서 시작한다. 그 흐름은 노드의 온체인 지갑으로 자금을 옮기고, 피어를 검색해 추가하고, 여러 채널을 개설하면서 용량, 라우팅 관계, 유동성이 일상적인 사용성을 어떻게 바꾸는지 보여 준다.</p>
-<p>순서가 중요한 이유는 라이트닝 노드가 존재한다고 해서 곧바로 쓸 수 있는 것이 아니기 때문이다. 채널 하나를 여는 것은 시작일 뿐이며, 채널을 더 열고 인바운드 유동성을 살피고, 피어를 의도적으로 고르는 일이 있어야 노드가 실제로 받아 주고 라우팅도 할 수 있는 상태가 된다.</p>
-<p>노드를 배경 서비스가 아니라 살아 있는 지갑처럼 다루면서, 그 흐름은 라이트닝을 계속 손보는 실천으로 바꾼다. 사용자는 채널 균형, 상대 노드의 질, 그리고 노드가 어떤 결제 행동을 떠받쳐야 하는지를 생각하게 된다.</p>
+<p>일상적인 라이트닝 운영은 채널이 무엇인지부터 이해하는 데서 출발한다. 채널은 온체인에서 잠그는 공동 약정이지만, 실제 사용에서는 오프체인 장부처럼 동작한다. 그래서 채널 개설과 종료는 온체인 한 번, 오프체인 다수의 구조로 이어지고, 라이트닝이 빠르게 느껴지는 이유도 여기에 있다.</p>
+<p>이 가이드는 운영에 필요한 유동성 언어를 함께 설명한다. 아웃바운드 유동성은 보낼 수 있는 금액이고, 인바운드 유동성은 받을 수 있는 금액이다. MPP는 하나의 결제를 여러 경로로 쪼개 보내는 기술이고, HTLC는 해시-락과 타임-락을 결합해 중간 경유 노드가 자금을 훔치지 못하게 만든다. 협력적 종료와 비협력적 종료는 다른 정산과 페널티 규칙을 낳으며, CSV가 그 사이를 지지한다.</p>
+<p>노드 유형 설명도 실무적이다. 유동성을 한쪽으로 빨아들이는 드레인 노드는 리밸런싱이 필요하고, 허브형 노드는 인바운드 유동성을 확보하는 데 유리할 수 있다. 수수료 전략은 노드가 네트워크에 실제로 유용한지, 아니면 유지비만 드는지까지 좌우한다.</p>
+<p>실제 운영 흐름은 노드의 온체인 지갑에 자금을 넣고, 피어를 검색해 추가하고, 첫 채널과 이후 채널들을 개설하며, 채널 집합을 살피면서 인바운드 용량을 관리하는 일이다. 라이트닝은 한 번 설치하고 끝나는 도구가 아니라, 계속 손봐야 하는 살아 있는 시스템으로 다뤄져야 한다.</p>
+<p>이 가이드는 버튼 이름과 메뉴 경로를 외우는 데서 끝나지 않는다. 어떤 설정을 왜 바꾸는지, 어떤 입력값이 어떤 동작을 여는지, 어디서 검증해야 실수가 줄어드는지까지 운영 관점으로 묶어 준다. 그래서 독자는 단순히 절차를 따라 하는 수준을 넘어, 다음에 비슷한 상황이 와도 스스로 점검하고 복구하고 선택할 수 있는 기준을 얻게 된다.</p>
 </div></article>
       </section>
       <section class="card quiz-card">

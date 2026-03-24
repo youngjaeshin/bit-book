@@ -2,23 +2,12 @@
 
 ## Chapter Digest
 
-Bretton Woods appears as an unstable compromise rather than a restoration of sound money. By centering the dollar while weakening broad convertibility, it preserved room for manipulation beneath a gold façade. When those tensions intensified, the final link to gold was abandoned and the full fiat era began.
+Re-examining Bretton Woods, we see not a pristine return to monetary virtue but a pragmatic compromise that placed trust in the dollar while softening the strict convertibility of the gold standard. The system fixed exchange rates by tying currencies to a dollar itself anchored to gold, yet it allowed policymakers to adjust policy and intervene in markets as needed. A gold façade masked a web of distortions and incentives that encouraged monetary manipulation within a framework that appeared disciplined. When pressures mounted, the final link to gold was severed, and fiat dominance took root. The postwar order sought stability through managed coordination rather than spontaneous adjustment, delegating more decision-making to central banks and national authorities while preserving the appearance of order in international finance.
 
-What follows is judged by record. Government money repeatedly produces inflation, devaluation, crisis, and abuse because political discretion is built into the system. A monetary order that depends on the restraint of states and central banks tends over time toward expansion and erosion, not discipline.
+Government money carries a different logic from money that can be redeemed in gold. The Cantillon effect shows who benefits from new money, with those closest to the source gaining purchasing power before prices adjust, while others bear the cost of rising living costs. This is not a bug but a feature baked into a system where political discretion shapes money supply. Inflation tends to redistribute wealth upward, tending to reward those with access to credit and political connections while squeezing savers, retirees, and lower-income households most exposed to price increases.
 
-## Key Takeaways
+Ancient precedents remind us that fiat's strength in the moment is often a fragile veneer. The earliest forms of fiat, such as jiaozi in medieval China and later the Yuan era, began as receipts backed by metal and then grew beyond those reserves, ending in disastrous collapse for many participants. The takeaway is that genuine backing matters, even in systems that primarily rely on trust in institutions. Modern central banks still maintain reserves, and some gold or foreign assets stand behind currencies in practice, but the expansionary capacity of irredeemable money creates an inherent drift away from price stability.
 
-- Bretton Woods is treated as a compromise, not a return to sound money.
-- Dollar centrality preserved room for manipulation under a gold veneer.
-- Full fiat begins when convertibility is abandoned.
-- The historical record of government money is repeatedly disorderly.
-- Political discretion makes long-run erosion normal.
+Bretton Woods aimed to stabilize a global economy without a gold coin in every purse. The IMF was established to coordinate flows and shore up currency values, while trade policy came under a framework like GATT to promote predictable exchanges. Yet the system remained contingent on macroeconomic management and policy choices; devaluations, rate adjustments, and capital flows created cycles that no single anchor could permanently fix. The gold standard's steady yardstick gave way to a more elastic standard, where value drifted with policy and market sentiment rather than metal reserves.
 
-## Notable Terms / Claims
-
-- Bretton Woods compromise
-- Dollar-centered order
-- Fiat transition
-- Government money track record
-- Political discretion
-
+Taken together, this history illuminates the fundamental trade-off of government money: the promise of stability through coordination comes with a built-in exposure to political discretion and monetary imbalances that demanding times can amplify. The track record suggests that money backed by nothing but consensus is vulnerable to habitual expansion and mispricing, especially during wars, crises, or political fiscal pressure. In that light, bitcoin’s design—capped supply, rules on issuance, and independence from centralized authorities—appears as a deliberate counterpoint to fiat’s recurring temptations. It offers a baseline of monetary discipline that is hard to replicate through policy tinkering alone, a point this chapter uses to frame the enduring debate about what money is and what it should become.

@@ -25,18 +25,21 @@
           <div class="digest">
 <h2>08 Sparrow And Utxo</h2>
 <h3>Chapter Digest</h3>
-<p>Sparrow is used here as the control room for UTXO-aware Bitcoin spending. It installs Sparrow, connects it to a full node, turns it into a watch-only companion, and then uses coin selection and PSBT flows to show why transaction construction is really about choosing inputs, outputs, and change before a signature is ever made.</p>
-<p>UTXO consolidation is the main practical example. By grouping small coins into cleaner denominations, the user learns that fees, privacy, and future spendability are all affected by the shape of the coin set. It also shows how many-input transactions can overrun lightweight air-gapped devices, which is a useful reminder that the wallet interface, the signer’s memory, and the transaction design all have to fit together.</p>
-<p>By the end, Sparrow feels less like an app and more like an operations desk. It lets the user inspect the coin set, plan a consolidation path, move the unsigned transaction to a signing device, and return with a signed result that can be broadcast with confidence.</p>
+<p>Sparrow is presented as the desktop control room for UTXO-aware Bitcoin spending. The guide begins on a PC or laptop with a webcam, installs Sparrow from the official download page, and starts from a public server configuration before the book later moves toward self-hosted nodes.</p>
+<p>The wallet is created as a watch-only wallet with no password, which keeps the signing key elsewhere while still letting Sparrow inspect the coin set, labels, and transaction construction. The point is not to treat the wallet as a balance-only display; it is to use it as a desk for planning how inputs, outputs, and change should be arranged before a signature is made.</p>
+<p>UTXO consolidation is explained through the Alice example. Large coins leak privacy, tiny coins inflate fees, and a practical middle range matters more than a neat balance number. The guide recommends roughly 0.01 to 0.02 BTC, or about 100k to 200k sats, for coins meant to cover near-term spending, while keeping KYC and non-KYC coins separated when possible.</p>
+<p>From there the workflow becomes concrete: select the UTXOs, send only the chosen inputs, build the unsigned transaction, and move it to a signing device before broadcasting the result. Sparrow feels less like a generic wallet and more like an operations desk for shaping future spendability, not just showing a present balance.</p>
 </div>
         </article>
         <article class="card lang-panel active" data-lang="ko">
           <div class="digest">
 <h2>스패로우 + UTXO</h2>
 <h3>요약</h3>
-<p>스패로우는 UTXO를 의식하며 비트코인을 쓰기 위한 운영실처럼 다뤄진다. 그 흐름은 스패로우 설치, 풀 노드 연결, 워치-온리 동반 지갑 구성, 그리고 코인 선택과 PSBT 흐름을 통해 서명 전에 입력과 출력, 잔돈을 고르는 일이 곧 거래 설계라는 사실을 보여 준다.</p>
-<p>핵심 사례는 UTXO 정리다. 작은 코인들을 더 깔끔한 단위로 모으는 과정을 통해, 수수료와 프라이버시, 그리고 나중의 사용 가능성이 모두 코인 묶음의 형태에 따라 달라진다는 점을 배운다. 입력이 너무 많은 거래는 가벼운 에어-갭 서명 기기의 한계를 넘어설 수 있다는 점도 함께 보여 주는데, 이는 지갑 화면, 서명 장치의 메모리, 거래 구조가 서로 맞아야 한다는 중요한 경고다.</p>
-<p>마지막에는 스패로우가 단순한 앱이 아니라 운영 데스크처럼 느껴진다. 코인 묶음을 점검하고, 정리 경로를 계획하고, 서명되지 않은 거래를 서명 기기로 보내고, 다시 서명된 결과를 받아 네트워크에 전파하는 전 과정을 차분하게 다루기 때문이다.</p>
+<p>스패로우는 UTXO를 의식하면서 비트코인을 쓰기 위한 데스크톱 관제실로 제시된다. 이 가이드는 웹캠이 달린 PC나 노트북에서 시작해, 공식 다운로드 페이지에서 스패로우를 설치하고, 먼저 공개 서버로 연동한 뒤 나중에 자체 노드로 넘어가는 흐름을 따른다.</p>
+<p>지갑은 비밀번호를 두지 않는 워치-온리 지갑으로 만들어진다. 이렇게 하면 서명 키는 다른 곳에 두면서도 스패로우로 코인 집합, 라벨, 거래 구성을 꼼꼼히 살필 수 있다. 이 장이 말하는 핵심은 잔고만 보는 앱이 아니라, 입력·출력·거스름돈을 어떻게 배열할지 미리 설계하는 책상으로 쓰라는 데 있다.</p>
+<p>UTXO 정리는 앨리스 예시로 설명된다. 너무 큰 코인은 프라이버시를 해치고, 너무 작은 코인은 수수료를 키우므로 잔고 숫자보다 적절한 단위가 더 중요하다. 가까운 미래의 지출을 위한 코인은 대략 0.01~0.02 BTC, 즉 10만~20만 sats 정도를 권장하고, 가능하다면 KYC 코인과 비-KYC 코인을 구분해 두라고 안내한다.</p>
+<p>이후 흐름은 더 구체적이다. 필요한 UTXO만 골라 보내고, 서명되지 않은 거래를 만든 뒤, 서명 기기로 옮겨 서명하고 전파한다. 스패로우는 단순한 지갑이 아니라, 현재 잔고를 보여 주는 도구가 아니라 미래의 지출 가능성을 설계하는 운영 책상처럼 다뤄진다.</p>
+<p>이 가이드는 버튼 이름과 메뉴 경로를 외우는 데서 끝나지 않는다. 어떤 설정을 왜 바꾸는지, 어떤 입력값이 어떤 동작을 여는지, 어디서 검증해야 실수가 줄어드는지까지 운영 관점으로 묶어 준다. 그래서 독자는 단순히 절차를 따라 하는 수준을 넘어, 다음에 비슷한 상황이 와도 스스로 점검하고 복구하고 선택할 수 있는 기준을 얻게 된다.</p>
 </div>
         </article>
       </section>

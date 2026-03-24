@@ -2,23 +2,12 @@
 
 ## Chapter Digest
 
-Trade depends on a monetary basis that can carry reliable information. Sound money makes prices and contracts more meaningful because it is less vulnerable to arbitrary manipulation. The chapter therefore treats monetary quality as a precondition for deep and durable cooperation.
+Trade rests on a monetary baseline capable of carrying information across producers, traders, and households. A currency that retains value over time and resists arbitrary tweaking provides a common yardstick for quickly comparing the cost of goods, services, and obligations. When prices reflect genuine scarcity and opportunity costs, entrepreneurs can estimate returns, households can plan budgets, and firms can commit to long-term projects with confidence. In this setting, money serves not only as a medium of exchange but as a public information system that encodes the relative value of countless decisions into shareable signals.
 
-When money is unsound, trade becomes less intelligible and more distorted. Exchange shifts away from mutual gain and toward defensive reactions to a weakening unit. Sound money, by contrast, supports more stable coordination because it lets participants trust the measuring stick itself.
+Without that reliable yardstick, contracts become fragile and negotiations tense. Inflation erodes the purchasing power promised in a contract, shifting risk toward the party holding fixed obligations. Businesses respond by demanding higher risk premia, shorter planning horizons, or more frequent price renegotiations, all of which add friction. So-called 'soft' money invites uncertainty, making it harder to forecast future costs, allocate capital, and coordinate supply chains across borders. In contrast, sound money preserves the integrity of price signals, enabling longer horizons for investment and more complex coordination among specialized producers.
 
-## Key Takeaways
+Prices are not merely numbers; they are memory traces of past decisions, anticipation of future conditions, and guides for current production. A reliable unit of account reduces the cognitive load on decision-makers by consolidating diverse streams of data into a single reference. Accounting, budgeting, and financial statements gain credibility when the unit remains stable, allowing comparability across firms and over time. This common information environment lowers transaction costs, mitigates dispute risk, and fosters trust that contracts and exchanges will be honored.
 
-- Trade requires a reliable monetary basis.
-- Sound money strengthens cooperation through clearer signals.
-- Unsound money weakens the informational basis of exchange.
-- Stable measurement supports durable coordination.
-- Monetary quality matters for the depth of markets.
+Technology can amplify or undermine this information system. Digital, rules-based money, with transparent supply and verifiable history, has the potential to reduce information asymmetry even across borders. Yet the core requirement remains: a monetary unit that behaves consistently enough to be trusted as a measure of value. When such unit exists, capital can flow toward productive use rather than toward hedges against monetary erosion. Companies can forecast, price projects, and allocate resources with greater confidence, knowing the metric they rely on will resist arbitrary manipulation.
 
-## Notable Terms / Claims
-
-- Sound basis for trade
-- Reliable measurement
-- Cooperation through exchange
-- Durable coordination
-- Informational basis of markets
-
+That is the essence of Capitalism's Information System II: a sound monetary base that makes trade intelligible, durable, and expansive. By anchoring expectations, it turns dispersed knowledge into coherent action, enabling the gradual, incremental improvements that underwrite large-scale prosperity. When the money itself becomes a reliable information medium, cooperative ventures—whether local markets or global supply chains—can unfold with less fear, fewer disputes, and more shared gains.

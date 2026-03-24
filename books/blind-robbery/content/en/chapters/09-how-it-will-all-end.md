@@ -2,25 +2,10 @@
 
 ## Chapter Digest
 
-The chapter turns from diagnosis to trajectory. A monetary order built on expansion, concealment, and political privilege cannot continue indefinitely without consequence. The central question is not whether such a system can end, but in what form it will end and who will bear the costs when its contradictions become impossible to hide.
+The current system cannot keep expanding forever because debt and confidence obey arithmetic, not slogans. Governments can roll obligations forward, central banks can suppress symptoms, and nominal wealth can be inflated for years, but none of that creates the savings needed to honor all the promises. At some point the gap between claims and real resources becomes impossible to ignore. What had looked like stability is revealed as deferred recognition.
 
-Several endgame possibilities are implied: currency breakdown, debt crises, institutional loss of credibility, or a long deterioration marked by repeated interventions and falling trust. What unites them is the claim that bad money creates a future in which the system must eventually collide with reality. Printing, borrowing, and administrative management can postpone adjustment, but they cannot abolish scarcity or eliminate the social consequences of distortion.
+When that recognition arrives, the form of the crisis may vary. It might look like outright currency collapse, a violent inflationary spiral, sovereign default, or a sudden repricing of assets that had been held aloft by cheap money. Whatever the trigger, the underlying event is the same: trust stops compensating for the lack of substance. Once people understand that money is not anchored in real value, they stop treating its claims as safe, and the exit can become very fast.
 
-frames the end not as a melodramatic prediction but as the logical destination of a system built on falsified signals. The longer correction is delayed, the harsher the eventual reckoning tends to become. Monetary disorder does not disappear because it is hidden; it accumulates.
+Collapse is not the point. It treats crisis as the final consequence of living for too long on borrowed monetary time. A reset will be painful because the debts, pensions, government commitments, and private balance sheets built on debased money cannot all be made whole by decree. But the pain also clarifies the choice that had been obscured: either continue living under a system that eats its own capital, or rebuild on money that cannot be expanded at political convenience.
 
-## Key Takeaways
-
-- A distorted monetary order cannot defer consequences forever.
-- Endgame scenarios differ in form but share the same underlying contradictions.
-- Printing and borrowing can postpone, but not abolish, adjustment.
-- Delayed correction tends to increase the eventual cost.
-- Hidden distortions accumulate until reality reasserts itself.
-
-## Notable Terms / Claims
-
-- Monetary endgame
-- Debt crisis
-- Institutional credibility breakdown
-- Delayed adjustment
-- Accumulated distortion
-
+That is why the ending is both warning and invitation. The warning is that there is no free lunch in monetary manipulation. The invitation is that people who understand the mechanism can prepare, protect themselves, and support institutions grounded in honest money before the reckoning arrives.

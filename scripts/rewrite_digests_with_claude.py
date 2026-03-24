@@ -2,7 +2,6 @@
 from __future__ import annotations
 
 import argparse
-import json
 import subprocess
 from pathlib import Path
 
@@ -12,6 +11,39 @@ def source_title(path: Path) -> str:
         if line.startswith("# "):
             return line[2:].strip()
     return path.stem
+
+
+def extracted_body(text: str) -> str:
+    marker = "## Extracted Text"
+    if marker in text:
+        text = text.split(marker, 1)[1]
+    lines = []
+    for line in text.splitlines():
+        raw = line
+        line = line.strip()
+        if not line:
+            lines.append("")
+            continue
+        if line.startswith("## Source Metadata"):
+            continue
+        if line.startswith("- Chapter number:") or line.startswith("- TOC index:") or line.startswith("- Part:") or line.startswith("- EPUB src:") or line.startswith("- Extraction mode:"):
+            continue
+        if "................................................................" in line:
+            continue
+        if line.isdigit():
+            continue
+        if line.startswith("■ "):
+            continue
+        if line.startswith("| 목차 |"):
+            continue
+        if line.count("·") > 8:
+            continue
+        if line.startswith("비트코인 사용 가이드") and len(line) < 40:
+            continue
+        if "부록 1." in line or "부록 2." in line:
+            continue
+        lines.append(raw.strip())
+    return "\n".join(lines).strip()
 
 
 def target_instructions(lang: str, source_chars: int) -> str:
@@ -46,14 +78,66 @@ def target_instructions(lang: str, source_chars: int) -> str:
     )
 
 
-def call_claude(prompt: str) -> str:
+def chunk_source_text(text: str, max_chars: int = 6500) -> list[str]:
+    paras = [p.strip() for p in text.split("\n\n") if p.strip()]
+    chunks: list[str] = []
+    current: list[str] = []
+    current_len = 0
+    for para in paras:
+        para_len = len(para) + 2
+        if current and current_len + para_len > max_chars:
+            chunks.append("\n\n".join(current))
+            current = [para]
+            current_len = para_len
+        else:
+            current.append(para)
+            current_len += para_len
+    if current:
+        chunks.append("\n\n".join(current))
+    return chunks or [text]
+
+
+def call_claude(prompt: str, timeout: int) -> str:
     result = subprocess.run(
         ["claude", "-p", prompt],
         check=True,
         capture_output=True,
         text=True,
+        timeout=timeout,
     )
     return result.stdout.strip() + "\n"
+
+
+def summarize_chunk_with_claude(lang: str, title: str, chunk: str, idx: int, total: int) -> str:
+    if lang == "ko":
+        prompt = (
+            f"아래는 책 한 장의 일부({idx}/{total})다. 제목은 {title}.\n"
+            "한국어로, 메타 문장 없이, 이 부분의 핵심 내용만 2-4개 연결형 문단으로 압축하라. "
+            "금지: `이 장은`, `이 단위는`, `서두는`, 불릿, 추가 제목.\n\n"
+            + chunk
+        )
+    else:
+        prompt = (
+            f"Below is part {idx}/{total} of one book section titled '{title}'.\n"
+            "Write in English. Summarize only the substantive content of this part in 2-4 connected paragraphs. "
+            "Do not use meta framing like 'The chapter', 'This section', bullet lists, or extra headings.\n\n"
+            + chunk
+        )
+    return call_claude(prompt, timeout=180).strip()
+
+
+def final_prompt_from_chunks(lang: str, title: str, source_chars: int, chunk_summaries: list[str]) -> str:
+    combined = "\n\n".join(
+        f"[Chunk {idx+1} summary]\n{summary}" for idx, summary in enumerate(chunk_summaries)
+    )
+    return (
+        "You are rewriting a book digest in a local book-summary project.\n\n"
+        f"Preferred title: {title}\n"
+        f"Approximate original source length: {source_chars} characters\n\n"
+        + target_instructions(lang, source_chars)
+        + "\nUse these chunk summaries, preserving the author's argument flow across the whole section:\n\n"
+        + combined
+    )
 
 
 def is_valid_output(text: str, lang: str, source_chars: int) -> tuple[bool, str]:
@@ -101,21 +185,35 @@ def rewrite_slug(slug: str, lang: str) -> None:
         chapter_id = src_path.stem
         existing_path = out_dir / f"{chapter_id}.md"
         title = source_title(existing_path if existing_path.exists() else src_path)
-        source_text = src_path.read_text()
-        prompt = (
-            "You are rewriting a book digest in a local book-summary project.\n\n"
-            f"Book slug: {slug}\n"
-            f"Chapter id: {chapter_id}\n"
-            f"Preferred title: {title}\n"
-            f"Source length: {len(source_text)} characters\n\n"
-            + target_instructions(lang, len(source_text))
-            + "\nSource chapter markdown:\n\n"
-            + source_text
-        )
+        source_text = extracted_body(src_path.read_text())
+        chunks = chunk_source_text(source_text, max_chars=5500 if lang == "ko" else 6500)
+        if len(chunks) == 1:
+            prompt = (
+                "You are rewriting a book digest in a local book-summary project.\n\n"
+                f"Book slug: {slug}\n"
+                f"Chapter id: {chapter_id}\n"
+                f"Preferred title: {title}\n"
+                f"Source length: {len(source_text)} characters\n\n"
+                + target_instructions(lang, len(source_text))
+                + "\nSource chapter markdown:\n\n"
+                + source_text
+            )
+        else:
+            print(f"chunking {lang} {slug}/{chapter_id} into {len(chunks)} parts", flush=True)
+            chunk_summaries = [
+                summarize_chunk_with_claude(lang, title, chunk, idx + 1, len(chunks))
+                for idx, chunk in enumerate(chunks)
+            ]
+            prompt = final_prompt_from_chunks(lang, title, len(source_text), chunk_summaries)
         rewritten = ""
         reason = "no output"
+        timeout = 180 if len(source_text) < 18000 else 240
         for attempt in range(3):
-            candidate = call_claude(prompt if attempt == 0 else prompt + f"\n\nPrevious output failed validation: {reason}. Rewrite fully and obey format exactly.")
+            print(f"start {lang} {slug}/{chapter_id} attempt={attempt+1}", flush=True)
+            candidate = call_claude(
+                prompt if attempt == 0 else prompt + f"\n\nPrevious output failed validation: {reason}. Rewrite fully and obey format exactly.",
+                timeout=timeout,
+            )
             ok, reason = is_valid_output(candidate, lang, len(source_text))
             if ok:
                 rewritten = candidate

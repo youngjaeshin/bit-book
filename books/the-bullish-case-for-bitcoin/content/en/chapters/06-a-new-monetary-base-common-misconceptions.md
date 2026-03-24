@@ -2,25 +2,10 @@
 
 ## Chapter Digest
 
-Most familiar Bitcoin objections begin by placing Bitcoin in the wrong category. If it is evaluated as though it were already mature state money, or as though it were a conventional nonmonetary asset, then volatility, high fees, and “bubble” language all seem fatal. Once Bitcoin is approached instead as a young store of value still moving through monetization, the same features take on a different meaning.
+Many criticisms of Bitcoin recycle the same shallow mistake: they judge a monetary good in the middle of monetization as if it should already behave like mature fiat money. The bubble charge ignores the fact that every money carries a monetary premium, and that a monetary premium is exactly what makes it money rather than a mere consumable. Early in the process, a good can look overvalued to anyone who only sees current use, but that is not the same as saying it is worthless. The question is whether the market is still discovering its long-run role.
 
-Volatility follows naturally from early monetization. A monetary good that is still small relative to the market it hopes to absorb will swing violently as new capital enters and exits. Complaints that Bitcoin is “too expensive” often rest on unit bias, the mistaken urge to compare nominal unit prices instead of monetary scale, liquidity, and network strength. Rising transaction fees also look different once Bitcoin is treated as a secure settlement layer. A scarce and censorship-resistant base layer should not be judged by the standards of cheap retail payments if those retail flows are expected to migrate upward into second-layer systems.
+The volatility criticism fails for the same reason. A young monetary asset will swing because the range of beliefs about its future value is still enormous. As adoption broadens and liquidity deepens, volatility should decline, just as it did for gold over long historical stretches. The complaint that Bitcoin is too expensive to buy confuses unit price with accessibility: divisibility means a scarce asset can always be purchased in tiny fractions. The complaint that fees are high confuses settlement with retail convenience. Bitcoin is not trying to be the cheapest possible database for every transaction; it is trying to be a scarce settlement layer that is expensive to corrupt.
 
-The chapter extends the same logic to energy use and competing cryptocurrencies. Energy expenditure cannot be judged in isolation from the monetary utility being secured, and low-fee alternatives often reveal weakness rather than superiority because they lack comparable security and monetary gravity. The point is not that all criticism is impossible, but that much of the criticism that sounds intuitive is built on a false monetary frame and therefore misreads Bitcoin’s actual function.
+Energy use is similarly misunderstood. Proof-of-work converts electricity into security, making the ledger costly to attack and cheap to audit. That cost is not wasted; it is what gives the network its resistance to censorship and manipulation. Alternative cryptocurrencies and forks are also weak threats because copying code is not the same as copying monetary trust, liquidity, and the deepest network effect in the space. A fork may preserve the software, but it does not automatically preserve the asset that the market has chosen to trust.
 
-## Key Takeaways
-
-- Many Bitcoin objections rely on the wrong monetary frame.
-- Volatility is presented as part of early monetization.
-- Unit bias distorts how new investors perceive Bitcoin’s price.
-- Fees must be judged in relation to settlement and security.
-- Second-layer systems are central to the payments path.
-
-## Notable Terms / Claims
-
-- Common misconceptions
-- Unit bias
-- Settlement layer
-- Second-layer networks
-- Energy critique in comparative context
-
+Scarcity is the final misconception to clear away. Bitcoin is not scarce because a slogan says so. It is scarce because the consensus rules enforce a fixed schedule and the network participants have repeatedly defended those rules against attempts to loosen them. That makes Bitcoin different from assets whose supply depends on political mood or managerial convenience. Its scarcity is not a marketing claim; it is the product of hard, social, and computational constraints working together.

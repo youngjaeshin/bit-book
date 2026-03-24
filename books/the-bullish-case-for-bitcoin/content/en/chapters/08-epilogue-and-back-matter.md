@@ -2,25 +2,8 @@
 
 ## Chapter Digest
 
-The blocksize war forces a decision about Bitcoin’s nature. One side treats Bitcoin as software that should be changed to maximize transactional throughput, while the other treats it as a monetary protocol whose value depends on rule stability, decentralization, and resistance to capture. The dispute is not merely technical. It is a conflict over whether Bitcoin should optimize for immediate payments volume or preserve the hard monetary properties that make it worth holding in the first place.
+The epilogue turns to the controversy over what Bitcoin is allowed to be. The block-size wars and the broader schism showed that a monetary network is not governed only by code. It is also governed by the willingness of participants to defend the rules that make the asset credible in the first place. Those who wanted more on-chain throughput at the cost of stricter immutability learned that technical convenience can conflict with monetary integrity. Bitcoin's value depends on conserving the properties that made it trustworthy, not on endlessly revising it to suit every use case.
 
-The market’s verdict favors Bitcoin as a nonsovereign store of value first. Attempts to scale by loosening base-layer constraints are rejected because they threaten the very credibility that gives Bitcoin monetary significance. If powerful actors can rewrite core rules whenever it seems commercially useful, then fixed supply and neutrality become less believable. What matters is not only that Bitcoin has code, but that the code embodies consensus rules that are difficult to change and expensive to capture.
+Satoshi Nakamoto's disappearance made that lesson sharper. Without a founder to act as final arbiter, Bitcoin had to mature through voluntary coordination rather than command. That created friction, but it also protected the network from becoming the property of a single personality or committee. The historical disputes that followed are therefore not side notes. They are part of the proof that Bitcoin is a social as well as a technical system, and that its future depends on the discipline of its users.
 
-That is why layered scaling becomes central to the resolution. Everyday payments do not need to be forced into the base layer if the base layer’s real job is to remain a hard settlement foundation for the entire system. Higher layers can extend transactional utility while the protocol preserves monetary credibility. The closing materials therefore reinforce a final claim: protecting protocol immutability is inseparable from protecting Bitcoin’s role as money.
-
-## Key Takeaways
-
-- The blocksize war was a fight over Bitcoin’s monetary identity.
-- Store-of-value credibility depends on protocol stability.
-- Layered scaling won over base-layer transactional expansion.
-- Immutability protects monetary credibility.
-- Higher-layer payments are compatible with a hard base layer.
-
-## Notable Terms / Claims
-
-- Blocksize war
-- Protocol immutability
-- Layered scaling
-- Store of value versus medium of exchange
-- Monetary credibility
-
+The closing notes, acknowledgments, and disclaimer are brief, but they underline the point that Bitcoin's history is made of arguments, sacrifices, and hard choices. The network became what it is because people kept insisting on rules that money should not be able to rewrite casually. That is why the epilogue feels less like an afterthought than a final reminder of what gives the asset its strength.

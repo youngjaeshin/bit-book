@@ -2,25 +2,8 @@
 
 ## Chapter Digest
 
-The bullish case does not survive by pretending away danger. Protocol failure, hostile state action, exchange chokepoints, mining centralization, and privacy weakness are all treated as serious threats that could interrupt Bitcoin’s rise. Bitcoin remains exposed to failures of code, to concentration in critical market infrastructure, and to coordinated coercion by states whose monetary power it threatens. The argument remains bullish only because these risks are weighed openly rather than denied.
+The real risks of Bitcoin are more serious than the usual talking points because they concern the asset's role as a new monetary base in a hostile world. Protocol bugs, a breakthrough in cryptography, or some future computational advance could damage confidence in the system. State attacks could try to regulate, tax, ban, or isolate Bitcoin. Miner concentration could make the network look more vulnerable than its design intends. Users who keep coins with custodians may recreate the very trust dependencies Bitcoin was meant to remove. Rehypothecation, policy shocks, and imperfect fungibility can also weaken the asset's usefulness as money.
 
-Among those risks, state attack occupies the central place. Bitcoin undermines sovereign control over money, so regulation, exchange suppression, confiscation attempts, and political hostility remain live threats. Mining concentration and exchange centralization matter for the same reason: they create points at which pressure can be applied. Privacy weakness also matters because a money that is insufficiently fungible can be segmented, tracked, and partially neutralized. The book does not claim Bitcoin is invulnerable; it claims that these dangers must be measured against the scale of what Bitcoin could become.
+Those risks matter because Bitcoin is not merely a commodity to own; it is a system people have to use, verify, and protect. Open-source development and wide node distribution make quiet capture difficult, but they do not eliminate the possibility of error or bad incentives. Self-custody, good operational security, and careful use of the network are therefore not optional philosophical flourishes. They are part of the cost of living on a monetary base that does not ask permission.
 
-The conclusion restates that scale. Bitcoin may first challenge gold as a nonsovereign store of value and then move outward against the larger fiat order. Because the market for stored value is immense, even partial monetization implies a dramatic revaluation. A successful Bitcoin standard would also change politics by constraining inflationary finance and making state extraction more visible. The thesis therefore ends as more than a trade: it is a claim about money, power, and the shape of the future monetary order.
-
-## Key Takeaways
-
-- Serious risks are part of the bullish case, not external to it.
-- State attack is treated as the most immediate political danger.
-- Exchange and mining concentration matter because they create coercion points.
-- Partial monetization alone could imply large upside.
-- A Bitcoin standard is framed as both monetary and political change.
-
-## Notable Terms / Claims
-
-- Protocol risk
-- State attack
-- Miner centralization
-- Partial monetization versus full reserve status
-- Bitcoin standard as geopolitical change
-
+Even so, the book remains bullish because the risks are real without being decisive. A hard digital asset that cannot be diluted at will offers an escape from the core flaw of fiat: the ability to expand claims faster than real wealth. That makes Bitcoin a credible reserve asset even in a world where its users still have to manage technical, institutional, and political hazards. The conclusion is not certainty; it is that the opportunity is large enough to justify the effort of learning how to hold and use it well.

@@ -2,25 +2,8 @@
 
 ## Chapter Digest
 
-argues that the world is standing at a rare monetary turning point and needs a new way of mapping money. The central proposal is that money is layered: some forms sit higher in the hierarchy as final settlement assets, while others exist as promises, claims, or derivative forms built on top of them. This layered framework is offered as the missing language for understanding both the history of money and Bitcoin’s future role within it.
+Money is presented as a landscape that can finally be mapped. The preface argues that the international monetary system is at a rare turning point and that the existing vocabulary is too flat to describe it. Layered money gives that missing geometry: some assets sit at the bottom as final settlement, while others live above them as promises, claims, and derivative layers. The framework is offered as a practical way to read the history of money and its digital future at the same time.
 
-The first historical case study is the Florentine florin. Its stability, purity, and reliability made it an unusually strong monetary foundation at a time when Europe was fragmented by coin multiplicity, uncertain standards, and difficult settlement. What mattered was not simply that gold existed, but that one particular coin became trusted enough to serve as a common denominator across wider commercial networks. The chapter therefore uses the florin to show how a superior first-layer money can anchor wider second-layer credit instruments and make larger-scale trade possible.
+The historical proof begins with the Fiorino d’Oro. The Florentine florin kept a remarkably stable weight and purity for centuries, which made it a trusted monetary standard across Europe. In a world of debased coinage, competing standards, and costly settlement, a stable gold coin could serve as a common denominator for trade and credit. The florin shows how a strong first-layer money can anchor wider commercial networks and the instruments built on top of it.
 
-The broader lesson is that monetary systems are not reducible to individual coins or tokens. They are social and institutional arrangements built around hierarchy, balance-sheet relationships, and settlement promises. Bitcoin’s future significance is introduced here through analogy: just as the florin helped organize the layers above it, Bitcoin may become a new base layer in the digital era.
-
-## Key Takeaways
-
-- Money is introduced as a layered hierarchy rather than a single homogeneous thing.
-- The florin became powerful because it was stable enough to anchor broader credit systems.
-- First-layer money matters because second-layer promises depend on it.
-- Monetary history is easier to understand through hierarchy and balance-sheet relations.
-- Bitcoin is foreshadowed as a possible new monetary base layer.
-
-## Notable Terms / Claims
-
-- Layered money
-- First-layer and second-layer money
-- Florin
-- Final settlement asset
-- Monetary hierarchy
-
+The discussion then widens into the mechanics of monetary layering itself. Coin multiplicity, bimetallism, and the risk of transporting metal made direct settlement cumbersome, so merchants developed deferred settlement and credit instruments to move value without moving bullion every time. Money did not disappear; it became organized as a hierarchy in which promises could circulate above a harder base. That hierarchy is the book’s starting map.

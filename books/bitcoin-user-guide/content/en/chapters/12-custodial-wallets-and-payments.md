@@ -2,8 +2,10 @@
 
 ## Chapter Digest
 
-Custodial Lightning wallets are presented as convenience tools with a real trust cost. It shows how a wallet such as Wallet of Satoshi can be installed, how a custom Lightning address can be issued after meeting the platform’s activity requirements, and how on-chain deposits or withdrawals move through the app when the user wants speed more than sovereignty.
+This guide treats a custodial Lightning wallet as convenience with a clear trust cost. The user installs the wallet, completes the provider's required steps, and uses the service knowing that the operator still sits in the middle and can freeze or redirect access if it chooses.
 
-Boltz becomes the bridge for cheaper swaps and cleaner routing. Instead of paying the custodial wallet’s built-in fees for every movement, the user can use a Lightning-to-on-chain or on-chain-to-Lightning swap to control the path and reduce cost, while still paying attention to invoice expiry, refund keys, and the exact amount that must arrive on each side of the swap.
+Once the account is active, a custom Lightning address can be issued and used as the public receiving identity. From there the flow is straightforward: on-chain deposits move bitcoin into the custodial balance, and on-chain withdrawals move it back out when the user wants to leave the Lightning environment.
 
-Its wider point is that convenience can be useful without being free. A custodial wallet can make Lightning easy to test, but the user has to know where the custody actually sits and when a service has become a substitute for control.
+The guide then uses that same structure for cash-out planning. If the goal is to withdraw value to KRW, bitcoin can be sent from the custodial Lightning wallet to an exchange and then converted through the usual exchange flow. The point is to make the path explicit instead of pretending that convenience comes without any custody trade-off.
+
+In that sense the chapter is not an argument against custodial wallets. It is a practical reminder that the user should know exactly where custody begins, where Lightning addresses live, and which steps leave the self-controlled path and enter a provider-controlled one.

@@ -2,24 +2,10 @@
 
 ## Chapter Digest
 
-The back matter reveals the intellectual coalition behind the book. Ammous presents the work as built through patrons, students, editors, podcast sponsors, seminar participants, and an extended network of Bitcoin and Austrian-economics interlocutors. This matters because the book is explicitly written from outside state-dependent academia. The acknowledgments are therefore not ornamental; they reinforce the book’s claim that serious monetary thinking can be sustained through voluntary support rather than institutional capture.
+By turning to the fiat liquidator as a recurring social phenomenon, Part IV reframes money's fate as a living system rather than a set of arithmetic rules. Persistent credit expansion creates a veneer of opportunity while quietly reshaping incentives across households, firms, and governments. Cheap money channels widen asset markets, tilt investment toward short-run gains, and leave long-run productivity vulnerable to shocks. Through concrete stories of borrowers chasing refinancing, savers watching purchasing power erode, and entrepreneurs recalibrating plans around rate forecasts, the human texture behind monetary mechanics comes into view.
 
-The bibliography then widens the book’s world. It ranges across economics, energy, nutrition, monetary history, inflation, public choice, and bitcoin literature. That breadth mirrors the book’s ambition: fiat is not merely a monetary issue but a civilizational framework whose effects spill into health, science, politics, and culture. The sources confirm that the argument is designed to range far beyond central banking narrowly conceived.
+Debt and deference go hand in hand. When the liquidator's taps never truly close, politicians, bankers, and even journalists begin interpreting low rates as a permanent condition rather than a temporary expedient. The result is moral hazard: an assumption that someone else bears the cost of mispriced risk. The digest illustrates this with episodes where credit remains available even as capital allocations become misaligned with real scarcity, pushing humanity toward decision-making that favors today’s comfort over tomorrow’s resilience. Readers are invited to feel these tensions through examples of households juggling variable-rate loans, small firms muting expansion plans, and communities counting on perpetual subsidies that disguise budgetary trade-offs.
 
-This unit functions as a map of Ammous’s intellectual ecosystem. It shows that the critique of fiat is built from many adjacent fields, and that the bitcoin alternative draws its power from speaking across those fields rather than staying inside one academic silo.
+At a conceptual level, Part IV deepens the toolkit for thinking about money beyond price tags. It introduces mental models—like money as a claim on future output, inflation as a stealth tax, and liquidity as a perpetual invitation to speculate—that help disentangle policy rhetoric from economic reality. The text explains how shifts in central-bank signaling ripple through wages, rents, and the distribution of capital, often in ways that are easiest to notice only after cycles have turned. The digest also emphasizes that no policy is neutral: choices about reserves, QE, and credit guarantees carry explicit and opportunity costs that accumulate over time. By foregrounding these costs, the chapter challenges readers to test claims against tangible outcomes rather than comforting abstractions.
 
-## Key Takeaways
-
-- The book is presented as intellectually independent from fiat academia.
-- Voluntary patronage and reader support are part of its production model.
-- The bibliography confirms the book’s interdisciplinary scope.
-- Fiat is treated as a civilizational rather than purely monetary topic.
-- The source network reflects a broader Austrian/Bitcoin intellectual ecosystem.
-
-## Notable Terms / Claims
-
-- Intellectual ecosystem
-- Voluntary patronage
-- Interdisciplinary bibliography
-- Fiat academia
-- Austrian/Bitcoin network
+Finally, the digest closes with a note of gratitude for the readers who bring skepticism and curiosity to these debates, and for the scholars whose work anchors the discussion. It underscores that understanding fiat dynamics is not about scoring political points but about recognizing how money shapes freedom, risk, and opportunity across generations. The bibliography invites further exploration—historical case studies, theoretical debates, and empirical analyses that illuminate monetary life beyond headlines. As a practical takeaway, the text urges readers to develop a habit of tracing policy promises to their real-world frictions: savings erosion, investment misalignment, and the quiet reallocation of wealth through the price system. In doing so, the chapter arms the reader with a more disciplined perspective on money’s true costs and on the fragile promises of fiat.

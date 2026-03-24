@@ -2,25 +2,10 @@
 
 ## Chapter Digest
 
-The chapter shifts from institutional mechanism to human consequence. Inflation does not merely alter macroeconomic aggregates; it reshapes habits, character, and social expectations. When money loses value, patience and thrift are penalized while immediacy, leverage, and consumption are rewarded. People begin to adapt to the logic of decay, often without naming it.
+The harm of inflation becomes visible first in the ordinary routines of life. Savings no longer function as a reliable bridge to the future, so people who did everything "right" find themselves running just to stay in place. The cost of rent, groceries, medicine, education, and child care rises faster than incomes can comfortably adjust, and the pressure to chase higher nominal pay pushes households into constant anxiety. What used to be prudence starts to look like vulnerability.
 
-This moral and cultural damage is central to the argument. A society in which the future is discounted more heavily becomes more short-term, more anxious, and more willing to sacrifice durability for immediacy. Inflation changes not only what people can afford but how they think, what they prioritize, and what kinds of behavior are socially reinforced. The economy’s pathologies therefore become personal pathologies as well.
+That pressure changes behavior. People borrow more, save less, and think shorter term because the currency itself encourages them to do so. The long horizon that once made family formation, patient work, and delayed gratification possible becomes harder to sustain. Older workers and retirees are especially exposed because they cannot easily reprice their labor or rebuild lost savings. Their plans are written in money units, but the units themselves are dissolving. Inflation therefore punishes the people who behave most responsibly.
 
-The chapter insists that money production is inseparable from human formation. If the monetary order punishes prudence and rewards present-oriented behavior, then the effects will appear in household life, civic trust, and the culture’s sense of responsibility. Inflation reaches people not only through prices, but through the kind of people and society it encourages them to become.
+The social damage follows from the economic one. As saving becomes less rewarding, speculation starts to look like the only intelligent response. Dependence on employers, lenders, and the state grows because people feel they cannot build security on their own balance sheets. Trust erodes, marriages and households feel the strain, and the sense that life can be patiently ordered around the future begins to fade. A monetary system that steadily eats away at hope does more than raise prices; it trains people to expect disappointment and to live with a smaller moral horizon.
 
-## Key Takeaways
-
-- Inflation reshapes behavior and culture as well as budgets.
-- Patience and thrift are penalized under weakening money.
-- Present-oriented behavior becomes more rational in an inflationary regime.
-- Monetary conditions affect household and civic life.
-- Money production influences character formation.
-
-## Notable Terms / Claims
-
-- Moral effects of inflation
-- Present bias
-- Cultural short-termism
-- Household consequences
-- Character under bad money
-
+The argument stays human as well as economic. Monetary debasement changes the sort of people a society can reward. It favors hustling over craftsmanship, leverage over thrift, and short-term extraction over durable contribution. Once honest saving is punished, citizens become easier to govern and harder to anchor, because everyone is pushed to live from one uncertain month to the next. Inflation is not only a price story; it is a story about how political money reshapes character.

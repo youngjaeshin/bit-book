@@ -2,23 +2,8 @@
 
 ## Chapter Digest
 
-Layered bitcoin extends the central framework of the book into Bitcoin itself. Bitcoin does not abolish monetary layering; it reorganizes it around a harder base asset. Second layers, side systems, and financial promises can still arise, but they do so with a base layer that cannot be expanded by decree. This changes the character of everything built on top.
+Bitcoin does not abolish layering; it hardens the base on which layering can safely happen. A BTC/USD price, a Lightning payment, a stablecoin, or a futures contract all point to a layered ecosystem in which higher-order claims and faster settlement tools still exist. The difference is that the base layer is no longer something a state can expand at will.
 
-treats Bitcoin as both continuity and rupture. It continues the historical pattern of layered money because higher-order claims and faster settlement systems still emerge. But it breaks from fiat because the underlying layer is no longer politically elastic. Bitcoin can support layering without inheriting the same discretionary monetary corruption.
+That changes legitimacy. Bitcoin can coexist with auxiliary systems without inheriting the political elasticity that defines fiat. Alternatives like tulips, altcoins, and unstable claims become easier to distinguish once the base layer is genuinely hard. Layered Bitcoin therefore means continuity with monetary history and a break from the old habit of letting power rewrite the base.
 
-## Key Takeaways
-
-- Bitcoin does not end monetary layering; it reorders it.
-- A harder base layer changes the character of higher layers.
-- Layered systems can exist without politically elastic base money.
-- Bitcoin is both part of monetary history and a break from fiat.
-- The framework of the book culminates in Bitcoin’s layered structure.
-
-## Notable Terms / Claims
-
-- Layered bitcoin
-- Hard base layer
-- Higher-order claims
-- Continuity and rupture
-- Reordered monetary hierarchy
-
+Higher layers can still flourish, but they must now orient themselves around a fixed and verifiable settlement anchor. That is what gives Bitcoin its layered character without sacrificing the discipline that made the base valuable in the first place.

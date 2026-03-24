@@ -367,3 +367,39 @@
 - 2026-03-24 01:42 KST | executor | completed | `비트코인 사용 가이드` 단일 EN 문장 정리 반영 후 사이트 재빌드 완료
 - 2026-03-24 01:48 KST | executor | completed | `비트코인 블록사이즈 전쟁` EN 재요약 반영 및 library-site 재빌드 완료
 - 2026-03-24 01:53 KST | executor | completed | `비트코인 블록사이즈 전쟁` KO 재요약 반영 및 library-site 재빌드 완료
+- 2026-03-24 01:58 KST | executor | completed | Ralph 루프 종료 기록: 비트코인 필수 12권 로컬/원격/production 반영까지 완료, 추가 미해결 작업 없음
+- 2026-03-24 08:02 KST | executor | corrected | 재요약 파이프라인 교정: EN 원서가 있는 책은 EN digest를 먼저 재작성하고, KO는 그 EN digest에서 번역하도록 레일 수정. KO-only 예외만 한국어 원본 기준 유지
+- 2026-03-24 08:12 KST | executor | corrected | 사용자 비용 원칙 반영: Claude CLI 및 관련 재작성 프로세스 전면 중단, 이후 Codex-only 실행으로 고정
+- 2026-03-24 08:25 KST | executor | started | Codex-only 재작성 재개: 효율 순서로 EN 원서 책부터 EN→KO, KO-only 예외는 후반에 직접 재요약하는 완주 레일로 전환
+- 2026-03-24 08:34 KST | executor | completed | 6번 `비트코인 낙관론`, 2번 `왜 그들만 부자가 되는가` EN→KO 재작성 1차 완료 및 형식 검증 통과
+- 2026-03-24 08:36 KST | executor | completed | 4번 `21가지 교훈`, 7번 `레이어드 머니` EN→KO 재작성 1차 완료 및 형식 검증 통과
+- 2026-03-24 08:40 KST | executor | completed | 3번 `비트코인 스탠다드`, 5번 `피아트 스탠다드` EN→KO 재작성 1차 완료
+- 2026-03-24 08:41 KST | executor | queued | 4번 `21가지 교훈`, 7번 `레이어드 머니` 메타 문구 잔존분 제거 및 문단형 정리 보정 재투입
+- 2026-03-24 08:41 KST | executor | queued | KO-only 예외 묶음(1, 8, 9, 10) 직접 재요약 작업 재투입
+- 2026-03-24 08:46 KST | executor | completed | KO-only 묶음 중 1번 `모두를 위한 비트코인`, 8번 `비트코인 디플로마`, 9번 `비트코인 백서 해설` 재요약 1차 완료
+- 2026-03-24 08:46 KST | executor | in_progress | 10번 `비트코인 사용 가이드`는 1차 일부만 반영되어 잔여 장 재요약 계속 진행
+- 2026-03-24 08:50 KST | executor | corrected | 4번 `21가지 교훈`, 7번 `레이어드 머니`는 보정 재투입 후 형식 검증 통과로 정정
+- 2026-03-24 08:50 KST | executor | completed | 3번 `비트코인 스탠다드`, 5번 `피아트 스탠다드` 메타 문구 제거 보정까지 완료
+- 2026-03-24 08:54 KST | executor | completed | KO-source 책들의 EN 정리 완료: 1번 `모두를 위한 비트코인`, 8번 `비트코인 디플로마`, 9번 `비트코인 백서 해설` EN 다이제스트 재정비 완료
+- 2026-03-24 08:55 KST | executor | completed | 비트코인 필수 12권 다이제스트 최종 검증 통과: 12권 모두 금지 메타 문구/추가 섹션 없음
+- 2026-03-24 08:55 KST | executor | completed | 비트코인 필수 12권 단독 사이트 및 library-site 로컬 최종 재빌드 완료
+- 2026-03-24 09:02 KST | executor | corrected | 전권 길이/밀도 기준을 1번 `모두를 위한 비트코인` 수준으로 고정
+- 2026-03-24 09:02 KST | executor | corrected | 10번 `비트코인 사용 가이드(PDF)`를 최우선 보정 대상으로 지정: generic/얇은 요약 금지, 실제 내용 중심 장문 재요약 필요
+- 2026-03-24 09:08 KST | executor | in_progress | 2번 `왜 그들만 부자가 되는가` 최종 보정 재투입: 잔여 메타 문구 제거 및 1번 기준선 대비 길이 보강
+- 2026-03-24 09:08 KST | executor | in_progress | 3번 `비트코인 스탠다드`, 5번 `피아트 스탠다드` 2차 확장 재투입
+- 2026-03-24 09:08 KST | executor | in_progress | 10번 `비트코인 사용 가이드(PDF)` 2차 집중 보강 재투입
+- 2026-03-24 09:18 KST | executor | completed | 2번 `왜 그들만 부자가 되는가` 최종 보정 완료: 잔여 메타 문구 제거 및 quiz/site 재빌드 반영
+- 2026-03-24 09:18 KST | executor | next | 남은 집중 확장 대상은 3번 `비트코인 스탠다드`, 5번 `피아트 스탠다드`, 10번 `비트코인 사용 가이드(PDF)`
+- 2026-03-24 09:14 KST | executor | in_progress | 10번 `비트코인 사용 가이드(PDF)` 장별 비율 재점검 완료: 04/08/10/12/16/20/22/25/27/29를 최약 구간으로 지정하고 2차 보강 재투입
+- 2026-03-24 17:15 KST | executor | started | 사용자 직접 지시에 따라 남은 확장 대상 3번 `비트코인 스탠다드`, 5번 `피아트 스탠다드`, 10번 `비트코인 사용 가이드(PDF)` 실제 실행 재개
+- 2026-03-24 17:15 KST | executor | in_progress | 3/5는 EN→KO 장문 확장, 10은 PDF 기반 고강도 보강으로 분리 진행
+- 2026-03-24 17:32 KST | executor | completed | 10번 `비트코인 사용 가이드(PDF)` 약한 대표 구간(16/22/29 포함) 추가 수동 확장 및 메타 문구 제거 완료
+- 2026-03-24 17:33 KST | executor | completed | 전권 형식/메타 검증 재통과 및 10번 재빌드 반영
+- 2026-03-24 17:45 KST | executor | restarted | 사용자 요청에 따라 3번 `비트코인 스탠다드`, 5번 `피아트 스탠다드` 추가 확장 보정 재개
+- 2026-03-24 17:46 KST | executor | corrected | 3번/5번 EN 파일 중 깨진 placeholder/assistant-output 잔재 6개 직접 교정 완료
+- 2026-03-24 17:47 KST | executor | corrected | 10번 대표 약한 EN/KO 구간 추가 수동 확장 반영 후 3·5·10 재빌드 완료
+- 2026-03-24 17:52 KST | executor | corrected | 3번/5번 잔여 메타 문구 제거 및 3·5·10 재빌드/전권 검증 재통과
+- 2026-03-24 18:00 KST | executor | restarted | 밀도 정규화 라인 시작: 1권 1~3을 기준 샘플로 삼아 1권 4~12부터 길이/밀도 보정 재개
+- 2026-03-24 09:25 KST | executor | started | 현재 Ralph 잔여 패스(3/5/10 중심) 검증 재개: 금지 메타 문구/추가 섹션 검증과 diff 샘플 점검 시작
+- 2026-03-24 18:02 KST | executor | in_progress | 병렬 밀도 정규화 추가: 2번 `왜 그들만 부자가 되는가`, 10번 `비트코인 사용 가이드` 동시 보정 투입
+- 2026-03-24 09:32 KST | executor | completed | 전권 재요약 반영분 전체 재빌드 완료: verify_digest_rewrite.py 통과 상태로 12권 책 사이트 + library-site 재생성

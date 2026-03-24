@@ -2,23 +2,10 @@
 
 ## Chapter Digest
 
-Government money begins as money is pulled away from market discipline and subordinated to state strategy. Monetary nationalism turns money into an instrument of national ambition, war finance, and political management. Convertibility weakens, and the monetary unit becomes increasingly vulnerable to discretionary manipulation.
+Government money emerges when states turn monetary centralization into an instrument of fiscal survival and national control. Once gold is drawn into state vaults and payments begin to depend on central-bank balance sheets, money stops being only a market-selected store of value and becomes a policy lever. This shift accelerated under war finance, especially in Britain, where the discipline of redeemable money gave way to managed liquidity, concealed interventions, and a deliberate effort to separate the public from direct access to gold.
 
-The interwar era shows the instability that follows. Governments pursue conflicting goals, devalue, inflate, and attempt to manage the fallout with still more intervention. The result is a breakdown of monetary coordination: what had once been constrained by the discipline of metallic money becomes governed by expediency.
+The interwar breakdown reveals what happens when governments inherit the language of gold while abandoning its constraints. Exchange-rate pegs, reserve management, and official promises of stability remained in place, but the political temptation to fund deficits and preserve domestic power kept undermining the monetary anchor. What looked like an orderly international system increasingly depended on ad hoc controls, emergency committees, and public messaging designed to hide monetary fragility rather than resolve it.
 
-## Key Takeaways
+That is why monetary nationalism matters in the chapter’s logic. Once each state treats control over money as an expression of sovereignty, the currency becomes a national project rather than a neutral measure of value. Competitive devaluations, capital restrictions, and covert reserve management are not accidents at the edge of the system; they are natural consequences of handing rulers a monetary technology that can be bent toward political priorities. The result is a monetary order that looks coordinated from afar but is constantly breaking down from within.
 
-- Government money starts with the politicization of monetary order.
-- Monetary nationalism turns money into a state tool.
-- The interwar period shows the instability of politically managed money.
-- Convertibility weakens as political priorities rise.
-- Expediency replaces monetary discipline.
-
-## Notable Terms / Claims
-
-- Monetary nationalism
-- Politicized money
-- Interwar instability
-- Convertibility breakdown
-- State monetary strategy
-
+The interwar period is therefore read less as a one-off tragedy than as the early demonstration of fiat’s governing pattern. Gold’s restraint had to be weakened before the modern state could finance itself at scale, and once that happened, the new monetary regime repeatedly chose flexibility over honesty. The lesson is not merely historical. It establishes the recurring trade-off that will define the fiat era: greater room for state management purchased at the cost of monetary reliability and public sovereignty.

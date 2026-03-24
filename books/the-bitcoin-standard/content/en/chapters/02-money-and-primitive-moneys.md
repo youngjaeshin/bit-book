@@ -2,23 +2,12 @@
 
 ## Chapter Digest
 
-Money is defined by salability rather than by state decree. A good becomes money when it is widely chosen as the easiest thing to trade away and the most reliable thing to hold between exchanges. Primitive monies emerge because barter is too restrictive, and societies gradually converge on goods that move value more effectively across time and space.
+돈은 시간과 공간을 넘나들며 경제적 가치를 보존하고 교환하는 수단이다. 물물교환이 가능했지만 규모가 커지고 사회가 복잡해지자, 사람들은 가치의 이전을 더 간단하고 신뢰할 수 있게 만드는 매개체를 필요로 했다. 그래서 여러 사회가 다양한 물질을 돈으로 삼아, 거래의 편의성과 예측 가능성을 높여 왔다.
 
-This means money is not invented by law but discovered through use. The early evolution from barter to collectible goods and then to more saleable monies is treated as a market process. The chapter establishes the baseline: good money must arise from exchange needs and must be judged by monetary performance, not by political sponsorship.
+역사 속에서 원시적 돈은 반드시 특정 물질일 필요가 없었다. 가축, 조개, 구슬, 금속 덩어리처럼 물리적으로 다양한 형태가 화폐로 기능했다. 이들 물체는 가치가 사회적으로 인정되면 교환의 매개로 작동했고, 각자 보유한 물건의 가치를 서로 다르게 인식하는 문제를 부분적으로 줄여 주었다.
 
-## Key Takeaways
+예를 들어 야프(Yap) 섬의 라이 스톤(Rai stone)처럼 큼직한 원판형 석회석은 실제로 움직이지 않으면서도 화폐 역할을 수행했다. 이러한 돈은 여러 크기의 원반이 존재했고, 중앙에 구멍이 있어 운반은 어려웠지만 소유권의 이전을 선언하는 것만으로도 결제가 가능했다. 석재를 직접 이동시키는 대신 누구에게 소유권이 넘어갔는지가 공동으로 확인되었던 것이다.
 
-- Money is defined by salability, not decree.
-- Primitive monies arise from the limits of barter.
-- Monetary emergence is a market process.
-- Good money carries value through time and exchange.
-- Political backing is secondary to monetary performance.
+돈의 핵심은 자료의 물리적 이동이 아니라 사회적 합의와 확실성에 있다. 많은 원시 화폐에서 가장 중요한 특징은 ‘경도’로 불리는 가치의 내구성과 상호인정성이다. 이동이 어렵더라도 가치의 증거가 공유될 때 거래의 상호 인식은 유지되고, 돈은 일정한 거리와 규모의 교환을 가능하게 한다.
 
-## Notable Terms / Claims
-
-- Salability
-- Barter limits
-- Primitive monies
-- Market emergence
-- Monetary performance
-
+이런 이야기에서 얻는 교훈은 비트코인 같은 디지털 현금이 어떻게 작용하는가를 이해하는 데 있다. 물질의 물리적 힘이 아니라 공동 합의에 의해 가치를 유지하고 거래를 가능하게 하는 신뢰의 구조가 핵심이라는 점을 보여 주기 때문이다. 원시 화폐의 사례를 통해 우리는 교환의 기본 원리와 돈이 지녀야 할 속성이 무엇인지를 더 깊이 이해할 수 있다.

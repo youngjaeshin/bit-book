@@ -2,25 +2,8 @@
 
 ## Chapter Digest
 
-Pandemic-era monetary policy turns treasury management into a monetary problem. Cash that would once have been treated as prudence becomes a wasting reserve when central banks expand the money supply faster than any conservative balance-sheet strategy can compensate. In that environment, a profitable company can still watch the real value of its savings melt away. Bitcoin appears here not as a speculative sideshow but as an answer to the problem of preserving corporate purchasing power when fiat liquidity is being aggressively debased.
+When the pandemic compressed a decade of digital change into a few months, treasury management stopped being an accounting exercise and became a question of monetary survival. A company sitting on large cash balances could see, in real time, that nominal safety did not equal real safety. Central-bank expansion pushed the return on safe assets toward zero while the purchasing power of cash kept leaking away. Under those conditions, holding dollars looked less like prudence and more like an obligation to watch capital decay.
 
-That practical urgency opens into a broader historical and technical lineage. The search for digital money long predated Bitcoin, and the cypherpunk tradition had already produced multiple partial breakthroughs. eCash brought privacy but remained centralized. b-money and bit gold imagined decentralized scarcity but never became workable live systems. RPOW showed further progress yet still depended on a point of control. Bitcoin matters because it joins digital scarcity, distributed consensus, and incentive design into one architecture that can survive without a trusted intermediary. The invention is presented as both a monetary event and a computer-science event.
+That was the setting in which Bitcoin started to look serious. Vijay Boyapati's essay supplied the conceptual bridge by arguing that Bitcoin should be read through the history of money rather than through the frame of speculative technology. Once the reader accepts that money evolves through competition among stores of value, Bitcoin no longer appears as a weird digital token looking for a use case. It appears as the first credible digitally native monetary good with a chance to serve as reserve asset in a world where fiat liabilities can be inflated at political speed.
 
-therefore binds together corporate treasury crisis, the failure of earlier digital-money systems, and the eventual appearance of a credible alternative. Monetary debasement creates the demand for a new reserve asset; the cypherpunk project explains why such an asset had been sought for decades; and Bitcoin stands out because it finally solves the central problem that defeated its predecessors. The argument begins with necessity, then moves to lineage, and from there to breakthrough.
-
-## Key Takeaways
-
-- Fiat treasury management becomes self-destructive when monetary inflation outruns safe returns.
-- Bitcoin is introduced as a reserve asset before it is treated as a payments network.
-- Earlier digital-money projects solved pieces of the problem but left central points of failure.
-- Bitcoin joins digital scarcity, distributed consensus, and incentives into one system.
-- The opening links monetary necessity to technical breakthrough.
-
-## Notable Terms / Claims
-
-- Treasury reserve asset
-- Monetary inflation / currency debasement
-- Cypherpunks
-- Digital scarcity
-- Byzantine Generals Problem
-
+The prologue also ties the present to the earlier cypherpunk search for digital scarcity. Before Bitcoin, many attempts tried to create electronic cash, but they always left a trusted intermediary, a server, or a central issuer in the loop. Bitcoin mattered because it finally joined scarcity, distributed consensus, and adversarial incentive design into one system. That combination made it possible to transfer value without asking permission from a bank or government, and that is what turns the argument for Bitcoin from a technology story into a monetary one.

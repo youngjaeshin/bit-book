@@ -2,8 +2,10 @@
 
 ## Chapter Digest
 
-Windows and Mac users get a local-node workflow that keeps the node and Sparrow on the same machine or the same local network. It covers installing Core or Knots, opening the firewall for RPC access when needed, and configuring Sparrow so it can talk to the local node cleanly and reliably.
+This guide shows how a desktop machine can become a local Bitcoin node stack on Windows or macOS without buying a dedicated box. Core or Knots is installed on the same machine, Sparrow is pointed at it, and the wallet talks to the node through the local data folder and the temporary `.cookie` credentials stored there.
 
-The same pattern appears on both platforms, but each operating system asks for slightly different steps. Windows uses Control Panel and inbound firewall rules, while Mac users check the firewall state, allow the node app if necessary, and then point Sparrow at the local IP address and the exact RPC credentials stored in bitcoin.conf. Success is confirmed when the connection test turns green.
+For same-device use, Sparrow stays on 127.0.0.1 and port 8332, then connects through File > Settings > Server > Edit Existing Connection. The guide emphasizes that the data folder must be chosen correctly so Sparrow can find the node's Bitcoin data and keep using the temporary RPC username and password exposed through the cookie file.
 
-The point is that a local node is not only for dedicated hardware. Even a desktop or laptop that already exists can become a self-hosted backbone for monitoring and spending as long as the local integration is configured carefully.
+When the node and wallet live on the same local network, the machine's LAN IP and bitcoin.conf settings matter just as much as the GUI. Windows and macOS each require their own firewall allowances, but the goal is the same: let Sparrow reach the node without handing the connection to a third-party service.
+
+The result is a practical self-hosted backbone that can live on ordinary desktop hardware. The user can verify balances, broadcast transactions, and keep watch-only wallet traffic inside the home network instead of outsourcing those checks to a public server.

@@ -2,8 +2,10 @@
 
 ## Chapter Digest
 
-Advanced Nostr use moves from account creation into a broader self-hosted stack. It uses Primal, Damus, and Phoenix as client examples, adds the Alby extension for browser-based signing, and shows how long-form writing with Habla and Markdown lets posts grow beyond short notes.
+Advanced Nostr begins with key management, relays, and event handling rather than with a feed. Nsec and npub identities, NIP-05-style addresses, relay support metadata under NIP-11, and deletion limits under NIP-09 all make the protocol feel more like portable identity infrastructure than a normal social app.
 
-The relay side of the stack matters just as much. Running a private relay on Umbrel, connecting locally, reaching it remotely through Tailscale, or exposing it through a domain gives the user more control over where events travel and who can see them first. The same chapter also uses NWC to send zaps from a Lightning node and to issue a Lightning address from Zeus, tying social publishing back to monetary rails.
+The client walkthroughs make that portability concrete. Primal is easy for first-time users because it can create an account and attach its own Lightning wallet, Damus stores or shows the key on iOS and macOS, and Phoenix is recommended as a browser-friendly client when the user wants NWC-backed zaps from a Lightning node.
 
-The effect is a much thicker picture of Nostr. It is not just a feed; it is an identity layer, a publishing layer, and a payments-aware social network that can be shaped by the user instead of by the platform.
+Zaps are explained as Lightning payments attached to posts, with NWC and NIP-47 acting as the bridge between client and wallet. That bridge is used to connect Alby Hub wallets, send or receive zaps, and later generate a Lightning address from Zeus.
+
+The guide then moves beyond clients into long-form writing and self-hosting. Habla and Markdown let posts grow into articles, Umbrel can host a private relay, Tailscale can expose it remotely, a domain can make it public, and list or mute controls help fight spam without surrendering control to a central platform.

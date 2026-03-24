@@ -2,23 +2,8 @@
 
 ## Chapter Digest
 
-how bills of exchange, accounting advances, and merchant banking allowed monetary systems to move beyond the limitations of physical coin transfer. Once merchants could rely on promises to pay rather than moving bullion for every transaction, money began to operate in explicit layers. First-layer money remained the final settlement asset, while second-layer money expanded as claims on that base.
+Bills of exchange and merchant banking turn the latent hierarchy of money into a working system. Once a promise can travel where metal would have to be carried, financial claims begin to multiply on top of a base asset. The hierarchy does not disappear; it becomes more explicit. Higher layers can expand only because the lower layer remains available for final settlement.
 
-What makes this development historically significant is that it accelerated trade and finance without abolishing the hierarchy beneath them. The spread of bills and bookkeeping did not eliminate the importance of sound base money; it multiplied its influence by allowing wider credit structures to rest upon it. Layered money thus appears as the architecture that makes complex financial civilization possible.
+That structure creates both efficiency and discipline. Clearing, bookkeeping, and the time value of money make it possible to reconcile claims across distance and delay, but every extra layer still depends on confidence that the bottom layer will settle when required. Financial civilization grows by stretching credit, yet it remains tethered to the fact that not every promise can become a reserve asset.
 
-## Key Takeaways
-
-- Layered money emerges when claims begin circulating on top of base money.
-- Bills of exchange and bookkeeping are key institutional breakthroughs.
-- Credit expands trade without removing the need for final settlement assets.
-- Base money remains crucial even as higher monetary layers grow.
-- Financial civilization depends on monetary layering.
-
-## Notable Terms / Claims
-
-- Bills of exchange
-- Merchant banking
-- Double-entry bookkeeping
-- Credit layers
-- Final settlement beneath finance
-
+Layered money therefore explains how trade can scale without dissolving the need for a solid base. The same arrangements that allow a continuous fair of bills, balances, and obligations also reveal how fragile the whole system becomes if discipline at the foundation weakens. The hierarchy is what makes modern finance possible, and it is also what keeps it honest when the base is strong enough.

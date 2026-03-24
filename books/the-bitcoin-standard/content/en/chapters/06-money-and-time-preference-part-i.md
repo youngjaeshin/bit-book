@@ -2,23 +2,12 @@
 
 ## Chapter Digest
 
-The quality of money shapes time preference. Sound money rewards deferral because value stored today remains available tomorrow. Unsound money does the opposite: it punishes saving and encourages present consumption, leverage, and speculation. Money is therefore not neutral with respect to human behavior.
+Money is more than a medium of exchange or a tally of debts; its quality shapes how people value the future. When money holds its value reliably, postponing consumption becomes a rational, attractive choice. The reward for saving is not merely ownership of a larger pile of coins, but the ability to fund future projects, educate children, or weather unforeseen shocks with less fear. In this view, sound money aligns individual incentives with the long arc of productive effort, turning patience into a productive virtue rather than a liability.
 
-The same logic governs capital accumulation. Saving is the basis of longer production structures and rising prosperity. When inflation attacks savings, it also attacks the material basis of civilization. Monetary debasement becomes a hidden assault on capital formation.
+Inflation changes that calculus by eroding the real worth of saved wealth. If the price level rises while the saver’s income remains flat, tomorrow’s buying power slips relative to today. The result is a subtle tax on thrift that nudges people toward quicker, present consumption, riskier bets, or debt-financed lifestyles. The effect is not always dramatic in a single year, but over time it distorts time horizons and diverts resources from long-run improvements, such as durable equipment, education, or near-term maintenance, toward easier, short-term pleasures.
 
-## Key Takeaways
+Time preference helps explain how economies organize production. Saving today funds longer, more productive production processes, while constant inflation shifts resources toward shorter cycles and speculative activity. A farmer who saves seed and fertilizer can plant a richer crop next season; a factory that invests in modern machinery can scale up without scrambling for credit each quarter. When savers lose purchasing power, the capital stock degrades gradually, and the economy’s ability to sustain rising living standards weakens because the incentive to defer is undermined.
 
-- Time preference is shaped by monetary quality.
-- Sound money rewards saving and patience.
-- Unsound money pushes present-oriented behavior.
-- Capital accumulation depends on protected saving.
-- Inflation weakens civilization through capital erosion.
+Inflation also distorts financial signaling. Interest rates, loan ratios, and asset prices all reflect expectations about the future. If inflation isn’t credible or predictable, lenders demand higher premiums and borrowers face more uncertainty, which can push capital into riskier bets or misallocate funds to projects with shorter horizons. The net effect is a shallower, less stable path to rising capital intensity, as the incentives to plan far ahead weaken and the costs of postponing investment rise.
 
-## Notable Terms / Claims
-
-- Time preference
-- Saving and capital
-- Monetary debasement
-- Capital formation
-- Present orientation
-
+Bitcoin and other sound-money narratives argue for restoring time-consistency to monetary policy. If people can rely on a currency whose supply grows at a known, transparent pace, aggregation becomes easier and savings retain real value across cycles. The promise is not a guarantee against volatility, but a structural improvement: the ability to plan, price long-lived projects, and accumulate capital for future generations. In this setting, inflationary pressure retreats into the background, and patience, serious saving and deliberate investment, become the central engine of wealth creation.
