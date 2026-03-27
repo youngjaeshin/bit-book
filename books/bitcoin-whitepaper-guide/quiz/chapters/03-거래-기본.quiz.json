@@ -1,0 +1,20 @@
+{
+  "chapter_id": "03-거래-기본",
+  "answer_index": 1,
+  "question_en": "In Bitcoin, how does a wallet app calculate your spendable balance?",
+  "choices_en": [
+    "It reads a balance field stored for your address in the blockchain ledger",
+    "It sums all unspent outputs sent to your address across the chain",
+    "It queries a central server that tracks each address current balance",
+    "It subtracts all outgoing amounts from incoming amounts in your wallet"
+  ],
+  "question_ko": "비트코인에서 지갑 앱이 잔액을 계산하는 방식은 무엇인가?",
+  "choices_ko": [
+    "블록체인 원장에 주소별로 저장된 잔액 필드를 직접 읽어온다",
+    "해당 주소로 수신된 미사용 출력값(UTXO)을 전부 합산한다",
+    "각 주소의 현재 잔액을 추적하는 중앙 서버에 조회한다",
+    "지갑에 기록된 수신 금액에서 송신 금액을 전부 빼서 계산한다"
+  ],
+  "explanation_en": "Bitcoin stores no per-address balance. A wallet searches the full transaction history to find all Unspent Transaction Outputs (UTXOs) associated with your address and sums them. This is the UTXO model: your 'balance' is the total of coins received but not yet spent.",
+  "explanation_ko": "비트코인은 주소별 잔액 데이터를 저장하지 않는다. 지갑 앱은 전체 거래 이력을 검색하여 해당 주소로 수신되었지만 아직 소비하지 않은 UTXO를 모두 찾아 합산한다. 이것이 UTXO 모델이다."
+}

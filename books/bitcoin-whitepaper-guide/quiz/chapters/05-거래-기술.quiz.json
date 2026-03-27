@@ -1,0 +1,20 @@
+{
+  "chapter_id": "05-거래-기술",
+  "question_en": "When a Bitcoin node verifies a P2PK transaction, how are the scriptSig and scriptPubKey used together?",
+  "choices_en": [
+    "The scriptPubKey is decrypted using the scriptSig as a decryption key, and the result is compared to a stored hash",
+    "The scriptSig is appended to the scriptPubKey and the combined script is executed on a stack; TRUE means the spend is valid",
+    "The scriptSig is sent to a central validation server, which checks it against the scriptPubKey on record",
+    "The scriptPubKey is broadcast to all nodes, and they each independently sign it with the scriptSig to confirm validity"
+  ],
+  "answer_index": 1,
+  "explanation_en": "Bitcoin script validation works by concatenating the unlocking script (scriptSig) from the spending transaction with the locking script (scriptPubKey) from the output being spent, then executing the combined script on a stack machine. In P2PK, this produces '<signature> <public key> OP_CHECKSIG'. If OP_CHECKSIG confirms that the signature was made with the private key matching the public key, the stack ends with TRUE and the spend is valid.",
+  "question_ko": "비트코인 노드가 P2PK 거래를 검증할 때 scriptSig와 scriptPubKey는 어떻게 함께 사용되는가?",
+  "choices_ko": [
+    "scriptSig를 복호화 키로 사용해 scriptPubKey를 복호화하고 저장된 해시값과 비교한다",
+    "scriptSig를 scriptPubKey 앞에 연결하고 결합된 스크립트를 스택에서 실행하며, TRUE가 나오면 유효한 소비다",
+    "scriptSig를 중앙 검증 서버에 보내고 서버가 기록된 scriptPubKey와 대조하여 확인한다",
+    "scriptPubKey를 모든 노드에 브로드캐스트하고 각 노드가 scriptSig로 서명하여 유효성을 확인한다"
+  ],
+  "explanation_ko": "비트코인 스크립트 검증은 소비 거래의 해제 스크립트(scriptSig)를 소비할 출력의 잠금 스크립트(scriptPubKey) 앞에 연결한 뒤 결합된 스크립트를 스택 머신에서 실행하는 방식으로 이루어진다. P2PK에서는 '<서명> <공개키> OP_CHECKSIG' 형태가 된다. OP_CHECKSIG가 서명이 공개키에 대응하는 개인키로 만들어졌음을 확인하면 스택에 TRUE가 남아 소비가 유효하다고 판정된다."
+}

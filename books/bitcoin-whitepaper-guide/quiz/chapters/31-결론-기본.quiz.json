@@ -1,0 +1,20 @@
+{
+  "chapter_id": "31-결론-기본",
+  "answer_index": 2,
+  "question_en": "Why does Bitcoin provide stronger property rights protection than any prior monetary system?",
+  "choices_en": [
+    "Governments guarantee its value the same way they back fiat currencies",
+    "Its ledger is stored on one high-security server that is immune to hacking",
+    "Only the private key holder can claim ownership, and no one can confiscate it",
+    "Its 21 million supply cap is enforced by an international central bank treaty"
+  ],
+  "question_ko": "비트코인이 역사상 어떤 화폐 시스템보다 강력한 사유재산권을 보장한다고 보는 이유는?",
+  "choices_ko": [
+    "정부가 법정화폐를 뒷받침하는 것과 동일하게 그 가치를 보증하기 때문이다",
+    "해킹이 불가능한 단일 고보안 서버에 장부가 저장되기 때문이다",
+    "개인키 보유자만이 소유권을 주장할 수 있고 누구도 강제로 빼앗을 수 없기 때문이다",
+    "2,100만 개 한도가 중앙은행 간 국제 조약으로 강제 적용되기 때문이다"
+  ],
+  "explanation_en": "Bitcoin's ledger is replicated across every node worldwide, making it impossible to seize or freeze at a single point. With only a private key, anyone anywhere can claim their coins, and without that key no government, bank, or third party can confiscate them — a guarantee unprecedented in monetary history.",
+  "explanation_ko": "비트코인 장부는 전 세계 모든 노드에 복제되어 있어 단일 지점에서 압류하거나 동결하는 것이 불가능하다. 개인키만 있으면 어디서든 코인을 주장할 수 있고, 그 키 없이는 정부도 은행도 제3자도 비트코인을 빼앗을 수 없어 화폐 역사에서 전례 없는 보장을 제공한다."
+}

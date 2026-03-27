@@ -1,0 +1,20 @@
+{
+  "chapter_id": "30-계산-기술",
+  "answer_index": 0,
+  "question_en": "Why does the Poisson distribution model how many blocks an attacker mines while honest miners add z blocks?",
+  "choices_en": [
+    "Mining events are rare, independent, and occur at a steady average rate",
+    "Block times follow a symmetric bell curve around the 10-minute average",
+    "Attackers always mine the exact same count as the honest network does",
+    "The binomial approximation only applies when the sample size is very small"
+  ],
+  "question_ko": "정직한 채굴자들이 z개 블록을 연결하는 동안 공격자의 채굴 수가 푸아송 분포를 따르는 이유는?",
+  "choices_ko": [
+    "채굴 사건은 희귀하고 독립적이며 일정한 평균 속도로 발생하기 때문이다",
+    "블록 시간이 10분 평균을 중심으로 대칭적인 정규분포를 따르기 때문이다",
+    "공격자는 항상 정직한 네트워크와 정확히 같은 수의 블록을 채굴하기 때문이다",
+    "이항 근사는 표본 크기가 매우 작을 때만 적용되기 때문이다"
+  ],
+  "explanation_en": "Each nonce attempt is a Bernoulli trial with very high n and very low p, satisfying the limit conditions n→∞, p→0, np=λ that yield a Poisson distribution. The expected attacker block count is λ = z × (q/p). Satoshi applied this to compute double-spend success probabilities for different confirmation counts.",
+  "explanation_ko": "각 논스 시도는 n이 매우 크고 p가 매우 작은 베르누이 시행으로, n→∞, p→0, np=λ 조건에서 푸아송 분포로 수렴한다. 공격자의 기댓값은 λ = z × (q/p)이다. 사토시는 이를 적용하여 블록 확인 수에 따른 이중지불 성공 확률을 계산했다."
+}

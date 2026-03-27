@@ -1,0 +1,20 @@
+{
+  "chapter_id": "22-간소화된-지불-검증-심화",
+  "answer_index": 1,
+  "question_en": "According to Karl Popper, what is the necessary condition for a claim to be scientific?",
+  "choices_en": [
+    "A recognized majority of domain experts must formally agree with it",
+    "It must be possible in principle to demonstrate that the claim is wrong",
+    "The claim must be derivable from and provable by formal mathematics",
+    "It must receive approval or endorsement from an official government body"
+  ],
+  "question_ko": "칼 포퍼에 따르면 어떤 주장이 과학적이기 위한 필수 조건은 무엇인가?",
+  "choices_ko": [
+    "해당 분야 전문가 다수가 공식적으로 동의해야 한다",
+    "원칙적으로 그 주장이 틀렸음을 입증할 수 있는 여지가 있어야 한다",
+    "주장이 형식 수학으로부터 도출되고 증명 가능해야 한다",
+    "공식 정부 기관으로부터 승인이나 보증을 받아야 한다"
+  ],
+  "explanation_en": "For Popper, only falsifiable claims are scientific. A claim that cannot in principle be refuted is pseudoscience, regardless of how many experts accept it.",
+  "explanation_ko": "포퍼에 의하면 반증 가능한 것만이 과학적 주장이다. 원칙적으로 반증할 수 없는 주장은 아무리 많은 전문가가 수용하더라도 유사 과학이다."
+}

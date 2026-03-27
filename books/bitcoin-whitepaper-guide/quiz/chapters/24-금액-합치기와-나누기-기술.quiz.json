@@ -1,0 +1,20 @@
+{
+  "chapter_id": "24-금액-합치기와-나누기-기술",
+  "answer_index": 0,
+  "question_en": "What is the equation of the elliptic curve secp256k1 used by Bitcoin?",
+  "choices_en": [
+    "y² = x³ + 7 (mod p)",
+    "y² = x³ + 4x + 7 (mod p)",
+    "y² = x² + 7 (mod p)",
+    "y² = x³ - 3x + 7 (mod p)"
+  ],
+  "question_ko": "비트코인이 사용하는 타원곡선 secp256k1의 방정식은?",
+  "choices_ko": [
+    "y² = x³ + 7 (mod p)",
+    "y² = x³ + 4x + 7 (mod p)",
+    "y² = x² + 7 (mod p)",
+    "y² = x³ - 3x + 7 (mod p)"
+  ],
+  "explanation_en": "Bitcoin uses the secp256k1 curve y² = x³ + 7 (mod p), where p is the prime 2²⁵⁶ − 2³² − 977. Its simple form with a=0, b=7 offers high computational efficiency.",
+  "explanation_ko": "비트코인은 secp256k1 곡선 y² = x³ + 7 (mod p)를 사용한다. 여기서 p는 2²⁵⁶ - 2³² - 977의 소수다. a=0, b=7이라는 단순한 형태로 계산 효율이 높다."
+}

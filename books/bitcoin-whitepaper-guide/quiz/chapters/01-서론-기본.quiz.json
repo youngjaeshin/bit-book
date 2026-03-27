@@ -1,0 +1,20 @@
+{
+  "chapter_id": "01-서론-기본",
+  "answer_index": 2,
+  "question_en": "What structural problem does Bitcoin's peer-to-peer design primarily solve?",
+  "choices_en": [
+    "The slow speed of international wire transfers between banks",
+    "The inability of cash to function in a digital environment",
+    "The mandatory mediation by trusted third parties in online payments",
+    "The lack of encryption standards in traditional banking networks"
+  ],
+  "question_ko": "비트코인의 개인 대 개인 설계가 근본적으로 해결하는 구조적 문제는?",
+  "choices_ko": [
+    "은행 간 국제 송금이 느린 속도 문제",
+    "현금이 디지털 환경에서 작동하지 못하는 한계",
+    "온라인 결제에서 신뢰받는 제3자의 강제적 중재 개입",
+    "기존 금융 네트워크의 암호화 표준 부재 문제"
+  ],
+  "explanation_en": "The chapter identifies the mandatory involvement of trusted third parties in every online transaction as the root problem — generating fees, demanding excessive personal data, blocking micropayments, and delaying settlement.",
+  "explanation_ko": "모든 온라인 거래에 신뢰받는 제3자가 강제로 개입하는 것이 근본 문제이며, 이로 인해 수수료, 과도한 개인정보 요구, 소액 거래 불가, 정산 지연이 발생한다."
+}

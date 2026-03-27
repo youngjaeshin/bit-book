@@ -1,0 +1,20 @@
+{
+  "chapter_id": "14-네트워크-기술",
+  "answer_index": 2,
+  "question_en": "What is the correct order of steps Bitcoin Core takes to find peers when installed for the first time?",
+  "choices_en": [
+    "Direct connection to hard-coded IPs → DNS seed query → attempt cached peers",
+    "DNS seed query → attempt cached peers → direct connection to hard-coded IPs",
+    "Attempt cached peers → DNS seed query → direct connection to hard-coded IPs",
+    "Query Bitcoin Foundation server → DNS seed query → attempt cached peers"
+  ],
+  "question_ko": "비트코인 코어를 처음 설치했을 때 이웃 노드와 연결하는 과정의 순서는?",
+  "choices_ko": [
+    "하드코딩된 IP 주소 직접 연결 → DNS 시드 조회 → 캐시된 이전 노드 연결 시도",
+    "DNS 시드 조회 → 캐시된 이전 노드 연결 시도 → 하드코딩된 IP 주소 직접 연결",
+    "캐시된 이전 노드 연결 시도 → DNS 시드 조회 → 하드코딩된 IP 주소 직접 연결",
+    "비트코인 재단 서버 조회 → DNS 시드 조회 → 캐시된 이전 노드 연결 시도"
+  ],
+  "explanation_en": "Bitcoin Core first attempts to reconnect to previously cached peer IPs for eleven seconds. If that fails it queries DNS seed nodes for one minute. If that also fails it tries direct connection to IP addresses hard-coded in the program.",
+  "explanation_ko": "비트코인 코어는 먼저 캐시에 저장된 이전 이웃 노드 IP로 11초간 연결을 시도한다. 실패하면 DNS 시드 노드를 1분간 조회한다. 그래도 실패하면 프로그램에 하드코딩된 IP 주소로 직접 연결을 시도한다."
+}

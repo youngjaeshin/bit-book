@@ -1,0 +1,20 @@
+{
+  "chapter_id": "32-결론-심화",
+  "answer_index": 1,
+  "question_en": "What makes the Lightning Network's effective per-transaction fee far lower than on-chain fees?",
+  "choices_en": [
+    "Lightning skips cryptographic signature checks to process payments faster",
+    "Two on-chain fees per channel are split across hundreds of off-chain transactions",
+    "Miners accept discounted fees from Lightning nodes under a subsidy agreement",
+    "Lightning transactions are batched and settled on the blockchain once a month"
+  ],
+  "question_ko": "라이트닝 네트워크의 거래당 실효 수수료가 온체인 수수료보다 훨씬 낮은 이유는?",
+  "choices_ko": [
+    "라이트닝은 암호화 서명 검증을 생략하여 결제를 더 빠르게 처리하기 때문이다",
+    "채널당 온체인 수수료 두 번이 수백 건의 오프체인 거래에 분산되기 때문이다",
+    "채굴자들이 보조금 협약에 따라 라이트닝 노드에게 할인된 수수료를 적용하기 때문이다",
+    "라이트닝 거래가 일괄 처리되어 월 1회 블록체인에 정산되기 때문이다"
+  ],
+  "explanation_en": "Opening and closing a Lightning channel each require one on-chain transaction, for a total of two. Every payment between those two events is handled off-chain by adjusting channel balances. Spreading those two fees across 300 transactions drops the average cost per transaction to a tiny fraction of the base-layer fee — roughly 0.0035% versus the 1–5% of traditional card payments.",
+  "explanation_ko": "라이트닝 채널을 개설하고 종료할 때 각각 온체인 거래가 한 번씩 필요하여 총 두 번의 수수료가 발생한다. 그 사이의 모든 결제는 채널 잔액을 조정하는 오프체인 방식으로 처리된다. 두 번의 수수료를 300건의 거래에 분산하면 거래당 평균 비용이 기반 레이어 수수료의 극히 일부인 약 0.0035%로 줄어들어 기존 카드 결제의 1~5%와 큰 차이를 보인다."
+}

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "08-타임스탬프-서버-기술",
+  "question_en": "Why does Bitcoin use double-SHA256 (hashing twice) rather than a single SHA256 hash for block identifiers?",
+  "choices_en": [
+    "Double hashing produces a longer output, making block hashes easier to distinguish from transaction hashes",
+    "A single SHA256 is vulnerable to length-extension attacks, which double hashing eliminates",
+    "Hashing twice doubles the computational work required for miners and raises the difficulty level",
+    "The second hash converts the output from little-endian to big-endian format for human readability"
+  ],
+  "answer_index": 1,
+  "explanation_en": "SHA256 is susceptible to length-extension attacks: an attacker who knows SHA256(m) can compute a valid SHA256(m || extra_data) without knowing m. Applying SHA256 a second time to the output breaks this property, because the second hash treats the first hash's output as an opaque fixed-length value with no exploitable internal structure. Bitcoin uses double-SHA256 to close this vulnerability in block and transaction identifiers.",
+  "question_ko": "비트코인이 블록 식별자에 SHA256을 한 번이 아니라 두 번(더블 해싱) 적용하는 이유는 무엇인가?",
+  "choices_ko": [
+    "두 번 해싱하면 출력값이 길어져 블록 해시와 거래 해시를 더 쉽게 구별할 수 있기 때문이다",
+    "SHA256을 한 번만 쓰면 길이 확장 공격에 취약한데, 더블 해싱이 이 취약점을 제거하기 때문이다",
+    "두 번 해싱하면 채굴에 필요한 연산량이 두 배가 되어 난이도가 높아지기 때문이다",
+    "두 번째 해싱이 출력값을 리틀 엔디안에서 빅 엔디안으로 변환하여 인간이 읽기 편하게 만들기 때문이다"
+  ],
+  "explanation_ko": "SHA256은 길이 확장 공격에 취약하다. SHA256(m)을 알고 있는 공격자는 m을 모른 채로 SHA256(m || 추가데이터)의 유효한 해시값을 만들어낼 수 있다. SHA256의 출력값에 SHA256을 한 번 더 적용하면 두 번째 해시가 첫 번째 출력값을 내부 구조 없는 고정 길이 값으로 처리하기 때문에 이 취약점이 사라진다. 비트코인은 블록 및 거래 식별자에서 이 취약점을 차단하기 위해 더블 SHA256을 사용한다."
+}

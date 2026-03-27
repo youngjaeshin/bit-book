@@ -1,0 +1,20 @@
+{
+  "chapter_id": "09-작업증명-기본",
+  "answer_index": 1,
+  "question_en": "What is the role of the nonce in Bitcoin?",
+  "choices_en": [
+    "A value recording the number of transactions included in the block",
+    "A temporary value incremented to find a hash meeting the proof-of-work condition",
+    "A value storing the previous block's hash to link the chain",
+    "A value encrypting the miner's public key and recording it in the block"
+  ],
+  "question_ko": "비트코인에서 논스(nonce)의 역할은 무엇인가?",
+  "choices_ko": [
+    "블록에 포함된 거래들의 개수를 기록하는 값이다",
+    "작업증명 조건을 만족하는 해시값을 찾기 위해 변경되는 임시값이다",
+    "이전 블록의 해시값을 저장하여 체인을 연결하는 값이다",
+    "채굴자의 공개키를 암호화하여 블록에 기록하는 값이다"
+  ],
+  "explanation_en": "Nonce means 'temporary value.' Miners change the nonce in the block header and repeatedly run the hash function until they find a hash below the target value.",
+  "explanation_ko": "논스(nonce)는 '임시값'이라는 뜻으로, 채굴자가 블록 헤더에서 변경하면서 목표값보다 낮은 해시값이 나올 때까지 해시 함수를 반복 실행하는 데 사용되는 값이다."
+}

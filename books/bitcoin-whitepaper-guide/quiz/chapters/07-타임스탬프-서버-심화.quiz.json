@@ -1,0 +1,20 @@
+{
+  "chapter_id": "07-타임스탬프-서버-심화",
+  "answer_index": 2,
+  "question_en": "Why does the SEC treat Bitcoin differently from most altcoins regarding securities law?",
+  "choices_en": [
+    "Altcoins use proof-of-stake, which the SEC views as an investment contract by default",
+    "Altcoins were created after Bitcoin and fall under newer securities regulations",
+    "Most altcoins have an identifiable issuer whose work drives value, satisfying Howey",
+    "Bitcoin is backed by mining hardware, giving it commodity status unlike altcoins"
+  ],
+  "question_ko": "SEC가 대부분의 알트코인을 증권으로 보면서 비트코인은 아니라고 판단하는 이유는?",
+  "choices_ko": [
+    "알트코인은 지분증명을 써서 SEC가 이를 기본적으로 투자 계약으로 보기 때문이다",
+    "알트코인은 비트코인 이후에 만들어져 더 새로운 증권 규정의 적용을 받기 때문이다",
+    "대부분의 알트코인에는 가치를 결정하는 발행 주체가 있어 하위 테스트를 충족한다",
+    "비트코인은 채굴 장비로 뒷받침되어 알트코인과 달리 원자재 지위를 갖기 때문이다"
+  ],
+  "explanation_en": "The Howey Test classifies an instrument as a security if money is invested in a common enterprise with profits expected from others' efforts. Most altcoins have a founding company whose work drives token value, satisfying all four criteria. Bitcoin has no issuing entity and no team investors rely on, so it fails the Howey Test.",
+  "explanation_ko": "하위 테스트는 타인의 노력에 의한 이익을 기대하며 공동 사업에 투자할 때 해당 상품을 증권으로 분류한다. 대부분의 알트코인은 운영 회사가 있고 그 개발 노력이 가치를 결정해 네 가지 기준을 충족한다. 비트코인은 발행 주체가 없어 하위 테스트를 통과하지 못한다."
+}

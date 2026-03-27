@@ -1,0 +1,20 @@
+{
+  "chapter_id": "23-금액-합치기와-나누기-기본",
+  "answer_index": 1,
+  "question_en": "In the UTXO model, what happens when you pay 1,000 sats using a 10,000-sat UTXO?",
+  "choices_en": [
+    "Only 1,000 sats are withdrawn and the remaining 9,000 sats stay in the UTXO",
+    "The whole 10,000-sat UTXO is spent and two new UTXOs of 1,000 and 9,000 are made",
+    "The remaining 9,000 sats are automatically sent to the miner as the transaction fee",
+    "The UTXO model cannot process payments smaller than the full UTXO denomination"
+  ],
+  "question_ko": "UTXO 모델에서 1만 사토시 UTXO로 1천 사토시를 지불할 때 어떤 일이 일어나는가?",
+  "choices_ko": [
+    "1만 UTXO에서 1천 사토시만 꺼내고 나머지 9천 사토시는 그대로 남는다",
+    "1만 UTXO 전체를 소비해 1천 사토시와 9천 사토시 두 개의 새 UTXO를 만든다",
+    "나머지 9천 사토시는 자동으로 채굴자에게 거래 수수료로 전송된다",
+    "UTXO 모델은 UTXO 전액보다 작은 금액의 지불을 처리할 수 없다"
+  ],
+  "explanation_en": "UTXOs cannot be partially spent. Using a 10,000-sat UTXO requires spending it in full; like handing over a banknote and receiving change, you create two outputs: 1,000 sats to the recipient and 9,000 sats back to yourself.",
+  "explanation_ko": "UTXO는 일부만 소비할 수 없다. 1만 사토시짜리 UTXO를 사용하려면 전액을 입력으로 써야 하며, 지폐를 내고 거스름돈을 받듯이 1천 사토시를 수취인에게, 9천 사토시를 자신에게 돌려보내는 두 출력을 만들어야 한다."
+}

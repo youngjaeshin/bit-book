@@ -1,0 +1,20 @@
+{
+  "chapter_id": "20-디스크-공간-재확보-기술",
+  "answer_index": 1,
+  "question_en": "Why is SegWit a soft fork that remains fully compatible with older nodes?",
+  "choices_en": [
+    "SegWit nodes produce a separate legacy-format block for old nodes in parallel",
+    "The OP_0 prefix stops old nodes from returning an error, so they accept the block",
+    "SegWit transactions are auto-converted to legacy format when old nodes process them",
+    "SegWit only changed the transaction format and left the block header untouched"
+  ],
+  "question_ko": "세그윗이 구버전 노드와 완전히 호환되는 소프트포크인 이유는?",
+  "choices_ko": [
+    "세그윗 노드가 구버전 노드를 위해 레거시 형식의 블록을 별도로 동시에 생성한다",
+    "OP_0 접두사 덕분에 구버전 노드가 오류를 반환하지 않고 블록을 유효하다고 본다",
+    "세그윗 거래는 구버전 노드에서 처리될 때 자동으로 레거시 형식으로 변환된다",
+    "세그윗은 거래 형식만 변경하고 블록 헤더 형식은 그대로 유지했기 때문이다"
+  ],
+  "explanation_en": "Lock scripts paying to SegWit addresses begin with OP_0. Old nodes ignore the witness field and see an empty signature, but OP_0 prevents the script engine from returning an explicit FALSE or error. Old nodes therefore accept the block as valid and relay it.",
+  "explanation_ko": "세그윗 주소로 지불되는 잠금 스크립트는 맨 앞에 OP_0가 들어간다. 이전 버전 노드는 증인 칸을 무시해 서명이 비어 있는 것처럼 보이지만, OP_0 덕분에 스크립트 언어가 명시적으로 FALSE나 오류를 반환하지 않는다. 따라서 구버전 노드들도 블록을 유효하다고 인식하고 전파한다."
+}

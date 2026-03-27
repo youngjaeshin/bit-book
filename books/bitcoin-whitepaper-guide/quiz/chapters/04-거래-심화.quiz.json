@@ -1,0 +1,20 @@
+{
+  "chapter_id": "04-거래-심화",
+  "question_en": "Why is using a personal phone number as a Bitcoin private key extremely dangerous?",
+  "choices_en": [
+    "Phone numbers are too short to be encoded as a 256-bit private key without padding",
+    "Phone numbers are publicly listed, so anyone can look up the number and derive the key",
+    "The entropy drops to about 26 bits, making brute-force discovery trivially fast",
+    "Phone numbers contain non-numeric characters that cannot be processed by Bitcoin's algorithm"
+  ],
+  "answer_index": 2,
+  "explanation_en": "A valid Bitcoin private key must have 256 bits of entropy — roughly 10^77 possible values. A phone number has at most about 100 million (10^8) possible values, reducing entropy to roughly 26.58 bits. At that level, even an ordinary laptop can brute-force all possibilities in a fraction of a second, making the key trivially insecure regardless of its technical validity as a 256-bit number.",
+  "question_ko": "휴대전화 번호를 비트코인 개인키로 사용하는 것이 극도로 위험한 이유는 무엇인가?",
+  "choices_ko": [
+    "전화번호는 너무 짧아서 패딩 없이는 256비트 개인키로 인코딩할 수 없기 때문이다",
+    "전화번호는 공개적으로 등록되어 있어 누구든 번호를 조회하여 키를 알아낼 수 있기 때문이다",
+    "엔트로피가 약 26비트로 떨어져 무차별 대입 공격으로 순식간에 찾아낼 수 있기 때문이다",
+    "전화번호에는 비트코인 알고리즘이 처리할 수 없는 비숫자 문자가 포함되어 있기 때문이다"
+  ],
+  "explanation_ko": "유효한 비트코인 개인키는 256비트의 엔트로피, 즉 약 10의 77승 가지의 경우를 가져야 한다. 그러나 전화번호의 가능한 경우의 수는 최대 1억(10의 8승) 개로 엔트로피가 약 26.58비트에 불과하다. 이 수준에서는 일반 노트북도 모든 경우를 순식간에 탐색할 수 있어 기술적으로 256비트 숫자가 맞더라도 보안이 전혀 없는 것과 같다."
+}

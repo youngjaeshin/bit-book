@@ -1,0 +1,20 @@
+{
+  "chapter_id": "17-인센티브-기술",
+  "answer_index": 1,
+  "question_en": "What message did Satoshi embed in the genesis block coinbase input field?",
+  "choices_en": [
+    "The Bitcoin whitepaper title — 'A Peer-to-Peer Electronic Cash System'",
+    "A UK Times headline: 'Chancellor on brink of second bailout for banks'",
+    "A Cypherpunk manifesto phrase — 'In cryptography we trust' encoded in hex",
+    "The Bitcoin community motto — 'Vires in Numeris' meaning strength in numbers"
+  ],
+  "question_ko": "사토시 나카모토가 제네시스 블록 코인베이스 입력 필드에 숨긴 메시지는?",
+  "choices_ko": [
+    "비트코인 백서 제목인 '피어투피어 전자 현금 시스템'을 16진수로 인코딩한 것",
+    "영국 타임스의 '재무장관, 두 번째 은행 구제금융 직전' 헤드라인",
+    "사이퍼펑크 선언문 구절인 '암호학을 믿는다'를 16진수로 인코딩한 것",
+    "비트코인 커뮤니티 모토인 '비레스 인 누메리스(숫자 속의 힘)'"
+  ],
+  "explanation_en": "Satoshi encoded The Times headline of January 3, 2009 in the genesis block's coinbase input field. It serves as both a critique of the existing financial system and a timestamp proving when the genesis block was created.",
+  "explanation_ko": "사토시는 제네시스 블록의 코인베이스 입력 필드에 2009년 1월 3일자 영국 타임스 헤드라인을 16진수로 인코딩했다. 기존 금융 체계에 대한 비판이자 제네시스 블록 생성 시각을 증명하는 타임스탬프 역할을 한다."
+}

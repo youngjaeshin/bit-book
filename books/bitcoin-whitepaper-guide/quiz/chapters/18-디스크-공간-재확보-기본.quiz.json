@@ -1,0 +1,20 @@
+{
+  "chapter_id": "18-디스크-공간-재확보-기본",
+  "answer_index": 0,
+  "question_en": "What is the single 32-byte hash value that remains at the top of a Merkle tree called?",
+  "choices_en": [
+    "Merkle root",
+    "Coinbase hash",
+    "Block digest",
+    "Chain anchor"
+  ],
+  "question_ko": "머클 트리 구조에서 최종적으로 남는 단 하나의 32바이트 해시값을 무엇이라 하는가?",
+  "choices_ko": [
+    "머클 루트(Merkle root)",
+    "코인베이스 해시(coinbase hash)",
+    "블록 다이제스트(block digest)",
+    "체인 앵커(chain anchor)"
+  ],
+  "explanation_en": "The single 32-byte hash that remains after iteratively pairing and hashing all transaction txids is called the Merkle root. Only this value is included in the block header.",
+  "explanation_ko": "모든 거래 txid를 두 개씩 짝지어 반복적으로 해싱해 최종적으로 남는 하나의 32바이트 해시값을 머클 루트라 한다. 블록 헤더에는 이 머클 루트 하나만 포함된다."
+}

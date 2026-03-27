@@ -1,0 +1,20 @@
+{
+  "chapter_id": "13-네트워크-심화",
+  "answer_index": 1,
+  "question_en": "What is the most important reason Bitcoin's network adopts a mesh topology?",
+  "choices_en": [
+    "Mesh topology uses fewer cables and therefore has the lowest network construction cost",
+    "The network continues operating even if any single node or hub fails, providing indestructibility",
+    "Mesh topology has a central server that makes transaction processing the fastest",
+    "Mesh topology is the only distributed network structure approved by government regulators"
+  ],
+  "question_ko": "비트코인 네트워크가 메시(Mesh)형 구조를 채택한 가장 중요한 이유는?",
+  "choices_ko": [
+    "메시형은 케이블 수가 적어 네트워크 구축 비용이 가장 낮기 때문이다",
+    "어떤 단일 노드나 허브에 장애가 발생해도 전체 네트워크가 계속 작동하는 파괴 불가능성 때문이다",
+    "메시형은 중앙 서버가 있어 거래 처리 속도가 가장 빠르기 때문이다",
+    "메시형은 정부 규제 기관이 승인한 유일한 분산 네트워크 구조이기 때문이다"
+  ],
+  "explanation_en": "In a mesh network each node connects independently to others, so removing any single node leaves the network intact. Bus, ring, star, and tree topologies all fail completely if a critical point is disrupted.",
+  "explanation_ko": "메시형 네트워크는 각 노드가 다른 노드들과 독립적으로 연결되어 있어 어떤 노드가 제거되어도 네트워크가 유지된다. 버스형, 링형, 스타형, 트리형은 모두 특정 지점에 장애가 생기면 전체 네트워크가 마비된다."
+}

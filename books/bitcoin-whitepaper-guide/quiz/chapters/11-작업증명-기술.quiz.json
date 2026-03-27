@@ -1,0 +1,20 @@
+{
+  "chapter_id": "11-작업증명-기술",
+  "answer_index": 1,
+  "question_en": "In Bitcoin's block header difficulty bits field, what do the first two digits and the last six digits represent?",
+  "choices_en": [
+    "The first two digits indicate the block version; the last six indicate the starting range of the nonce",
+    "The first two digits are the exponent and the last six are the coefficient, used to calculate the target value",
+    "The first two digits indicate the previous block hash length; the last six indicate the timestamp format",
+    "The first two digits are a mining pool identifier; the last six are a miner public key hash"
+  ],
+  "question_ko": "비트코인 블록 헤더의 난이도 목표 비트값(bits)에서 앞의 두 자리와 뒤의 여섯 자리의 역할은?",
+  "choices_ko": [
+    "앞의 두 자리는 블록 버전, 뒤의 여섯 자리는 논스값의 시작 범위를 나타낸다",
+    "앞의 두 자리는 지수(exponent), 뒤의 여섯 자리는 계수(coefficient)로 목표값을 계산하는 데 쓰인다",
+    "앞의 두 자리는 이전 블록 해시 길이, 뒤의 여섯 자리는 타임스탬프 형식을 나타낸다",
+    "앞의 두 자리는 채굴 풀 식별자, 뒤의 여섯 자리는 채굴자 공개키 해시를 나타낸다"
+  ],
+  "explanation_en": "The difficulty bits field is a compact representation of the target. The first two digits are the exponent z and the last six are the coefficient S, computing target = S × 2^(8×(z-3)).",
+  "explanation_ko": "난이도 목표 비트값은 목표값을 압축해 표현한 것으로, 앞 두 자리는 지수(z), 뒤 여섯 자리는 계수(S)가 되어 목표값 = S × 2^(8×(z-3)) 으로 계산된다."
+}

@@ -1,0 +1,20 @@
+{
+  "chapter_id": "16-인센티브-심화",
+  "answer_index": 0,
+  "question_en": "Which civilization issued the world's first officially standardized metallic coins?",
+  "choices_en": [
+    "Lydia, under King Croesus in the seventh century BC",
+    "Athens, through its famous silver Athenian owl tetradrachm",
+    "Rome, when it established the denarius as imperial currency",
+    "Egypt, during the reign of the New Kingdom pharaohs"
+  ],
+  "question_ko": "역사상 최초의 공식 규격화된 금속화폐를 발행한 문명은?",
+  "choices_ko": [
+    "기원전 7세기에 크로이소스 왕이 이끌던 리디아 왕국",
+    "유명한 은화 아테나 올빼미 테트라드라크마를 만든 아테네",
+    "데나리우스를 제국 화폐로 확립한 고대 로마 제국",
+    "신왕국 파라오들의 통치 시기에 화폐를 사용한 이집트"
+  ],
+  "explanation_en": "King Croesus of Lydia created the world's first officially standardized gold and silver coins in the seventh century BC, setting the template for metallic coinage across civilizations.",
+  "explanation_ko": "기원전 7세기 리디아의 크로이소스 왕이 세계 최초의 공식 규격화된 금화와 은화를 만들었으며, 이는 이후 여러 문명의 금속화폐 표준이 되었다."
+}

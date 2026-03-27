@@ -1,0 +1,20 @@
+{
+  "chapter_id": "26-프라이버시-심화",
+  "answer_index": 1,
+  "question_en": "What is the historical significance of Diffie and Hellman's 1976 paper 'New Directions in Cryptography'?",
+  "choices_en": [
+    "It introduced the first publicly known cryptographic hash function algorithm",
+    "It freed strong cryptography from state secrecy and made it available to civilians",
+    "It directly provided the technical cryptographic foundation for Bitcoin's protocol",
+    "It first published the RSA public-key encryption algorithm to the world"
+  ],
+  "question_ko": "1976년 디피와 헬만의 「암호학의 새 방향」 논문의 역사적 의의는 무엇인가?",
+  "choices_ko": [
+    "최초로 공개된 암호화 해시 함수 알고리즘을 세상에 소개했다",
+    "강력한 암호학을 국가 기관의 전유물에서 해방시켜 민간인도 쓸 수 있게 했다",
+    "비트코인 프로토콜의 기술적 암호학 기반을 직접 제시하고 정립했다",
+    "RSA 공개키 암호화 알고리즘을 세계 최초로 공식 발표했다"
+  ],
+  "explanation_en": "The paper freed strong cryptography from state secrecy, enabling civilians to use tools previously monopolized by agencies like the NSA and paving the way for the cypherpunk movement.",
+  "explanation_ko": "이 논문으로 강력한 암호학이 NSA 같은 국가 기관의 전유물에서 해방되어 민간인도 사용할 수 있는 도구가 되었고, 사이퍼펑크 운동의 토대가 마련됐다."
+}

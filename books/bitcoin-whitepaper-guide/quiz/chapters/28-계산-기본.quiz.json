@@ -1,0 +1,20 @@
+{
+  "chapter_id": "28-계산-기본",
+  "answer_index": 2,
+  "question_en": "What specific action does a Finney attack allow a dishonest miner to accomplish?",
+  "choices_en": [
+    "Create new bitcoins beyond the hard-capped 21 million supply limit",
+    "Steal other users' coins by forging their cryptographic signatures",
+    "Reverse a recent payment by broadcasting a secretly pre-mined chain",
+    "Force all network nodes to accept an otherwise invalid transaction"
+  ],
+  "question_ko": "피니 공격이 부정직한 채굴자에게 허용하는 구체적인 행위는 무엇인가?",
+  "choices_ko": [
+    "2,100만 개 한도를 넘어 새로운 비트코인을 추가로 생성한다",
+    "암호화 서명을 위조하여 다른 사용자의 코인을 훔친다",
+    "몰래 사전에 채굴한 체인을 전파하여 최근 거래를 되돌린다",
+    "모든 네트워크 노드가 유효하지 않은 거래를 수락하도록 강제한다"
+  ],
+  "explanation_en": "A Finney attack lets an attacker double-spend only their own recent transaction. The attacker secretly mines a block redirecting their coins to themselves, delivers goods or services after broadcasting the legitimate payment, then releases the longer hidden chain to invalidate that payment. Nodes always reject transactions that create coins from nothing or steal others' funds.",
+  "explanation_ko": "피니 공격은 공격자가 자신의 최근 거래만 이중지불할 수 있게 한다. 공격자는 자신의 코인을 자신에게 돌리는 블록을 몰래 채굴하고, 정당한 거래를 전파한 뒤 재화나 서비스를 받은 다음, 더 긴 숨겨진 체인을 공개하여 해당 거래를 무효화한다. 노드들은 무에서 코인을 만들거나 타인의 자금을 훔치는 거래는 항상 거부한다."
+}

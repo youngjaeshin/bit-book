@@ -1,0 +1,20 @@
+{
+  "chapter_id": "12-네트워크-기본",
+  "answer_index": 1,
+  "question_en": "What is the most essential feature distinguishing a full node from a light node (SPV node)?",
+  "choices_en": [
+    "Full nodes perform mining while light nodes do not participate in mining",
+    "Full nodes store all block data from the genesis block and verify transactions independently",
+    "Full nodes can send Bitcoin without an internet connection, enabling offline use",
+    "Full nodes use only Bitcoin Core software while light nodes use different software"
+  ],
+  "question_ko": "풀 노드(full node)가 라이트 노드(SPV 노드)와 구별되는 가장 핵심적인 특징은?",
+  "choices_ko": [
+    "풀 노드는 채굴 작업을 수행하지만 라이트 노드는 채굴에 참여하지 않는다",
+    "풀 노드는 제네시스 블록부터 모든 블록 데이터를 저장하고 독립적으로 거래를 검증한다",
+    "풀 노드는 인터넷 연결 없이도 비트코인을 전송할 수 있어 오프라인 사용이 가능하다",
+    "풀 노드는 비트코인 코어 소프트웨어만 사용하고 라이트 노드는 다른 소프트웨어를 사용한다"
+  ],
+  "explanation_en": "Full nodes store all data from the genesis block to the latest block and verify transactions independently without relying on any external party. Light nodes keep only block headers and borrow data from full nodes to verify transactions.",
+  "explanation_ko": "풀 노드는 제네시스 블록부터 최신 블록까지 모든 데이터를 저장하고 어떤 외부 주체에도 의존하지 않고 독립적으로 거래를 검증한다. 라이트 노드는 블록 헤더만 보관하고 풀 노드로부터 데이터를 빌려 검증한다."
+}

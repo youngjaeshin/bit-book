@@ -1,0 +1,20 @@
+{
+  "chapter_id": "21-간소화된-지불-검증-기본",
+  "answer_index": 1,
+  "question_en": "What data does an SPV node use to verify a transaction is included in a block?",
+  "choices_en": [
+    "The full set of all transaction data contained within the block",
+    "A Merkle branch linking the transaction hash up to the Merkle root",
+    "The complete UTXO set maintained by full nodes on the network",
+    "The difficulty target value stored inside the block header field"
+  ],
+  "question_ko": "SPV 노드가 거래가 블록에 포함됐는지 검증하기 위해 사용하는 데이터는?",
+  "choices_ko": [
+    "해당 블록 안에 담긴 모든 거래 데이터 전체",
+    "거래 해시와 머클 루트를 잇는 머클 가지",
+    "네트워크 풀노드들이 보관하는 UTXO 세트 전체",
+    "블록 헤더에 기록된 난이도 목표값 필드 정보"
+  ],
+  "explanation_en": "A light node uses only the Merkle branch — the intermediate hash values connecting the transaction to the Merkle root — to verify inclusion. This allows verification without downloading full block data.",
+  "explanation_ko": "라이트 노드는 해당 거래와 머클 루트를 연결하는 중간 해시값들인 머클 가지만으로 거래가 블록에 포함되어 있음을 검증한다. 전체 블록 데이터를 내려받지 않아도 된다."
+}

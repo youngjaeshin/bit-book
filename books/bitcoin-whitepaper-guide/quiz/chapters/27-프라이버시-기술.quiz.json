@@ -1,0 +1,20 @@
+{
+  "chapter_id": "27-프라이버시-기술",
+  "answer_index": 1,
+  "question_en": "What is the primary advantage of the HD wallet's extended public key feature?",
+  "choices_en": [
+    "It encrypts all child private keys behind a password protection layer",
+    "It generates child public keys without ever exposing the private key",
+    "It converts seed phrases directly into signed on-chain transactions",
+    "It merges multiple master seeds into one unified wallet address"
+  ],
+  "question_ko": "HD 지갑의 확장 공개키(xpub)가 제공하는 핵심적인 이점은 무엇인가?",
+  "choices_ko": [
+    "모든 자식 개인키를 비밀번호 보호 레이어로 암호화한다",
+    "개인키를 공개하지 않고도 자식 공개키들을 생성할 수 있다",
+    "시드 문구를 서명된 온체인 거래로 직접 변환한다",
+    "여러 마스터 시드를 하나의 통합된 지갑 주소로 병합한다"
+  ],
+  "explanation_en": "HD wallets exploit the distributive law of elliptic curve arithmetic: the extended public key (master public key + master chain code) alone can derive all child public keys, with no private key required. This enables watch-only wallets to monitor balances without any ability to spend funds.",
+  "explanation_ko": "HD 지갑은 타원곡선 연산의 분배 법칙을 활용한다. 확장 공개키(마스터 공개키 + 마스터 체인코드)만으로 모든 자식 공개키를 파생할 수 있어 개인키가 전혀 필요 없다. 이 덕분에 와치온리 지갑은 잔액을 조회할 수 있지만 비트코인을 지출하는 것은 불가능하다."
+}

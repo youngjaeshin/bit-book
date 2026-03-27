@@ -1,0 +1,20 @@
+{
+  "chapter_id": "29-계산-심화",
+  "answer_index": 3,
+  "question_en": "How does Bitcoin's proof-of-work chain resolve the Byzantine Generals Problem?",
+  "choices_en": [
+    "It appoints one trusted coordinator node to validate all broadcasted messages",
+    "It requires every node to send signed acknowledgments back to all other peers",
+    "It permanently bans any node detected broadcasting contradictory block data",
+    "It uses the longest-chain rule so all nodes eventually converge on one truth"
+  ],
+  "question_ko": "비트코인의 작업증명 체인은 비잔틴 장군 문제를 어떻게 해결하는가?",
+  "choices_ko": [
+    "신뢰받는 단일 조정자 노드를 지정하여 전파된 모든 메시지를 검증한다",
+    "모든 노드가 서명된 확인 메시지를 다른 모든 피어에게 다시 보내도록 요구한다",
+    "모순된 블록 데이터를 전파하다 발각된 노드를 영구 차단한다",
+    "최장 체인 규칙을 사용하여 모든 노드가 결국 하나의 진실로 수렴하도록 한다"
+  ],
+  "explanation_en": "When conflicting blocks are simultaneously broadcast, Bitcoin's longest-chain rule ensures nodes always extend the chain with the most accumulated proof of work. This achieves Byzantine Fault Tolerance without any central authority, as long as honest nodes collectively hold more than 51% of total hash power.",
+  "explanation_ko": "경쟁하는 블록이 동시에 전파되면 비트코인의 최장 체인 규칙에 따라 노드들은 항상 가장 많은 누적 작업증명을 가진 체인을 연장한다. 이를 통해 중앙 권한 없이도 비잔틴 장애 허용이 달성되며, 정직한 노드가 전체 해시 파워의 51% 이상을 보유하는 한 이 보장은 유지된다."
+}

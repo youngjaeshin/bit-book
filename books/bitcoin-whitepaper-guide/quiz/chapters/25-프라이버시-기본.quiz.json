@@ -1,0 +1,20 @@
+{
+  "chapter_id": "25-프라이버시-기본",
+  "answer_index": 1,
+  "question_en": "To what does the Bitcoin whitepaper compare Bitcoin's level of privacy?",
+  "choices_en": [
+    "A sealed envelope where neither sender nor content is visible to others",
+    "A stock exchange ticker tape where trades are public but identities are not",
+    "A numbered Swiss bank account where only the holder knows the balance",
+    "An end-to-end encrypted email where only sender and recipient can read it"
+  ],
+  "question_ko": "비트코인 백서에서 비트코인의 프라이버시 수준을 비유한 대상은 무엇인가?",
+  "choices_ko": [
+    "발신자와 내용 모두 외부에 드러나지 않는 봉인된 우편 봉투",
+    "거래 내용은 공개되지만 당사자 신원은 드러나지 않는 증권 거래소 시세 테이프",
+    "계좌번호만 있고 소유자 신원을 숨기는 스위스 은행 비밀 계좌",
+    "발신자와 수신자만 내용을 볼 수 있는 종단간 암호화 이메일"
+  ],
+  "explanation_en": "The whitepaper compares Bitcoin's privacy to a stock exchange ticker tape: trade size and time are public, but the counterparty's identity is not revealed.",
+  "explanation_ko": "백서에서는 비트코인의 프라이버시 수준을 증권 거래소의 시세 테이프에 비유한다. 거래 규모와 시간은 공개되지만 당사자의 신원은 밝혀지지 않는다."
+}

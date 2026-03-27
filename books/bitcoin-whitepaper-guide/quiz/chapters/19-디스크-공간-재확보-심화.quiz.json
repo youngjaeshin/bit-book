@@ -1,0 +1,20 @@
+{
+  "chapter_id": "19-디스크-공간-재확보-심화",
+  "answer_index": 1,
+  "question_en": "What is the core flaw in the blockchain trilemma argument?",
+  "choices_en": [
+    "Modern computing advances now allow all three properties at the base layer",
+    "The premise is wrong — scalability can be achieved at an upper protocol layer",
+    "Bitcoin has already proven it achieves all three properties at the base layer",
+    "The trilemma applies only to centralized chains and not to Bitcoin at all"
+  ],
+  "question_ko": "블록체인 트릴레마 주장의 핵심적인 결함은 무엇인가?",
+  "choices_ko": [
+    "현대 컴퓨팅 발전으로 기반 레이어에서 세 속성을 동시에 달성할 수 있게 됐다",
+    "전제 자체가 잘못됐으며 확장성은 상위 프로토콜 레이어에서 달성하면 된다",
+    "비트코인은 이미 기반 레이어에서 세 가지 속성 모두를 달성했음이 증명됐다",
+    "트릴레마는 중앙화 체인에만 적용되며 비트코인에는 전혀 해당하지 않는다"
+  ],
+  "explanation_en": "The flaw in the blockchain trilemma is its premise that all three properties must be achieved at the base layer simultaneously. By prioritizing decentralization and security at the base layer and achieving scalability at an upper layer such as the Lightning Network, the trilemma can be overcome.",
+  "explanation_ko": "블록체인 트릴레마의 오류는 세 가지 속성 모두를 기반 레이어에서 동시에 달성해야 한다는 전제에 있다. 기반 레이어는 분산화와 보안을 최우선으로 삼고, 확장성은 라이트닝 네트워크 같은 상위 레이어에서 달성하면 트릴레마를 극복할 수 있다."
+}

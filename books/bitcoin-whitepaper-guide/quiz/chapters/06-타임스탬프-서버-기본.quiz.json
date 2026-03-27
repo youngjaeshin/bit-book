@@ -1,0 +1,20 @@
+{
+  "chapter_id": "06-타임스탬프-서버-기본",
+  "question_en": "How does including the previous block's hash in the current block's header create an immutable chain?",
+  "choices_en": [
+    "It allows nodes to quickly look up any prior block by its position without recalculating hashes",
+    "It encrypts the current block's transactions using the prior block's hash as a symmetric key",
+    "Any change to a past block changes its hash, which invalidates every subsequent block's hash in sequence",
+    "It prevents miners from producing two blocks at the same height by locking them to the prior hash"
+  ],
+  "answer_index": 2,
+  "explanation_en": "Because each block's hash is computed from its header, which contains the previous block's hash, any alteration to a past block changes that block's hash. This invalidates the next block's stored 'previous hash' field, forcing its hash to change, which cascades forward through every subsequent block. The deeper a block is buried, the more recalculation would be required to alter it, making tampering with old records effectively impossible.",
+  "question_ko": "현재 블록 헤더에 이전 블록의 해시값을 포함하면 어떻게 불변하는 체인이 만들어지는가?",
+  "choices_ko": [
+    "노드가 해시를 재계산하지 않고도 이전 블록의 위치로 빠르게 조회할 수 있게 해준다",
+    "이전 블록의 해시값을 대칭 키로 사용해 현재 블록의 거래를 암호화한다",
+    "과거 블록의 데이터를 조금이라도 바꾸면 그 해시값이 바뀌고, 이후 모든 블록의 해시값이 연쇄적으로 무효화된다",
+    "동일한 높이에서 두 블록이 생성되는 것을 이전 해시값으로 잠금으로써 방지한다"
+  ],
+  "explanation_ko": "각 블록의 해시값은 이전 블록의 해시값을 포함한 블록 헤더를 해싱하여 만들어진다. 따라서 과거 블록의 데이터를 조금이라도 변경하면 그 블록의 해시값이 바뀐다. 다음 블록의 헤더에 저장된 '이전 블록 해시' 값이 더 이상 맞지 않으므로 그 블록의 해시값도 바뀌고, 이 변화가 이후 모든 블록으로 도미노처럼 이어진다. 블록이 깊이 묻힐수록 변조에 필요한 재계산량이 커져 과거 기록의 변경은 사실상 불가능해진다."
+}
