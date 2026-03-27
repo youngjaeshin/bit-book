@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>6. 인센티브 — 기본 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← 목차로 돌아가기</a>
+      </nav>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>6. 인센티브 — 기본</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · 6. Incentive — Basic</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
+          <div class="digest">
+<h2>6. Incentive — Basic</h2>
+<p>Chapter 6 of the Bitcoin whitepaper explains why miners are compelled to act honestly and how bitcoin as a currency is introduced into circulation. The starting point is the concept of the coinbase transaction.</p>
+<h3>The Coinbase Transaction: The Origin of All UTXOs</h3>
+<p>Bitcoin uses a UTXO model rather than an account balance model. Every transaction must use unspent outputs from prior transactions as its inputs. So where does the very first output come from? The answer is the coinbase transaction. By convention, the first transaction in every block is always a coinbase transaction. It references no prior transaction and instead creates new bitcoin directly into the block miner&#x27;s wallet address. The coinbase transaction is the only mechanism by which new bitcoin can be produced. Anyone holding bitcoin can trace it back through a chain of transactions to some coinbase transaction.</p>
+<p>Proof of work consumes enormous computational resources and electricity. No miner would bear these costs without compensation. Therefore, the node that succeeds at proof of work receives newly minted coins via the coinbase transaction. This is the incentive that sustains the network. Just as gold miners expend resources to expand the gold supply, bitcoin miners expend CPU time and electricity. This is why proof of work is called &quot;mining.&quot;</p>
+<h3>Fixed Supply and the Halving</h3>
+<p>Bitcoin&#x27;s total supply is fixed at approximately 21 million BTC and cannot be altered by anyone. Any software that modifies this limit would be rejected by all nodes. The coinbase reward started at 50 BTC and is cut in half exactly every 210,000 blocks — roughly every four years, since blocks are produced on average every 10 minutes. After the genesis block in January 2009, halvings reduced the reward to 25 BTC in 2012, 12.5 BTC in 2016, 6.25 BTC in 2020, and 3.125 BTC in 2024. By the time of the fourth halving in 2024, 93.75% of the total supply had already been issued. Around 2140, the block reward will fall to zero, after which only transaction fees will incentivize miners.</p>
+<p>When the reward halves, miner revenue drops sharply. Those for whom mining becomes unprofitable shut off their machines — a phenomenon called &quot;miner capitulation.&quot; When total hash power falls, the difficulty adjustment lowers the mining difficulty two weeks later, restoring profitability and drawing miners back. The fixed, predictable supply schedule means that no matter how high the bitcoin price rises, the rate of new supply cannot be increased. Humanity has never before had a monetary asset or currency with a precisely fixed production rate.</p>
+<h3>Pre-mining and Fairness</h3>
+<p>Satoshi Nakamoto mined the genesis block on January 3, 2009 and released Bitcoin to the public on January 8, 2009. From January 8 onward anyone could participate in mining. Between the genesis block and the public release, Satoshi did not mine any additional blocks — the second block was mined on January 9, the day after the release. Furthermore, the 50 BTC coinbase reward from the genesis block is permanently unspendable by design, closing off any possibility of pre-mining. Many other cryptocurrencies have no supply cap, or their creators reserved large portions for themselves and early investors before public launch — a structure that continuously transfers value from currency users to the issuers.</p>
+<h3>Transaction Fee Incentive</h3>
+<p>When the output value of a transaction is less than its input value, the difference becomes a transaction fee paid to the miner who includes that transaction in a block. Bitcoin fees are charged per unit of transaction data size (denominated in satoshis per virtual byte, SATS/vB), not as a percentage of the transaction amount. This makes large-value transfers very cost-efficient compared to card payment systems. Fees also defend the network against denial-of-service (DoS) attacks: without fees, an attacker could flood the network with millions of trivial transactions, congesting the block space and delaying legitimate transactions.</p>
+<p>The fee problem for small payments is solved by the Lightning Network, a second-layer protocol that processes transactions nearly instantly and at negligible cost, theoretically handling millions of transactions per second.</p>
+<p>A transaction does not need to be confirmed in a block before a merchant accepts it. If a reasonable fee is set and the transaction has propagated through the network, the merchant can treat it as essentially certain to confirm — just as a café owner hands over coffee without waiting three business days for a card settlement.</p>
+<h3>Incentives and Security: Honesty as the Dominant Strategy</h3>
+<p>The claim that bitcoin will collapse in 2140 when coinbase rewards disappear is wrong. The whitepaper states explicitly: once the predetermined number of coins has been released, the incentive transitions entirely to transaction fees. This is actually beneficial — as halvings reduce the coinbase share of miner revenue, the growing share from transaction fees makes the reward structure more stable and less vulnerable to post-halving security concerns.</p>
+<p>Consider an attacker, Mallory, with massive hash power. She has two options: use that power to attempt fraud, or mine honestly and collect rewards. Broadcasting an invalid block costs her the enormous electricity bill of the proof of work while gaining nothing — every other node rejects it. If she actually succeeded in attacking the network, the resulting loss of confidence would crash the value of any bitcoin she holds. The cost of attacking is astronomical: calculations based on the U.S. GDP suggest that even the U.S. government would need to devote the entire productive output of its citizens every ten minutes just to have a chance of successfully rewriting a single block. In practice, the world&#x27;s two largest bitcoin-holding governments — the U.S. and China — have every incentive to protect the network, not attack it. Any entity with meaningful hash power finds that honest mining produces stable income with no risk, whereas attacking produces near-certain loss at immense expense. Honesty is the rational dominant strategy.</p>
+</div>
+        </article>
+        <article class="card lang-panel active" data-lang="ko">
+          <div class="digest">
+<h2>6. 인센티브 — 기본</h2>
+<p>비트코인 백서 6장은 채굴자가 왜 정직하게 행동할 수밖에 없는지, 그리고 비트코인이라는 화폐가 어떤 방식으로 세상에 공급되는지를 설명한다. 그 출발점은 &#x27;코인베이스 거래&#x27;라는 개념이다.</p>
+<h3>코인베이스 거래: 모든 UTXO의 기원</h3>
+<p>비트코인은 잔고 모델이 아닌 UTXO 모델을 사용한다. 모든 거래는 이전 거래의 소비되지 않은 출력값을 입력값으로 삼아야 한다. 그렇다면 최초의 출력값은 어디서 오는가? 바로 코인베이스 거래이다. 각 블록의 첫 번째 거래는 관례상 항상 코인베이스 거래이며, 이 거래는 이전 거래를 참조하지 않고 새 비트코인을 블록 채굴자의 지갑 주소로 직접 발행한다. 코인베이스 거래는 비트코인을 생산할 수 있는 유일한 방법이다. 누구든 비트코인을 갖고 있다면, 그 비트코인의 경로를 역으로 추적하면 반드시 어떤 코인베이스 거래에 닿게 된다.</p>
+<p>작업증명에는 막대한 연산 자원과 전기가 소비된다. 채굴자가 아무 보상 없이 이 비용을 부담할 이유는 없다. 그러므로 작업증명에 성공한 노드에게 새 코인을 발행하는 코인베이스 보상이 주어진다. 이것이 네트워크를 지속시키는 인센티브이다. 금을 캐기 위해 광부가 자원을 소비하는 것과 마찬가지로, 비트코인을 공급하기 위해 채굴자는 CPU 연산 시간과 전기를 소비한다. 이것이 작업증명을 &#x27;채굴&#x27;이라 부르는 이유이다.</p>
+<h3>총공급량과 반감기</h3>
+<p>비트코인의 전체 발행량은 약 2,100만 BTC로 정확히 고정되어 있으며, 누구도 이 한도를 수정할 수 없다. 발행량이 수정된 코드를 어떤 노드도 받아들이지 않기 때문이다. 코인베이스 보상은 처음에는 50 BTC였고, 정확히 21만 블록마다 절반으로 줄어든다. 블록 하나가 평균 10분에 생성되므로 21만 블록은 약 4년에 해당한다. 2009년 제네시스 블록 이후, 2012년 첫 번째 반감기에서 25 BTC, 2016년 두 번째 반감기에서 12.5 BTC, 2020년 세 번째 반감기에서 6.25 BTC, 2024년 네 번째 반감기에서 3.125 BTC로 보상이 줄어들었다. 2024년까지 총 발행 예정량의 93.75%가 이미 공급되었다. 반감기마다 채굴자들의 수익이 급감하여 일부는 채굴기를 끄는 &#x27;채굴자 항복&#x27; 현상이 일어나고, 이로 인해 총 해시 파워가 줄면 2주 후 채굴 난도가 하향 조정되어 균형이 회복된다. 약 2140년이면 블록 보상은 완전히 사라지고, 이후에는 수수료만이 채굴 인센티브가 된다.</p>
+<p>어떤 자산에 투자할 때 그 희소성을 보는 것이 중요하다. 금 가격이 올라도 채굴 기업들이 즉시 공급을 크게 늘릴 수 없기 때문에 금이 인플레이션 헤징 수단으로 쓰인다. 비트코인은 환율이 얼마가 되든 공급량을 증가시킬 수 없다. 인류는 이제까지 생산량이 정확히 고정된 화폐를 가져본 적이 없다.</p>
+<h3>사전 채굴과 공정성</h3>
+<p>사토시 나카모토는 2009년 1월 3일 제네시스 블록을 채굴하고, 1월 8일 비트코인을 일반에 공개했다. 공개 이후에는 누구나 채굴에 참여할 수 있었다. 공개 이전 사토시가 혼자 채굴했던 것 아니냐는 의문이 제기될 수 있지만, 사토시는 제네시스 블록 이후 공개 전까지 추가 채굴을 하지 않았다. 두 번째 블록의 생성일이 1월 9일인 것이 이를 증명한다. 또한 제네시스 블록의 코인베이스 보상 50 BTC는 영원히 사용 불가능하도록 프로그래밍되어 있어, 사전 채굴의 여지가 완전히 차단되어 있다. 다른 가상자산들은 발행량에 제한이 없거나, 발행자와 초기 투자자들이 미리 상당량을 챙긴 후 공개하는 경우가 많다. 이는 화폐의 사용자들로부터 생산 가치를 빼앗는 구조이다.</p>
+<h3>수수료 인센티브</h3>
+<p>거래의 출력값이 입력값보다 작을 경우 그 차이는 거래 수수료가 되어 해당 거래를 블록에 포함시킨 채굴자에게 돌아간다. 비트코인 메인 네트워크의 블록 용량은 한정되어 있어 수수료를 더 많이 지불하는 거래가 먼저 블록에 실린다. 비트코인 수수료는 거래 금액이 아닌 거래 데이터 크기에 따라 부과된다(단위: SATS/vB). 카드사처럼 결제 금액의 일정 비율을 수수료로 떼는 구조가 아니므로, 대액 거래에 유리하다. 수수료는 서비스 거부(DoS) 공격을 방지하는 역할도 한다. 수수료가 없다면 악의적 행위자가 수억 건의 쓸모없는 거래를 생성해 네트워크를 마비시킬 수 있다. 일상적인 소액 결제에서의 수수료 문제는 제2레이어인 라이트닝 네트워크가 해결한다. 라이트닝 네트워크는 초당 수백만 건 이상의 거래를 거의 무료로 처리할 수 있다.</p>
+<p>거래가 블록에 실릴 때까지 반드시 기다릴 필요는 없다. 적절한 수수료가 설정되어 있고 거래가 네트워크에 전파되었다면, 소액 거래에서는 곧 확정될 것으로 보고 거래 상대방이 이를 수락해도 무방하다. 현대 카드 결제도 카페 사장이 카드사로부터 실제 대금을 받기까지 며칠이 걸리지만 바로 커피를 내주는 것과 같은 이치이다.</p>
+<h3>인센티브와 보안: 정직함이 최선의 방책</h3>
+<p>2140년에 코인베이스 보상이 사라지면 비트코인이 망한다는 주장은 잘못되었다. 백서에 명시되어 있듯이 코인베이스 보상이 소진되면 인센티브는 전부 거래 수수료로 전환된다. 이는 오히려 비트코인 네트워크에 이로운 일이다. 반감기가 반복되면서 코인베이스 보상 비중이 줄고 수수료 비중이 커지면, 반감기로 인한 보안 이슈는 점차 완화된다.</p>
+<p>막대한 해시 파워를 가진 공격자 맬러리를 가정해 보자. 맬러리는 두 가지 선택지 중 하나를 골라야 한다. 그 해시 파워로 유효하지 않은 블록을 생성하거나, 아니면 정직하게 채굴해 보상을 받는 것이다. 유효하지 않은 블록을 네트워크에 전파하면 다른 노드들이 거부하므로 작업증명에 소요된 막대한 비용은 그냥 사라진다. 게다가 맬러리가 네트워크 공격에 성공하면 비트코인의 가치가 폭락해 맬러리 자신이 보유한 비트코인도 휴지 조각이 된다. 반면 정직하게 채굴하면 안정적인 보상을 얻는다. 이것이 사토시가 말한 &quot;정직함이 최선의 방책&quot;의 의미이다.</p>
+<p>미국 GDP 기준으로 볼 때, 미국 정부가 비트코인 네트워크를 공격하려면 국민 전체의 생산 가치를 10분마다 전부 쏟아부어야 겨우 가능할 수준이다. 이것은 현실적으로 불가능하며, 오히려 미국과 중국은 세계 1·2위의 비트코인 보유 정부로서 네트워크를 보호해야 자국의 이익을 지킬 수 있다. 공격에 드는 천문학적 비용, 성공 가능성의 희박함, 성공 시 자신의 자산도 폭락한다는 결과를 고려하면, 유의미한 해시 파워를 가진 자라면 누구나 정직하게 채굴하는 것이 합리적 선택이다.</p>
+</div>
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        <div class="quiz-panel" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: It creates new bitcoin without referencing any prior transaction output — The coinbase transaction is the first transaction in each block; it creates new bitcoin for the miner without referencing any prior transaction output. Only one coinbase transaction is allowed per block."
+     data-wrong-text="Answer: It creates new bitcoin without referencing any prior transaction output — The coinbase transaction is the first transaction in each block; it creates new bitcoin for the miner without referencing any prior transaction output. Only one coinbase transaction is allowed per block.">
+  <h3>Which statement about the coinbase transaction is correct?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">It creates new bitcoin without referencing any prior transaction output</button><button class="quiz-option" data-option-index="1">It is the transaction miners use to collect and pay out user fees only</button><button class="quiz-option" data-option-index="2">Each block may contain more than one coinbase transaction if needed</button><button class="quiz-option" data-option-index="3">It shares the same input-output structure as any ordinary UTXO transaction</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: 이전 거래 출력을 참조하지 않고 새 비트코인을 직접 발행한다 — 코인베이스 거래는 이전 거래 출력을 참조하지 않고 새 비트코인을 채굴자에게 발행하는 블록의 첫 번째 거래이다. 블록당 코인베이스 거래는 하나만 허용된다."
+     data-wrong-text="Answer: 이전 거래 출력을 참조하지 않고 새 비트코인을 직접 발행한다 — 코인베이스 거래는 이전 거래 출력을 참조하지 않고 새 비트코인을 채굴자에게 발행하는 블록의 첫 번째 거래이다. 블록당 코인베이스 거래는 하나만 허용된다.">
+  <h3>코인베이스 거래에 대한 설명으로 옳은 것은?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">이전 거래 출력을 참조하지 않고 새 비트코인을 직접 발행한다</button><button class="quiz-option" data-option-index="1">채굴자가 사용자 수수료만을 수령하고 지불하기 위한 거래이다</button><button class="quiz-option" data-option-index="2">필요한 경우 하나의 블록에 여러 개의 코인베이스 거래가 포함될 수 있다</button><button class="quiz-option" data-option-index="3">일반적인 UTXO 소비 거래와 동일한 입출력 구조를 공유한다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./14-네트워크-기술.html">← 이전 장 · 5. 네트워크 — 기술</a>
+        <a class="chapter-nav-link next" href="./16-인센티브-심화.html">→ 다음 장 · 6. 인센티브 — 심화</a>
+      </nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

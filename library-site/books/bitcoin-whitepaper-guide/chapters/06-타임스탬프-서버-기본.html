@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>3. 타임스탬프 서버 — 기본 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../../../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← Back to book</a> · <a href="../../../index.html">Library</a>
+      </nav>
+      <header class="reading-hero card">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>3. 타임스탬프 서버 — 기본</h1>
+        <p class="subtitle reading-subtitle">3. Timestamp Server — Basic</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en"><div class="digest">
+<h2>3. Timestamp Server — Basic</h2>
+<h3>Chapter Digest</h3>
+<p>The first key to understanding how Bitcoin works is the hash function. Hash functions share four essential properties. The first is determinism: the same input always produces the same output. The second is fixed-length output: regardless of whether the input is two characters or a building&#x27;s worth of data, the output is always the same length. Bitcoin&#x27;s primary hash function, SHA256, always produces a 256-bit result expressed as 64 hexadecimal characters, no matter the size of the input. The third property is the avalanche effect: changing even a single character of the input produces a completely different output. The fourth is one-wayness: it is computationally infeasible to reverse-engineer the input from the output. This one-way property is why hash functions are so widely used in security — storing a hashed password rather than the password itself being a familiar example. A hash output serves as a compressed fingerprint of its input data, uniquely representing that data in a fixed-size form.</p>
+<p>A block is a container for verified transaction data. Before a transaction can enter a block, it must pass validation: the validator checks that the referenced previous transaction actually exists, then uses the public key in that earlier transaction&#x27;s output to confirm that the new transaction&#x27;s signature is valid. Only transactions that pass this check are admitted to the block. Each block also carries a block header, which records metadata about the block: the Merkle root (a hash summarizing all transactions in the block), a rough timestamp of creation, difficulty-related values (the nonce and bits fields), and crucially, the hash of the previous block.</p>
+<p>The identifier for a block is the block hash, produced by hashing the block header. Because the block header contains the Merkle root — a compressed digest of all the block&#x27;s transactions — the block hash effectively encapsulates everything in the block. The critical element is the inclusion of the previous block&#x27;s hash in the header. When the second block&#x27;s header is hashed with the first block&#x27;s hash embedded in it, the resulting hash implicitly contains all of the first block&#x27;s data. The third block includes the second block&#x27;s hash, which already contains the first block&#x27;s data, so the third block&#x27;s hash implicitly contains all prior data. As this chain extends, the blocks become inseparably linked. This is the blockchain.</p>
+<p>This structure means that altering even one byte in any past block changes that block&#x27;s hash, which changes every subsequent block&#x27;s hash in a cascade. The more blocks have been added on top, the more computationally overwhelming it becomes to alter earlier data. Satoshi Nakamoto himself described Bitcoin as &quot;a distributed secure timestamp server for transactions.&quot; The block hash is the timestamp. Transactions included in the same block are treated as simultaneous; transactions in the next block are treated as later. Block order becomes the definition of time, and the ordering of transactions is thereby determined without any centralized clock. This is the mechanism that resolves the double-spending problem in a decentralized system: the timestamp server creates an ordering of events that everyone in the network can agree on without trusting any single authority.</p>
+</div></article>
+        <article class="card lang-panel active" data-lang="ko"><div class="digest">
+<h2>3. 타임스탬프 서버 — 기본</h2>
+<h3>Chapter Digest</h3>
+<p>비트코인 작동 원리를 이해하기 위한 첫 번째 열쇠는 해시 함수다. 해시 함수는 네 가지 핵심 특징을 갖는다. 첫째는 일가성이다. 같은 입력값을 넣으면 항상 같은 출력값이 나온다. 둘째는 고정된 길이 출력이다. 입력 데이터가 두 글자든 건물 전체의 데이터든 출력값의 길이는 항상 같다. 비트코인에서 주로 쓰이는 SHA256 함수는 어떤 데이터를 넣어도 항상 16진수 64자리, 즉 256비트의 출력값을 낸다. 셋째는 눈사태 효과다. 입력값이 단 한 글자만 달라져도 출력값은 완전히 다른 값이 된다. 넷째는 단방향성이다. 출력값을 보고 입력값을 역산하는 것은 불가능하다. 이 단방향성 덕분에 해시 함수는 보안 분야에서 광범위하게 쓰인다. 비밀번호를 평문으로 저장하는 대신 해시값을 저장하는 방식이 대표적이다. 해싱하여 나온 출력값은 입력 데이터를 압축한 대푯값, 즉 디지털 지문의 역할을 한다.</p>
+<p>블록은 검증된 거래 데이터를 모아 담는 단위다. 거래 데이터가 블록에 들어가려면 먼저 검증을 거쳐야 한다. 검증자는 입력값에 있는 이전 거래 참조 번호로 해당 거래를 찾아 실재 여부를 확인하고, 출력의 공개키로 서명의 유효성을 검증한다. 문제없는 거래만 블록에 담긴다. 블록은 거래 데이터와 함께 블록의 속성을 기록한 블록 헤더를 갖는다. 블록 헤더에는 블록 내 모든 거래 데이터를 해싱하여 만든 머클 루트, 대략적인 생성 시각인 타임스탬프, 난이도 관련 값인 논스와 비트값, 그리고 이전 블록의 해시값이 들어간다.</p>
+<p>블록을 대표하는 식별값은 블록 헤더 전체를 해싱하여 만든 블록 해시값이다. 블록 헤더 안에 모든 거래 데이터의 요약값인 머클 루트가 포함되어 있으므로, 블록 해시값은 그 블록에 담긴 모든 거래 데이터를 압축한 대푯값과 같다. 핵심은 이 블록 헤더 안에 이전 블록의 해시값이 포함된다는 것이다. 2번째 블록의 헤더에 1번째 블록의 해시값이 포함된 채 해싱되면, 2번째 블록의 해시값은 1번째 블록의 모든 데이터를 품은 것과 같다. 3번째 블록은 2번째 블록의 해시값을 포함하여 해싱되므로, 이전 두 블록의 데이터도 모두 간접적으로 담게 된다. 이 연결이 계속 이어지면 블록들은 서로 뗄 수 없는 체인을 형성한다. 이것이 블록체인이다.</p>
+<p>이 구조 덕분에 중간 블록의 데이터를 조금이라도 변조하면 해당 블록의 해시값이 바뀌고, 그 뒤에 이어지는 모든 블록의 해시값도 도미노처럼 바뀐다. 뒤에 많은 블록이 쌓일수록 중간 블록의 변조는 사실상 불가능해진다. 사토시 나카모토는 비트코인을 &#x27;거래를 위한 분산화된 안전한 타임스탬프 서버&#x27;라고 직접 표현했다. 블록 해시값이 곧 타임스탬프인 것이다. 같은 블록에 담긴 거래들은 동시에 일어난 것이고, 다음 블록에 담긴 거래들은 이전 블록의 거래들보다 나중에 일어난 것이다. 이렇게 블록 순서가 곧 시간의 흐름이 되어 거래의 선후관계가 확정된다. 이중지불 문제를 해결하는 핵심이 바로 이 선후관계의 확정이다. 분산화된 시스템에서 누구나 동의할 수 있는 거래 순서를 만들어내는 방법, 그것이 타임스탬프 서버의 본질이다.</p>
+</div></article>
+      </section>
+      <section class="card quiz-card">
+        <div class="quiz-panel" data-lang="en">
+          <h2>Quiz</h2>
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: Any change to a past block changes its hash, which invalidates every subsequent block&#x27;s hash in sequence — Because each block&#x27;s hash is computed from its header, which contains the previous block&#x27;s hash, any alteration to a past block changes that block&#x27;s hash. This invalidates the next block&#x27;s stored &#x27;previous hash&#x27; field, forcing its hash to change, which cascades forward through every subsequent block. The deeper a block is buried, the more recalculation would be required to alter it, making tampering with old records effectively impossible."
+     data-wrong-text="Answer: Any change to a past block changes its hash, which invalidates every subsequent block&#x27;s hash in sequence — Because each block&#x27;s hash is computed from its header, which contains the previous block&#x27;s hash, any alteration to a past block changes that block&#x27;s hash. This invalidates the next block&#x27;s stored &#x27;previous hash&#x27; field, forcing its hash to change, which cascades forward through every subsequent block. The deeper a block is buried, the more recalculation would be required to alter it, making tampering with old records effectively impossible.">
+  <h3>How does including the previous block&#x27;s hash in the current block&#x27;s header create an immutable chain?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">It allows nodes to quickly look up any prior block by its position without recalculating hashes</button><button class="quiz-option" data-option-index="1">It encrypts the current block&#x27;s transactions using the prior block&#x27;s hash as a symmetric key</button><button class="quiz-option" data-option-index="2">Any change to a past block changes its hash, which invalidates every subsequent block&#x27;s hash in sequence</button><button class="quiz-option" data-option-index="3">It prevents miners from producing two blocks at the same height by locking them to the prior hash</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <h2>퀴즈</h2>
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: 과거 블록의 데이터를 조금이라도 바꾸면 그 해시값이 바뀌고, 이후 모든 블록의 해시값이 연쇄적으로 무효화된다 — 각 블록의 해시값은 이전 블록의 해시값을 포함한 블록 헤더를 해싱하여 만들어진다. 따라서 과거 블록의 데이터를 조금이라도 변경하면 그 블록의 해시값이 바뀐다. 다음 블록의 헤더에 저장된 &#x27;이전 블록 해시&#x27; 값이 더 이상 맞지 않으므로 그 블록의 해시값도 바뀌고, 이 변화가 이후 모든 블록으로 도미노처럼 이어진다. 블록이 깊이 묻힐수록 변조에 필요한 재계산량이 커져 과거 기록의 변경은 사실상 불가능해진다."
+     data-wrong-text="Answer: 과거 블록의 데이터를 조금이라도 바꾸면 그 해시값이 바뀌고, 이후 모든 블록의 해시값이 연쇄적으로 무효화된다 — 각 블록의 해시값은 이전 블록의 해시값을 포함한 블록 헤더를 해싱하여 만들어진다. 따라서 과거 블록의 데이터를 조금이라도 변경하면 그 블록의 해시값이 바뀐다. 다음 블록의 헤더에 저장된 &#x27;이전 블록 해시&#x27; 값이 더 이상 맞지 않으므로 그 블록의 해시값도 바뀌고, 이 변화가 이후 모든 블록으로 도미노처럼 이어진다. 블록이 깊이 묻힐수록 변조에 필요한 재계산량이 커져 과거 기록의 변경은 사실상 불가능해진다.">
+  <h3>현재 블록 헤더에 이전 블록의 해시값을 포함하면 어떻게 불변하는 체인이 만들어지는가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">노드가 해시를 재계산하지 않고도 이전 블록의 위치로 빠르게 조회할 수 있게 해준다</button><button class="quiz-option" data-option-index="1">이전 블록의 해시값을 대칭 키로 사용해 현재 블록의 거래를 암호화한다</button><button class="quiz-option" data-option-index="2">과거 블록의 데이터를 조금이라도 바꾸면 그 해시값이 바뀌고, 이후 모든 블록의 해시값이 연쇄적으로 무효화된다</button><button class="quiz-option" data-option-index="3">동일한 높이에서 두 블록이 생성되는 것을 이전 해시값으로 잠금으로써 방지한다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination"><a class="chapter-nav-link prev" href="./05-거래-기술.html">← 2. 거래 — 기술</a><a class="chapter-nav-link next" href="./07-타임스탬프-서버-심화.html">3. 타임스탬프 서버 — 심화 →</a></nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

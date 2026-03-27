@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>3. 타임스탬프 서버 — 심화 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← 목차로 돌아가기</a>
+      </nav>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>3. 타임스탬프 서버 — 심화</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · 3. Timestamp Server — Deep Dive</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
+          <div class="digest">
+<h2>3. Timestamp Server — Deep Dive</h2>
+<h3>Chapter Digest</h3>
+<p>Satoshi Nakamoto never used the word &quot;blockchain&quot; in the whitepaper. The term arose because the structure — each block&#x27;s hash embedded in the next block&#x27;s header — forms a chain of blocks, and observers began calling it that. The underlying concept predates Bitcoin by nearly two decades. In 1991, cryptographer Stuart Haber and physicist-cryptographer W. Scott Stornetta first described a cryptographically secured chain of document timestamps. In 1994 they founded a company called Surety and launched a service called AbsoluteProof: clients submitted hashes of their documents, Surety aggregated those hashes into a summary hash value that also incorporated the previous week&#x27;s summary hash, and published the result every week in the classified advertising section of the New York Times. Any tampering with a past document would change its hash, invalidating the summary hash, which would in turn invalidate all subsequent weekly hashes — all of which had been printed in millions of newspaper copies around the world. Three of the eight references in Bitcoin&#x27;s whitepaper are papers by Haber and Stornetta.</p>
+<p>Blockchain is not a universal solution. Many companies mistakenly attributed Bitcoin&#x27;s success entirely to its blockchain component and rushed to adopt the technology without understanding what problem it actually solves. Blockchain excels at one specific task: creating tamper-resistant records that can be verified by anyone in a decentralized network. When a centralized entity controls the records, blockchain adds no value — a conventional database maintained by that entity is faster, simpler, and easier to correct.</p>
+<p>For blockchain to deliver its intended benefit, four conditions must hold. First, no central authority should remain in control after launch. Second, the use case genuinely requires records that are verifiable by anyone and cannot be altered. Third, no participant should be able to extract unfair advantages. Fourth, participants who update and store the blockchain must receive adequate incentives so that the network becomes genuinely distributed. Cases that satisfy all four conditions are rare. Bitcoin satisfies them through proof-of-work and a carefully designed incentive structure. Most enterprise blockchain projects satisfy none of them.</p>
+<p>The Howey Test is the legal standard used by U.S. courts and the Securities and Exchange Commission to determine whether an instrument is a security. The four criteria are: money was invested; the investment is in a common enterprise; the investor expects profits; and those profits depend on the efforts of others. Applying this test, the SEC classified 68 altcoins — including Ripple, BNB, Cardano, and Solana — as unregistered securities, because each has an identifiable issuing entity whose efforts determine the token&#x27;s value. The SEC has explicitly stated that Bitcoin is not a security: there is no common enterprise, no issuing company, and no team whose labor the investor is betting on. Altcoin tokens have the character of securities but are neither stocks nor bonds — they are closer to unregistered instruments. If a token&#x27;s value collapses, the issuing company owes investors nothing.</p>
+<p>The fundamental contradiction of corporate blockchain projects is what some call the genesis problem. The moment a company truly distributes validation authority to an open network, the company itself becomes unnecessary. But a company that has taken investor money cannot afford to surrender control. Satoshi Nakamoto sidestepped this entirely by launching Bitcoin without a pre-mine, without a founder&#x27;s allocation, and without any ongoing organizational authority. A centralized operator claiming to build a decentralized blockchain is deceiving its users. Blockchain is one component of Bitcoin — it functions only because proof-of-work, decentralized validation, open transparency, and an incentive mechanism all work together. Remove any of those components, and the blockchain&#x27;s value disappears with them.</p>
+</div>
+        </article>
+        <article class="card lang-panel active" data-lang="ko">
+          <div class="digest">
+<h2>3. 타임스탬프 서버 — 심화</h2>
+<h3>Chapter Digest</h3>
+<p>사토시 나카모토는 백서에서 블록체인이라는 단어를 한 번도 쓰지 않았다. 이전 블록의 해시값을 다음 블록에 포함하여 해싱하는 방식이 블록들의 체인을 형성하기 때문에 사람들이 이를 블록체인이라고 부르게 된 것이다. 블록체인 개념은 1991년 암호학자 스튜어트 하버와 물리학자 웨이크필드 스콧 스토네타가 최초로 제안했으며, 이들은 1994년 슈어티라는 기업을 설립해 앱솔루트 프루프라는 타임스탬프 서비스를 상용화했다. 고객이 문서의 해시값을 슈어티에 보내면 슈어티는 여러 해시값을 합쳐 요약 해시값을 만들고, 이것을 매주 뉴욕타임스 신문의 공고란에 게재했다. 이 서비스는 어떤 문서가 특정 시점에 존재했다는 것을 증명했으며 특허 출원자들에게 유용한 공증 수단이었다. 비트코인 백서의 8개 참고문헌 중 3개가 이들의 논문이다.</p>
+<p>블록체인 기술은 만병통치약이 아니다. 비트코인의 성공이 블록체인 덕분이라고 오해한 기업들이 블록체인을 무분별하게 도입하려 했지만 대부분 실패했다. 블록체인은 변경할 수 없는 기록을 만들고, 분산화된 네트워크에서 누구나 그 기록을 검증할 수 있어야 할 때 효과를 발휘한다. 중앙화된 주체가 기록을 운영하는 경우, 블록체인을 쓸 이유가 전혀 없다. 그냥 기존 방식대로 서버에 기록하면 더 효율적이다.</p>
+<p>블록체인이 효과를 내려면 네 가지 조건을 충족해야 한다. 첫째, 완성 후에 중앙 주체가 없어야 한다. 둘째, 누구나 검증 가능한 불변 기록이 필요한 상황이어야 한다. 셋째, 불공정하게 이익을 가져가는 주체가 없어야 한다. 넷째, 참여자들에게 적절한 인센티브가 주어져야 네트워크가 충분히 분산화된다. 이 네 가지를 모두 만족하는 경우는 현실에서 매우 드물다. 사토시 나카모토의 비트코인은 이 모든 조건을 작업증명과 인센티브 설계를 통해 해결했다.</p>
+<p>증권성 판단 기준인 하위 테스트는 돈이 투자되었는지, 공동 사업에 쓰이는지, 투자 이익을 기대할 수 있는지, 그 이익이 타인의 노력에 달려 있는지를 묻는다. 미국 증권거래위원회는 이 기준을 적용하여 리플, BNB, 에이다, 솔라나 등 68개 알트코인을 미등록 증권으로 규정했다. 운영 주체가 있고, 그 운영진의 노력에 따라 가치가 결정되기 때문이다. 반면 비트코인은 운영 주체가 없으므로 공동 사업이 성립하지 않고, 특정 개인이나 집단의 노력에 의존하지 않아 증권이 아니라는 결론이 났다. 알트코인이 발행하는 토큰은 유가증권의 성격을 갖지만 주식도 채권도 아닌 미등록 유가증권에 가깝다. 토큰 가치가 폭락해 투자자가 손실을 봐도 기업은 보상 의무가 없다.</p>
+<p>블록체인 기업들이 내세우는 탈중앙화의 역설이 있다. 검증 권한을 네트워크 참여자들에게 나눠주는 순간 중앙화된 운영 주체는 필요 없어진다. 그런데 투자자로부터 자금을 유치하고 이익을 내야 하는 기업은 그 권한을 포기할 수 없다. 이를 창세기 문제라고 한다. 비트코인은 사전 채굴도 없고 창업자 몫도 없이 출시되었기 때문에 이 문제를 근본적으로 피했다. 중앙화된 운영자가 탈중앙화를 외치며 블록체인을 만든다고 주장하는 것은 사용자를 기만하는 행위다. 블록체인은 비트코인을 이루는 기술 중 하나일 뿐이며, 비트코인 없이 블록체인만 떼어내면 그 의미가 사라진다.</p>
+</div>
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        <div class="quiz-panel" data-lang="en">
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: Most altcoins have an identifiable issuer whose work drives value, satisfying Howey — The Howey Test classifies an instrument as a security if money is invested in a common enterprise with profits expected from others&#x27; efforts. Most altcoins have a founding company whose work drives token value, satisfying all four criteria. Bitcoin has no issuing entity and no team investors rely on, so it fails the Howey Test."
+     data-wrong-text="Answer: Most altcoins have an identifiable issuer whose work drives value, satisfying Howey — The Howey Test classifies an instrument as a security if money is invested in a common enterprise with profits expected from others&#x27; efforts. Most altcoins have a founding company whose work drives token value, satisfying all four criteria. Bitcoin has no issuing entity and no team investors rely on, so it fails the Howey Test.">
+  <h3>Why does the SEC treat Bitcoin differently from most altcoins regarding securities law?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">Altcoins use proof-of-stake, which the SEC views as an investment contract by default</button><button class="quiz-option" data-option-index="1">Altcoins were created after Bitcoin and fall under newer securities regulations</button><button class="quiz-option" data-option-index="2">Most altcoins have an identifiable issuer whose work drives value, satisfying Howey</button><button class="quiz-option" data-option-index="3">Bitcoin is backed by mining hardware, giving it commodity status unlike altcoins</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: 대부분의 알트코인에는 가치를 결정하는 발행 주체가 있어 하위 테스트를 충족한다 — 하위 테스트는 타인의 노력에 의한 이익을 기대하며 공동 사업에 투자할 때 해당 상품을 증권으로 분류한다. 대부분의 알트코인은 운영 회사가 있고 그 개발 노력이 가치를 결정해 네 가지 기준을 충족한다. 비트코인은 발행 주체가 없어 하위 테스트를 통과하지 못한다."
+     data-wrong-text="Answer: 대부분의 알트코인에는 가치를 결정하는 발행 주체가 있어 하위 테스트를 충족한다 — 하위 테스트는 타인의 노력에 의한 이익을 기대하며 공동 사업에 투자할 때 해당 상품을 증권으로 분류한다. 대부분의 알트코인은 운영 회사가 있고 그 개발 노력이 가치를 결정해 네 가지 기준을 충족한다. 비트코인은 발행 주체가 없어 하위 테스트를 통과하지 못한다.">
+  <h3>SEC가 대부분의 알트코인을 증권으로 보면서 비트코인은 아니라고 판단하는 이유는?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">알트코인은 지분증명을 써서 SEC가 이를 기본적으로 투자 계약으로 보기 때문이다</button><button class="quiz-option" data-option-index="1">알트코인은 비트코인 이후에 만들어져 더 새로운 증권 규정의 적용을 받기 때문이다</button><button class="quiz-option" data-option-index="2">대부분의 알트코인에는 가치를 결정하는 발행 주체가 있어 하위 테스트를 충족한다</button><button class="quiz-option" data-option-index="3">비트코인은 채굴 장비로 뒷받침되어 알트코인과 달리 원자재 지위를 갖기 때문이다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./06-타임스탬프-서버-기본.html">← 이전 장 · 3. 타임스탬프 서버 — 기본</a>
+        <a class="chapter-nav-link next" href="./08-타임스탬프-서버-기술.html">→ 다음 장 · 3. 타임스탬프 서버 — 기술</a>
+      </nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

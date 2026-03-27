@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>7. 디스크 공간 재확보 — 기술 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../../../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← Back to book</a> · <a href="../../../index.html">Library</a>
+      </nav>
+      <header class="reading-hero card">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>7. 디스크 공간 재확보 — 기술</h1>
+        <p class="subtitle reading-subtitle">7. Reclaiming Disk Space — Technical</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en"><div class="digest">
+<h2>7. Reclaiming Disk Space — Technical</h2>
+<p>The technical section of Chapter 7 covers Segregated Witness (SegWit) in detail: how it achieves backward compatibility, the new weight and virtual-size unit system, its fee reduction benefits, and how it eliminated the transaction malleability problem that had blocked the Lightning Network.</p>
+<h3>Increasing Block Capacity Without a Hard Fork: SegWit</h3>
+<p>Bitcoin&#x27;s 1 MB block size limit is a consensus rule. Any block exceeding 1 MB is rejected by unupgraded full nodes as invalid, so raising the limit was generally considered to require a hard fork. SegWit solved this by increasing effective capacity through a soft fork — leaving unupgraded nodes capable of validating SegWit blocks as valid while still enforcing the 1 MB limit on the data they see.</p>
+<p>SegWit&#x27;s core mechanism is separating the unlocking script (signature data) from the base transaction data and placing it in a new &quot;witness&quot; field. In a SegWit transaction, the scriptSig field is empty; the signature lives in the witness field instead.</p>
+<p>When an unupgraded node receives a block containing SegWit transactions, the SegWit locking script for a SegWit address begins with OP_0 (the SegWit version byte). The old node ignores the witness field entirely. Ordinarily, an empty signature would cause the script to return FALSE or an error, rejecting the transaction. But the presence of OP_0 prevents the script engine from explicitly returning FALSE or an error even when no signature is present. The old node therefore does not reject the block. SegWit is fully backward-compatible.</p>
+<p>Old nodes neither store nor transmit witness data. Since signature data is typically the largest component of a transaction, removing it from the data that old nodes see substantially reduces the apparent transaction size, allowing more transactions to fit in what old nodes perceive as a 1 MB block.</p>
+<h3>Bytes, Weight Units, and Virtual Size</h3>
+<p>SegWit-aware full nodes store a richer block structure: block header + transaction count + base transaction data + witness data. They measure data size in a new unit called weight units (wu), applying different multipliers to the two data types: base transaction data is multiplied by 4; witness data is multiplied by 1.</p>
+<p>Example: if base transaction data is 108 bytes and witness data is 105 bytes, the total weight is (108 × 4) + (105 × 1) = 537 wu. Dividing weight by 4 gives the virtual size (vB, virtual bytes): 537 ÷ 4 ≈ 135 vB. This makes vB backward-compatible with pre-SegWit bytes: a purely pre-SegWit transaction has weight equal to 4 × its byte size, so its virtual size equals its byte size.</p>
+<p>The post-SegWit block weight limit is 4,000,000 wu (4 Mwu). In theory, if a block contained only witness data it could reach 4 MB, but in practice every block also contains block headers and base transaction data, so the realistic maximum is around 2.5 MB. As of 2024, most blocks are between 1 and 2 MB.</p>
+<h3>SegWit Benefit 1: Lower Fees</h3>
+<p>Post-SegWit, on-chain fees are charged per virtual byte (vB). A pre-SegWit 213-byte transaction has a virtual size of 213 vB; at 5 SATS/vB, the fee is 1,065 SATS. The same transaction as a SegWit transaction — 108 bytes base data, 105 bytes witness data — has a virtual size of 135 vB, yielding a fee of 675 SATS. SegWit transactions are substantially cheaper than equivalent pre-SegWit transactions.</p>
+<h3>SegWit Benefit 2: Fixing Transaction Malleability and Enabling the Lightning Network</h3>
+<p>A critical benefit of SegWit is eliminating the transaction malleability problem. The transaction ID (txid) is computed by hashing the transaction data. Before SegWit, an attacker could modify a transaction&#x27;s unlocking script in ways that did not change the transaction&#x27;s validity — for example, by adding OP_NOP instructions (which do nothing) or by using the mathematically equivalent negated form of a signature (since both (r, s) and (r, −s mod n) verify correctly against a public key). Any such modification would completely change the txid despite the transaction being functionally identical.</p>
+<p>This was not merely theoretical. At Mt. Gox, then the world&#x27;s largest exchange, attackers exploited malleability to trigger double withdrawals. When a customer requested a withdrawal, Mt. Gox broadcast transaction T1. An attacker would broadcast a malleated version T2 with a different txid but identical effect. If T2 was confirmed, Mt. Gox&#x27;s system — which tracked withdrawals by txid — saw T1 as unconfirmed and resent the funds. The exchange lost bitcoin it had already effectively paid out.</p>
+<p>More fundamentally, transaction malleability made it impossible to build the Lightning Network on Bitcoin. The Lightning Network maintains payment channels whose state depends on a funding transaction. If the funding transaction&#x27;s txid could be changed after broadcast but before confirmation, all subsequent state updates referencing that txid would be invalidated. The Hash Time-Locked Contracts (HTLCs) that secure Lightning channel operations would also be voided. A base layer with mutable transaction IDs cannot support a reliable second layer.</p>
+<p>SegWit eliminated malleability by separating signature data into the witness field and computing txids exclusively from base transaction data (excluding witness). The witness-inclusive transaction hash is called the wtxid, kept separate. With txids now stable and unforgeable from broadcast, the Lightning Network could be built reliably on top of Bitcoin.</p>
+<p>SegWit passed a version-signaling vote in July 2017 with 2,016 out of 2,016 blocks signaling in favor — a unanimous result — and activated at block height 481,824. The unanimous vote in a slow-moving, deliberately conservative governance system stands as testament to how well-designed, carefully proposed improvements can achieve broad consensus in Bitcoin&#x27;s decentralized community.</p>
+</div></article>
+        <article class="card lang-panel active" data-lang="ko"><div class="digest">
+<h2>7. 디스크 공간 재확보 — 기술</h2>
+<p>비트코인 백서 7장의 기술적 이해는 세그윗(SegWit, Segregated Witness)의 작동 원리, 새로운 단위 체계, 그리고 세그윗이 가져온 주요 이점을 다룬다.</p>
+<h3>하드포크 없이 블록 용량 늘리기: 세그윗</h3>
+<p>비트코인 블록 용량의 1MB 제한은 합의 프로토콜이다. 1MB를 초과하는 블록을 생성하면 기존 풀 노드들이 유효하지 않은 블록으로 판단해 전파를 거부하므로, 블록 용량을 늘리는 것은 일반적으로 하드포크를 의미했다. 세그윗은 하드포크 없이 블록 용량을 효과적으로 늘린 소프트포크 업그레이드이다.</p>
+<p>세그윗의 핵심 아이디어는 거래의 해제 스크립트(서명 데이터)를 기본 거래 데이터에서 분리해 &#x27;증인(witness)&#x27; 필드로 따로 저장하는 것이다. 세그윗 거래에서 서명 칸(scriptSig)은 비어 있고, 해제 스크립트는 증인 칸에 담긴다.</p>
+<p>세그윗 이전 노드가 세그윗 거래가 포함된 블록을 받으면 어떻게 될까? 세그윗 주소로 지불되는 잠금 스크립트는 맨 앞에 세그윗 버전을 나타내는 OP_0가 들어간다. 이전 노드는 증인 칸을 무시하므로 서명이 비어 있는 것처럼 보이지만, OP_0 덕분에 스크립트 언어가 명시적으로 FALSE나 오류를 반환하지 않는다. 따라서 이전 버전 노드들도 이 블록을 유효하지 않다고 판단하지 않고 전파한다. 세그윗이 이전 버전과 완벽하게 호환되는 소프트포크인 이유이다.</p>
+<p>이전 버전 노드들은 증인 칸의 데이터를 완전히 무시하고 저장하지도 않는다. 거래에서 데이터 크기가 가장 큰 부분은 서명 데이터이다. 서명 부분이 분리되어 이전 버전 노드가 인식하는 거래 크기가 줄어드니 블록에 더 많은 거래를 담을 수 있게 된다.</p>
+<h3>바이트, 무게 단위, 가상 크기</h3>
+<p>세그윗 업그레이드를 적용한 풀 노드들이 저장하는 블록 구조는 &#x27;블록 헤더 + 거래 수 + 기본 거래 데이터 + 증인 데이터&#x27;이다. 데이터 크기 측정에는 새로운 단위인 무게(wu, weight unit)를 사용한다. 기본 거래 데이터에는 4배의 가중치를, 증인 데이터에는 1배의 가중치를 적용한다.</p>
+<p>예를 들어 기본 거래 데이터가 108바이트, 증인 데이터가 105바이트인 경우 전체 무게는 (108 × 4) + (105 × 1) = 537wu이다. 무게를 4로 나눈 값이 가상 크기(vB, virtual bytes)이며, 이 예시에서는 537 ÷ 4 ≈ 135vB이다. 가상 크기는 세그윗 이전의 바이트 단위와 호환 가능하도록 만든 것이다. 세그윗 이전의 거래라면 무게는 전체 크기의 4배이고, 가상 크기는 바이트 크기와 같아진다.</p>
+<p>세그윗 이후 블록 용량 제한은 4Mwu(4,000,000wu)이다. 이론적으로 증인 데이터만으로 이루어진다면 블록이 4MB까지 커질 수 있지만, 실제로는 블록 헤더와 기본 거래 데이터가 반드시 포함되므로 현실적인 최대 크기는 약 2.5MB이며, 2024년 기준 대부분 블록은 1~2MB 사이이다.</p>
+<h3>세그윗의 이점 1: 수수료 절감</h3>
+<p>세그윗 도입 이후 온체인 수수료는 가상 크기(vB) 단위로 부과된다. 세그윗 이전 거래가 213바이트라면 가상 크기도 213vB이고, 적정 수수료가 5 SATS/vB라면 수수료는 1,065 SATS이다. 반면 같은 내용의 거래가 기본 거래 데이터 108바이트, 증인 데이터 105바이트인 세그윗 거래라면 가상 크기는 135vB이고 수수료는 675 SATS가 된다. 세그윗 거래는 일반 거래보다 수수료가 훨씬 저렴하다.</p>
+<h3>세그윗의 이점 2: 거래 가변성 제거와 라이트닝 네트워크의 탄생</h3>
+<p>세그윗 도입의 또 다른 핵심 이점은 거래 가변성(transaction malleability) 문제의 해결이다. 거래 식별자(txid)는 거래 데이터를 해싱해 얻는다. 세그윗 이전에는 해제 스크립트에 OP_NOP 같은 의미 없는 명령어를 추가하거나, 모듈러 연산에서 동등한 두 서명 값 중 다른 것을 사용하면 실질적으로 동일한 내용의 거래임에도 txid가 완전히 달라지는 문제가 있었다. 이것이 거래 가변성 문제이다.</p>
+<p>거래 가변성 문제는 실제 보안 취약점으로 이어졌다. 세계 최대 거래소였던 마운트곡스에서 공격자가 출금 거래의 txid를 변경한 거래를 네트워크에 전파했다. 마운트곡스의 시스템이 txid로 거래 성공 여부를 추적했기 때문에, 변경된 txid의 거래가 블록에 실려도 마운트곡스는 원래 거래가 실패한 것으로 간주하고 다시 비트코인을 송금했다. 이렇게 이중 지급이 발생했다.</p>
+<p>거래 가변성 문제가 해결되지 않으면 라이트닝 네트워크 같은 제2레이어를 비트코인에 적용할 수 없었다. 라이트닝 네트워크는 결제 채널의 기초 거래(funding transaction)에 의존해 상태를 업데이트한다. 기초 거래의 txid가 바뀌면 이후의 모든 상태 업데이트가 무효화되고, 해시 시간 잠금 계약(HTLC)도 무효화되기 때문이다.</p>
+<p>세그윗은 서명 데이터를 증인 칸으로 분리해 txid 계산에서 제외함으로써 거래 가변성 문제를 완전히 해결했다. txid는 증인 데이터를 제외하고 해싱해 계산하며, 전체 거래 데이터를 해싱한 값은 wtxid로 별도 구분한다. 세그윗의 도입으로 라이트닝 네트워크가 비트코인 생태계에 도입될 수 있는 기반이 마련되었다.</p>
+<p>세그윗은 2017년 7월 버전 시그널링 투표에서 2,016개 블록 중 2,016개 전부가 찬성 신호를 보내 만장일치로 채택되었고, 블록 높이 481,824부터 활성화되었다. 비트코인의 민주적 사회 구조 덕분에 신중하게 적용된 세그윗은 비트코인 네트워크의 성숙함을 보여주는 역사적 사건이다.</p>
+</div></article>
+      </section>
+      <section class="card quiz-card">
+        <div class="quiz-panel" data-lang="en">
+          <h2>Quiz</h2>
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: The OP_0 prefix stops old nodes from returning an error, so they accept the block — Lock scripts paying to SegWit addresses begin with OP_0. Old nodes ignore the witness field and see an empty signature, but OP_0 prevents the script engine from returning an explicit FALSE or error. Old nodes therefore accept the block as valid and relay it."
+     data-wrong-text="Answer: The OP_0 prefix stops old nodes from returning an error, so they accept the block — Lock scripts paying to SegWit addresses begin with OP_0. Old nodes ignore the witness field and see an empty signature, but OP_0 prevents the script engine from returning an explicit FALSE or error. Old nodes therefore accept the block as valid and relay it.">
+  <h3>Why is SegWit a soft fork that remains fully compatible with older nodes?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">SegWit nodes produce a separate legacy-format block for old nodes in parallel</button><button class="quiz-option" data-option-index="1">The OP_0 prefix stops old nodes from returning an error, so they accept the block</button><button class="quiz-option" data-option-index="2">SegWit transactions are auto-converted to legacy format when old nodes process them</button><button class="quiz-option" data-option-index="3">SegWit only changed the transaction format and left the block header untouched</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <h2>퀴즈</h2>
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: OP_0 접두사 덕분에 구버전 노드가 오류를 반환하지 않고 블록을 유효하다고 본다 — 세그윗 주소로 지불되는 잠금 스크립트는 맨 앞에 OP_0가 들어간다. 이전 버전 노드는 증인 칸을 무시해 서명이 비어 있는 것처럼 보이지만, OP_0 덕분에 스크립트 언어가 명시적으로 FALSE나 오류를 반환하지 않는다. 따라서 구버전 노드들도 블록을 유효하다고 인식하고 전파한다."
+     data-wrong-text="Answer: OP_0 접두사 덕분에 구버전 노드가 오류를 반환하지 않고 블록을 유효하다고 본다 — 세그윗 주소로 지불되는 잠금 스크립트는 맨 앞에 OP_0가 들어간다. 이전 버전 노드는 증인 칸을 무시해 서명이 비어 있는 것처럼 보이지만, OP_0 덕분에 스크립트 언어가 명시적으로 FALSE나 오류를 반환하지 않는다. 따라서 구버전 노드들도 블록을 유효하다고 인식하고 전파한다.">
+  <h3>세그윗이 구버전 노드와 완전히 호환되는 소프트포크인 이유는?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">세그윗 노드가 구버전 노드를 위해 레거시 형식의 블록을 별도로 동시에 생성한다</button><button class="quiz-option" data-option-index="1">OP_0 접두사 덕분에 구버전 노드가 오류를 반환하지 않고 블록을 유효하다고 본다</button><button class="quiz-option" data-option-index="2">세그윗 거래는 구버전 노드에서 처리될 때 자동으로 레거시 형식으로 변환된다</button><button class="quiz-option" data-option-index="3">세그윗은 거래 형식만 변경하고 블록 헤더 형식은 그대로 유지했기 때문이다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination"><a class="chapter-nav-link prev" href="./19-디스크-공간-재확보-심화.html">← 7. 디스크 공간 재확보 — 심화</a><a class="chapter-nav-link next" href="./21-간소화된-지불-검증-기본.html">8장 직관적 이해 — 간소화된 지불 검증 →</a></nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

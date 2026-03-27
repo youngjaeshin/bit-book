@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>11. 계산 — 심층적 이해 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← 목차로 돌아가기</a>
+      </nav>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>11. 계산 — 심층적 이해</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · 11. Calculation — Deep Understanding</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
+          <div class="digest">
+<h2>11. Calculation — Deep Understanding</h2>
+<h3>The Byzantine Generals Problem and the 51% Attack</h3>
+<h4>The Two Generals Problem</h4>
+<p>Before examining the Byzantine Generals Problem, it helps to understand the Two Generals Problem, proposed by Jim Gray in 1978. Two generals — Alice and Bob — command armies besieging a city from the south and north. They can only win by attacking simultaneously. However, any messenger sent between them might be captured. Alice cannot be certain Bob received her proposed attack time, and even if Bob acknowledges receipt, Alice cannot be certain that acknowledgment arrived. Every message requires another confirming reply, producing an infinite regress that is mathematically unsolvable. Even TCP/IP, the foundation of the modern internet, does not fully solve this — it settles for a three-way handshake as a practical compromise.</p>
+<h4>The Byzantine Generals Problem</h4>
+<p>The Byzantine Generals Problem, formulated in 1982 by Leslie Lamport, Robert Shostak, and Marshall Pease, extends this to multiple parties including traitors. Among four generals besieging a city, at least three must act in concert for the operation to succeed — but one general, Mallory, is a traitor who sends contradictory information to the others. Alice decides to attack and notifies the group. Carol relays accurate information; Mallory tells Bob that Alice plans to retreat. Bob now receives conflicting information and cannot determine whether the majority is attacking or retreating. This problem had been considered unsolvable for distributed networks seeking a single consensus in the presence of malicious participants.</p>
+<h4>Bitcoin&#x27;s Byzantine Fault Tolerance</h4>
+<p>Satoshi Nakamoto stated explicitly that &quot;the proof-of-work chain is a solution to the Byzantine Generals Problem.&quot; In Bitcoin, each general holds a computer. When a general receives a message proposing an attack time, they attempt to find a proof-of-work for a block containing that message. A solution is broadcast to neighbors, who relay it further while beginning work on the next block. If two conflicting blocks appear simultaneously, the longest-chain rule eventually selects one, and all participants converge on a single history. A system that achieves consensus despite the presence of Byzantine (malicious) nodes is called **Byzantine Fault Tolerant (BFT)**.</p>
+<p>Bitcoin achieves BFT as long as honest nodes hold more than 51% of total hash power. If an attacker acquires 51% or more, double-spends become possible over the long run.</p>
+<h4>Real-World 51% Attacks on Altcoins</h4>
+<p>Bitcoin has never suffered a successful double-spend or block-withholding attack. However, altcoins with smaller total hash power have been victimized. **Bitcoin Gold** was attacked in May 2018: an attacker acquired over 51% of its hash power, secretly mined blocks redirecting funds to their own address, meanwhile sent the same coins to exchanges and converted them to dollars or bitcoin, then broadcast the longer private chain to invalidate the exchange deposits. The attacker extracted approximately $18 million. Bitcoin Gold&#x27;s price fell from roughly $53 to $9 over the following months — a loss of about 83% of value.</p>
+<p>Bitcoin Gold was attacked again in January 2022. Other altcoins that suffered 51% attacks include Monacoin (May 2018), ZenCash (June 2018), Ethereum Classic (January 2019), and Litecoin Cash (July 2019). These cases demonstrate directly that Bitcoin&#x27;s enormous total hash power is not waste — it is the very source of its security. An attacker who cannot feasibly command even 1% of Bitcoin&#x27;s hash power faces an astronomically low probability of success.</p>
+</div>
+        </article>
+        <article class="card lang-panel active" data-lang="ko">
+          <div class="digest">
+<h2>11. 계산 — 심층적 이해</h2>
+<h3>비잔틴 장군 문제와 51% 공격</h3>
+<h4>두 장군 문제</h4>
+<p>비잔틴 장군 문제를 이해하려면 먼저 두 장군 문제를 알아야 한다. 1978년 짐 그레이가 제시한 이 문제는 분산 시스템에서 두 주체가 신뢰할 수 없는 채널을 통해 합의에 이르는 것이 얼마나 어려운지를 보여준다. 앨리스와 밥 두 장군이 각각 적국 성의 남쪽과 북쪽을 포위하고 있는데, 동시에 공격해야만 승리할 수 있다. 전령이 중간에 잡힐 수 있으므로 어느 쪽도 상대방이 메시지를 받았는지 확인할 수 없다. 확인 메시지를 보내도 그 확인 메시지가 도달했는지 또 알 수 없으므로, 필요한 답장은 무한히 늘어난다. 이 문제는 수학적으로 해결 불가능함이 증명되었다.</p>
+<h4>비잔틴 장군 문제</h4>
+<p>비잔틴 장군 문제는 두 장군 문제를 여러 명으로 확장하고 배신자까지 포함시킨 것이다. 1982년 레슬리 램포트, 로버트 쇼스탁, 마샬 피즈가 제시했다. 네 장군 중 배신자 맬러리 장군이 있고, 적어도 세 장군이 같은 행동을 해야 작전이 성공한다. 맬러리는 각 장군에게 서로 다른 거짓 정보를 전달하여 혼란을 일으킨다. 앨리스는 공격하기로 했으나 밥은 맬러리로부터 앨리스가 퇴각한다는 거짓 정보를 받는다. 이렇게 배신자가 존재하는 분산 네트워크에서 단일한 합의에 이르는 것이 비잔틴 장군 문제의 핵심 난제였다.</p>
+<h4>비트코인의 비잔틴 장애 허용</h4>
+<p>사토시 나카모토는 작업증명 체인이 비잔틴 장군 문제의 해결책이라고 밝혔다. 비트코인에서 각 장군은 컴퓨터를 갖고 있으며, 메시지를 받으면 그 메시지가 포함된 블록의 작업증명을 시도한다. 작업증명 해답을 찾으면 주변에 전파하고, 주변 노드들은 이를 다시 전파하면서 다음 블록의 작업증명을 시도한다. 서로 다른 블록이 동시에 발표되더라도, 롱 체인 규칙에 의해 결국 가장 긴 블록 하나만 살아남아 모두가 하나의 합의에 이른다. 이처럼 배신자(비잔틴 노드)가 있어도 단일한 합의에 이를 수 있는 시스템을 비잔틴 장애 허용(BFT)이라 한다.</p>
+<p>비트코인은 정직한 노드가 전체 해시 파워의 51% 이상을 보유하는 한 비잔틴 장애를 허용한다. 공격자가 51% 이상을 확보하면 이중지불을 성공시킬 수 있다.</p>
+<h4>실제로 피니 공격을 당한 알트코인 사례</h4>
+<p>비트코인에서는 이중지불이 성공한 사례가 없다. 그러나 총 해시 파워가 작은 알트코인들은 실제로 피해를 입었다. 비트코인골드는 2018년 5월 51% 공격을 받아 총 1,800만 달러(당시 약 193억 원)가량이 이중지불로 빼돌려졌다. 공격자는 전체 해시 파워의 51% 이상을 확보한 뒤, 오프라인에서 자신의 다른 주소로 비트코인골드를 보내는 블록을 채굴하면서 동시에 거래소에 같은 비트코인골드를 보내 달러나 비트코인으로 환전했다. 이후 오프라인에서 채굴한 더 긴 체인을 네트워크에 전파함으로써 거래소로의 전송을 무효화하고, 이미 인출한 달러와 비트코인은 그대로 챙겼다. 이 사건으로 비트코인골드 가격은 약 53달러에서 이듬해 약 9달러까지 하락했다. 이 외에도 모나코인, 젠캐시, 이더리움클래식, 라이트코인캐시 등 다수의 알트코인이 51% 공격의 피해를 입었다. 비트코인의 총 해시 파워가 클수록 이런 공격이 불가능해지고 네트워크 보안이 강화된다는 사실이 이 사례들을 통해 명확히 증명된다.</p>
+</div>
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        <div class="quiz-panel" data-lang="en">
+          <div class="quiz-box" data-answer-index="3"
+     data-correct-text="Answer: It uses the longest-chain rule so all nodes eventually converge on one truth — When conflicting blocks are simultaneously broadcast, Bitcoin&#x27;s longest-chain rule ensures nodes always extend the chain with the most accumulated proof of work. This achieves Byzantine Fault Tolerance without any central authority, as long as honest nodes collectively hold more than 51% of total hash power."
+     data-wrong-text="Answer: It uses the longest-chain rule so all nodes eventually converge on one truth — When conflicting blocks are simultaneously broadcast, Bitcoin&#x27;s longest-chain rule ensures nodes always extend the chain with the most accumulated proof of work. This achieves Byzantine Fault Tolerance without any central authority, as long as honest nodes collectively hold more than 51% of total hash power.">
+  <h3>How does Bitcoin&#x27;s proof-of-work chain resolve the Byzantine Generals Problem?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">It appoints one trusted coordinator node to validate all broadcasted messages</button><button class="quiz-option" data-option-index="1">It requires every node to send signed acknowledgments back to all other peers</button><button class="quiz-option" data-option-index="2">It permanently bans any node detected broadcasting contradictory block data</button><button class="quiz-option" data-option-index="3">It uses the longest-chain rule so all nodes eventually converge on one truth</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <div class="quiz-box" data-answer-index="3"
+     data-correct-text="Answer: 최장 체인 규칙을 사용하여 모든 노드가 결국 하나의 진실로 수렴하도록 한다 — 경쟁하는 블록이 동시에 전파되면 비트코인의 최장 체인 규칙에 따라 노드들은 항상 가장 많은 누적 작업증명을 가진 체인을 연장한다. 이를 통해 중앙 권한 없이도 비잔틴 장애 허용이 달성되며, 정직한 노드가 전체 해시 파워의 51% 이상을 보유하는 한 이 보장은 유지된다."
+     data-wrong-text="Answer: 최장 체인 규칙을 사용하여 모든 노드가 결국 하나의 진실로 수렴하도록 한다 — 경쟁하는 블록이 동시에 전파되면 비트코인의 최장 체인 규칙에 따라 노드들은 항상 가장 많은 누적 작업증명을 가진 체인을 연장한다. 이를 통해 중앙 권한 없이도 비잔틴 장애 허용이 달성되며, 정직한 노드가 전체 해시 파워의 51% 이상을 보유하는 한 이 보장은 유지된다.">
+  <h3>비트코인의 작업증명 체인은 비잔틴 장군 문제를 어떻게 해결하는가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">신뢰받는 단일 조정자 노드를 지정하여 전파된 모든 메시지를 검증한다</button><button class="quiz-option" data-option-index="1">모든 노드가 서명된 확인 메시지를 다른 모든 피어에게 다시 보내도록 요구한다</button><button class="quiz-option" data-option-index="2">모순된 블록 데이터를 전파하다 발각된 노드를 영구 차단한다</button><button class="quiz-option" data-option-index="3">최장 체인 규칙을 사용하여 모든 노드가 결국 하나의 진실로 수렴하도록 한다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./28-계산-기본.html">← 이전 장 · 11. 계산 — 직관적 이해</a>
+        <a class="chapter-nav-link next" href="./30-계산-기술.html">→ 다음 장 · 11. 계산 — 기술적 이해</a>
+      </nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>4. 작업증명 — 심화 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← 목차로 돌아가기</a>
+      </nav>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>4. 작업증명 — 심화</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · 4. Proof of Work — Deep Dive</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
+          <div class="digest">
+<h2>4. Proof of Work — Deep Dive</h2>
+<h3>Chapter Digest</h3>
+<p>Proof of work consumes energy and time — and this is not merely a technical detail. It connects directly to the nature of sound money. Physics shows that the only truly scarce resources in the universe are energy and time. The First Law of Thermodynamics tells us that the total amount of energy is conserved: it neither appears from nothing nor vanishes. The Second Law tells us that entropy always increases, so energy cannot be used without limit and time flows in only one direction. These two laws are the most unshakeable truths in all of physics. Therefore, a currency whose production cost is energy and time carries scarcity that is guaranteed anywhere in the universe.</p>
+<p>Fiat money is produced from paper and legislation. Its production cost is negligible and central authorities can issue more at will. Gold coins concentrate energy extracted through mining and refining into an economic value that resists decay, since gold does not corrode. Yet as humanity&#x27;s available energy grows, gold production can expand. Before the Industrial Revolution world annual gold output was barely ten tonnes; today it exceeds three thousand tonnes. Bitcoin, by contrast, has a total supply permanently capped at 21 million coins. No matter how much human energy capacity increases, the supply cannot grow. Bitcoin is the definitive embodiment of a currency produced through energy and time.</p>
+<p>The misconception that Bitcoin harms the environment is widespread, spread mainly by altcoin creators, altcoin investors, and legacy financial institutions. The reality is the opposite. Renewable energy sources — wind, solar, hydro — produce electricity when natural conditions allow, not when humans want them to. Generation facilities must be sized for peak demand, meaning enormous quantities of electricity are wasted as heat whenever demand is below peak. Bitcoin mining absorbs this stranded surplus. A mining rig requires only electricity and can operate in a remote hydroelectric site or harvest wind power that would otherwise be curtailed. This raises the profitability of renewable generators, incentivizing more renewable capacity. Bitcoin accelerates the transition to renewable energy.</p>
+<p>The economic structure of mining also deserves attention. With difficulty so high today, a solo miner&#x27;s chance of winning a block reward is comparable to winning the lottery. Miners must pay electricity bills continuously yet cannot predict when they will win. Mining pools emerged to solve this. In a pool many miners combine their hash power and share rewards in proportion to each miner&#x27;s contribution — exactly like a lottery syndicate. Romanian economist Stefan Mandel illustrated this principle by assembling a group to purchase every lottery combination when the jackpot made expected value positive, winning fourteen times before regulations changed.</p>
+<p>Mining pool operators cast version-bit signaling votes on behalf of their participating miners, making miner democracy a form of representative democracy. Individual miners choose a pool whose stance matches theirs, and can switch pools immediately if the pool votes differently from their preference. No pool permits itself to exceed forty percent of total hash rate, because losing miners would exodus and destroy the pool&#x27;s revenue. Proof of work itself is a lottery, so even a pool with sixty percent of hash power controls only a sixty percent probability of finding each block — not every block unconditionally. This mirrors the sortition democracy of ancient Athens, preventing permanent concentration of power.</p>
+<p>The claim that Bitcoin&#x27;s price is derived from its energy cost is also worth examining. While energy does enter the production of bitcoin, energy expenditure does not by itself determine price. Price is set by supply and demand. The argument that miners&#x27; reluctance to sell below cost — driven by sunk-cost fallacy and loss-aversion bias — sustains Bitcoin&#x27;s price is a purely supply-side account that reverses cause and effect. &quot;Miner capitulation&quot; events, where miners sell at a loss because sustained demand is insufficient, disprove this theory. Understanding Bitcoin&#x27;s price properly requires examining monetary demand: its capacity to store value, to serve as a medium of exchange, and to act as a unit of account. Bitcoin&#x27;s fixed supply makes it a superior store of value; its network enables value transfer at the speed of light to the opposite side of the Earth; and a currency with a fixed supply measures the prices of goods without distortion caused by monetary inflation. Bitcoin is the first and only digital currency capable of fulfilling all three monetary functions simultaneously.</p>
+</div>
+        </article>
+        <article class="card lang-panel active" data-lang="ko">
+          <div class="digest">
+<h2>4. 작업증명 — 심화</h2>
+<h3>Chapter Digest</h3>
+<p>작업증명에는 전기라는 형태의 에너지와 시간이라는 비용이 들어간다. 이 사실은 단순한 기술적 특성이 아니라 화폐의 본질과 맞닿아 있다. 물리학의 관점에서 우주에서 진정으로 희소한 자원은 오직 에너지와 시간뿐이다. 열역학 제1법칙에 따르면 에너지의 총량은 보존되며 새로 생겨나거나 사라지지 않는다. 열역학 제2법칙에 따르면 엔트로피는 항상 증가하므로 에너지는 무한히 쓸 수 없고 시간은 한 방향으로만 흐른다. 이 두 법칙은 어떤 물리 이론이 뒤집혀도 부정되지 않는 가장 견고한 진리이다. 따라서 에너지와 시간을 생산 비용으로 삼는 화폐는 우주 어디에서나 희소성이 보장되는 화폐다.</p>
+<p>법정화폐는 종이와 법률로 만들어진다. 생산하기가 너무 쉽고, 중앙 권력이 언제든 추가로 발행할 수 있다. 금화는 에너지를 투입해 채굴하고 세공하는 과정에서 에너지가 경제적 가치의 형태로 응집되며, 금이 산화되지 않는 덕분에 그 가치가 보존된다. 그러나 금은 인간의 가용 에너지가 증가함에 따라 생산량이 늘어날 수 있다. 실제로 전 세계 연간 금 생산량은 산업혁명 이전 10톤 남짓에서 현재 3,000톤 이상으로 급증했다. 반면 비트코인은 총 발행량이 2,100만 개로 영구 고정되어 있으므로 인간의 가용 에너지가 무한히 증가하더라도 공급을 늘릴 수 없다. 비트코인은 에너지와 시간이 응집된 화폐의 결정체다.</p>
+<p>비트코인이 환경에 해롭다는 오해가 널리 퍼져 있다. 이런 주장은 주로 알트코인 제작자들, 알트코인 투자자들, 기존 금융권 종사자들이 퍼뜨린다. 실상은 정반대다. 재생 에너지는 석탄·석유 에너지와 달리 인간이 원하는 시간에 생산량을 조절할 수 없다. 바람은 인간이 원할 때 불지 않고, 태양은 정해진 시간에만 빛난다. 에너지 생산 설비는 피크 타임에 맞춰 지어야 하므로, 피크 타임이 아닐 때는 생산된 에너지가 저장되지 못하고 열의 형태로 허공에 흩뿌려진다. 이처럼 버려지는 잉여 에너지를 비트코인 채굴이 흡수한다. 비트코인 채굴기는 전기만 있으면 어디서든 돌릴 수 있으므로 인터넷 연결이 어려운 오지의 수력발전소나 폐기될 뻔한 풍력 잉여 전기를 활용할 수 있다. 이 덕분에 재생 에너지 발전 사업자는 수익성이 높아지고, 더 많은 재생 에너지 설비를 지을 유인이 생긴다. 비트코인은 재생 에너지로의 전환을 가속하는 촉매 역할을 한다.</p>
+<p>채굴의 경제적 구조도 짚어볼 필요가 있다. 채굴 난이도가 극도로 높아진 현재, 솔로 채굴자가 홀로 블록 생성에 성공할 확률은 로또 당첨에 비견될 만큼 희박하다. 채굴자는 전기 요금을 꾸준히 내야 하는데 당첨이 언제 될지 모르면 자금이 소진될 수 있다. 이 문제를 해결하기 위해 채굴 풀이 등장했다. 채굴 풀은 여러 채굴자가 해시 파워를 합쳐 채굴하고 보상을 기여도에 비례해 나누는 구조다. 복권 연합과 정확히 같은 원리다. 루마니아의 스테판 만델처럼 가능한 모든 복권 조합을 구매해 기댓값이 양수인 게임에서 반드시 이기는 전략과 같다.</p>
+<p>채굴 풀 운영 기업이 개별 채굴자를 대신해 버전 비트 시그널링 투표를 행사하므로, 채굴자 민주주의는 간접민주주의 구조를 갖는다. 개인 채굴자는 자신의 입장과 맞는 채굴 풀을 선택하고, 채굴 풀이 잘못된 방향으로 투표한다면 즉시 다른 채굴 풀로 이동할 수 있다. 또한 어떤 채굴 풀도 전체 해시레이트의 40% 이상을 차지하지 않도록 스스로 제한한다. 채굴 풀의 이익은 채굴자들이 남아 있어야 보장되기 때문이다.</p>
+<p>비트코인의 가격이 에너지 비용에서 비롯된다는 주장도 짚어볼 필요가 있다. 채굴에 에너지가 들어가는 것은 사실이지만, 에너지를 투입했다는 사실이 곧 가격을 결정하지는 않는다. 가격은 수요와 공급이 결정한다. 채굴자들이 원가 이하로 팔기 싫어하는 심리, 즉 매몰 비용의 오류와 손실 회피 편향이 가격을 뒷받침한다는 논리는 단기적인 가격 설명에는 부분적으로 적용될 수 있지만 장기적으로는 수요가 가격을 결정한다. 실제로 &#x27;채굴자 항복&#x27; 현상, 즉 채굴자들이 손실을 감수하고 비트코인을 매도하는 사례는 공급자 심리만으로 가격이 유지되지 않는다는 증거다. 비트코인의 가격을 제대로 이해하려면 화폐 수요, 즉 가치 저장 기능, 교환 매개 기능, 가치 척도 기능의 측면에서 살펴봐야 한다. 법정화폐는 인플레이션으로 인해 가치 저장 수단으로 적합하지 않다. 그래서 사람들은 주식, 부동산 같은 자산으로 가치를 저장하려 한다. 그러나 비트코인은 총 공급량이 수학적으로 고정되어 있어 그 어떤 자산보다 탁월한 가치 저장 수단이 될 수 있다. 교환 매개로서 비트코인은 네트워크를 통해 빛의 속도로 지구 반대편에 가치를 전송할 수 있고, 분할성과 대체가능성을 모두 갖추고 있다. 가치 척도의 관점에서는 공급량이 고정된 화폐로 상품 가격을 측정해야 물가 변동이 화폐 가치의 변화인지 상품 자체의 가치 변화인지 구분할 수 있다. 금 1온스가 수천 년에 걸쳐 명품 정장 한 벌의 가격을 유지한 것처럼, 공급량이 고정된 화폐는 가치를 왜곡 없이 측정하게 한다. 비트코인은 이 세 가지 화폐 기능을 동시에 수행할 수 있는 역사상 처음이자 유일한 디지털 화폐다.</p>
+</div>
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        <div class="quiz-panel" data-lang="en">
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: Thermodynamic laws make energy and time genuinely scarce throughout the universe — The First Law of Thermodynamics (energy conservation) and the Second Law (entropy increase) mean energy and time are truly scarce everywhere in the universe. Proof of work uses both as production costs, guaranteeing universal scarcity."
+     data-wrong-text="Answer: Thermodynamic laws make energy and time genuinely scarce throughout the universe — The First Law of Thermodynamics (energy conservation) and the Second Law (entropy increase) mean energy and time are truly scarce everywhere in the universe. Proof of work uses both as production costs, guaranteeing universal scarcity.">
+  <h3>Why can Bitcoin&#x27;s proof of work be seen as consuming a universally scarce resource?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">SHA-256 resists even quantum computers, so mining hardware stays permanently scarce</button><button class="quiz-option" data-option-index="1">Thermodynamic laws make energy and time genuinely scarce throughout the universe</button><button class="quiz-option" data-option-index="2">ASIC miner production is tightly limited, so mining resources remain physically scarce</button><button class="quiz-option" data-option-index="3">The Bitcoin node count is capped, making available computational resources scarce</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: 열역학 법칙에 따라 에너지와 시간은 우주 어디서나 진정으로 희소한 자원이다 — 열역학 제1법칙(에너지 보존)과 제2법칙(엔트로피 증가)에 따라 에너지와 시간은 우주 어디에서나 진정으로 희소한 자원이다. 작업증명은 이 두 자원을 생산 비용으로 삼으므로 보편적 희소성이 보장된다."
+     data-wrong-text="Answer: 열역학 법칙에 따라 에너지와 시간은 우주 어디서나 진정으로 희소한 자원이다 — 열역학 제1법칙(에너지 보존)과 제2법칙(엔트로피 증가)에 따라 에너지와 시간은 우주 어디에서나 진정으로 희소한 자원이다. 작업증명은 이 두 자원을 생산 비용으로 삼으므로 보편적 희소성이 보장된다.">
+  <h3>비트코인의 작업증명이 우주적으로 희소한 자원을 사용한다고 볼 수 있는 이유는?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">SHA-256은 양자 컴퓨터도 저항하므로 채굴 하드웨어의 희소성이 영구히 보장된다</button><button class="quiz-option" data-option-index="1">열역학 법칙에 따라 에너지와 시간은 우주 어디서나 진정으로 희소한 자원이다</button><button class="quiz-option" data-option-index="2">ASIC 채굴기 생산량이 엄격히 제한되어 채굴 자원이 물리적으로 희소해진다</button><button class="quiz-option" data-option-index="3">비트코인 노드 수가 상한선이 있어 사용 가능한 연산 자원이 희소해진다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./09-작업증명-기본.html">← 이전 장 · 4. 작업증명 — 기본</a>
+        <a class="chapter-nav-link next" href="./11-작업증명-기술.html">→ 다음 장 · 4. 작업증명 — 기술</a>
+      </nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

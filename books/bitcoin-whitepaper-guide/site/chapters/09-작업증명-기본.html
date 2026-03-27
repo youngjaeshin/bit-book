@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>4. 작업증명 — 기본 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← 목차로 돌아가기</a>
+      </nav>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>4. 작업증명 — 기본</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · 4. Proof of Work — Basics</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
+          <div class="digest">
+<h2>4. Proof of Work — Basics</h2>
+<h3>Chapter Digest</h3>
+<p>Bitcoin&#x27;s network contains miners who verify transactions and produce blocks. Miners collect only valid, double-spend-free transactions into a block and stack it on top of the existing chain. Because many miners compete to do this simultaneously, the network needs a system for reaching consensus on who added a block first. Bitcoin solves this with proof of work.</p>
+<p>To understand proof of work, picture each block with a lock attached to its side. The combination that opens this lock is determined entirely by the transaction data inside the block. Change even one character of that data and the combination changes completely. This lock is a hash function. A miner tries a temporary value called a nonce, hashing it together with the block data, and keeps incrementing the nonce until the resulting hash value falls below a specific target. Finding that nonce demands enormous computation and electricity, yet verifying it requires only one hash function execution. Presenting the nonce proves the miner did the work — hence the term &quot;proof of work.&quot;</p>
+<p>This concept originates in Hashcash, a system designed in 1997 by Adam Back to combat spam email. Hashcash required a sender to find an input whose SHA-1 hash began with 20 zero bits — a search taking roughly one million hash computations on average. For an ordinary sender sending one email this cost is negligible, but for a spammer targeting ten thousand recipients it demands two hours and forty-five minutes of computation. Bitcoin&#x27;s proof of work follows the same logic: miners vary the nonce in the block header until the SHA-256 hash of the header falls below the current target value.</p>
+<p>When a miner finds a valid nonce, the block becomes a candidate for the next position in the chain. Receiving nodes verify the nonce in a single hash computation and, if valid, begin mining the subsequent block using this block&#x27;s hash as their previous-block reference. The system is equivalent to one vote per CPU. IP addresses can be forged or acquired in bulk, but CPU computation carries real cost.</p>
+<p>Altering data in an already-confirmed block requires redoing that block&#x27;s proof of work from scratch, and then redoing the proof of work for every block that follows it. Once enough blocks accumulate, past data becomes practically immutable. An attacker attempting to alter a block ten positions back must redo proof of work for all ten blocks while honest miners continuously extend the honest chain — an insurmountable task.</p>
+<p>Proof-of-work difficulty adjusts automatically every 2,016 blocks to keep average block production at one block per ten minutes. If those 2,016 blocks were mined faster than 20,160 minutes the difficulty rises; if slower it falls. This self-correcting mechanism means that no matter how much computing power advances in the future, Bitcoin&#x27;s ten-minute block interval and its security remain intact.</p>
+<p>As long as honest miners control the majority of hash power, the longest chain is always the honest chain. An attacker can only attempt double-spending — recovering coins they already sent — and even altering a single block costs hundreds of billions of won in electricity. Bitcoin achieves irreversible transactions without any trusted third party. Proof of work is the most essential mechanism in Bitcoin; not understanding it means not truly understanding Bitcoin itself.</p>
+</div>
+        </article>
+        <article class="card lang-panel active" data-lang="ko">
+          <div class="digest">
+<h2>4. 작업증명 — 기본</h2>
+<h3>Chapter Digest</h3>
+<p>비트코인 네트워크에는 거래를 검증하고 블록을 생성하는 채굴자들이 존재한다. 채굴자들은 이중지불이 없는 유효한 거래만을 블록에 담아 기존 블록 위에 쌓는다. 그런데 채굴자가 여럿이므로 누가 먼저 블록을 올렸는지 합의하는 시스템이 필요하다. 비트코인은 이 문제를 &#x27;작업증명&#x27;으로 해결한다.</p>
+<p>작업증명을 이해하려면 먼저 블록의 구조를 떠올려야 한다. 블록의 옆면에는 자물쇠가 달려 있는데, 이 자물쇠를 푸는 비밀번호는 블록 안에 들어 있는 거래 데이터에 따라 달라진다. 거래 데이터가 한 글자라도 바뀌면 비밀번호 자체가 완전히 달라진다. 이 자물쇠가 바로 해시 함수이다. 채굴자는 논스(nonce)라는 임시값을 하나씩 늘려가며 조건을 만족하는 해시값이 나올 때까지 해시 함수를 계속 돌려본다. 조건을 만족하는 논스값을 찾으면, 그 값을 블록에 적어 이웃 노드에 전파한다. 논스를 찾는 데는 엄청난 연산량과 전기 비용이 들지만, 찾은 값이 맞는지 검증하는 것은 해시 함수를 한 번만 실행하면 된다. 이처럼 작업했다는 사실을 논스값 하나로 증명하므로 이를 &#x27;작업증명&#x27;이라 한다.</p>
+<p>이 개념은 애덤 백(Adam Back)이 스팸 메일을 막기 위해 1997년에 개발한 해시캐시(Hashcash) 시스템에서 비롯되었다. 해시캐시는 메일을 보낼 때 SHA-1 해시값의 앞 20비트가 전부 0이 되는 입력값을 찾도록 요구했다. 이 조건을 만족하는 입력값을 찾으려면 평균 약 100만 번의 해시 계산이 필요하다. 일반 사용자에게는 1초 안에 끝나는 사소한 비용이지만, 1만 명에게 스팸을 보내려는 발신자는 2시간 45분을 기다려야 한다. 비트코인의 작업증명도 이와 동일한 원리이다. 블록 헤더의 논스를 변경하면서 SHA-256 해시값이 특정 목푯값보다 작아질 때까지 계속 시도한다.</p>
+<p>비트코인에서 이 조건을 만족하는 논스를 발견하면 해당 블록은 다음 블록으로 인정받을 가능성이 생긴다. 블록을 받은 노드들은 제시된 논스값을 해시 함수에 넣어 조건을 만족하는지 즉시 검증한 뒤, 유효하면 다음 블록 채굴을 시작한다. 이 과정은 CPU 당 한 표를 행사하는 것과 같다. IP 주소는 얼마든지 위조하거나 대량으로 확보할 수 있지만, CPU 연산은 실제 비용이 들기 때문이다.</p>
+<p>한번 작업증명이 완료된 블록의 데이터를 바꾸려면 해당 블록의 작업증명을 처음부터 다시 해야 하고, 그 뒤에 연결된 모든 블록의 작업증명도 연달아 다시 수행해야 한다. 블록이 충분히 쌓이면 과거 데이터는 사실상 변경 불가능해진다. 예를 들어 최신 블록에서 10개 이전의 블록을 변조하려면 10개 블록 모두의 작업증명을 다시 해야 하며, 그동안 정직한 채굴자들은 계속 위에 블록을 쌓아 올리므로 공격자는 절대 따라잡을 수 없다.</p>
+<p>작업증명의 난이도는 하드웨어 성능 발전과 채굴 참여자 수 변화에 맞춰 2,016개 블록마다 자동으로 재조정된다. 목표는 블록 하나가 평균 10분에 생성되도록 유지하는 것이다. 2,016개 블록을 채굴하는 데 20,160분보다 빠르게 걸렸다면 난이도는 올라가고, 더 오래 걸렸다면 내려간다. 이 자동 조정 메커니즘 덕분에 비트코인은 미래에 연산 능력이 아무리 발전하더라도 10분이라는 블록 생성 간격을 일정하게 유지하며 강력한 보안을 지속할 수 있다.</p>
+<p>정직한 채굴자들이 전체 해시 파워의 과반을 차지하는 한, 가장 긴 체인은 항상 정직한 채굴자들이 만든 체인이 된다. 공격자는 자신이 소비한 비트코인을 되찾으려는 이중지불 외에 다른 방법으로는 비트코인 시스템을 공격할 수 없으며, 단 하나의 블록을 변조하는 데도 수천억 원의 전기 비용이 든다. 비트코인은 이러한 방식으로 신뢰받는 제3자 없이 취소 불가능한 거래를 실현한다. 작업증명을 이해하지 못하면 비트코인이 무엇인지 이해한 것이 아니라고 해도 과언이 아니다. 작업증명은 비트코인 시스템의 가장 핵심적인 기제이다.</p>
+</div>
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        <div class="quiz-panel" data-lang="en">
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: A temporary value incremented to find a hash meeting the proof-of-work condition — Nonce means &#x27;temporary value.&#x27; Miners change the nonce in the block header and repeatedly run the hash function until they find a hash below the target value."
+     data-wrong-text="Answer: A temporary value incremented to find a hash meeting the proof-of-work condition — Nonce means &#x27;temporary value.&#x27; Miners change the nonce in the block header and repeatedly run the hash function until they find a hash below the target value.">
+  <h3>What is the role of the nonce in Bitcoin?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">A value recording the number of transactions included in the block</button><button class="quiz-option" data-option-index="1">A temporary value incremented to find a hash meeting the proof-of-work condition</button><button class="quiz-option" data-option-index="2">A value storing the previous block&#x27;s hash to link the chain</button><button class="quiz-option" data-option-index="3">A value encrypting the miner&#x27;s public key and recording it in the block</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: 작업증명 조건을 만족하는 해시값을 찾기 위해 변경되는 임시값이다 — 논스(nonce)는 &#x27;임시값&#x27;이라는 뜻으로, 채굴자가 블록 헤더에서 변경하면서 목표값보다 낮은 해시값이 나올 때까지 해시 함수를 반복 실행하는 데 사용되는 값이다."
+     data-wrong-text="Answer: 작업증명 조건을 만족하는 해시값을 찾기 위해 변경되는 임시값이다 — 논스(nonce)는 &#x27;임시값&#x27;이라는 뜻으로, 채굴자가 블록 헤더에서 변경하면서 목표값보다 낮은 해시값이 나올 때까지 해시 함수를 반복 실행하는 데 사용되는 값이다.">
+  <h3>비트코인에서 논스(nonce)의 역할은 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">블록에 포함된 거래들의 개수를 기록하는 값이다</button><button class="quiz-option" data-option-index="1">작업증명 조건을 만족하는 해시값을 찾기 위해 변경되는 임시값이다</button><button class="quiz-option" data-option-index="2">이전 블록의 해시값을 저장하여 체인을 연결하는 값이다</button><button class="quiz-option" data-option-index="3">채굴자의 공개키를 암호화하여 블록에 기록하는 값이다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./08-타임스탬프-서버-기술.html">← 이전 장 · 3. 타임스탬프 서버 — 기술</a>
+        <a class="chapter-nav-link next" href="./10-작업증명-심화.html">→ 다음 장 · 4. 작업증명 — 심화</a>
+      </nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

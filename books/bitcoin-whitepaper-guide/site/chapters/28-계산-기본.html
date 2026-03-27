@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>11. 계산 — 직관적 이해 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← 목차로 돌아가기</a>
+      </nav>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>11. 계산 — 직관적 이해</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · 11. Calculation — Intuitive Understanding</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
+          <div class="digest">
+<h2>11. Calculation — Intuitive Understanding</h2>
+<h3>The Probability That a Double-Spend Attack Succeeds</h3>
+<h4>The Finney Attack</h4>
+<p>Consider a scenario where an attacker tries to build an alternative chain faster than the honest chain. Even if such an attempt succeeded, it could not conjure coins from thin air or steal someone else&#x27;s bitcoin — nodes reject invalid transactions and honest nodes never accept blocks containing them. The only thing an attacker can do is attempt to reverse one of their own recent transactions: this is a double-spend attack.</p>
+<p>Suppose fraudster Mallory buys a painting from the French government for 10,000 BTC. She broadcasts the payment transaction to the network, while simultaneously instructing her private mining facility to secretly mine a block containing a different transaction that sends the same UTXO back to her own address. This alternative chain is kept offline — if it were revealed, the French government would immediately recognize the fraud. Once Mallory has received the painting and fled, if her hidden chain becomes longer than the honest chain, she broadcasts it. Under Bitcoin&#x27;s longest-chain rule, the payment to the French government is reversed, and Mallory keeps both the painting and the bitcoin. This tactic — withholding mined blocks and broadcasting them at an advantageous moment — is called the **Finney attack** or **block-withholding attack**, named after Hal Finney who first described it on the Bitcoin forum.</p>
+<h4>Binomial Random Walk and the Gambler&#x27;s Ruin Problem</h4>
+<p>The race between the honest chain and Mallory&#x27;s chain has the character of a **binomial random walk**. Each round is won by whoever finds the next block first; the honest miners winning extends the lead by +1, while Mallory winning reduces it by −1. Because proof-of-work is an independent trial (past attempts do not raise future probability), each round starts fresh regardless of history.</p>
+<p>The probability that Mallory, starting behind, eventually catches up is analogous to the **gambler&#x27;s ruin problem**: a gambler with infinite credit, playing an unfavorable game from a deficit, trying to reach break-even. As the number of blocks Mallory must catch up grows, her probability of success decreases geometrically. When Mallory controls less than half the hash power, each individual round is already unfavorable for her; winning many consecutive rounds to close a multi-block gap becomes exponentially improbable.</p>
+<h4>How Long Should a Recipient Wait?</h4>
+<p>The French government must decide how many block confirmations to require before releasing the painting. If the address is revealed to Mallory only at the moment of the transaction (not in advance), Mallory cannot begin her race before that moment, preventing her from building a head-start chain.</p>
+<p>As more blocks accumulate on top of the transaction, reversing it becomes computationally harder. The attacker&#x27;s potential progress during that time follows a Poisson distribution. According to the whitepaper&#x27;s calculations, when the attacker controls 10% of hash power (q = 0.1), waiting for 5 confirmations reduces the attack success probability to about 0.091%, and 6 confirmations to about 0.024%. With 30% attacker hash power (q = 0.3), 24 confirmations are needed to achieve the same threshold.</p>
+<p>The minimum number of confirmations z needed to keep the success probability below 0.1% is: q = 0.10 → z = 5; q = 0.20 → z = 11; q = 0.30 → z = 24; q = 0.40 → z = 89; q = 0.45 → z = 340. These numbers underpin the widely used &quot;6-confirmation rule&quot; and illustrate why Bitcoin&#x27;s security scales naturally with accumulated proof-of-work.</p>
+</div>
+        </article>
+        <article class="card lang-panel active" data-lang="ko">
+          <div class="digest">
+<h2>11. 계산 — 직관적 이해</h2>
+<h3>이중지불 사기가 성공할 확률</h3>
+<h4>피니 공격</h4>
+<p>공격자가 정직한 체인보다 더 빨리 대체 체인을 생성하려는 시나리오를 생각해 보자. 이런 시도가 성공하더라도 없던 금액을 만들어 내거나 남의 비트코인을 빼앗을 수는 없다. 노드들은 유효하지 않은 거래를 절대 승인하지 않기 때문이다. 공격자가 할 수 있는 것은 오직 자신이 최근에 보낸 비트코인 거래를 취소하는 것, 즉 이중지불을 시도하는 것뿐이다.</p>
+<p>사기꾼 맬러리가 프랑스 정부로부터 들라크루아의 그림을 1만 BTC에 구매한다고 가정하자. 맬러리는 1만 BTC를 보내는 거래를 네트워크에 전파하면서, 동시에 자신의 채굴장에 연락해 똑같은 UTXO를 자신의 다른 주소로 보내는 블록을 오프라인에서 몰래 채굴하게 한다. 네트워크에 알리면 프랑스 정부가 이중지불 시도를 눈치채므로 이 블록은 비밀로 유지한다. 그림을 받아 충분히 도망간 뒤, 맬러리의 체인이 정직한 채굴자들의 체인보다 길어진 순간 이를 네트워크에 전파한다. 비트코인은 가장 긴 체인을 참으로 인정하므로, 프랑스 정부에게 1만 BTC를 보낸 거래는 무효가 되고 맬러리는 비트코인도 그림도 모두 갖게 된다. 이처럼 블록을 보류했다가 유리한 시점에 전파하는 공격을 &#x27;피니 공격&#x27; 또는 &#x27;블록 보류 공격&#x27;이라 한다.</p>
+<h4>이항 랜덤 워크와 도박꾼의 파산 문제</h4>
+<p>정직한 채굴자들과 맬러리의 체인 경쟁은 이항 랜덤 워크의 특징을 지닌다. 정직한 채굴자들이 다음 블록을 먼저 연결하면 격차가 +1 벌어지고, 맬러리가 먼저 연결하면 격차가 -1 줄어든다. 논스값을 바꿔가며 수행하는 작업증명은 독립시행이므로 이전에 얼마나 시도했는지와 무관하게 매 시도는 동일한 확률을 가진다.</p>
+<p>맬러리가 뒤처진 상황에서 따라잡을 확률은 도박꾼의 파산 문제와 유사하다. 불리한 확률의 게임에서 적자 상태에 있는 도박꾼이 손익분기점에 도달할 확률을 구하는 문제인데, 공격자가 따라잡아야 할 블록 수가 늘어날수록 성공 확률은 기하급수적으로 줄어든다. 맬러리가 전체 해시 파워의 소수를 차지하는 한, 한 번의 경쟁에서도 이기기 어렵고, 여러 번 연속으로 이겨야 하는 상황에서는 더욱 불가능에 가까워진다.</p>
+<h4>수취인은 얼마나 기다려야 하는가</h4>
+<p>프랑스 정부 입장에서는 맬러리가 그림을 받아 가기 전에 거래 위에 몇 개의 블록이 쌓여야 충분히 안전한지 판단해야 한다. 수취인이 거래 직전에 송금 주소를 알려주면, 맬러리는 그 시점부터만 병렬 체인 작업을 시작할 수 있어 미리 유리한 상황을 만드는 것을 방지할 수 있다.</p>
+<p>거래가 포함된 블록 위에 블록이 여러 개 쌓일수록 거래를 되돌리기는 어려워진다. 공격자의 잠재적 작업 진척도는 푸아송 분포를 따른다. 백서의 계산에 따르면 공격자의 해시 파워 비율이 10%(q=0.1)일 때, 블록 5개가 쌓이면 공격 성공 확률이 약 0.091%, 6개가 쌓이면 약 0.024%로 줄어든다. 공격자 해시 파워가 30%(q=0.3)인 경우에도 블록 24개가 쌓이면 0.1% 미만이 된다. 이 결과로부터 대략 6개의 컨펌(블록 확인)이 쌓이면 이중지불이 사실상 불가능해진다는 결론이 나온다.</p>
+<p>공격자의 해시 파워 비율이 클수록 더 많은 컨펌을 기다려야 한다. q=0.10이면 z=5, q=0.20이면 z=11, q=0.30이면 z=24, q=0.40이면 z=89, q=0.45이면 z=340의 블록을 기다려야 공격 성공 확률을 0.1% 미만으로 유지할 수 있다.</p>
+</div>
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        <div class="quiz-panel" data-lang="en">
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: Reverse a recent payment by broadcasting a secretly pre-mined chain — A Finney attack lets an attacker double-spend only their own recent transaction. The attacker secretly mines a block redirecting their coins to themselves, delivers goods or services after broadcasting the legitimate payment, then releases the longer hidden chain to invalidate that payment. Nodes always reject transactions that create coins from nothing or steal others&#x27; funds."
+     data-wrong-text="Answer: Reverse a recent payment by broadcasting a secretly pre-mined chain — A Finney attack lets an attacker double-spend only their own recent transaction. The attacker secretly mines a block redirecting their coins to themselves, delivers goods or services after broadcasting the legitimate payment, then releases the longer hidden chain to invalidate that payment. Nodes always reject transactions that create coins from nothing or steal others&#x27; funds.">
+  <h3>What specific action does a Finney attack allow a dishonest miner to accomplish?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">Create new bitcoins beyond the hard-capped 21 million supply limit</button><button class="quiz-option" data-option-index="1">Steal other users&#x27; coins by forging their cryptographic signatures</button><button class="quiz-option" data-option-index="2">Reverse a recent payment by broadcasting a secretly pre-mined chain</button><button class="quiz-option" data-option-index="3">Force all network nodes to accept an otherwise invalid transaction</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: 몰래 사전에 채굴한 체인을 전파하여 최근 거래를 되돌린다 — 피니 공격은 공격자가 자신의 최근 거래만 이중지불할 수 있게 한다. 공격자는 자신의 코인을 자신에게 돌리는 블록을 몰래 채굴하고, 정당한 거래를 전파한 뒤 재화나 서비스를 받은 다음, 더 긴 숨겨진 체인을 공개하여 해당 거래를 무효화한다. 노드들은 무에서 코인을 만들거나 타인의 자금을 훔치는 거래는 항상 거부한다."
+     data-wrong-text="Answer: 몰래 사전에 채굴한 체인을 전파하여 최근 거래를 되돌린다 — 피니 공격은 공격자가 자신의 최근 거래만 이중지불할 수 있게 한다. 공격자는 자신의 코인을 자신에게 돌리는 블록을 몰래 채굴하고, 정당한 거래를 전파한 뒤 재화나 서비스를 받은 다음, 더 긴 숨겨진 체인을 공개하여 해당 거래를 무효화한다. 노드들은 무에서 코인을 만들거나 타인의 자금을 훔치는 거래는 항상 거부한다.">
+  <h3>피니 공격이 부정직한 채굴자에게 허용하는 구체적인 행위는 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">2,100만 개 한도를 넘어 새로운 비트코인을 추가로 생성한다</button><button class="quiz-option" data-option-index="1">암호화 서명을 위조하여 다른 사용자의 코인을 훔친다</button><button class="quiz-option" data-option-index="2">몰래 사전에 채굴한 체인을 전파하여 최근 거래를 되돌린다</button><button class="quiz-option" data-option-index="3">모든 네트워크 노드가 유효하지 않은 거래를 수락하도록 강제한다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./27-프라이버시-기술.html">← 이전 장 · 10. 프라이버시 — 기술적 이해</a>
+        <a class="chapter-nav-link next" href="./29-계산-심화.html">→ 다음 장 · 11. 계산 — 심층적 이해</a>
+      </nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

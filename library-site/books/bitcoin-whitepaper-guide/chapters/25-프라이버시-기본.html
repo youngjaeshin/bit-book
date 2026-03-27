@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>10장 직관적 이해 — 프라이버시 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../../../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← Back to book</a> · <a href="../../../index.html">Library</a>
+      </nav>
+      <header class="reading-hero card">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>10장 직관적 이해 — 프라이버시</h1>
+        <p class="subtitle reading-subtitle">Chapter 10 Intuitive Understanding — Privacy</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en"><div class="digest">
+<h2>Chapter 10 Intuitive Understanding — Privacy</h2>
+<h3>The Traditional Banking Model vs. Bitcoin&#x27;s Privacy Model</h3>
+<p>Traditional banks achieve a degree of privacy by restricting transaction information to the parties involved and the trusted intermediary. But this model has a fundamental flaw: the bank knows everything. Anyone with access to banking data can learn what you eat, which hospitals you visit, who pays your salary and whom you pay, what you invest in, what books you buy, and what content you consume — knowing more about you than any person in your life. Censorship is a byproduct of surveillance.</p>
+<p>Bitcoin makes all transactions publicly transparent. Without transparency, a centralized entity could issue or lend more currency than it actually holds — as fractional reserve banking demonstrates. Yet Bitcoin still achieves privacy by decoupling transaction data from personal identity. The public can see that some address sent some amount to another address, but there is no information linking those addresses to real-world persons. Transaction records contain no memo or description fields, so what was exchanged for the bitcoin transfer is undetectable. This resembles the &quot;ticker tape&quot; level of disclosure used by stock exchanges: trade size and time are public but counterparty identity is not.</p>
+<h3>HD Wallets and Mnemonics</h3>
+<p>An additional privacy firewall is using a new key pair for each transaction, preventing multiple transactions from being linked to a common owner. In early Bitcoin, wallets generated fresh random private keys for each transaction — known as non-deterministic wallets. Managing dozens of separate key backups was cumbersome.</p>
+<p>BIP proposals introduced deterministic wallets and, subsequently, Hierarchical Deterministic (HD) wallets. The principle is to derive an unlimited number of private keys from a single mnemonic — a sequence of 12 or 24 words generated from random entropy. Knowing the mnemonic gives complete control over every private key derived from it. Think of the mnemonic as a master key ring that opens every safe in a building, where each safe corresponds to a public key holding bitcoin. Today, deriving a fresh address for every transaction is effortless, making privacy and security easy to maintain simultaneously.</p>
+<h3>KYC and the State&#x27;s Response to Bitcoin&#x27;s Privacy</h3>
+<p>When a transaction has multiple inputs, those inputs reveal that their respective addresses share a common owner. If that owner&#x27;s identity is ever discovered, the linkage can expose all their other transactions as well. Bitcoin&#x27;s whitepaper explicitly acknowledges this as a privacy weakness.</p>
+<p>States exploit this weakness. By linking wallet addresses to real identities, governments can reconstruct the full picture of an individual&#x27;s financial life. This is why most countries legally require cryptocurrency exchanges to implement Know Your Customer (KYC) procedures. Even though Bitcoin&#x27;s transparency already serves law enforcement — investigators only need to identify one party in a suspicious transaction to trace the entire chain — states continue to demand KYC to preserve their surveillance capability.</p>
+<p>South Korea goes further than most, implementing a &quot;Travel Rule&quot; that requires any virtual asset transfer of one million won or more to go only to a KYC-verified wallet registered in the sender&#x27;s own name. Foreign nationals cannot move assets into Korean exchanges. This isolationist policy has closed off Korea&#x27;s crypto market, broken the law of one price, and produced the so-called &quot;Kimchi Premium&quot; — Koreans paying 5–20% more for bitcoin than the rest of the world.</p>
+<p>Bitcoin&#x27;s privacy structure aligns with Nassim Taleb&#x27;s formulation: privacy for the weak, transparency for the powerful. Law enforcement benefits from Bitcoin&#x27;s transparent ledger — one arrest yields the full transaction graph. Individuals benefit from pseudonymity — as long as their addresses are not linked to their identities. Bitcoin&#x27;s censorship resistance makes it the insurance Taleb described: proof that money need not be a tool of authoritarian control, no matter how dystopian the political environment becomes.</p>
+</div></article>
+        <article class="card lang-panel active" data-lang="ko"><div class="digest">
+<h2>10장 직관적 이해 — 프라이버시</h2>
+<h3>기존 은행 모델과 비트코인의 프라이버시</h3>
+<p>전통적인 은행 시스템은 거래 당사자와 은행만이 거래 정보를 공유하는 방식으로 프라이버시를 달성한다. 그러나 이 모델은 신뢰받는 제3자인 은행이 개인의 모든 거래를 알고 있다는 근본적인 한계를 지닌다. 은행 정보에 접근할 수 있는 강력한 존재가 있다면 당신이 무엇을 먹는지, 어느 병원에 갔는지, 누구에게 월급을 받고 누구에게 주는지, 어떤 콘텐츠를 소비하는지를 주변의 누구보다도 더 잘 알 수 있다. 검열은 감시의 부산물이다.</p>
+<p>비트코인은 모든 거래가 투명하게 공개된다. 투명성이 없으면 중앙화된 주체가 실제 보유량보다 많은 화폐를 발행하거나 대출할 수 있기 때문이다. 그렇다면 비트코인은 어떻게 프라이버시를 달성하는가? 답은 거래 데이터에 신원 정보를 결합하지 않는 것이다. 누군가가 누군가에게 얼마를 보냈는지는 알 수 있지만, 그 주소의 주인이 누구인지는 알 수 없다. 비트코인 거래 데이터에는 적요가 없다. 어떤 주소에서 어떤 주소로 비트코인이 이동했다는 사실만 공개될 뿐, 무엇을 대가로 이동했는지는 추적할 수 없다. 이는 증권거래소의 호가창처럼 누군가 어떤 주식을 몇 주 샀는지는 보이지만 그 누군가가 누구인지는 알 수 없는 &#x27;테이프&#x27;와 같은 수준의 프라이버시다.</p>
+<h3>HD 지갑과 니모닉</h3>
+<p>추가적인 방화벽으로, 거래마다 새로운 키 쌍을 사용해야 어떤 거래들이 공통 소유자와 연결되는 것을 방지할 수 있다. 비트코인 초기에는 거래마다 새로운 개인키-주소 쌍을 무작위로 생성해 사용하는 비결정적 지갑을 썼다. 이를 개선하기 위해 BIP에서 계층 결정적 지갑(HD 지갑, Hierarchical Deterministic Wallet)이 제안되었다.</p>
+<p>HD 지갑의 원리는 하나의 니모닉(mnemonic)에서 무한한 개인키를 파생시키는 것이다. 무작위 엔트로피 수를 생성하고 이를 12개 또는 24개의 단어로 이루어진 니모닉에 대응시킨다. 니모닉으로부터 특정 규칙을 통해 무한한 개인키를 만들 수 있다. 니모닉을 알고 있다면 그로부터 파생되는 모든 개인키에 대한 통제권을 갖는 것과 같다. 비유하자면, 개인키가 금고를 여는 열쇠라면 니모닉은 건물 안 모든 금고를 열 수 있는 마스터 열쇠 꾸러미다. 현재는 니모닉으로 수많은 개인키와 주소를 쉽게 파생할 수 있으므로 거래마다 다른 주소를 사용하기가 매우 쉬워졌다.</p>
+<h3>KYC와 프라이버시의 충돌</h3>
+<p>여러 개의 입력으로 이루어진 거래에서는 입력에 사용된 주소들이 동일한 소유자의 것이라는 연결고리가 드러날 수 있다. 어떤 키의 소유자가 드러나면 그 연결고리가 동일 소유자의 다른 거래들도 드러낼 수 있다. 이것이 백서에도 명시된 비트코인 프라이버시의 약점이다.</p>
+<p>국가는 바로 이 약점을 이용한다. 주소와 개인의 신원을 연결하면 되는 것이다. 그래서 대한민국을 비롯한 많은 국가에서 암호화폐 거래소에 고객 신원 확인 제도(KYC, Know Your Customer)를 의무화하고 있다. 이미 거래 투명성은 확보되어 있음에도 국가는 개인 감시를 위해 지갑 주소와 신원을 연결하는 데 온 힘을 다한다.</p>
+<p>대한민국은 전 세계에서 유일하게 &#x27;트래블 룰&#x27;을 시행하고 있다. 100만 원 이상의 가상자산 송금 시 KYC가 완료된 본인 명의 지갑 주소로만 옮길 수 있어, 외국인은 국내 거래소로 자산을 이전할 수 없다. 이 쇄국 정책으로 대한민국 가상자산 시장이 폐쇄적으로 변했고, 일물일가의 법칙이 깨져 다른 국가보다 평균 5%, 심하면 20%까지 더 비싸게 비트코인을 구입하는 이른바 &#x27;김치 프리미엄&#x27;이 발생하고 있다.</p>
+<p>비트코인의 프라이버시 구조는 나심 탈레브의 표현처럼 &quot;약자에게 프라이버시를, 강자에게 투명성을&quot;이라는 원칙에 부합한다. 수사기관 입장에서는 거래의 투명성 덕분에 범죄 자금 추적이 용이하다. 거래에 관여된 한 사람만 잡으면 관련 거래 전부를 조사할 수 있기 때문이다. 반면 개인들은 주소와 신원이 연결되지 않는 한 프라이버시를 보장받는다. 비트코인은 검열 저항성을 지녔으며, 그것이 금융 영역에서 조지 오웰이 경고한 빅 브라더에 대응하는 보험이 된다.</p>
+</div></article>
+      </section>
+      <section class="card quiz-card">
+        <div class="quiz-panel" data-lang="en">
+          <h2>Quiz</h2>
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: A stock exchange ticker tape where trades are public but identities are not — The whitepaper compares Bitcoin&#x27;s privacy to a stock exchange ticker tape: trade size and time are public, but the counterparty&#x27;s identity is not revealed."
+     data-wrong-text="Answer: A stock exchange ticker tape where trades are public but identities are not — The whitepaper compares Bitcoin&#x27;s privacy to a stock exchange ticker tape: trade size and time are public, but the counterparty&#x27;s identity is not revealed.">
+  <h3>To what does the Bitcoin whitepaper compare Bitcoin&#x27;s level of privacy?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">A sealed envelope where neither sender nor content is visible to others</button><button class="quiz-option" data-option-index="1">A stock exchange ticker tape where trades are public but identities are not</button><button class="quiz-option" data-option-index="2">A numbered Swiss bank account where only the holder knows the balance</button><button class="quiz-option" data-option-index="3">An end-to-end encrypted email where only sender and recipient can read it</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <h2>퀴즈</h2>
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: 거래 내용은 공개되지만 당사자 신원은 드러나지 않는 증권 거래소 시세 테이프 — 백서에서는 비트코인의 프라이버시 수준을 증권 거래소의 시세 테이프에 비유한다. 거래 규모와 시간은 공개되지만 당사자의 신원은 밝혀지지 않는다."
+     data-wrong-text="Answer: 거래 내용은 공개되지만 당사자 신원은 드러나지 않는 증권 거래소 시세 테이프 — 백서에서는 비트코인의 프라이버시 수준을 증권 거래소의 시세 테이프에 비유한다. 거래 규모와 시간은 공개되지만 당사자의 신원은 밝혀지지 않는다.">
+  <h3>비트코인 백서에서 비트코인의 프라이버시 수준을 비유한 대상은 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">발신자와 내용 모두 외부에 드러나지 않는 봉인된 우편 봉투</button><button class="quiz-option" data-option-index="1">거래 내용은 공개되지만 당사자 신원은 드러나지 않는 증권 거래소 시세 테이프</button><button class="quiz-option" data-option-index="2">계좌번호만 있고 소유자 신원을 숨기는 스위스 은행 비밀 계좌</button><button class="quiz-option" data-option-index="3">발신자와 수신자만 내용을 볼 수 있는 종단간 암호화 이메일</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination"><a class="chapter-nav-link prev" href="./24-금액-합치기와-나누기-기술.html">← 9장 기술적 이해 — 타원곡선 암호학과 비트코인 지불 방식</a><a class="chapter-nav-link next" href="./26-프라이버시-심화.html">10장 심층적 이해 — 사이퍼펑크와 프라이버시 투쟁의 역사 →</a></nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>10장 심층적 이해 — 사이퍼펑크와 프라이버시 투쟁의 역사 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../../../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← Back to book</a> · <a href="../../../index.html">Library</a>
+      </nav>
+      <header class="reading-hero card">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>10장 심층적 이해 — 사이퍼펑크와 프라이버시 투쟁의 역사</h1>
+        <p class="subtitle reading-subtitle">Chapter 10 Deep Understanding — The Cypherpunks and the History of the Privacy Struggle</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en"><div class="digest">
+<h2>Chapter 10 Deep Understanding — The Cypherpunks and the History of the Privacy Struggle</h2>
+<h3>Democratizing Cryptography: Diffie and Hellman</h3>
+<p>In November 1976, Whitfield Diffie and Martin Hellman published &quot;New Directions in Cryptography,&quot; liberating cryptography from state secrecy. Before their paper, powerful encryption was the exclusive domain of agencies like the NSA. Diffie and Hellman introduced public-key cryptography — using mathematically linked key pairs so that encryption and decryption require different keys — and laid the foundation for private citizens to use strong encryption.</p>
+<p>In 1977, Ronald Rivest, Adi Shamir, and Leonard Adleman published the RSA algorithm, the first practical implementation of public-key cryptography, grounded in the difficulty of integer factorization. RSA remains foundational to internet security via TLS/SSL.</p>
+<p>In 1985, David Chaum published &quot;Security Without Identification: Transaction Systems to Make Big Brother Obsolete,&quot; proposing mix networks — routing messages through multiple encrypted relay servers to hide sender identity. This concept became the theoretical basis for the Tor network. Chaum also pioneered privacy-preserving digital cash, arguing that financial transactions should be as untraceable as physical cash.</p>
+<h3>PGP and the Beginning of the Crypto Wars</h3>
+<p>In 1991, Phil Zimmermann released PGP (Pretty Good Privacy) for free on the internet, putting military-grade email encryption in the hands of ordinary citizens. His motivation was Senate Bill 266, which would have required all encrypted communications systems to include government backdoors. By releasing PGP before the bill could pass, Zimmermann made the legislation moot.</p>
+<p>The U.S. government investigated Zimmermann for illegal arms export — treating cryptographic software as a weapon. Zimmermann&#x27;s defense was ingenious: publish the PGP source code as a book. Books enjoy First Amendment protection, so printing the code in ink and shipping the book abroad was legal, even though distributing the same code as software was not. Later, mathematician Daniel Bernstein won a federal court case establishing that source code itself is protected speech under the First Amendment, rendering export restrictions on cryptography effectively unenforceable.</p>
+<h3>The Birth of the Cypherpunks</h3>
+<p>In 1992, EFF co-founder John Gilmore hosted a gathering of cryptographers interested in privacy. There he met Timothy May, author of &quot;The Crypto Anarchist Manifesto,&quot; and mathematician-cryptographer Eric Hughes. The three began a small salon of cryptographers, engineers, and libertarian scholars. At the first formal meeting, technologist Jude Milhon coined &quot;Cypherpunk&quot; by blending &quot;cypher&quot; and &quot;cyberpunk.&quot; The name stuck.</p>
+<p>Gilmore reflected: &quot;We weren&#x27;t just discussing technical innovation. We were imagining a new social paradigm.&quot; Anyone who used cryptographic tools to pursue individual freedom and privacy qualifies as a cypherpunk — including Diffie, Hellman, and Chaum, who predated the name.</p>
+<p>Eric Hughes established a mailing list for cryptography, mathematics, computer science, digital cash, and philosophy. Members included Hughes, May, Gilmore, David Chaum, Hal Finney, Phil Zimmermann, Julian Assange, Adam Back, and Nick Szabo, among others. Subscriber count grew from roughly 30 in 1992 to 700 by 1994 and 2,000 by 1997.</p>
+<p>On March 9, 1993, Hughes published &quot;A Cypherpunk&#x27;s Manifesto&quot; on the list. Its central declaration: &quot;Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn&#x27;t want the whole world to know, but a secret matter is something one doesn&#x27;t want anybody to know. Privacy is the power to selectively reveal oneself to the world.&quot; The manifesto closed: &quot;Cypherpunks write code. We know that someone has to write software to defend privacy, and since we can&#x27;t get privacy unless we all do, we&#x27;re going to write it.&quot;</p>
+<h3>The Clipper Chip and Cypherpunk Resistance</h3>
+<p>In April 1993, the Clinton administration announced the Clipper Chip policy — requiring all phones and computers to embed an NSA-designed chip that would give the government the ability to eavesdrop on any communication. Diffie testified before the House subcommittee: &quot;The decisions we make today about communications security will determine the character of the society we live in tomorrow.&quot;</p>
+<p>Cryptographer Matt Blaze demonstrated that the Clipper Chip was not merely a privacy threat but technically flawed. Daniel Bernstein&#x27;s lawsuit established that source code is protected speech. A petition against the Clipper Chip gathered over 50,000 signatures. The policy was officially abandoned in 1996 — exactly twenty years after Diffie and Hellman&#x27;s landmark paper — and a Clinton executive order removed cryptography from the munitions control list.</p>
+<h3>Breaking DES and Advancing Encryption Standards</h3>
+<p>NIST had used DES (Data Encryption Standard) since the 1970s. Diffie and Hellman warned in 1977 that DES&#x27;s 56-bit key was too short to withstand brute force. The RSA DES Challenge confirmed this: the first challenge fell in 96 days, the second in 39 days, the third in 22 hours 15 minutes. The EFF&#x27;s DES Cracker machine — built by John Gilmore and Paul Kocher, one of Hellman&#x27;s students — broke DES in just 56 hours. DES was officially retired in 2005, nearly 30 years after Diffie and Hellman&#x27;s warning.</p>
+<h3>The Tor Network</h3>
+<p>In the late 1990s, Paul Syverson, Michael Reed, and David Goldschlag at the U.S. Naval Research Laboratory developed Tor (The Onion Router) to protect military intelligence communications. Tor routes data through three relay nodes — entry, middle, and exit — with each hop encrypting the data in a layer, like an onion. The entry node knows the user&#x27;s IP but not the destination; the middle node knows neither origin nor destination; the exit node knows the destination but not the origin.</p>
+<p>For military users to hide among internet traffic, ordinary users needed to use Tor too. The Navy released the initial code as open source in 2002. In 2006, Roger Dingledine and Nick Mathewson co-founded the non-profit Tor Project. Bitcoin Core now natively supports Tor integration, allowing full node operators to maintain anonymity even in heavily censored countries like China, where VPN and Tor together enable participation in the Bitcoin network.</p>
+<h3>Julian Assange and WikiLeaks</h3>
+<p>In 2006, cypherpunk Julian Assange founded WikiLeaks to publish anonymously submitted documents exposing government and corporate malfeasance. The motto: &quot;Privacy for the weak, transparency for the powerful.&quot; In April 2010, WikiLeaks released &quot;Collateral Murder,&quot; footage of a U.S. Apache helicopter killing Iraqi civilians including Reuters journalists, sparking a global controversy about military ethics.</p>
+<p>The U.S. government pressured DNS providers, web hosts, and financial services to cut off WikiLeaks. Visa, Mastercard, PayPal, and Bank of America complied with the financial blockade. WikiLeaks responded by accepting Bitcoin donations — because Bitcoin cannot be censored. Satoshi Nakamoto, still active at the time, urged caution: &quot;Bitcoin is a small beta community in its infancy. The heat you would bring would likely destroy us at this stage.&quot;</p>
+<h3>The PATRIOT Act and Mass Surveillance</h3>
+<p>Six weeks after the September 11 attacks, the USA PATRIOT Act authorized the government to collect phone records, emails, and internet activity without individual warrants. Simultaneously, NSA ran the secret &quot;Stellar Wind&quot; program, collecting bulk communications data without legal authorization. After a New York Times exposé forced partial legal formalization, surveillance continued under FISA Section 702, which authorizes collecting foreign nationals&#x27; electronic communications and &quot;incidentally&quot; those of U.S. persons.</p>
+<p>In 2013, Edward Snowden, a former CIA employee and NSA contractor, leaked classified documents revealing the full scope of these programs to journalists. Snowden was charged with espionage in the United States and remains in asylum in Russia. His revelations triggered global debate about the proper limits of state surveillance and catalyzed adoption of privacy tools worldwide. The PATRIOT Act was replaced by the USA Freedom Act in 2015, which eliminated bulk phone record collection but retained many surveillance authorities. FISA Section 702 continues to be renewed; it was extended again in April 2024.</p>
+<h3>The Lineage of Electronic Cash</h3>
+<p>Cypherpunks pursued private digital money as the ultimate censorship-resistant tool. Throughout history, private currency issuers have been treated as traitors; the right to issue money has been treated as a sacred state prerogative.</p>
+<p>David Chaum founded DigiCash in 1990 and launched e-cash in 1995 — the world&#x27;s first commercial electronic currency, using blind signatures so that transactions could not be traced even by the issuer. E-cash signed deals with the Dutch government, Deutsche Bank, and Credit Suisse and attracted investment from Microsoft and Visa. But banks, under government pressure, ultimately cancelled their contracts, and DigiCash went bankrupt in 1998.</p>
+<p>In 1997, cypherpunk Adam Back invented Hashcash — not a currency, but a proof-of-work algorithm using hash functions that later became Bitcoin&#x27;s mining mechanism. In 1998, Wei Dai proposed b-money: a distributed network issuing currency via proof-of-work. It was never implemented, but it directly inspired Bitcoin; Satoshi emailed Dai before publishing the whitepaper to ask about citing b-money.</p>
+<p>In 2004, Hal Finney proposed Reusable Proof-of-Work (RPOW), the first system that converted energy expenditure into transferable economic value via a central server. In 2005, Nick Szabo proposed Bit Gold: proof-of-work issuance, a fixed supply to prevent inflation, and no trusted third party. Bit Gold was never implemented, but it was the closest conceptual precursor to Bitcoin.</p>
+<p>On October 31, 2008, Satoshi Nakamoto published the Bitcoin whitepaper. Chaum&#x27;s blind signatures, Dai&#x27;s distributed network, Back&#x27;s proof-of-work, Finney&#x27;s energy-to-value conversion, and Szabo&#x27;s genuine scarcity all converge in that nine-page document. Bitcoin is not a single invention but the culmination of decades of cypherpunk experimentation, built on the spirit of those who sacrificed careers and risked prosecution to protect individual privacy.</p>
+<h3>Hal Finney</h3>
+<p>Hal Finney contributed to early PGP development and ran the first anonymous email remailer, among many other cypherpunk activities. When Satoshi released Bitcoin&#x27;s first software, Finney downloaded it immediately, mined blocks in the 70s range, and became the first recipient of a bitcoin transaction. He corresponded with Satoshi for days, reporting bugs that Satoshi fixed.</p>
+<p>In August 2009 Finney was diagnosed with ALS (amyotrophic lateral sclerosis). By 2013 he was almost completely paralyzed, eating through a tube and breathing through a ventilator, controlling his computer with a commercial eye-tracking device. He wrote: &quot;My life is not too bad. I can still read, listen to music, watch TV and movies. Recently I discovered that I can write code, though more slowly than before, perhaps fifty times slower. I still have goals, which I&#x27;m working toward.&quot; He died on August 28, 2014. His wife Fran holds an annual &quot;Running Bitcoin&quot; marathon fundraiser to support ALS research.</p>
+<h3>The Eternal Struggle</h3>
+<p>South Korea&#x27;s Ministry of Science and ICT reports that law enforcement received personal telecommunications data — without court authorization — over 4.3 million times in 2022 and over 4.6 million times in 2023. Korea&#x27;s internet freedom score is 66, below the 70-point threshold for &quot;free&quot; status, placing it alongside nations that practice systematic internet censorship.</p>
+<p>Social media platforms have compounded the erosion of privacy at scale. Facebook secretly collected biometric data from over a billion users to build its DeepFace facial recognition system. In 2021, personal data from 533 million Facebook users across 106 countries leaked online. A 2024 Federal Trade Commission report documented that major platforms systematically collected and monetized personal data in ways that made meaningful consent impossible.</p>
+<p>Cypherpunks who wrote code when Senate Bill 266 was proposed, when the Clipper Chip was announced, and when DES&#x27;s weaknesses were exposed, continue to write code today. Privacy-preserving tools proliferate: Signal for encrypted messaging, Tor for anonymous browsing, air-gapped hardware wallets, end-to-end encrypted cloud storage. The choice between convenience and security is real, but more people are making the deliberate choice to protect what is theirs.</p>
+<p>The fact that Satoshi Nakamoto&#x27;s identity remains unknown — despite the combined efforts of global intelligence agencies and world media — is itself evidence that privacy is not dead. As Eric Hughes wrote, privacy is &quot;the power to selectively reveal oneself to the world.&quot; Satoshi chose not to reveal themselves, and succeeded.</p>
+<p>Bitcoin is the product of a collaboration that transcended time and space — from Diffie and Hellman through Chaum, Finney, Back, Szabo, and Dai, to Satoshi. It is the transaction system those pioneers dreamed of: one that renders Big Brother powerless in the last domain where individual censorship resistance seemed impossible — money itself.</p>
+</div></article>
+        <article class="card lang-panel active" data-lang="ko"><div class="digest">
+<h2>10장 심층적 이해 — 사이퍼펑크와 프라이버시 투쟁의 역사</h2>
+<h3>암호학의 민주화: 디피와 헬만</h3>
+<p>1976년 11월, 휫필드 디피(Whitfield Diffie)와 마틴 헬만(Martin Hellman)은 논문 「암호학의 새 방향」을 발표하며 암호학을 국가 기밀로부터 해방시켰다. 이들이 제안한 공개키 암호학은 두 개의 다른 키, 즉 공개키와 개인키를 사용해 암호화와 복호화를 수행하는 방식이다. 이 발표 전까지 강력한 암호학 기술은 NSA(미국 국가안보국)와 같은 국가 기관의 전유물이었다. 디피와 헬만이 이를 공개함으로써 민간인들도 강력한 암호화 기술을 사용할 수 있는 토대가 마련되었다.</p>
+<p>RSA 알고리즘은 1977년 로널드 리베스트(Ron Rivest), 아디 샤미르(Adi Shamir), 레너드 애들먼(Leonard Adleman)이 발표했다. 이들의 이름 첫 글자를 따 RSA라 명명된 이 알고리즘은 소인수분해의 어려움을 보안의 기반으로 삼았다. RSA는 최초로 실용화된 공개키 암호 알고리즘이 되었으며, 오늘날에도 TLS/SSL 등 인터넷 보안의 근간으로 사용된다.</p>
+<p>1985년에는 데이비드 차움(David Chaum)이 「추적 불가능한 전자 메일, 반송 주소, 디지털 가명」 논문을 발표했다. 차움은 여기서 믹스 네트워크 개념을 제안했는데, 이는 발신자의 신원을 숨기기 위해 메시지를 여러 중계 서버를 통해 암호화하여 전달하는 방식이다. 이 개념은 훗날 토르(TOR) 네트워크의 이론적 기반이 되었다. 차움은 또한 프라이버시를 중시하는 디지털 화폐의 필요성을 강조하며 이를 실현하기 위한 암호학적 기법들을 연구했다.</p>
+<h3>PGP와 암호 전쟁의 시작</h3>
+<p>1991년, 필 짐머만(Phil Zimmermann)은 PGP(Pretty Good Privacy)를 개발하고 인터넷에 무료로 배포했다. PGP는 이메일을 강력하게 암호화할 수 있는 소프트웨어로, 이를 통해 일반 시민들도 국가 수준의 암호화 기술을 사용할 수 있게 되었다. 짐머만이 PGP를 배포한 배경에는 상원 법안 266호에 대한 우려가 있었다. 이 법안은 모든 암호화 통신 시스템에 정부가 접근할 수 있는 백도어를 의무화하는 내용을 담고 있었다. 짐머만은 이 법안이 통과되기 전에 강력한 암호화 도구를 대중에게 배포하면 법안이 무의미해질 것이라 판단했다.</p>
+<p>짐머만과 변호인들, 전자 프런티어 재단(EFF)은 PGP 소스 코드를 책으로 출판하는 재치 있는 방법을 택했다. 소프트웨어 수출은 불법이지만, 책은 미국 수정 헌법 제1조에 의해 표현의 자유를 보장받기 때문이다. 같은 코드라도 소프트웨어로 배포하면 불법 수출이지만, 책에 인쇄해 수출한 뒤 외국인이 그 코드를 입력해 소프트웨어를 복원하는 것은 불법이 아닌 것이다. 이 사건은 소스 코드가 단순한 기술 명령어가 아니라 표현의 자유 대상임을 확인하는 계기가 되었다.</p>
+<h3>사이퍼펑크의 탄생</h3>
+<p>PGP 배포 이듬해인 1992년, EFF 창립자 존 길모어(John Gilmore)가 암호학과 프라이버시에 관심 있는 이들을 자신의 집으로 초대했다. 여기서 「크립토 아나키스트 선언문」을 쓴 티모시 메이(Timothy May), 수학자이자 암호학자인 에릭 휴즈(Eric Hughes)와 만났다. 세 사람은 암호학자, 엔지니어, 자유주의 학자들의 소모임을 만들었다. 첫 모임에서 기술자 주드 밀론(Jude Milhon)이 암호(cypher)와 사이버펑크(cyberpunk)를 합성해 &#x27;사이퍼펑크(Cypherpunk)&#x27;라는 이름을 제안했다. 사이퍼펑크는 이렇게 탄생했다.</p>
+<p>길모어는 이렇게 말했다. &quot;우리는 기술적 혁신만을 논의하는 것이 아니었다. 우리는 새로운 사회적 패러다임을 상상하고 있었다.&quot; 사이퍼펑크는 암호학적 기술로 개인의 자유와 프라이버시를 위한 사회적 변화를 추구하는 사람이라면 누구나 해당된다. 따라서 디피, 헬만, 차움 등 사이퍼펑크라는 이름이 생기기 전의 암호학자들도 사이퍼펑크다.</p>
+<p>에릭 휴즈는 1992년 후반 암호학, 수학, 컴퓨터 과학, 철학적 논의를 위한 메일링 리스트를 만들었다. 여기에 휴즈, 메이, 길모어는 물론 데이비드 차움, 할 피니(Hal Finney), 필 짐머만, 줄리언 어산지(Julian Assange), 애덤 백(Adam Back), 닉 재보(Nick Szabo) 등이 참여했다. 1992년 약 30명이던 구독자는 1994년 약 700명, 1997년 약 2,000명으로 늘었다.</p>
+<p>1993년 3월 9일, 에릭 휴즈는 메일링 리스트를 통해 「사이퍼펑크 선언문」을 발표했다. 그 핵심은 다음과 같다. &quot;프라이버시는 전자 시대의 열린 사회를 위해 반드시 필요하다. 프라이버시는 비밀과 다르다. 개인적인 일은 세상 모두가 알기를 원하지 않는 것이고, 비밀은 누구에게도 알리고 싶지 않은 것이다. 프라이버시는 자신을 선택적으로 세상에 드러낼 힘이다.&quot; 선언문은 이어서 &quot;우리 사이퍼펑크는 코드를 작성한다&quot;며, 프라이버시를 지키기 위해서는 소프트웨어를 작성해야 하며 그 코드를 누구나 무료로 사용할 수 있도록 공개한다고 선언했다.</p>
+<h3>클리퍼 칩 정책과 사이퍼펑크의 저항</h3>
+<p>1993년 4월, 클린턴 행정부는 클리퍼 칩(Clipper Chip) 정책을 발표했다. NSA가 개발한 이 칩은 모든 전화기와 컴퓨터에 탑재해 정부에게 도청 및 감시 능력을 부여하는 장치였다. 이에 디피가 하원 청문회에서 &quot;우리가 오늘 통신 보안에 대해 내리는 결정이 내일 우리가 살아갈 사회의 모습을 결정할 것&quot;이라며 강력하게 반대했다.</p>
+<p>암호학자인 매트 블레이즈(Matt Blaze)는 클리퍼 칩이 기술적으로 심각하게 취약함을 논문으로 증명했다. 1995년에는 수학자 대니얼 번스타인(Daniel Bernstein)이 소스 코드도 표현의 자유로 보호받아야 한다는 소송을 제기해 승소했다. 이 판결로 소스 코드는 미국 수정 헌법 제1조에 의해 표현의 자유를 보장받게 되었다. 결국 1996년 클리퍼 칩 정책은 공식 폐기되었고, 같은 해 11월 클린턴 대통령은 암호화 기술을 군수품 목록에서 제외하는 행정명령에 서명했다. 디피와 헬만이 「암호학의 새 방향」을 발표한 1976년 11월로부터 정확히 20년 만에 암호학은 공식적으로 국가의 전유물이 아니게 되었다.</p>
+<h3>DES 폐기와 암호화 표준의 진화</h3>
+<p>미국 국립표준기술연구소(NIST)는 1970년대부터 DES(Data Encryption Standard)를 채택해 사용했다. 그러나 디피와 헬만은 1977년 논문에서 DES의 56비트 키가 짧아 무차별 대입 공격에 취약하다고 경고했다. RSA DES 챌린지 대회에서 첫 번째 시도에 96일, 두 번째 시도에 39일, 세 번째 시도에 22시간 15분 만에 해독되었다. 전자 프런티어 재단은 1998년 &#x27;초당 9천억 개의 키를 시도하는&#x27; DES 크래커를 만들어 56시간 만에 해독했다. 결국 DES는 2005년에 공식 폐기되었다.</p>
+<h3>토르(TOR)의 등장</h3>
+<p>1990년대 후반 미 해군 연구소의 폴 사이빌, 마이클 리드, 데이비드 골드슐렉은 군사 통신용 익명 인터넷 전송 기술로 토르(TOR, The Onion Router)를 개발했다. 토르 네트워크는 입구 노드, 중간 노드, 출구 노드로 구분된 세 개의 중계 노드를 통해 데이터를 전송하며, 데이터는 각 노드의 암호로 양파 껍질처럼 겹겹이 암호화된다. 입구 노드는 사용자의 IP를 알지만 목적지는 모르고, 중간 노드는 출발지와 목적지 모두 모르며, 출구 노드는 목적지는 알지만 출발지는 모른다. 이 설계로 사용자의 신원과 활동이 효과적으로 보호된다.</p>
+<p>미 해군이 익명성을 확보하려면 다양한 사람들이 토르를 사용해 그 인파 속에 숨어야 했다. 그래서 2002년 토르의 초기 코드를 오픈 소스로 공개했다. 2006년 로저 딩글다인, 닉 매튜는 비영리 토르 프로젝트를 공동 설립했다. 현재 비트코인 코어는 토르와의 통합을 기본으로 지원하므로, 중국과 같은 인터넷 검열 국가에서도 VPN과 토르를 이용해 풀 노드를 운영할 수 있다.</p>
+<h3>줄리언 어산지와 위키리크스</h3>
+<p>2006년 사이퍼펑크였던 줄리언 어산지가 위키리크스를 설립했다. 위키리크스는 익명으로 제공된 문서를 공개해 전 세계 정부와 기업의 부조리를 폭로했다. 모토는 &quot;약자에게 프라이버시를, 강자에게 투명성을!&quot;이었다. 2010년 4월 이라크 전쟁 중 민간인을 사살하는 미군 영상을 공개해 큰 파장을 일으켰다.</p>
+<p>미국 정부는 DNS 서비스 제공업체와 호스팅 업체를 압박해 위키리크스를 고립시키려 했다. 금융 서비스 제공업체들(비자, 마스터카드, 페이팔, 뱅크 오브 아메리카)도 위키리크스에 대한 금융 서비스를 차단했다. 이에 위키리크스는 비트코인으로 기부를 받기 시작했다. 비트코인은 검열할 수 없기 때문이다. 당시 사토시 나카모토는 아직 성장 중인 비트코인이 주목받는 것을 원치 않아 위키리크스에 비트코인 사용 자제를 요청하기도 했다.</p>
+<h3>애국자법과 대규모 감시 프로그램</h3>
+<p>2001년 9.11 테러 이후 6주 만에 제정된 애국자법(USA PATRIOT Act)은 정부가 법적 승인 없이도 개인의 전화, 이메일, 인터넷 활동 기록을 감청할 수 있게 했다. 이와 함께 NSA는 비밀 감시 프로그램 &#x27;스텔라 윈드&#x27;를 통해 법적 승인 없이 대규모 데이터를 수집했다. 이 사실이 뉴욕 타임스에 폭로되자 이후에는 FISA(해외정보감시법) 702조에 기반한 합법적 대규모 감시 프로그램 &#x27;프리즘&#x27;으로 전환되었다. 프리즘은 미국 외부 외국인의 전자 통신과 미국 시민의 통신을 부수적으로 감시할 수 있는 법적 기반을 확보했다.</p>
+<p>2013년 에드워드 스노든(Edward Snowden)의 폭로로 대중은 이 대규모 감시 프로그램의 실체를 알게 되었다. 스노든은 전직 CIA 직원이자 NSA 계약직 직원으로, NSA의 광범위한 감시 프로그램에 관한 기밀문서를 언론에 공개했다. 그는 이 행위로 미국에서 간첩 혐의로 기소되었으며, 현재 러시아에 망명 중이다. 스노든의 폭로는 프라이버시 논의에 전 세계적 관심을 불러일으켰다.</p>
+<p>애국자법은 2015년 자유법(USA Freedom Act)으로 대체되었으나, 통화 내역 대량 수집 권한만 삭제되었을 뿐 여전히 법원 승인 없이 특정 정보를 요청할 수 있다. FISA 702조는 계속 연장되어 2024년 4월에도 2년 연장이 결정되었다.</p>
+<h3>전자 화폐 개발의 계보</h3>
+<p>사이퍼펑크들은 금융 검열에 저항하기 위해 민간 전자 화폐 개발을 추구했다. 역사 속에서 수많은 민간 화폐 발행자는 반역자로 간주되어 감옥에 갔을 만큼, 화폐 발행 권한은 국가가 절대 놓지 않으려는 핵심 권력이었다.</p>
+<p>1990년 데이비드 차움이 디지캐시(DigiCash)를 설립하고 1995년 세계 최초의 상업적 전자 화폐 &#x27;e캐시&#x27;를 출시했다. e캐시는 블라인드 서명 기술로 거래 당사자의 신원을 암호화해 제3자가 추적할 수 없게 설계되었다. 네덜란드 정부, 독일 도이체방크, 스위스 크레디트스위스와 계약을 맺고 마이크로소프트와 비자에서 투자도 받았으나, 정부의 눈치를 보던 은행들이 계약을 해지하면서 1998년 파산했다.</p>
+<p>1997년 사이퍼펑크 애덤 백이 해시캐시(Hashcash)를 발명했다. 암호화폐는 아니었지만 해시 함수를 이용해 작업증명 알고리즘을 구현한 것으로, 훗날 비트코인 채굴의 기반이 되었다. 1998년 웨이 다이(Wei Dai)가 b-money를 제안했다. 분산화된 네트워크에서 작업증명으로 화폐를 발행하는 개념으로, 실제로 구현되지는 않았지만 비트코인의 아이디어에 직접적인 영향을 주었다. 사토시는 백서 발표 전 애덤 백과 웨이 다이에게 이메일을 보내 그들의 연구를 인용할 것임을 알렸다.</p>
+<p>2004년 할 피니(Hal Finney)가 재사용 가능한 작업증명(RPOW)을 제안했다. 작업증명을 완료한 사람에게 중앙서버에서 토큰을 주는 방식으로, 에너지 비용이 경제적 가치로 전환되는 개념을 처음 구현했다. 2005년 닉 재보가 비트골드(Bit Gold)를 제안했다. 작업증명으로 화폐를 발행하고, 한정된 공급량으로 희소성을 확보하며, 제3자 신뢰를 필요 없게 하는 개념을 담았다.</p>
+<p>그리고 2008년 10월 31일, 사토시 나카모토가 비트코인 백서를 발표했다. 데이비드 차움의 블라인드 서명, 웨이 다이의 분산화된 네트워크, 애덤 백의 작업증명, 할 피니의 에너지-가치 전환, 닉 재보의 진정한 희소성 등 사이퍼펑크들의 모든 노력이 집대성된 결과물이었다. 비트코인은 사토시 나카모토의 단일한 발명이 아니라 이전 전자 화폐들의 실험과 아이디어를 집대성한 결과물이며, 그 이면에는 개인들의 프라이버시를 보장하고 권력의 투명성을 확보하려는 사이퍼펑크들의 정신이 있었다.</p>
+<h3>할 피니의 이야기</h3>
+<p>할 피니는 PGP의 초기 버전 작업에 참여하고, 최초의 익명 이메일 리메일러를 운영하는 등 사이퍼펑크 활동을 했다. 사토시가 비트코인 소프트웨어 첫 버전을 발표했을 때 즉시 다운로드한 그는 70번대 블록을 채굴했고, 사토시로부터 비트코인을 처음 전송받은 사람이 되었다.</p>
+<p>2009년 8월 할 피니는 ALS(루게릭병) 진단을 받았다. 그럼에도 그는 시선 추적 장치와 음성 합성기로 컴퓨터를 조작하며 코드를 계속 작성했다. 2013년 그가 남긴 글에서 이렇게 적었다. &quot;이것이 제 이야기입니다. 전반적으로 저는 꽤 운이 좋았습니다. ALS에도 불구하고 제 삶은 여전히 매우 만족스럽습니다.&quot; 그는 2014년 8월 28일에 세상을 떠났다.</p>
+<h3>프라이버시를 위한 영원한 투쟁</h3>
+<p>대한민국에서는 통신비밀보호법에 의해 2022년 한 해 동안 법원 허가 없이 수사기관에 넘어간 통신이용자정보가 전화번호 기준 4,339,486건, 2023년에는 4,631,310건에 달한다. 한국의 인터넷 자유도는 66점으로 70점 이상이어야 자유 국가로 분류되는 기준에 미치지 못한다.</p>
+<p>소셜 미디어 플랫폼들도 개인정보를 대규모로 수집하고 남용했다. 페이스북은 사용자 동의 없이 10억 명 이상의 얼굴 스캔 데이터를 수집해 딥페이스 안면 인식 시스템을 개발했다. 2021년에는 106개국 5억 3,300만 명의 페이스북 이용자 개인정보가 유출되었다.</p>
+<p>프라이버시를 지키려는 자들과 이를 죽이려는 자들은 나선형으로 공진화한다. 사이퍼펑크들이 법안 266호, 클리퍼 칩 정책, 기술적 취약점에 맞서 코드를 작성했듯이, 오늘날에도 암호화 기술은 개인 해방의 도구로 계속 발전하고 있다. 시그널, 토르, 에어갭 지갑, 종단 간 암호화 클라우드 등 프라이버시 보호 도구들이 대중에게 제공되고 있다.</p>
+<p>사토시 나카모토는 자신이 누구인지 드러내고 싶지 않았고, 이에 성공했다. 전 세계 정보기관과 언론이 그가 누구인지 밝혀내고자 했음에도 여전히 드러나지 않은 이 사실 자체가, 에릭 휴즈의 말처럼 프라이버시가 &quot;자신을 선택적으로 세상에 드러낼 힘&quot;임을 증명한다. 프라이버시의 시대는 끝나지 않았다.</p>
+<p>비트코인은 디피와 헬만, 차움으로부터 이어진 시공간을 초월한 협력의 산물이며, 이들이 그토록 원했던 빅 브라더를 무력화할 거래 시스템이다. 개인이 도저히 검열 저항성을 확보할 수 없을 것 같았던 금융 영역에서조차 프라이버시와 자유를 지켜낸 것이 바로 비트코인이다.</p>
+</div></article>
+      </section>
+      <section class="card quiz-card">
+        <div class="quiz-panel" data-lang="en">
+          <h2>Quiz</h2>
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: It freed strong cryptography from state secrecy and made it available to civilians — The paper freed strong cryptography from state secrecy, enabling civilians to use tools previously monopolized by agencies like the NSA and paving the way for the cypherpunk movement."
+     data-wrong-text="Answer: It freed strong cryptography from state secrecy and made it available to civilians — The paper freed strong cryptography from state secrecy, enabling civilians to use tools previously monopolized by agencies like the NSA and paving the way for the cypherpunk movement.">
+  <h3>What is the historical significance of Diffie and Hellman&#x27;s 1976 paper &#x27;New Directions in Cryptography&#x27;?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">It introduced the first publicly known cryptographic hash function algorithm</button><button class="quiz-option" data-option-index="1">It freed strong cryptography from state secrecy and made it available to civilians</button><button class="quiz-option" data-option-index="2">It directly provided the technical cryptographic foundation for Bitcoin&#x27;s protocol</button><button class="quiz-option" data-option-index="3">It first published the RSA public-key encryption algorithm to the world</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <h2>퀴즈</h2>
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: 강력한 암호학을 국가 기관의 전유물에서 해방시켜 민간인도 쓸 수 있게 했다 — 이 논문으로 강력한 암호학이 NSA 같은 국가 기관의 전유물에서 해방되어 민간인도 사용할 수 있는 도구가 되었고, 사이퍼펑크 운동의 토대가 마련됐다."
+     data-wrong-text="Answer: 강력한 암호학을 국가 기관의 전유물에서 해방시켜 민간인도 쓸 수 있게 했다 — 이 논문으로 강력한 암호학이 NSA 같은 국가 기관의 전유물에서 해방되어 민간인도 사용할 수 있는 도구가 되었고, 사이퍼펑크 운동의 토대가 마련됐다.">
+  <h3>1976년 디피와 헬만의 「암호학의 새 방향」 논문의 역사적 의의는 무엇인가?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">최초로 공개된 암호화 해시 함수 알고리즘을 세상에 소개했다</button><button class="quiz-option" data-option-index="1">강력한 암호학을 국가 기관의 전유물에서 해방시켜 민간인도 쓸 수 있게 했다</button><button class="quiz-option" data-option-index="2">비트코인 프로토콜의 기술적 암호학 기반을 직접 제시하고 정립했다</button><button class="quiz-option" data-option-index="3">RSA 공개키 암호화 알고리즘을 세계 최초로 공식 발표했다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination"><a class="chapter-nav-link prev" href="./25-프라이버시-기본.html">← 10장 직관적 이해 — 프라이버시</a><a class="chapter-nav-link next" href="./27-프라이버시-기술.html">10. 프라이버시 — 기술적 이해 →</a></nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

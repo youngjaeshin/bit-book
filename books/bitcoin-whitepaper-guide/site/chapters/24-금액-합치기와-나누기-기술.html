@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>9장 기술적 이해 — 타원곡선 암호학과 비트코인 지불 방식 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← 목차로 돌아가기</a>
+      </nav>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>9장 기술적 이해 — 타원곡선 암호학과 비트코인 지불 방식</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · Chapter 9 Technical Understanding — Elliptic Curve Cryptography and Bitcoin Payment Methods</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
+          <div class="digest">
+<h2>Chapter 9 Technical Understanding — Elliptic Curve Cryptography and Bitcoin Payment Methods</h2>
+<h3>Elliptic Curve Arithmetic</h3>
+<p>The relationship between Bitcoin&#x27;s private key and public key rests on Elliptic Curve Cryptography (ECC). Bitcoin uses a specific curve called secp256k1, defined by y² = x³ + 7.</p>
+<p>Elliptic curve addition is defined as follows. Given two points P and Q on the curve, draw the line through them. The line intersects the curve at a third point −R; reflecting −R across the x-axis gives R = P + Q. This addition obeys commutativity and associativity. For P(x₁, y₁) and Q(x₂, y₂), compute slope m = (y₂ − y₁)/(x₂ − x₁) and derive R&#x27;s coordinates algebraically. When P = Q, use the tangent line at P instead.</p>
+<p>Scalar multiplication kG repeats elliptic curve addition k times. Using the double-and-add algorithm, computing kG for a k with n bits requires at most 2n operations — linear in the bit length of k.</p>
+<h3>Finite Fields and the Discrete Logarithm Problem</h3>
+<p>In cryptography, points on the elliptic curve are restricted to a finite field defined by a prime p. The finite field Fp contains only integers from 0 to p − 1. Addition and multiplication are performed normally and then reduced mod p. The multiplicative inverse uses Fermat&#x27;s little theorem: a⁻¹ = a^(p−2) mod p.</p>
+<p>For secp256k1, the prime p is 2²⁵⁶ − 2³² − 977, an astronomically large number. The set of points satisfying y² ≡ x³ + 7 (mod p) forms the basis for cryptographic operations.</p>
+<p>The discrete logarithm problem is the security foundation of ECC. Computing Q = kG from k and G takes linear time O(n). Recovering k from G and Q has no known efficient algorithm — it takes exponential time O(2ⁿ) via brute force. With k at 256 bits, this reversal is computationally infeasible.</p>
+<h3>Deriving the Public Key</h3>
+<p>A Bitcoin private key is a 256-bit random number. The public key is Q = kG, computed via elliptic curve scalar multiplication with the generator point G whose coordinates are fixed in the secp256k1 specification. Q is a point (x, y) on the curve.</p>
+<p>The WIF (Wallet Import Format) encoding of a private key prepends 0x80, double-SHA256 hashes the result, appends the first 4 bytes of the hash as a checksum, and Base58-encodes the whole thing. Base58 excludes the characters 0, I, O, and l to reduce the risk of misreading. A WIF private key starts with &#x27;5&#x27;.</p>
+<p>Public keys come in two forms. The uncompressed form is 0x04 ‖ x ‖ y (520 bits). The compressed form observes that for any x, the two valid y values are one even and one odd; prefix 0x02 if y is even, 0x03 if y is odd, followed only by x (264 bits — roughly half the size). The compressed form reduces block space consumption and transaction fees. A private key intended to derive a compressed public key has 0x01 appended before the checksum is computed, producing a compressed WIF key starting with &#x27;K&#x27; or &#x27;L&#x27;.</p>
+<h3>ECDSA — Elliptic Curve Digital Signature Algorithm</h3>
+<p>A trapdoor function is easy to compute in one direction but infeasible to reverse. Given k and G, computing Q = kG is straightforward; recovering k from G and Q is the discrete logarithm problem. The private key acts as the trapdoor. Because different keys are used for signing and verification, this constitutes asymmetric-key cryptography. The foundational concepts of trapdoor functions and asymmetric keys were introduced by Diffie, Hellman, and Merkle, whose Diffie-Hellman key exchange was the first publicly disclosed public-key cryptosystem.</p>
+<p>To generate an ECDSA signature, three inputs are required: the private key k, the hash z of the unsigned raw transaction, and a freshly generated 256-bit nonce r. Compute R = rG and let Rx be R&#x27;s x-coordinate. The signature s is s = r⁻¹(z + Rx · k) mod n, where n is the order of the elliptic curve group. The pair (Rx, s) constitutes the signature.</p>
+<p>Verification uses only public information: signature (Rx, s), transaction hash z, generator G, and public key Q. Compute (z/s)G + (Rx/s)Q; if its x-coordinate equals Rx, the signature is valid. No private key exposure is needed — this is the zero-knowledge-like property of the scheme.</p>
+<p>Reusing the nonce r, or using a nonce with insufficient randomness, leaks the private key: two signatures with the same r yield a system of two equations in two unknowns (r and k), solvable for k. The 2013 Android wallet hack exploited exactly this vulnerability.</p>
+<h3>Schnorr Signatures</h3>
+<p>Claus-Peter Schnorr developed a more efficient signature scheme in 1989. Rather than using the modular inverse in ECDSA&#x27;s signing step, Schnorr hashes the concatenation of Rx, the public key Q, and the raw transaction m together: s = r + H(Rx ‖ Q ‖ m) · k mod n. The patent expired in 2008, and Schnorr signatures were introduced to Bitcoin via the Taproot upgrade in November 2021 (block 709,632). Both ECDSA and Schnorr are currently in use.</p>
+<p>Schnorr&#x27;s most significant advantage is its native support for multisignature aggregation. Add M public keys with elliptic curve addition to obtain a single aggregate public key Q. Each of M signers contributes a partial signature si; summing them yields a single aggregate signature s. The result is indistinguishable from a single-signer transaction — no individual public keys appear in the locking script, preserving participant privacy and reducing script size and fees.</p>
+<p>Pure M-of-M Schnorr multisig works straightforwardly, but M-of-N threshold signing (any M of N signers suffice) requires Shamir&#x27;s Secret Sharing. The idea: construct a polynomial of degree M − 1 with the private key k as the constant term; sample N distinct points on the polynomial and distribute one to each participant. Recovering k requires at least M points (via Lagrange interpolation); M − 1 points reveal nothing about k.</p>
+<p>Combining Schnorr and Shamir gives the FROST protocol (Flexible Round-Optimized Schnorr Threshold Signatures). FROST aggregates public key shares and signature shares using Lagrange weights, enabling any M of N participants to produce a signature verifiable by the aggregate public key.</p>
+<h3>Bitcoin Payment Methods</h3>
+<p>**Legacy Address and P2PKH:** Hash the public key with SHA256 then RIPEMD160, prepend the version byte 0x00, append a 4-byte checksum, and Base58-encode to get a legacy address beginning with &#x27;1&#x27;. P2PKH (Pay-to-Public-Key-Hash) stores the address in the locking script and requires the spender to present both a signature and the full public key in the unlocking script. The public key is revealed only at spend time, making it safer than P2PK.</p>
+<p>**P2MS and P2SH:** P2MS (Pay-to-Multi-Sig) embeds all public keys directly in the locking script, which burdens full nodes&#x27; UTXO set storage. P2SH (Pay-to-Script-Hash) addresses this by hashing the original locking script (the redeem script) and storing only that hash in the locking script. The redeem script itself is presented in the unlocking script when spending. P2SH addresses use the prefix 0x05 and always begin with &#x27;3&#x27;.</p>
+<p>When the script engine encounters OP_HASH160 and OP_EQUAL in combination, it recognizes a P2SH transaction and treats the presented redeem script as a new locking script to evaluate. This lets the sender use a simple hash-based address while the complex multi-signature logic is managed entirely by the recipient.</p>
+<p>Beyond these, segwit introduced P2WPKH and P2WSH, and Taproot introduced P2TR addresses (beginning with &#x27;bc1p&#x27;). Each advancement improves efficiency, security, and privacy simultaneously — a trajectory that continues with ongoing protocol development.</p>
+</div>
+        </article>
+        <article class="card lang-panel active" data-lang="ko">
+          <div class="digest">
+<h2>9장 기술적 이해 — 타원곡선 암호학과 비트코인 지불 방식</h2>
+<h3>타원곡선 연산</h3>
+<p>비트코인에서 개인키와 공개키의 관계는 타원곡선 암호학(ECC, Elliptic Curve Cryptography)에 기반한다. 비트코인은 ECC의 한 변형인 secp256k1 곡선을 사용하며, 이 곡선의 관계식은 y² = x³ + 7이다.</p>
+<p>타원곡선 연산에서 덧셈은 다음과 같이 정의된다. 타원곡선 위의 두 점 P와 Q를 잇는 직선이 타원곡선과 만나는 세 번째 교점 -R을 x축에 대해 대칭한 점을 R = P + Q로 정의한다. 이 덧셈 연산은 교환법칙과 결합법칙이 성립한다. 두 점 P(x₁, y₁), Q(x₂, y₂)에 대해 기울기 m = (y₂ - y₁)/(x₂ - x₁)를 구하고, 이를 이용해 R의 좌표를 계산한다. P = Q인 경우에는 점 P에서의 접선을 이용해 특수하게 정의한다.</p>
+<p>타원곡선에서 스칼라곱은 정수 k와 타원곡선 위의 점 G를 곱하는 연산으로, 덧셈을 k번 반복해 구한다. 스칼라곱은 분배법칙이 성립하며, 이중 지수(double-and-add) 방식을 사용하면 k가 n비트일 때 최대 2n번의 연산으로 계산할 수 있다.</p>
+<h3>유한체와 이산 로그 문제</h3>
+<p>암호학에서 타원곡선 위의 점은 특정 소수 p를 법(mod)으로 하는 모듈러 연산 위에서 정의된다. 유한체 Fp에서는 0부터 p-1까지의 정수만을 원소로 가진다. 유한체에서 덧셈과 곱셈은 일반 연산 후 mod p를 취하면 되고, 역수는 페르마의 소정리(ap-1 ≡ 1 mod p)를 이용해 a⁻¹ = a^(p-2) mod p로 정의한다.</p>
+<p>secp256k1의 소수 p는 2²⁵⁶ - 2³² - 977로 매우 큰 값이다. 유한체에서 타원곡선 방정식을 만족하는 점들의 집합이 암호학적 연산의 기반이 된다.</p>
+<p>이산 로그 문제는 타원곡선 암호학의 보안 근거다. G와 k를 알면 Q = kG를 선형 시간(O(n))에 계산할 수 있다. 그러나 G와 Q를 알고 있을 때 k를 역산하는 방법은 무차별 대입 외에 알려진 효율적 알고리즘이 없으며, 이것이 지수 시간(O(2ⁿ)) 문제다. k가 256비트인 경우 이 역산은 현실적으로 불가능하다.</p>
+<h3>공개키 산출 방식</h3>
+<p>비트코인에서 개인키는 256비트의 무작위 숫자다. 공개키는 생성 포인트 G와 개인키 k의 타원곡선 스칼라곱으로 계산한다: Q = kG. 공개키 Q는 타원곡선 위의 점 좌표 (x, y)로 표현된다.</p>
+<p>개인키의 보관 형식인 WIF(Wallet Import Format)는 개인키 앞에 0x80을 붙이고, SHA256으로 두 번 해싱한 해시값의 앞 4바이트를 체크섬으로 뒤에 붙인 후 Base58로 인코딩한 것이다. Base58은 숫자 0, 영어 대문자 I와 O, 소문자 l의 4개 문자를 제외한 62개 문자로 이루어진 58진법으로, 사람이 읽을 때 오독할 위험을 줄이면서도 표현 길이를 줄인다. WIF 형식의 개인키는 &#x27;5&#x27;로 시작한다.</p>
+<p>공개키는 비압축 형식(0x04 + x좌표 + y좌표, 520비트)과 압축 형식(0x02 또는 0x03 + x좌표, 264비트) 두 가지가 있다. 유한체에서 타원곡선 방정식의 y값은 두 개가 있는데 하나는 짝수, 하나는 홀수다. y가 짝수면 0x02, 홀수면 0x03을 접두사로 붙인다. 압축 공개키는 비압축 공개키의 약 절반 크기로, 블록 용량 절약과 수수료 절감에 기여한다. 압축 공개키를 사용하도록 파생할 개인키는 WIF 형식 계산 시 체크섬을 붙이기 전에 0x01을 추가하며, 이렇게 만든 압축 WIF 개인키는 &#x27;K&#x27; 또는 &#x27;L&#x27;로 시작한다.</p>
+<h3>타원곡선 디지털 서명 알고리즘 (ECDSA)</h3>
+<p>트랩도어 함수는 한쪽 방향으로는 쉽게 계산할 수 있지만 역산은 불가능한 함수다. 공개키 Q = kG를 계산하는 것은 쉽지만, Q와 G를 알고 k를 역산하는 것은 이산 로그 문제로 인해 불가능하다. 개인키는 트랩도어의 역할을 한다. 이처럼 암호화와 복호화에 서로 다른 키가 사용되는 것을 비대칭키 암호화 알고리즘이라 한다. 공개키 암호화의 핵심 개념은 디피, 헬만, 머클이 제시했으며, 이들의 디피-헬만 키 교환 알고리즘이 최초로 대중에게 공개된 공개키 암호화 방식이다.</p>
+<p>ECDSA 서명 생성에는 개인키 k, 원시 거래 데이터의 해시값 z, 그리고 매번 무작위로 생성해야 하는 256비트 임시값 r이 필요하다. 임시값으로부터 R = rG를 계산하고 R의 x좌표를 Rx라 한다. 서명 s는 s = r⁻¹(z + Rx·k) mod n으로 계산한다(n은 타원곡선 군의 위수). 서명 제시 시에는 (Rx, s) 쌍을 함께 제시한다.</p>
+<p>서명 검증은 공개된 정보인 서명 s, 거래 해시값 z, 생성 포인트 G, 임시값의 R, 공개키 Q를 이용한다. 검증식 (z/s)G + (Rx/s)Q의 x좌표가 Rx와 일치하면 서명이 유효하다. 검증에 개인키가 필요하지 않으므로 개인키를 노출하지 않고도 검증이 가능하다. 이처럼 중요한 정보를 공개하지 않고 검증할 수 있는 성질을 영지식성(Zero-Knowledge-like Property)이라 한다.</p>
+<p>임시값 r을 재사용하거나 무작위성이 부족하면 개인키가 노출될 수 있다. 두 서명에 같은 r이 사용된 경우 이원연립방정식으로 개인키를 역산할 수 있기 때문이다. 2013년에 발생한 해킹이 바로 이 취약점을 이용한 것이었다.</p>
+<h3>슈노르 서명</h3>
+<p>클라우스-페터 슈노르(Claus-Peter Schnorr)가 1989년 개발한 슈노르 서명은 ECDSA보다 효율적이다. ECDSA에서 쓰이는 유한체 역수 연산이 복잡한 반면, 슈노르 서명에서는 R의 x좌표 Rx, 공개키 Q, 원시 거래 데이터 m을 한꺼번에 해싱해 서명 s = r + H(Rx‖Q‖m)·k mod n으로 계산한다. 특허가 2008년에 만료되었고, 탭루트(Taproot) 업그레이드를 통해 2021년 11월(블록 높이 709,632)에 비트코인에 도입되었다. 현재는 ECDSA와 슈노르 서명이 함께 사용된다.</p>
+<p>슈노르 서명의 큰 장점은 다중서명 처리다. M명의 공개키를 타원곡선 덧셈으로 모두 더해 단일 공개키 Q를 만들고, M명이 각자 서명한 값 si를 모두 더해 단일 서명 s를 만들면, 기존 단일 서명과 동일한 형태로 다중서명을 처리할 수 있다. 잠금 스크립트에 각 공개키를 노출할 필요가 없어 프라이버시를 보호하고, 스크립트 크기도 줄어들어 수수료도 절감된다. 외부에서는 해당 거래가 다중서명 거래인지 단일서명 거래인지 구분할 수 없다.</p>
+<p>슈노르 서명으로 M of M 다중서명은 쉽게 구현되지만, M of N 다중서명(N명 중 M명만 서명)을 구현하려면 샤미르 분산(Shamir&#x27;s Secret Sharing)이 필요하다. 샤미르 분산의 원리는 다음과 같다. (M-1)차 다항함수를 만들되 상수항을 단일 개인키 k로 설정한다. 이 함수 위의 서로 다른 점 N개를 구해 N명에게 분배한다. M개 이상의 점이 모여야 라그랑주 보간법으로 다항함수를 복원할 수 있고, 상수항인 k를 알아낼 수 있다. M-1개 이하의 점으로는 k를 알아낼 수 없다.</p>
+<p>슈노르 서명과 샤미르 분산을 결합해 M of N 다중서명을 가능하게 하는 것이 FROST(Flexible Round-Optimized Schnorr Threshold signatures) 프로토콜이다. FROST에서는 단일 공개키를 각 공개키에 라그랑주 가중치를 곱해 합산하고, 서명 시에도 M명이 라그랑주 가중치를 반영해 각자 서명한 값을 합산한다. 이를 통해 M명만 모여도 단일 공개키로 검증 가능한 서명을 생성할 수 있다.</p>
+<h3>다양한 비트코인 지불 방식</h3>
+<p>**레거시 주소와 P2PKH:** 공개키를 SHA256과 RIPEMD160으로 순차 해싱한 뒤, 접두사 0x00을 붙이고 체크섬을 추가한 후 Base58로 인코딩하면 레거시 주소(1로 시작)가 된다. P2PKH(Pay-to-Public-Key-Hash)는 잠금 스크립트에 공개키 해시값(주소)을 담고, 해제 스크립트에서 서명과 공개키를 함께 제시한다. 공개키를 지불하는 시점에만 공개하므로 P2PK보다 안전하다.</p>
+<p>**P2MS와 P2SH:** P2MS(Pay-to-Multi-Sig)는 M of N 다중서명 방식으로, 잠금 스크립트에 공개키들이 직접 담겨 풀 노드의 UTXO 세트 부담이 크다. P2SH(Pay-to-Script-Hash)는 이를 개선해, 원본 잠금 스크립트(리딤 스크립트)를 해싱한 값만 잠금 스크립트에 담는다. 리딤 스크립트 자체는 해제 스크립트에 제시한다. P2SH 주소는 접두사 0x05를 붙여 인코딩하므로 &#x27;3&#x27;으로 시작한다.</p>
+<p>P2SH에서 잠금 스크립트에 OP_HASH160과 OP_EQUAL이 조합되어 있으면 스크립트 엔진이 자동으로 P2SH 거래로 인식하고, 리딤 스크립트를 잠금 스크립트처럼 취급해 추가로 검증한다. 이로써 다중서명의 복잡한 로직을 수신자 측에서만 관리하면 되고, 송신자는 단순한 해시값 주소로 전송할 수 있다.</p>
+<p>이외에 세그윗 지불 방식인 P2WPKH, P2WSH, 탭루트 주소 형식인 P2TR 등이 있으며, 슈노르 서명을 활용한 탭루트 주소는 &#x27;bc1p&#x27;로 시작한다. 이러한 다양한 지불 방식의 발전은 효율성, 보안성, 프라이버시를 동시에 강화하는 방향으로 이루어졌다.</p>
+</div>
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        <div class="quiz-panel" data-lang="en">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: y² = x³ + 7 (mod p) — Bitcoin uses the secp256k1 curve y² = x³ + 7 (mod p), where p is the prime 2²⁵⁶ − 2³² − 977. Its simple form with a=0, b=7 offers high computational efficiency."
+     data-wrong-text="Answer: y² = x³ + 7 (mod p) — Bitcoin uses the secp256k1 curve y² = x³ + 7 (mod p), where p is the prime 2²⁵⁶ − 2³² − 977. Its simple form with a=0, b=7 offers high computational efficiency.">
+  <h3>What is the equation of the elliptic curve secp256k1 used by Bitcoin?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">y² = x³ + 7 (mod p)</button><button class="quiz-option" data-option-index="1">y² = x³ + 4x + 7 (mod p)</button><button class="quiz-option" data-option-index="2">y² = x² + 7 (mod p)</button><button class="quiz-option" data-option-index="3">y² = x³ - 3x + 7 (mod p)</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <div class="quiz-box" data-answer-index="0"
+     data-correct-text="Answer: y² = x³ + 7 (mod p) — 비트코인은 secp256k1 곡선 y² = x³ + 7 (mod p)를 사용한다. 여기서 p는 2²⁵⁶ - 2³² - 977의 소수다. a=0, b=7이라는 단순한 형태로 계산 효율이 높다."
+     data-wrong-text="Answer: y² = x³ + 7 (mod p) — 비트코인은 secp256k1 곡선 y² = x³ + 7 (mod p)를 사용한다. 여기서 p는 2²⁵⁶ - 2³² - 977의 소수다. a=0, b=7이라는 단순한 형태로 계산 효율이 높다.">
+  <h3>비트코인이 사용하는 타원곡선 secp256k1의 방정식은?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">y² = x³ + 7 (mod p)</button><button class="quiz-option" data-option-index="1">y² = x³ + 4x + 7 (mod p)</button><button class="quiz-option" data-option-index="2">y² = x² + 7 (mod p)</button><button class="quiz-option" data-option-index="3">y² = x³ - 3x + 7 (mod p)</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./23-금액-합치기와-나누기-기본.html">← 이전 장 · 9장 직관적 이해 — 금액 합치기와 나누기</a>
+        <a class="chapter-nav-link next" href="./25-프라이버시-기본.html">→ 다음 장 · 10장 직관적 이해 — 프라이버시</a>
+      </nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

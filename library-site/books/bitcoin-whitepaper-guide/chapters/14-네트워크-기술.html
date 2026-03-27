@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>5. 네트워크 — 기술 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../../../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← Back to book</a> · <a href="../../../index.html">Library</a>
+      </nav>
+      <header class="reading-hero card">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>5. 네트워크 — 기술</h1>
+        <p class="subtitle reading-subtitle">5. Network — Technical</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en"><div class="digest">
+<h2>5. Network — Technical</h2>
+<h3>Chapter Digest</h3>
+<p>When Bitcoin Core is installed for the first time, it must connect to other nodes before it can participate in the network. Bitcoin uses the TCP protocol on port 8333. If cached IP addresses of previously connected peers exist, the node attempts to reconnect for eleven seconds. If that fails it queries DNS seed nodes whose addresses are hard-coded in the software. If DNS seeding also fails the node tries IP addresses hard-coded directly in the chainparamsseeds.h file, serialized per BIP-155. Once connected, nodes exchange a version message containing software version, IP address, UTC timestamp, and the highest block height the node holds. The peer replies with verack to complete the handshake. Nodes then exchange addr and getaddr messages to advertise and discover IP addresses of other peers, broadening the connection graph. Each node maintains up to 125 peer connections, with a minimum of eight outbound connections. Every thirty minutes the node sends a ping; the peer must respond with pong within ninety minutes or the connection is dropped.</p>
+<p>A node newly joining the network must download the entire block history through Initial Block Download (IBD). The genesis block is hard-coded in Bitcoin Core itself and does not need to be downloaded. During the version handshake both nodes share their BestHeight — the height of the highest block they hold. The node with the longer chain sends block headers in batches of 2,000 via an inv message. The receiving node double-hashes each header to verify it, then sends getdata messages requesting the full block data for verified headers. To maximize speed, different blocks are requested from different peers simultaneously, and peers with consistently slow responses are disconnected and replaced. If storage space is limited, the prune option retains all block headers but discards older transaction data, producing a pruned node rather than a full node.</p>
+<p>Faster block propagation between miners has also been a focus of ongoing improvement. When a newly mined block propagates slowly, forks occur and the losing chain&#x27;s hash power is wasted. In 2015 Matt Corallo built the first Bitcoin relay network using Amazon Web Services. In 2016 Blockstream launched FIBRE, a UDP-based relay network that was much faster but required forward error correction and HMAC integrity checks to compensate for UDP&#x27;s lack of delivery guarantees. That same year BIP-152 was adopted and built into Bitcoin Core 0.13.0, making FIBRE unnecessary. BIP-152 introduced compact block relay: instead of transmitting the full contents of a new block, the sending node transmits only transaction IDs (txids). The receiving node matches those txids against its own mempool and requests only the transactions it does not already have. This dramatically reduces the volume of data transmitted per block propagation event, cutting the time between block discovery and network-wide acknowledgment. Stale block rates have fallen substantially as a result.</p>
+<p>Bitcoin occupies the role of base-layer protocol for value transfer on the internet, just as TCP/IP is the base layer for data transfer. Since TCP/IP was standardized, countless &quot;Clean Slate Internet&quot; proposals have suggested replacing it with something better — yet none succeeded, because simultaneously updating every device on earth is impossible. The same logic applies to Bitcoin. Any genuinely better technology should be built on top of Bitcoin rather than attempting to replace it. The Lightning Network, which enables near-instant payments, is exactly such a second-layer protocol built atop the Bitcoin base layer. As Satoshi Nakamoto wrote, &quot;The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.&quot; Bitcoin&#x27;s immutability at the base layer is a feature, not a limitation.</p>
+</div></article>
+        <article class="card lang-panel active" data-lang="ko"><div class="digest">
+<h2>5. 네트워크 — 기술</h2>
+<h3>Chapter Digest</h3>
+<p>비트코인 코어를 처음 설치하면 다른 노드와 연결하는 과정이 필요하다. 비트코인 네트워크는 TCP 프로토콜을 사용하며 포트 8333번을 통해 통신한다. 이전에 연결했던 이웃 노드의 IP 주소가 캐시에 있으면 먼저 11초 동안 연결을 시도한다. 캐시가 없거나 연결에 실패하면 DNS 시드 노드를 통해 IP 주소 목록을 받아온다. 그래도 실패하면 비트코인 코어 프로그램에 하드코딩된 IP 주소로 직접 연결을 시도한다. 이웃 노드와 연결되면 version 메시지를 교환하는 핸드셰이크를 진행하고, addr 메시지와 getaddr 메시지를 통해 서로의 IP 주소를 공유해 연결망을 확장한다. 노드는 최대 125개의 이웃 노드와 연결될 수 있으며, 아웃바운드 연결을 최소 8개 유지해야 한다. 30분마다 ping을 보내고 90분 이내에 pong을 받아 연결 상태를 유지한다.</p>
+<p>처음 네트워크에 합류한 노드는 초기 블록 다운로드(IBD)를 통해 전체 블록 데이터를 받는다. 제네시스 블록은 비트코인 코어 프로그램에 하드코딩되어 있으므로 별도로 내려받지 않는다. 이웃 노드와 version 메시지를 교환할 때 서로가 보유한 블록의 최대 높이(BestHeight)를 공유하고, 더 긴 체인을 가진 노드가 블록 헤더를 2,000개씩 전송한다. 블록 헤더 검증이 완료되면 getdata 메시지로 전체 블록 데이터를 요청하되, 여러 노드에 서로 다른 블록을 분산 요청해 속도를 높인다. 저장 공간이 부족하면 prune 기능을 사용해 블록 헤더는 모두 유지하면서 거래 데이터는 일부 삭제할 수 있다.</p>
+<p>블록 전파 속도를 높이기 위한 기술적 노력도 이어졌다. 새로 채굴된 블록이 빠르게 전파되지 않으면 분기가 발생해 스테일 블록이 생기고 채굴자의 비용이 낭비된다. 2015년 맷 코랄로가 AWS 기반의 채굴자 중개 네트워크를 구축했고, 2016년에는 블록스트림이 UDP 기반의 FIBRE 네트워크를 개발했다. 그러나 같은 해 BIP-152가 채택되어 압축 블록 중계 기능이 비트코인 코어 0.13.0에 내장되었다. 이 기능은 블록 전송 시 거래 전체 데이터 대신 txid만 전달하고, 수신 노드는 자신의 멤풀과 대조해 없는 거래만 추가로 요청하는 방식이다. 이로써 전송 데이터 양이 대폭 줄어 블록 전파 속도가 크게 향상되었고, FIBRE는 2022년 이후 사용되지 않는다.</p>
+<p>비트코인은 가치 전송 측면에서 인터넷의 기반 레이어(base layer)다. TCP/IP가 표준으로 자리 잡은 이후 그것을 대체하자는 클린 슬레이트 제안들이 수없이 나왔지만 현실화된 것은 없다. 전 세계 수십억 개의 인터넷 연결 장치를 동시에 업데이트하는 것은 불가능하기 때문이다. 비트코인 프로토콜도 마찬가지다. 이미 전 세계에 채택된 기반 레이어는 변경할 수 없으며, 더 좋은 기술이 있다면 비트코인 위에 구현하면 된다. 라이트닝 네트워크가 비트코인 위에 구축된 제2 레이어인 것이 그 예다. 사토시 나카모토가 &quot;버전 0.1이 출시된 순간부터 핵심 설계가 평생 확정되었다&quot;고 밝혔듯이, 비트코인의 기반 레이어는 불변성을 갖는다.</p>
+</div></article>
+      </section>
+      <section class="card quiz-card">
+        <div class="quiz-panel" data-lang="en">
+          <h2>Quiz</h2>
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: Attempt cached peers → DNS seed query → direct connection to hard-coded IPs — Bitcoin Core first attempts to reconnect to previously cached peer IPs for eleven seconds. If that fails it queries DNS seed nodes for one minute. If that also fails it tries direct connection to IP addresses hard-coded in the program."
+     data-wrong-text="Answer: Attempt cached peers → DNS seed query → direct connection to hard-coded IPs — Bitcoin Core first attempts to reconnect to previously cached peer IPs for eleven seconds. If that fails it queries DNS seed nodes for one minute. If that also fails it tries direct connection to IP addresses hard-coded in the program.">
+  <h3>What is the correct order of steps Bitcoin Core takes to find peers when installed for the first time?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">Direct connection to hard-coded IPs → DNS seed query → attempt cached peers</button><button class="quiz-option" data-option-index="1">DNS seed query → attempt cached peers → direct connection to hard-coded IPs</button><button class="quiz-option" data-option-index="2">Attempt cached peers → DNS seed query → direct connection to hard-coded IPs</button><button class="quiz-option" data-option-index="3">Query Bitcoin Foundation server → DNS seed query → attempt cached peers</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <h2>퀴즈</h2>
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: 캐시된 이전 노드 연결 시도 → DNS 시드 조회 → 하드코딩된 IP 주소 직접 연결 — 비트코인 코어는 먼저 캐시에 저장된 이전 이웃 노드 IP로 11초간 연결을 시도한다. 실패하면 DNS 시드 노드를 1분간 조회한다. 그래도 실패하면 프로그램에 하드코딩된 IP 주소로 직접 연결을 시도한다."
+     data-wrong-text="Answer: 캐시된 이전 노드 연결 시도 → DNS 시드 조회 → 하드코딩된 IP 주소 직접 연결 — 비트코인 코어는 먼저 캐시에 저장된 이전 이웃 노드 IP로 11초간 연결을 시도한다. 실패하면 DNS 시드 노드를 1분간 조회한다. 그래도 실패하면 프로그램에 하드코딩된 IP 주소로 직접 연결을 시도한다.">
+  <h3>비트코인 코어를 처음 설치했을 때 이웃 노드와 연결하는 과정의 순서는?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">하드코딩된 IP 주소 직접 연결 → DNS 시드 조회 → 캐시된 이전 노드 연결 시도</button><button class="quiz-option" data-option-index="1">DNS 시드 조회 → 캐시된 이전 노드 연결 시도 → 하드코딩된 IP 주소 직접 연결</button><button class="quiz-option" data-option-index="2">캐시된 이전 노드 연결 시도 → DNS 시드 조회 → 하드코딩된 IP 주소 직접 연결</button><button class="quiz-option" data-option-index="3">비트코인 재단 서버 조회 → DNS 시드 조회 → 캐시된 이전 노드 연결 시도</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination"><a class="chapter-nav-link prev" href="./13-네트워크-심화.html">← 5. 네트워크 — 심화</a><a class="chapter-nav-link next" href="./15-인센티브-기본.html">6. 인센티브 — 기본 →</a></nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>5. 네트워크 — 기본 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← 목차로 돌아가기</a>
+      </nav>
+      <header class="hero compact reading-hero">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>5. 네트워크 — 기본</h1>
+        <p class="reading-subtitle">Bitcoin Whitepaper Guide · 5. Network — Basics</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en">
+          <div class="digest">
+<h2>5. Network — Basics</h2>
+<h3>Chapter Digest</h3>
+<p>Every device participating in the Bitcoin network is called a node. A node is any device that sends, receives, or relays information, including smartphones, desktops, and routers. As of 2024, approximately twenty thousand nodes are directly connected to the Bitcoin main network.</p>
+<p>Bitcoin nodes fall into three main categories by function. A full node stores every block from the genesis block to the latest, and verifies transactions independently without relying on any external party. A simplified payment verification node (SPV node, or light node) is designed for devices with limited storage or bandwidth; it keeps block headers but borrows data from full nodes to verify transactions through a specialized method. A mining node collects valid transactions from the memory pool (mempool) into a block and performs proof of work. Mining pool operators must run full nodes, but individual miners participating in a pool do not need to.</p>
+<p>When a transaction is broadcast, the network proceeds through six steps. First, the transaction is propagated to all nodes. When Alice signs a transaction sending bitcoin to Bob, that transaction data reaches the main network through her wallet app or her own full node. Each receiving node independently verifies the validity of inputs and outputs, the correctness of the signature, the absence of double-spending, and the compliance of data size. Valid transactions enter the node&#x27;s mempool and are forwarded to neighboring nodes; invalid ones are discarded immediately. Second, mining nodes collect transactions from the mempool and assemble a block. Third, each mining node performs proof of work on its block, varying the nonce until the block&#x27;s hash falls below the target. Fourth, the first mining node to complete proof of work propagates its block to neighboring nodes. Fifth, receiving nodes verify both the block&#x27;s proof of work and the validity of every transaction inside it. Sixth, mining nodes that accept the block begin building the next block using this block&#x27;s hash as their previous-block reference — their implicit vote of acceptance.</p>
+<p>When two mining nodes far apart on the network complete proof of work almost simultaneously, a fork occurs. Each group of nodes mines atop the block it received first, splitting into two camps. This tie breaks as soon as either camp finds the next block. The convergence back to a single chain is called a re-org, and the discarded block is called a stale block. Bitcoin&#x27;s ten-minute block interval exists specifically to keep stale block frequency low; shorter intervals increase forks and paradoxically slow final settlement.</p>
+<p>Not every node must receive every transaction. If most mining nodes have received a transaction, it will soon be included in a block. A node that misses a block discovers the gap when the following block arrives, requests the missing block from neighbors, and fills it in. A block whose predecessor cannot be found is called an orphan block — a distinct concept from a stale block.</p>
+<p>This entire process is Bitcoin. No node needs permission from a trusted third party; each independently verifies transactions and blocks and independently selects the longest chain. This consensus mechanism is called Nakamoto Consensus. It operates on four pillars: decentralization, majority-rule principle, difficulty adjustment, and incentives. Before Bitcoin, reaching such consensus without a trusted third party was considered impossible. Bitcoin&#x27;s invention of Nakamoto Consensus is one of the most profound breakthroughs in the history of monetary systems.</p>
+</div>
+        </article>
+        <article class="card lang-panel active" data-lang="ko">
+          <div class="digest">
+<h2>5. 네트워크 — 기본</h2>
+<h3>Chapter Digest</h3>
+<p>비트코인 네트워크에 참여하는 모든 기기는 노드라고 불린다. 노드는 정보를 송수신하거나 중계하는 모든 장치를 가리키며, 스마트폰, 데스크탑, 공유기 등이 모두 노드다. 비트코인 메인 네트워크에 직접 연결된 노드는 2024년 기준 약 2만 개이다.</p>
+<p>비트코인 노드는 기능에 따라 크게 세 가지로 나뉜다. 풀 노드(Full Node)는 제네시스 블록부터 최신 블록까지 모든 데이터를 저장하고, 어떤 외부 주체에도 의존하지 않고 독립적으로 거래를 검증한다. 단순지불검증 노드(SPV 노드, 라이트 노드)는 저장 공간이나 대역폭이 부족한 기기가 사용하는 방식으로, 블록 헤더만 보관하고 풀 노드로부터 데이터를 빌려 특유의 방법으로 거래를 검증한다. 채굴 노드는 멤풀(mempool)에서 유효한 거래를 모아 블록을 구성하고 작업증명을 수행하는 노드다. 채굴 풀 기업이 운영하는 채굴 노드는 풀 노드여야 하지만, 채굴 풀에 참여하는 개별 채굴자는 풀 노드일 필요가 없다.</p>
+<p>거래가 발생하면 네트워크에서 다음 단계가 순차적으로 진행된다. 첫째, 거래가 생성되어 모든 노드에 전파된다. 예를 들어 앨리스가 밥에게 비트코인을 보내는 거래에 서명하면, 그 거래 데이터는 지갑 앱이나 자신이 운영하는 풀 노드를 통해 메인 네트워크에 올라간다. 거래를 받은 노드는 입출력값의 유효성, 서명의 정합성, 이중지불 여부, 데이터 용량 등을 독립적으로 검증한다. 유효하면 멤풀에 담고 이웃 노드로 전파한다. 유효하지 않으면 즉시 폐기된다. 둘째, 채굴 노드가 멤풀의 거래들을 모아 블록을 구성한다. 셋째, 채굴 노드는 그 블록에 대한 작업증명을 수행한다. 목표값보다 낮은 해시값이 나오도록 논스를 변경하며 해시 함수를 반복한다. 넷째, 작업증명을 완료한 채굴 노드는 블록을 이웃 노드들에게 전파한다. 다섯째, 블록을 받은 노드들은 블록의 작업증명과 내부 거래들의 유효성을 전부 검증한다. 여섯째, 유효성이 확인되면 채굴 노드들은 해당 블록의 해시값을 이전 블록 해시값으로 삼아 다음 블록의 작업증명을 시작한다. 이것이 해당 블록을 승인한다는 의사 표시다.</p>
+<p>네트워크상에서 멀리 떨어진 두 채굴 노드가 거의 동시에 작업증명을 완료하면 분기(fork)가 발생한다. 각 채굴 노드는 먼저 받은 블록을 기준으로 다음 블록 채굴을 시작하므로 두 진영으로 나뉜다. 이 동점 상황은 어느 한쪽이 다음 블록을 먼저 발견하면 해소된다. 더 긴 체인으로 수렴하는 과정을 리오그(re-org)라 하며, 버려진 블록은 스테일 블록(stale block)이 된다. 비트코인의 블록 생성 간격이 10분인 것은 스테일 블록 발생 빈도를 낮게 유지하기 위해서다.</p>
+<p>모든 노드에 모든 거래 데이터가 반드시 전달될 필요는 없다. 다수의 채굴 노드가 거래를 받았다면 해당 거래는 곧 블록에 실릴 것이다. 블록을 전달받지 못한 노드는 다음 블록을 받았을 때 빠진 블록을 발견하고 이웃에게 요청해 받는다. 참조할 이전 블록이 없는 블록을 고아 블록(orphan block)이라 하는데, 스테일 블록과는 다른 개념이다.</p>
+<p>이 모든 과정이 곧 비트코인이다. 어떤 노드도 신뢰받는 제3자의 허가 없이 독립적으로 거래와 블록을 검증하고, 독립적으로 가장 긴 체인을 선택한다. 이 합의 방식을 나카모토 합의라 한다. 나카모토 합의는 분산화, 다수결 원칙, 난이도 조정, 인센티브라는 네 가지 특성 위에서 작동하며, 비트코인 이전에는 신뢰받는 제3자 없이 이런 합의에 도달하는 것이 불가능하다고 여겨졌다.</p>
+</div>
+        </article>
+      </section>
+      <section class="card quiz-card">
+        <h2>Quiz / 퀴즈</h2>
+        <div class="quiz-panel" data-lang="en">
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: Full nodes store all block data from the genesis block and verify transactions independently — Full nodes store all data from the genesis block to the latest block and verify transactions independently without relying on any external party. Light nodes keep only block headers and borrow data from full nodes to verify transactions."
+     data-wrong-text="Answer: Full nodes store all block data from the genesis block and verify transactions independently — Full nodes store all data from the genesis block to the latest block and verify transactions independently without relying on any external party. Light nodes keep only block headers and borrow data from full nodes to verify transactions.">
+  <h3>What is the most essential feature distinguishing a full node from a light node (SPV node)?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">Full nodes perform mining while light nodes do not participate in mining</button><button class="quiz-option" data-option-index="1">Full nodes store all block data from the genesis block and verify transactions independently</button><button class="quiz-option" data-option-index="2">Full nodes can send Bitcoin without an internet connection, enabling offline use</button><button class="quiz-option" data-option-index="3">Full nodes use only Bitcoin Core software while light nodes use different software</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: 풀 노드는 제네시스 블록부터 모든 블록 데이터를 저장하고 독립적으로 거래를 검증한다 — 풀 노드는 제네시스 블록부터 최신 블록까지 모든 데이터를 저장하고 어떤 외부 주체에도 의존하지 않고 독립적으로 거래를 검증한다. 라이트 노드는 블록 헤더만 보관하고 풀 노드로부터 데이터를 빌려 검증한다."
+     data-wrong-text="Answer: 풀 노드는 제네시스 블록부터 모든 블록 데이터를 저장하고 독립적으로 거래를 검증한다 — 풀 노드는 제네시스 블록부터 최신 블록까지 모든 데이터를 저장하고 어떤 외부 주체에도 의존하지 않고 독립적으로 거래를 검증한다. 라이트 노드는 블록 헤더만 보관하고 풀 노드로부터 데이터를 빌려 검증한다.">
+  <h3>풀 노드(full node)가 라이트 노드(SPV 노드)와 구별되는 가장 핵심적인 특징은?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">풀 노드는 채굴 작업을 수행하지만 라이트 노드는 채굴에 참여하지 않는다</button><button class="quiz-option" data-option-index="1">풀 노드는 제네시스 블록부터 모든 블록 데이터를 저장하고 독립적으로 거래를 검증한다</button><button class="quiz-option" data-option-index="2">풀 노드는 인터넷 연결 없이도 비트코인을 전송할 수 있어 오프라인 사용이 가능하다</button><button class="quiz-option" data-option-index="3">풀 노드는 비트코인 코어 소프트웨어만 사용하고 라이트 노드는 다른 소프트웨어를 사용한다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination">
+        <a class="chapter-nav-link" href="./11-작업증명-기술.html">← 이전 장 · 4. 작업증명 — 기술</a>
+        <a class="chapter-nav-link next" href="./13-네트워크-심화.html">→ 다음 장 · 5. 네트워크 — 심화</a>
+      </nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>4. 작업증명 — 기술 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../../../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← Back to book</a> · <a href="../../../index.html">Library</a>
+      </nav>
+      <header class="reading-hero card">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>4. 작업증명 — 기술</h1>
+        <p class="subtitle reading-subtitle">4. Proof of Work — Technical</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en"><div class="digest">
+<h2>4. Proof of Work — Technical</h2>
+<h3>Chapter Digest</h3>
+<p>A Bitcoin block header contains six fields: version, previous block hash, Merkle root, timestamp, difficulty target bits, and nonce. Of these, the difficulty target bits, timestamp, and nonce are directly involved in proof of work.</p>
+<p>The difficulty target bits field occupies four bytes, expressed as eight hexadecimal digits. The first two digits serve as an exponent and the remaining six as a coefficient, together encoding a compact representation of the target value. Proof of work is satisfied when the block&#x27;s hash is numerically smaller than this target. The genesis block&#x27;s target bits were 0x1d00ffff, which encodes the maximum possible target and serves as the permanent reference point. Current mining difficulty is expressed relative to this genesis target as a ratio. By the time of the fourth halving at block height 840,000, difficulty had reached approximately 86 trillion — meaning mining a block was 86 trillion times harder than mining the genesis block.</p>
+<p>The timestamp field in the block header is not used to record the chronological order of transactions. It exists for difficulty adjustment and for the timelock feature on advanced transactions. Miners enter timestamps arbitrarily, so the timestamp of a later block can occasionally be earlier than that of its predecessor — called a negative-duration event. To constrain manipulation, Bitcoin enforces two rules. The Median Time Past (MTP) rule requires that a new block&#x27;s timestamp exceed the median of the eleven preceding blocks&#x27; timestamps, preventing the timestamp from being set unreasonably far in the past. The Future Block Time rule prohibits setting a timestamp more than two hours ahead of the network time derived from neighboring nodes, preventing unreasonable forward manipulation. Even if an attacker successfully mines the difficulty-adjustment block and sets the most extreme timestamp these rules allow, the resulting difficulty change is at most around 0.6%.</p>
+<p>Difficulty resets every 2,016 blocks. The adjustment formula compares the actual time elapsed mining the previous 2,016 blocks against the target of 20,160 minutes (two weeks) and scales the next target proportionally. If those blocks were mined faster than the target the next target decreases (difficulty rises); if slower the target increases (difficulty falls). This mechanism ensures that regardless of how rapidly computing power grows, Bitcoin&#x27;s average block interval remains ten minutes and its security is preserved.</p>
+</div></article>
+        <article class="card lang-panel active" data-lang="ko"><div class="digest">
+<h2>4. 작업증명 — 기술</h2>
+<h3>Chapter Digest</h3>
+<p>블록 헤더에는 여섯 개의 데이터 필드가 있다. 버전, 이전 블록 해시값, 머클 루트, 타임스탬프, 난이도 목표 비트값, 논스값이 그것이다. 이 가운데 작업증명과 직접 연관된 것은 난이도 목표 비트값, 타임스탬프, 논스값이다.</p>
+<p>난이도 목표 비트값은 4바이트, 즉 16진수 8자리로 표현된다. 앞의 2자리는 지수, 뒤의 6자리는 계수가 되어 목표값(target)을 계산한다. 목표값보다 작은 해시값을 찾는 것이 작업증명의 조건이다. 비트코인이 처음 출시되었을 때 제네시스 블록의 목표 비트값은 0x1d00ffff였으며, 이 값이 목표값의 최대치로 영구 고정되어 있다. 현재 채굴 난이도는 이 제네시스 블록의 목표값을 기준값 1.0으로 삼아 상대적으로 얼마나 어려운지를 나타낸다. 4번째 반감기였던 84만 번째 블록 기준 난이도는 약 86조로, 사토시 나카모토가 제네시스 블록을 채굴했던 때보다 86조 배 어려워졌다.</p>
+<p>블록 헤더의 타임스탬프는 거래의 선후 관계를 기록하는 것이 아니라 채굴 난이도 조정을 위해 사용된다. 채굴자가 임의로 입력하는 값이기 때문에 이전 블록보다 과거의 시각을 입력하는 음수 기간 사건이 발생할 수도 있다. 이를 제어하기 위해 비트코인에는 두 가지 규칙이 있다. 중간 과거 시각 규칙(MTP)은 새 블록의 타임스탬프가 직전 11개 블록의 타임스탬프 중앙값보다 반드시 커야 한다는 규칙이다. 미래 블록 시각 규칙은 이웃 노드들의 시각 정보에서 계산한 현재 시각보다 2시간 이상 미래의 시각을 입력할 수 없다는 규칙이다. 이 두 규칙 덕분에 채굴자가 타임스탬프를 조작해 난이도를 인위적으로 낮추려는 시도는 기껏해야 0.6% 수준의 영향에 그친다.</p>
+<p>난이도는 2,016개 블록마다 재설정된다. 재설정 공식은 직전 2,016개 블록의 실제 채굴 시간을 목표 채굴 시간인 20,160분과 비교해 다음 목표값을 비례적으로 조정하는 방식이다. 이 메커니즘 덕분에 비트코인은 향후 연산 능력이 아무리 발전해도 블록 생성 간격을 평균 10분으로 일정하게 유지할 수 있다.</p>
+</div></article>
+      </section>
+      <section class="card quiz-card">
+        <div class="quiz-panel" data-lang="en">
+          <h2>Quiz</h2>
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: The first two digits are the exponent and the last six are the coefficient, used to calculate the target value — The difficulty bits field is a compact representation of the target. The first two digits are the exponent z and the last six are the coefficient S, computing target = S × 2^(8×(z-3))."
+     data-wrong-text="Answer: The first two digits are the exponent and the last six are the coefficient, used to calculate the target value — The difficulty bits field is a compact representation of the target. The first two digits are the exponent z and the last six are the coefficient S, computing target = S × 2^(8×(z-3)).">
+  <h3>In Bitcoin&#x27;s block header difficulty bits field, what do the first two digits and the last six digits represent?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">The first two digits indicate the block version; the last six indicate the starting range of the nonce</button><button class="quiz-option" data-option-index="1">The first two digits are the exponent and the last six are the coefficient, used to calculate the target value</button><button class="quiz-option" data-option-index="2">The first two digits indicate the previous block hash length; the last six indicate the timestamp format</button><button class="quiz-option" data-option-index="3">The first two digits are a mining pool identifier; the last six are a miner public key hash</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <h2>퀴즈</h2>
+          <div class="quiz-box" data-answer-index="1"
+     data-correct-text="Answer: 앞의 두 자리는 지수(exponent), 뒤의 여섯 자리는 계수(coefficient)로 목표값을 계산하는 데 쓰인다 — 난이도 목표 비트값은 목표값을 압축해 표현한 것으로, 앞 두 자리는 지수(z), 뒤 여섯 자리는 계수(S)가 되어 목표값 = S × 2^(8×(z-3)) 으로 계산된다."
+     data-wrong-text="Answer: 앞의 두 자리는 지수(exponent), 뒤의 여섯 자리는 계수(coefficient)로 목표값을 계산하는 데 쓰인다 — 난이도 목표 비트값은 목표값을 압축해 표현한 것으로, 앞 두 자리는 지수(z), 뒤 여섯 자리는 계수(S)가 되어 목표값 = S × 2^(8×(z-3)) 으로 계산된다.">
+  <h3>비트코인 블록 헤더의 난이도 목표 비트값(bits)에서 앞의 두 자리와 뒤의 여섯 자리의 역할은?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">앞의 두 자리는 블록 버전, 뒤의 여섯 자리는 논스값의 시작 범위를 나타낸다</button><button class="quiz-option" data-option-index="1">앞의 두 자리는 지수(exponent), 뒤의 여섯 자리는 계수(coefficient)로 목표값을 계산하는 데 쓰인다</button><button class="quiz-option" data-option-index="2">앞의 두 자리는 이전 블록 해시 길이, 뒤의 여섯 자리는 타임스탬프 형식을 나타낸다</button><button class="quiz-option" data-option-index="3">앞의 두 자리는 채굴 풀 식별자, 뒤의 여섯 자리는 채굴자 공개키 해시를 나타낸다</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination"><a class="chapter-nav-link prev" href="./10-작업증명-심화.html">← 4. 작업증명 — 심화</a><a class="chapter-nav-link next" href="./12-네트워크-기본.html">5. 네트워크 — 기본 →</a></nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>

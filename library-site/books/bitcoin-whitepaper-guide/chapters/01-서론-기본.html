@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>서론 — 직관적 이해 · 비트코인 백서 해설</title>
+    <link rel="stylesheet" href="../../../assets/styles.css" />
+  </head>
+  <body class="library-book-page library-reading-page">
+    <main class="container">
+      <nav class="topnav">
+        <a href="../index.html">← Back to book</a> · <a href="../../../index.html">Library</a>
+      </nav>
+      <header class="reading-hero card">
+        <p class="eyebrow">비트코인 백서 해설</p>
+        <h1>서론 — 직관적 이해</h1>
+        <p class="subtitle reading-subtitle">Introduction — Intuitive Understanding</p>
+      </header>
+      <div class="lang-toggle reading-toggle">
+        <button class="lang-btn" data-lang="en">English</button>
+        <button class="lang-btn active" data-lang="ko">한국어</button>
+      </div>
+      <section class="grid reading-grid">
+        <article class="card lang-panel" data-lang="en"><div class="digest">
+<h2>Introduction — Intuitive Understanding</h2>
+<h3>Chapter Digest</h3>
+<p>Online commerce has relied almost entirely on trusted third parties (TTPs) such as financial institutions to process electronic payments. If transactions cannot be reversed, sellers can defraud buyers; if they can be reversed, buyers can defraud sellers. To resolve this dilemma, intermediaries like card companies and platforms step in, but their involvement generates four structural costs: mediation fees, excessive personal information demands, minimum transaction thresholds that block micropayments, and settlement delays that starve small merchants of working capital.</p>
+<p>Buying a fish-shaped pastry with cash requires no name, no credit score, no home address. Yet the moment the same transaction moves online, a third party intervenes, fees attach, and personal data must be surrendered. Even irreversible services — a six-hour hair extension, a restaurant meal already consumed — become reversible under the chargeback system, leaving sellers to absorb the loss. When every transaction mandates a mediator, the mediator accumulates outsized power, and the cost is ultimately borne by both parties.</p>
+<p>Satoshi Nakamoto proposed a peer-to-peer electronic payment system grounded in cryptographic proof rather than trust. In Bitcoin, once a transaction is made it cannot be undone; refunds are handled not by canceling the original transaction but by the seller sending a new payment back to the buyer — exactly as cash works. Where mediation is genuinely needed, such as shipped goods, an escrow mechanism can be layered on optionally, but the default is direct party-to-party settlement. For this system to function, the double-spend problem must be solved, and Bitcoin addresses it through a distributed timestamp server.</p>
+</div></article>
+        <article class="card lang-panel active" data-lang="ko"><div class="digest">
+<h2>서론 — 직관적 이해</h2>
+<h3>Chapter Digest</h3>
+<p>온라인 거래는 지금까지 신뢰받는 제3자(TTP)인 금융기관에 전적으로 의존해 왔다. 거래를 취소할 수 없다면 판매자가 구매자에게 사기를 칠 수 있고, 거래를 취소할 수 있다면 반대로 구매자가 판매자에게 사기를 칠 수 있다. 이 딜레마를 해결하기 위해 카드사나 플랫폼 같은 중재자가 개입하게 되었는데, 이는 중재 수수료, 과도한 개인정보 요구, 소액 거래 제한, 정산 지연이라는 네 가지 구조적 비용을 발생시킨다.</p>
+<p>붕어빵을 현금으로 사 먹을 때는 이름도, 신용등급도, 연락처도 필요 없다. 그런데 같은 거래를 온라인으로 하는 순간 제3자가 개입하고, 수수료가 붙고, 개인정보를 제출해야 한다. 환불이 불가능한 서비스(미용실 시술 등)마저 결제 취소가 가능해지면서 판매자가 일방적으로 손해를 감수하는 사례도 반복된다. 모든 거래에 중재자가 필수인 현행 구조는 제3자에게 과도한 권력을 부여하고, 그 비용은 궁극적으로 거래 당사자 모두에게 전가된다.</p>
+<p>사토시 나카모토는 이 문제의 해결책으로 암호학적 증명에 기반한 개인 대 개인 전자 결제 시스템을 제안했다. 비트코인에서 거래는 한 번 이루어지면 취소할 수 없으며, 환불은 거래 취소가 아니라 판매자가 구매자에게 다시 송금하는 역방향 거래로 처리된다. 배송이 필요한 거래처럼 중재가 꼭 필요한 경우에는 에스크로를 선택적으로 적용할 수 있지만, 기본 원칙은 당사자 간 직접 거래다. 비트코인에서는 에스크로도 선택적으로 구현할 수 있어서, 온라인 쇼핑처럼 배송이 필요한 거래에서도 구매자를 보호할 수 있다. 다만 기존 시스템처럼 모든 거래에 에스크로를 강제하지 않으며, 필요할 때만 적용한다. 이 시스템이 작동하려면 동일한 코인이 두 번 사용되는 이중지불 문제를 해결해야 하며, 비트코인은 이를 분산 타임스탬프 서버를 통해 풀었다.</p>
+</div></article>
+      </section>
+      <section class="card quiz-card">
+        <div class="quiz-panel" data-lang="en">
+          <h2>Quiz</h2>
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: The mandatory mediation by trusted third parties in online payments — The chapter identifies the mandatory involvement of trusted third parties in every online transaction as the root problem — generating fees, demanding excessive personal data, blocking micropayments, and delaying settlement."
+     data-wrong-text="Answer: The mandatory mediation by trusted third parties in online payments — The chapter identifies the mandatory involvement of trusted third parties in every online transaction as the root problem — generating fees, demanding excessive personal data, blocking micropayments, and delaying settlement.">
+  <h3>What structural problem does Bitcoin&#x27;s peer-to-peer design primarily solve?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">The slow speed of international wire transfers between banks</button><button class="quiz-option" data-option-index="1">The inability of cash to function in a digital environment</button><button class="quiz-option" data-option-index="2">The mandatory mediation by trusted third parties in online payments</button><button class="quiz-option" data-option-index="3">The lack of encryption standards in traditional banking networks</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+        <div class="quiz-panel active" data-lang="ko">
+          <h2>퀴즈</h2>
+          <div class="quiz-box" data-answer-index="2"
+     data-correct-text="Answer: 온라인 결제에서 신뢰받는 제3자의 강제적 중재 개입 — 모든 온라인 거래에 신뢰받는 제3자가 강제로 개입하는 것이 근본 문제이며, 이로 인해 수수료, 과도한 개인정보 요구, 소액 거래 불가, 정산 지연이 발생한다."
+     data-wrong-text="Answer: 온라인 결제에서 신뢰받는 제3자의 강제적 중재 개입 — 모든 온라인 거래에 신뢰받는 제3자가 강제로 개입하는 것이 근본 문제이며, 이로 인해 수수료, 과도한 개인정보 요구, 소액 거래 불가, 정산 지연이 발생한다.">
+  <h3>비트코인의 개인 대 개인 설계가 근본적으로 해결하는 구조적 문제는?</h3>
+  <div class="quiz-options">
+    <button class="quiz-option" data-option-index="0">은행 간 국제 송금이 느린 속도 문제</button><button class="quiz-option" data-option-index="1">현금이 디지털 환경에서 작동하지 못하는 한계</button><button class="quiz-option" data-option-index="2">온라인 결제에서 신뢰받는 제3자의 강제적 중재 개입</button><button class="quiz-option" data-option-index="3">기존 금융 네트워크의 암호화 표준 부재 문제</button>
+  </div>
+  <div class="quiz-result" hidden></div>
+</div>
+        </div>
+      </section>
+      <nav class="chapter-pagination"><a class="chapter-nav-link next" href="./02-서론-심화.html">서론 — 심층적 이해 →</a></nav>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".lang-btn");
+      const panels = document.querySelectorAll(".lang-panel");
+      const quizPanels = document.querySelectorAll(".quiz-panel");
+      buttons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const lang = btn.dataset.lang;
+          buttons.forEach((b) => b.classList.toggle("active", b === btn));
+          panels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+          quizPanels.forEach((p) => p.classList.toggle("active", p.dataset.lang === lang));
+        });
+      });
+      document.querySelectorAll(".quiz-option").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const parent = btn.closest(".quiz-box");
+          const answer = Number(parent.dataset.answerIndex);
+          const idx = Number(btn.dataset.optionIndex);
+          const result = parent.querySelector(".quiz-result");
+          parent.querySelectorAll(".quiz-option").forEach((node) => {
+            node.classList.remove("correct", "wrong");
+          });
+          if (idx === answer) {
+            btn.classList.add("correct");
+            result.textContent = parent.dataset.correctText;
+          } else {
+            btn.classList.add("wrong");
+            parent.querySelector(`[data-option-index="${answer}"]`).classList.add("correct");
+            result.textContent = parent.dataset.wrongText;
+          }
+          result.hidden = false;
+        });
+      });
+    </script>
+  </body>
+</html>
