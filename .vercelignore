@@ -10,3 +10,15 @@ memory/
 screenshot/
 books/*/translated_epub/
 btc-book.png
+# Non-public books (copyright)
+library-site/books/21-lessons/
+library-site/books/bitcoin-diploma/
+library-site/books/bitcoin-for-everyone/
+library-site/books/bitcoin-handbook/
+library-site/books/bitcoin-user-guide/
+library-site/books/blind-robbery/
+library-site/books/layered-money/
+library-site/books/the-bitcoin-standard/
+library-site/books/the-blocksize-war/
+library-site/books/the-bullish-case-for-bitcoin/
+library-site/books/the-fiat-standard/

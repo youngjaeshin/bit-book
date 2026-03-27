@@ -5,6 +5,7 @@ Build an ordered bitcoin bookshelf site with cover-driven navigation.
 
 from __future__ import annotations
 
+import argparse
 import html
 import json
 import posixpath
@@ -121,6 +122,7 @@ CURATED_BOOKS = [
         "title": "비트코인 백서 해설",
         "original_title": "Bitcoin Whitepaper Guide",
         "source_note": "한국어 EPUB만 확보됨",
+        "public": True,
         "files": [
             {"kind": "ko", "format": "EPUB", "filename": "09. 비트코인 백서 해설.epub"},
         ],
@@ -764,4 +766,12 @@ def build() -> None:
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--public-only", action="store_true", help="Only build books marked public=True")
+    args = parser.parse_args()
+    if args.public_only:
+        original = CURATED_BOOKS[:]
+        CURATED_BOOKS[:] = [b for b in CURATED_BOOKS if b.get("public", False)]
     build()
+    if args.public_only:
+        CURATED_BOOKS[:] = original
